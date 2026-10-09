@@ -1,0 +1,17 @@
+{
+ "parent_child": [],
+ "duplicates": [],
+ "succession_vs_biology": [],
+ "provenance": [],
+ "promotion": [],
+ "graphic": [],
+ "counts": {
+  "persons": 31,
+  "claims": 166,
+  "edges": 33,
+  "conflicts": 21,
+  "open_items": 5,
+  "name_checks": 14,
+  "rejected": 12
+ }
+}

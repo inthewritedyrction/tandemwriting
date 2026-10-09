@@ -1,0 +1,531 @@
+{
+ "pages_dom": 268,
+ "pages_pdf": 268,
+ "page_size": "612 x 792 pts (letter)",
+ "layout_issues": [],
+ "flags": [
+  {
+   "page": 91,
+   "type": "spread-filler",
+   "sec": "IV.10W"
+  },
+  {
+   "page": 105,
+   "type": "spread-filler",
+   "sec": "IV.11R"
+  }
+ ],
+ "footer_two_row_pages": [
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95,
+  96,
+  97,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109,
+  110,
+  111,
+  112,
+  113,
+  114,
+  115,
+  116,
+  117,
+  118,
+  119,
+  120,
+  121,
+  122,
+  123,
+  124,
+  125,
+  126,
+  127,
+  128,
+  129,
+  130,
+  131,
+  132,
+  133,
+  134,
+  135,
+  136,
+  137,
+  138,
+  139,
+  140,
+  141,
+  142,
+  143,
+  144,
+  145,
+  146,
+  147,
+  148,
+  193,
+  194,
+  195,
+  196,
+  197,
+  198,
+  199,
+  200,
+  201,
+  202,
+  203,
+  204,
+  205,
+  206,
+  207,
+  208,
+  209,
+  210,
+  211,
+  212,
+  213,
+  214,
+  215
+ ],
+ "section_pages": {
+  "TITLE": 1,
+  "ABOUT": 2,
+  "TOC": 2,
+  "PART-I": 1,
+  "I.1": 3,
+  "I.2": 2,
+  "I.3": 3,
+  "I.4": 3,
+  "I.5": 3,
+  "I.6": 3,
+  "I.7": 2,
+  "PART-II": 1,
+  "II.2": 2,
+  "II.4": 3,
+  "II.5": 3,
+  "II.6": 2,
+  "II.13": 5,
+  "II.14": 3,
+  "II.15": 2,
+  "II.16": 2,
+  "PART-IV": 2,
+  "IV.1": 3,
+  "IV.2": 3,
+  "IV.3": 5,
+  "IV.4": 3,
+  "IV.5": 4,
+  "IV.6": 3,
+  "IV.7": 5,
+  "IV.8": 3,
+  "IV.9": 3,
+  "IV.10": 4,
+  "IV.10W": 11,
+  "IV.11": 4,
+  "IV.11R": 48,
+  "IV.12": 3,
+  "IV.13": 4,
+  "IV.14": 3,
+  "IV.15": 3,
+  "IV.16": 3,
+  "IV.17": 3,
+  "IV.18": 4,
+  "IV.19": 3,
+  "IV.20": 3,
+  "IV.21": 2,
+  "IV.22": 3,
+  "IV.23": 3,
+  "IV.24": 3,
+  "IV.25": 3,
+  "IV.25W": 23,
+  "CR": 7,
+  "APP-A": 28,
+  "APP-B": 9,
+  "APP-C": 7,
+  "APP-E": 2
+ },
+ "units_checked": 2558,
+ "missing_dom": [],
+ "missing_pdf": [],
+ "design_notes": [
+  [
+   "II.2#designnote",
+   " (Design note: render as an abstract relative-position diagram. No invented cartography.)"
+  ],
+  [
+   "II.16#designnote",
+   "(Design note: macro timeline with four stacked bands per book; the 3SL-to-FTE/ADST interval labeled \"about two years\"; ADST T0 marked on the ADST climax band.)"
+  ]
+ ],
+ "marker_counts_source": {
+  "CANON": 113,
+  "CURRENT DRAFTED TEXT": 71,
+  "SUPPORTED": 46,
+  "POSSIBLE": 14,
+  "OPEN": 86,
+  "CONFLICT": 20,
+  "RESEARCH": 2,
+  "LEGACY": 4
+ },
+ "corrections": [
+  {
+   "id": "A-2026-10-09-IV2",
+   "section": "IV.2",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "A-2026-10-09-IV3",
+   "section": "IV.3",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV-source-note",
+   "section": "Part IV",
+   "replacement_printed": true,
+   "old_text_absent": null
+  },
+  {
+   "id": "S-IV11-lucia-death",
+   "section": "IV.11",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV11-eyes",
+   "section": "IV.11",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV11-succession",
+   "section": "IV.11",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV11-source",
+   "section": "IV.11",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV12-publicity",
+   "section": "IV.12",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV12-audit-sentence",
+   "section": "IV.12",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV12-source",
+   "section": "IV.12",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV22-somnoria",
+   "section": "IV.22",
+   "replacement_printed": true,
+   "old_text_absent": true
+  },
+  {
+   "id": "P-IV22-source",
+   "section": "IV.22",
+   "replacement_printed": true,
+   "old_text_absent": true
+  }
+ ],
+ "fixes": {
+  "failure_beat_prompt": true,
+  "old_rewrite_prompt_absent": true,
+  "five_layers_prompt": true,
+  "four_lanes_absent": true,
+  "no_stage3_placeholders": true,
+  "zephyr_registration_conflict": true,
+  "iv2_seventeen_not_on_tcds": true
+ },
+ "lineage": {
+  "data_checks": {
+   "parent_child": [],
+   "duplicates": [],
+   "succession_vs_biology": [],
+   "provenance": [],
+   "promotion": [],
+   "graphic": [],
+   "counts": {
+    "persons": 31,
+    "claims": 166,
+    "edges": 33,
+    "conflicts": 21,
+    "open_items": 5,
+    "name_checks": 14,
+    "rejected": 12
+   }
+  },
+  "record_claims_missing": [],
+  "node_ids_missing": []
+ },
+ "writing": {
+  "areas": 369,
+  "by_kind": {
+   "notes": 11,
+   "TD": 275,
+   "wr": 14,
+   "wcell": 3,
+   "wb": 66
+  },
+  "lines_total": 1609,
+  "below_min": [],
+  "smallest_prompt_lines": 5,
+  "working_section_lines": 897,
+  "working_section_pages": {
+   "IV.10W": 11,
+   "IV.11R": 48,
+   "IV.25W": 23
+  }
+ },
+ "refs": {
+  "page_refs_checked": 276,
+  "page_refs_wrong": [],
+  "outside_volume": {
+   "Part V": 1,
+   "V.16": 1,
+   "III.19": 2,
+   "V.17": 2,
+   "VI.13": 2,
+   "III.8": 2,
+   "VI.2": 1,
+   "III.7": 1,
+   "V.4": 1,
+   "VI.3": 2
+  },
+  "resolved_chips": 147
+ },
+ "claims": [
+  {
+   "page": 47,
+   "section": "II.16",
+   "claim": "The Nightmare organization's attempted Network rupture; the first established Convergence threshold, T0 (TCD-056, TCD-060)",
+   "rulings": [
+    {
+     "id": "TCD-056",
+     "topic": "Present Convergence causal threshold",
+     "ruling": "E staged threshold: long-term degradation, alteration, isolation, and strain of post-Divide architecture precede the present process. By the FTE/ADST window localized Convergence is latent. Late ADST’s Reverie/Cassius/Prism/Dream Network interaction is the first established threshold shifting largely independent local instabilities toward responsive cross-system instability; ancient Nightmare Awareness is an indicator/consequence, not its origin. Late FTE is a major Remnian manifestation, not yet an equal proven trigger. TSWK/next Shadowmere unfold after this threshold. Not every local anomaly is Convergence."
+    },
+    {
+     "id": "TCD-060",
+     "topic": "Nightmare organization’s ADST Book One operation",
+     "ruling": "E A+C hybrid: the criminal organization uses Thorne’s completed research, a rare celestial alignment, and a living conduit/anchor configuration to deliberately rupture the Dream Network. The rupture is a means to force a usable channel or critical weakness in Somnoria’s older boundary architecture toward the ancient entity, not the end goal. Reverie is targeted for her conduit nature; Cassius and the fragment can become important without the organization foreseeing a fixed trio. Reverie/Cassius stop the intended Network rupture/boundary breach. The Network survives sufficiently to function; ancient Nightmare gains no usable channel. Its later Awareness is an unintended result of the protagonists’ successful intervention and the fragment response."
+    }
+   ]
+  },
+  {
+   "page": 188,
+   "section": "IV.24",
+   "claim": "Katherine's magic. Frost-dominant until the climax. Fire comes only when her Frost configuration catastrophically fails, and never from stress, heat, grief, or Melena. She's not Zephyr's kind of Dyad, whatever the Sanctum calls her. Heart's Mirror can foreshadow; she walks out of it Frost-dominant, and nothing inside it is proof of her past. (TCD-049, TCD-058; author ruling, 2026-09-26)",
+   "rulings": [
+    {
+     "id": "TCD-049",
+     "topic": "Katherine’s Fire/Frost magical anatomy",
+     "ruling": "Katherine is not objectively the same Fire/Frost Dyad as Zephyr. Her manifestation is ancestral reversion or resurfacing of a less-specialized earlier Remnian elemental inheritance. She genuinely possesses both Frost and Fire; Fire is not borrowed, temporary, or merely a reaction to Melena. The Sanctum likely labels her a Dyad because current taxonomy lacks a better category, but that diagnosis is incomplete or wrong. Zephyr remains a genuine modern Fire/Frost Dyad."
+    },
+    {
+     "id": "TCD-058",
+     "topic": "Katherine’s Frost-dominant Fire emergence",
+     "ruling": "E refined C: Katherine’s one less-specialized ancestral elemental capacity naturally organized itself around a dominant Frost expression from childhood, reinforced by modern Frost training. Fire is a genuine alternative expression of the same capacity, not a separate ordinary Dyad channel, borrowed ability, or established magically sealed second element. Ordinary stress/Fire exposure does not activate it. In FTE’s climax catastrophic severance or unavailability of her established Frost configuration lets the older capacity reroute through what modern Remnia calls Fire. Deliberate magical suppression is not currently established; unusual readings or institutional suspicion are possible but open."
+    }
+   ]
+  },
+  {
+   "page": 35,
+   "section": "II.6",
+   "claim": "House Aether heir; his Labyrinth scar regulates bond synchronization. CANON TCD-030",
+   "rulings": [
+    {
+     "id": "TCD-030",
+     "topic": "Reverie/Cassius bond mechanics and cost",
+     "ruling": "Retire physical withdrawal. Touch is safe, and separation does not make either partner sick. Passive awareness, sensory spillover, emotion, pain, or magical recognition may cross distance without creating dependency. The known major danger begins when their powers actively synchronize, merge, overlap, or channel through one another; Cassius’s Labyrinth scar tries to regulate both power sources and tears, spreads, or deteriorates."
+    }
+   ]
+  },
+  {
+   "page": 77,
+   "section": "IV.8",
+   "claim": "Katherine Nicholas is this Tournament's Conqueror. CANON TCD-034. Atlas and Tiran's confrontation is officially a draw by intervention; Katherine and Melena produce the decisive sequence.",
+   "rulings": [
+    {
+     "id": "TCD-034",
+     "topic": "Tournament purpose, Conqueror rules, and current winner",
+     "ruling": "Both functions are canon. Publicly, the Conqueror—the surviving Piece whose decisive sanctioned action earns victory—holds the winning province’s Provincial Leadership Board seat for the next year. Conqueror is not automatically the King or any fixed rank. Privately, the Sanctum uses selection, assignments, challenges, stress, injuries, alliances, and survival to classify, cultivate, control, exploit, monitor, suppress, or eliminate dangerous people. Under a forfeit, Conqueror is the surviving Piece whose final sanctioned action or matchup directly produces the decisive state causing the forfeit. Atlas and Tiran’s confrontation is officially a draw by intervention; Katherine and Melena produce the decisive sequence. Katherine Nicholas is the current Tournament’s Conqueror."
+    }
+   ]
+  },
+  {
+   "page": 29,
+   "section": "II.4",
+   "claim": "There's no universal answer to \"do people know about the other lands?\" Awareness varies by nation, class, institution, profession, network, person, and time. CANON TCD-016. A smuggler, a Sanctum archivist, and a miner's kid in the same land can hold three different pictures, and all three can change between chapter 5 and chapter 25.",
+   "rulings": [
+    {
+     "id": "TCD-016",
+     "topic": "Knowledge of the other lands",
+     "ruling": "Awareness varies by nation, class, institution, profession, network, person, and time. Existence, location, functional, route, historical, and true Tandem knowledge are distinct levels and cannot be inferred from one another."
+    }
+   ]
+  },
+  {
+   "page": 47,
+   "section": "II.16",
+   "claim": "Remy's death and Melena's catastrophic Fire; Tiran's cleanup follows (TCD-002, TCD-063)",
+   "rulings": [
+    {
+     "id": "TCD-002",
+     "topic": "3SL authority beyond drafted ch. 22",
+     "ruling": "Manuscript controls drafted events. Remy’s death and Tiran’s cleanup remain fixed; all other outline beats are provisional."
+    },
+    {
+     "id": "TCD-063",
+     "topic": "Remy’s objective death mechanism and Melena’s guilt",
+     "ruling": "A clarified: the gang leader mortally wounds Remy as he deliberately intervenes to protect/rescue Melena. Melena’s escalating uncontrolled Fire helps create the dangerous confrontation, but neither her Fire nor the later warehouse collapse is the objective lethal mechanism. After the wound, Melena attempts to save him but cannot stop catastrophic bleeding; his death then drives her Fire into full loss of control and the blaze/collapse. She feels causally responsible even though the gang leader physically kills him. The Beta’s machete/major-artery details are compatible candidates, not canon over the future 3SL scene."
+    }
+   ]
+  },
+  {
+   "page": 51,
+   "section": "IV.1",
+   "claim": "The Beta is the book. CANON TCD-001. Everything outside it, including the two newest development files, has to be rewritten into the Beta's generation before it becomes canon. That rule does real work in FTE, because the development chapters are good, specific, and in places flatly contradict rulings made after they were written.",
+   "rulings": [
+    {
+     "id": "TCD-001",
+     "topic": "Controlling FTE manuscript generation",
+     "ruling": "Beta is the controlling prose generation. Chapters 31–39 are usable new-development material, but all content outside the Beta must be rewritten/integrated before it becomes canon."
+    }
+   ]
+  },
+  {
+   "page": 32,
+   "section": "II.5",
+   "claim": "Thanomancy, Lamentcraft, Silencecraft, Underchant Cant, Funereal Engineering, Mycelial Memory (SUPPORTED / PROVISIONAL, 3SL Full Worldbuilding). On-page: Silencecraft and Silence seals, Quietcasters, Shrouds, funeral and grief thread, Hush, Underchant markings (CURRENT DRAFTED TEXT, 3SL chs. 1–12). Graveshand is inherited Graves-family magic outside the Six Disciplines. CANON TCD-004",
+   "rulings": [
+    {
+     "id": "TCD-004",
+     "topic": "Graveshand/Deathwork classification",
+     "ruling": "Graveshand is inherited Graves-family magic outside the formal Six Disciplines. Deathwork is the broader category of ending-magic/effects that Graveshand can perceive, manipulate, sever, redirect, or create."
+    }
+   ]
+  },
+  {
+   "page": 60,
+   "section": "IV.3",
+   "claim": "Welcome to Remnia: King William and Queen Dalia Augustine. Character Bible: Crown Princess Dalia and Prince Consort David Augustine. FTE 31–39: Dalia is \"the Queen of London Town.\" All three are Supporting. TCD-041's direct Crown control of London Town is canon, so whatever the Augustines are, they rule under it.",
+   "rulings": [
+    {
+     "id": "TCD-041",
+     "topic": "Remnian power structure",
+     "ruling": "Remnia is a centralized empire with overlapping centers of authority. The Crown is the highest public civil and dynastic authority and directly controls London Town and imperial affairs. Provincial Leaders administer territories within the Empire; titles and structures may vary. The Provincial Leadership Board provides formal representation and can be altered by a Conqueror’s one-year seat. The Elemental Court is a separate political-magical bloc influencing multiple provinces and elemental policy but not London Town. The Sanctum is semi-autonomous in magical regulation, bloodlines, Tournament law, doctrine, security, and historical control, but is neither simply subordinate to the Crown nor legally omnipotent over it."
+    }
+   ]
+  },
+  {
+   "page": 81,
+   "section": "IV.9",
+   "claim": "The pattern is consistent: she protects first and calculates second, and she'll protect the enemy. That matters because the ruling requires Katherine to save or stabilize Melena \"because of her own moral arc, not only sisterhood\" (TCD-050). The Beta has already built that arc; the endgame only has to keep faith with it.",
+   "rulings": [
+    {
+     "id": "TCD-050",
+     "topic": "Katherine–Melena sister-reveal architecture",
+     "ruling": "The reveal proceeds through investigation, confrontation, verification, and personal confirmation. Melena begins finding inconsistencies before Challenge Six because 3SL destroyed her trust in official history. Before the Duel she has enough evidence to suspect Katherine is biologically connected to the Lockwoods/Tobias, not enough to prove it. Their climax confrontation provides magical, behavioral, and inherited recognition that reinforces suspicion but does not establish paternity. Melena directly tells/confronts Katherine. Authenticated lineage, birth, or Sanctum evidence then proves Tobias’s paternity; Michelle’s later testimony supplies the human history and concealment. Katherine saves or stabilizes Melena because of her own moral arc, not only sisterhood."
+    }
+   ]
+  },
+  {
+   "page": 69,
+   "section": "IV.6",
+   "claim": "The Empress's letter calls the Tournament \"survival distilled into six challenges.\" TCD-007 makes the design seven, with the Sixth ending this one. The letter's wording needs revising to fit the ruling. It doesn't compete with it.",
+   "rulings": [
+    {
+     "id": "TCD-007",
+     "topic": "FTE challenge count",
+     "ruling": "The Tournament is structured around seven Challenges, but reaching Challenge Seven is not guaranteed. Attrition, Checkmate, disqualification, intervention, or another decisive outcome may end it early. In current FTE, the Sanctum declares Challenge Six decisive and terminates the Tournament."
+    }
+   ]
+  },
+  {
+   "page": 155,
+   "section": "IV.13",
+   "claim": "The Challenges FTE Year has Melena realize the sisterhood mid-fight from a magical reaction. One reaction can't carry the reveal (TCD-050). Recognition in the Duel reinforces what she already suspects.",
+   "rulings": [
+    {
+     "id": "TCD-050",
+     "topic": "Katherine–Melena sister-reveal architecture",
+     "ruling": "The reveal proceeds through investigation, confrontation, verification, and personal confirmation. Melena begins finding inconsistencies before Challenge Six because 3SL destroyed her trust in official history. Before the Duel she has enough evidence to suspect Katherine is biologically connected to the Lockwoods/Tobias, not enough to prove it. Their climax confrontation provides magical, behavioral, and inherited recognition that reinforces suspicion but does not establish paternity. Melena directly tells/confronts Katherine. Authenticated lineage, birth, or Sanctum evidence then proves Tobias’s paternity; Michelle’s later testimony supplies the human history and concealment. Katherine saves or stabilizes Melena because of her own moral arc, not only sisterhood."
+    }
+   ]
+  },
+  {
+   "page": 188,
+   "section": "IV.24",
+   "claim": "Katherine's reason. She saves or stabilizes Melena from her own moral arc, not only because they're sisters. (TCD-050)",
+   "rulings": [
+    {
+     "id": "TCD-050",
+     "topic": "Katherine–Melena sister-reveal architecture",
+     "ruling": "The reveal proceeds through investigation, confrontation, verification, and personal confirmation. Melena begins finding inconsistencies before Challenge Six because 3SL destroyed her trust in official history. Before the Duel she has enough evidence to suspect Katherine is biologically connected to the Lockwoods/Tobias, not enough to prove it. Their climax confrontation provides magical, behavioral, and inherited recognition that reinforces suspicion but does not establish paternity. Melena directly tells/confronts Katherine. Authenticated lineage, birth, or Sanctum evidence then proves Tobias’s paternity; Michelle’s later testimony supplies the human history and concealment. Katherine saves or stabilizes Melena because of her own moral arc, not only sisterhood."
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "section": "I.5",
+   "claim": "Melena enters the Challenge Six Duel with substantial suspicion about Katherine and no proof (TCD-050).",
+   "rulings": [
+    {
+     "id": "TCD-050",
+     "topic": "Katherine–Melena sister-reveal architecture",
+     "ruling": "The reveal proceeds through investigation, confrontation, verification, and personal confirmation. Melena begins finding inconsistencies before Challenge Six because 3SL destroyed her trust in official history. Before the Duel she has enough evidence to suspect Katherine is biologically connected to the Lockwoods/Tobias, not enough to prove it. Their climax confrontation provides magical, behavioral, and inherited recognition that reinforces suspicion but does not establish paternity. Melena directly tells/confronts Katherine. Authenticated lineage, birth, or Sanctum evidence then proves Tobias’s paternity; Michelle’s later testimony supplies the human history and concealment. Katherine saves or stabilizes Melena because of her own moral arc, not only sisterhood."
+    }
+   ]
+  },
+  {
+   "page": 188,
+   "section": "IV.24",
+   "claim": "The reveal. Melena suspects before the Duel, from her own investigation. The Duel confirms nothing. Records prove it; Michelle explains it. (TCD-050)",
+   "rulings": [
+    {
+     "id": "TCD-050",
+     "topic": "Katherine–Melena sister-reveal architecture",
+     "ruling": "The reveal proceeds through investigation, confrontation, verification, and personal confirmation. Melena begins finding inconsistencies before Challenge Six because 3SL destroyed her trust in official history. Before the Duel she has enough evidence to suspect Katherine is biologically connected to the Lockwoods/Tobias, not enough to prove it. Their climax confrontation provides magical, behavioral, and inherited recognition that reinforces suspicion but does not establish paternity. Melena directly tells/confronts Katherine. Authenticated lineage, birth, or Sanctum evidence then proves Tobias’s paternity; Michelle’s later testimony supplies the human history and concealment. Katherine saves or stabilizes Melena because of her own moral arc, not only sisterhood."
+    }
+   ]
+  }
+ ],
+ "fonts": [
+  "AtkinsonHyperlegible-Bold",
+  "AtkinsonHyperlegible-BoldItalic",
+  "AtkinsonHyperlegible-Italic",
+  "AtkinsonHyperlegible-Regular",
+  "BarlowCondensed-Bold",
+  "BarlowCondensed-Medium",
+  "BarlowCondensed-SemiBold",
+  "JetBrainsMono-Regular",
+  "JetBrainsMono-SemiBold"
+ ],
+ "font_types": [
+  "CID TrueType"
+ ],
+ "empty_text_pages": [],
+ "pdf_words": 59073
+}

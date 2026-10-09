@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>C1 Part II divider</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&amp;family=Barlow+Condensed:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap">
+<style>
+body{margin:0;background:#fff}
+a{color:#1a1a1a}a:hover{color:#000}
+.pg{width:816px;height:1056px;box-sizing:border-box;position:relative;background:#fff;color:#1a1a1a;font-family:'Atkinson Hyperlegible',Verdana,sans-serif;font-size:16px;line-height:1.5;overflow:hidden}
+.route{position:absolute;left:72px;right:72px;top:30px;display:grid;grid-template-columns:repeat(6,minmax(0,1fr))}
+.stn{position:relative;display:flex;flex-direction:column;gap:5px;font-family:'JetBrains Mono',monospace;font-size:12px;color:#555;line-height:1.2}
+.stn:before{content:'';position:absolute;top:6px;left:0;right:0;border-top:2px solid #1a1a1a}
+.stn i{position:relative;width:14px;height:14px;border-radius:50%;border:2px solid #1a1a1a;background:#fff;box-sizing:border-box;display:block}
+.stn.on{color:#1a1a1a;font-weight:600}
+.btab{position:absolute;bottom:0;width:96px;height:10px}
+.ft{position:absolute;left:72px;right:72px;bottom:30px;display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;font-size:12px;border-top:2px solid #1a1a1a;padding-top:6px}
+.lg{position:relative;border:2px solid #1a1a1a;padding:16px 12px 10px}
+.lg > .lt{position:absolute;top:-9px;left:10px;background:#fff;padding:0 6px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.08em;line-height:1.3}
+.gt{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:21px;line-height:1.2}
+.sr{display:grid;grid-template-columns:28px 58px minmax(0,1fr) auto;align-items:center;column-gap:8px;height:31px;position:relative}
+.sr .nd{width:12px;height:12px;border-radius:50%;border:2px solid #1a1a1a;background:#fff;box-sizing:border-box;justify-self:center;position:relative;z-index:1}
+.sr .cd{font-family:'JetBrains Mono',monospace;font-size:12.5px;font-weight:600}
+.sr .ti{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:20px;line-height:1.1;border-bottom:1px dotted #8a8a8a;padding-bottom:2px}
+.chip{display:inline-block;border:1.5px solid #1a1a1a;padding:1px 7px;font-family:'JetBrains Mono',monospace;font-size:12px;white-space:nowrap}
+</style>
+</helmet>
+<div class="pg">
+  <div class="route">
+    <div class="stn on"><i style="background:#2B2B2B;border-color:#2B2B2B;width:16px;height:16px;margin-top:-1px"></i>SPINE</div>
+    <div class="stn"><i></i>3SL</div>
+    <div class="stn"><i></i>FTE</div>
+    <div class="stn"><i></i>ADST</div>
+    <div class="stn"><i></i>TSWK</div>
+    <div class="stn"><i></i>CONTINUITY</div>
+  </div>
+  <div class="btab" style="left:72px;background:#2B2B2B"></div>
+
+  <div style="position:absolute;left:72px;top:92px;width:672px">
+    <div style="display:grid;grid-template-columns:auto minmax(0,1fr);column-gap:22px;align-items:end;border-bottom:3px solid #1a1a1a;padding-bottom:12px">
+      <div style="font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:150px;line-height:.78">II</div>
+      <div><div style="font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.1em">PART II · LEVEL B — PRINTS</div><h1 style="font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:54px;line-height:.98;text-transform:uppercase;margin:6px 0 0">The Shared Tandem Spine</h1></div>
+    </div>
+    <p style="margin:14px 0 0;font-size:17px;line-height:1.45;color:#222">What holds across all four books before any single story is treated. Almost all of Part II can be authored now from rulings alone; its open slots are mostly cartographic and deep-historical.</p>
+
+    <div style="position:relative;margin-top:16px">
+      <div style="position:absolute;left:13px;top:15px;bottom:15px;border-left:3px solid #2B2B2B"></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.1</span><span class="ti">One Physical World</span><span class="chip">EXPLAINER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.2</span><span class="ti">Macro Geography</span><span class="chip">SCHEMATIC</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.3</span><span class="ti">Routes and Cross-Land Transit</span><span class="chip">EXPLAINER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.4</span><span class="ti">Knowledge of the Other Lands</span><span class="chip">EXPLAINER · LADDER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.5</span><span class="ti">Shared Magical Ancestry</span><span class="chip">DIAGRAM · TABLE</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.6</span><span class="ti">Crossblood: A Label, Not a Biology</span><span class="chip">EXPLAINER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.7</span><span class="ti">The Divide</span><span class="chip">EXPLAINER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.8</span><span class="ti">The Drowning and the First Seal</span><span class="chip">COMPARISON</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.9</span><span class="ti">Boundary Architecture</span><span class="chip">SYSTEMS DIAGRAM</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.10</span><span class="ti">The Oneiros Prism</span><span class="chip">TRUTH VS BELIEF</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.11</span><span class="ti">The Leviathan</span><span class="chip">ENTITY DOSSIER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.12</span><span class="ti">Convergence</span><span class="chip">STATE LADDER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.13</span><span class="ti">The Shattered Veil and Its Descendants</span><span class="chip">EXPLAINER</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.14</span><span class="ti">The Elders’ Prayer</span><span class="chip">EXPLAINER · CAN/CANNOT</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.15</span><span class="ti">Recurring Institutional Misreadings</span><span class="chip">TRUTH VS BELIEF</span></div>
+      <div class="sr"><span class="nd"></span><span class="cd">II.16</span><span class="ti">Shared Chronology</span><span class="chip">TIMELINE</span></div>
+    </div>
+
+    <div class="lg" style="margin-top:20px"><span class="lt">GUARDRAIL</span><div class="gt">No symmetry assumed across the four lands.</div></div>
+  </div>
+
+  <div class="ft"><span>SPINE › PART II</span><span>II / 0</span></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":816,"height":1056}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,89 @@
+{
+ "note": "Explicit author corrections and logged status/provenance corrections applied to the locked Content Master copy before layout. Each entry quotes the exact Content Master text it replaces. Nothing else in the copy is changed. IDs: A- = author correction; S- = status correction; P- = provenance correction (Build 2 lineage reconstruction).",
+ "corrections": [
+  {
+   "id": "A-2026-10-09-IV2",
+   "ruling": "Author correction, 2026-10-09 (Build 2 instructions). CANON — TCD-025 / TCD-041: Remnia is an empire on its own continental landmass, separated from Somnoria by ocean; the Crown sits at the highest public civil/dynastic level of the Remnian sovereignty structure. CURRENT DRAFTED TEXT — FTE Beta: Remnia has seventeen provinces. Do not attach 'seventeen' to the TCDs; do not use 'centralized' unless the cited source supports it.",
+   "section": "IV.2",
+   "find": "Remnia is a centralized empire of seventeen provinces on its own continental landmass, separated from Somnoria by ocean. \\[C\\] TCD-025, TCD-041. The Beta confirms the count in three places:",
+   "replace": "Remnia is an empire on its own continental landmass, separated from Somnoria by ocean; the Crown sits at the highest public civil/dynastic level of the Remnian sovereignty structure. \\[C\\] TCD-025, TCD-041. The Beta gives it seventeen provinces and confirms the count in three places:"
+  },
+  {
+   "id": "A-2026-10-09-IV3",
+   "ruling": "Author correction, 2026-10-09 (Build 2 instructions). The military structure is CURRENT DRAFTED TEXT, not TCD-041 canon; TCD-041 is the layered sovereignty framework.",
+   "section": "IV.3",
+   "find": "| Military | Its own authority, overlapping with the others \\[C\\] |",
+   "replace": "| Military | Not placed by TCD-041, which rules the layered sovereignty framework. The structure is CURRENT DRAFTED TEXT (next table) |"
+  },
+  {
+   "id": "P-IV-source-note",
+   "ruling": "Provenance correction (Build 2). The Part IV source note lists FTE 2025 FINAL and both FTE Remnian Timelines as absent from the Project; they were supplied on 2026-10-09 with Full 4 Series Flesh Out and are used, claim by claim, in the IV.11 lineage record.",
+   "section": "Part IV",
+   "find": "Where Part IV mentions them, it relies on the audit's record, not the file.",
+   "replace": "Where Part IV mentions them, it relies on the audit's record, not the file. *(Build 2 note, 2026-10-09: FTE 2025 FINAL, both FTE Remnian Timelines, and Full 4 Series Flesh Out have since been supplied. The IV.11 lineage record uses them claim by claim, and IV.11, IV.12, and IV.22 now cite the Before Story Start timeline where they had relied on the audit's record or the unaudited Imperial Lineage.)*"
+  },
+  {
+   "id": "S-IV11-lucia-death",
+   "ruling": "Status correction (Build 2 lineage reconstruction, LC-16). Lucia's cause of death is contested: FTE 31–39 has a car accident; the FTE Remnian Timeline Before Story Start has a 'nighttime medical crisis' at the Imperial Palace on 7 Sept 2094. Two Supporting sources disagree, so the status is CONFLICT, not SUPPORTED.",
+   "section": "IV.11",
+   "find": "| *31–39*: died in a car accident. Beta ch. 8: \"one of the most powerful\" Frosts in the empire; 31–39 calls her a Flamer (revision flag) | Cause of death SUPPORTED |",
+   "replace": "| *31–39*: died in a car accident; *Remnian Timeline Before Story Start*: a \"nighttime medical crisis\" at the Imperial Palace, 7 Sept 2094. Beta ch. 8: \"one of the most powerful\" Frosts in the empire; 31–39 calls her a Flamer (revision flag) | Cause of death \\[X\\] |"
+  },
+  {
+   "id": "P-IV11-eyes",
+   "ruling": "Provenance correction (Build 2). The green-eyes/Hastings and golden-Lockwood-eyes claims are in the audited FTE Remnian Timeline Before Story Start (Supporting by claim); the unaudited Imperial Lineage repeats them.",
+   "section": "IV.11",
+   "find": "The unaudited *Imperial Lineage* says green \"associated with the Hastings lineage\" and gives Elias golden Lockwood eyes.",
+   "replace": "The *Remnian Timeline Before Story Start* says green \"associated with the Hastings lineage\" and gives Elias golden Lockwood eyes; the unaudited *Imperial Lineage* repeats it."
+  },
+  {
+   "id": "P-IV11-succession",
+   "ruling": "Provenance correction (Build 2). Lucia's succession decree is in the FTE Remnian Timeline Before Story Start; the unaudited Imperial Lineage repeats it.",
+   "section": "IV.11",
+   "find": "The unaudited *Imperial Lineage* has Lucia decree at Melena's birth that daughters keep their place ahead of younger brothers.",
+   "replace": "The *Remnian Timeline Before Story Start* (repeated in the unaudited *Imperial Lineage*) has Lucia decree at Melena's birth that daughters keep their place ahead of younger brothers."
+  },
+  {
+   "id": "P-IV11-source",
+   "ruling": "Provenance correction (Build 2). Source line names the files the lineage record uses and their treatment.",
+   "section": "IV.11",
+   "find": "FTE 31–39 chs. 31, 33, 35; The Imperial Lineage (unaudited). Record: Remnian Royal Lineage + Katherine Secrecy/Concealment Architecture.*",
+   "replace": "FTE 31–39 chs. 31, 33, 35; FTE Remnian Timeline Before Story Start; FTE Remnian Timeline Early; FTE 2025 FINAL and Full 4 Series Flesh Out (legacy, corroboration only); The Imperial Lineage (unaudited, comparison only). Record: Remnian Royal Lineage (the working record follows this section) + Katherine Secrecy/Concealment Architecture.*"
+  },
+  {
+   "id": "P-IV12-publicity",
+   "ruling": "Provenance correction (Build 2). The 'highly publicized' framing is in the FTE Remnian Timeline Before Story Start, which is now in the Project; the unaudited Imperial Lineage repeats it. Status unchanged: OPEN (TCD-059).",
+   "section": "IV.12",
+   "find": "> The unaudited *Imperial Lineage* describes a \"highly publicized and controversial birth\" followed by a decree forbidding discussion.",
+   "replace": "> The *Remnian Timeline Before Story Start* describes a \"highly publicized and controversial birth\" followed by a royal decree making any discussion of it treason, and, in 2091, a Sanctum suppression order; the unaudited *Imperial Lineage* repeats the birth and the decree."
+  },
+  {
+   "id": "P-IV12-audit-sentence",
+   "ruling": "Provenance correction (Build 2). The Before Story Start timeline is now in the Project.",
+   "section": "IV.12",
+   "find": " The audit records a public-scandal framing in the Remnian Timeline Before Story Start, which isn't in this Project.",
+   "replace": " The audit flags that file's public-scandal framing as unresolved."
+  },
+  {
+   "id": "P-IV12-source",
+   "ruling": "Provenance correction (Build 2).",
+   "section": "IV.12",
+   "find": "Welcome to Remnia; The Imperial Lineage (unaudited); audit (Remnian Timeline inventory row).*",
+   "replace": "Welcome to Remnia; FTE Remnian Timeline Before Story Start; The Imperial Lineage (unaudited, comparison only); audit (Remnian Timeline inventory row).*"
+  },
+  {
+   "id": "P-IV22-somnoria",
+   "ruling": "Provenance correction (Build 2). The 'Duke of Somnoria' title is in the FTE Remnian Timeline Before Story Start; the unaudited Imperial Lineage repeats it. Status unchanged: OPEN.",
+   "section": "IV.22",
+   "find": "The unaudited *Imperial Lineage* gives the heir apparent the traditional title",
+   "replace": "The *Remnian Timeline Before Story Start* (repeated in the unaudited *Imperial Lineage*) gives the heir apparent the traditional title"
+  },
+  {
+   "id": "P-IV22-source",
+   "ruling": "Provenance correction (Build 2).",
+   "section": "IV.22",
+   "find": "FTE 31–39 ch. 38; Chapter 29.docx; The Imperial Lineage (unaudited). Record: Knowledge of the Other Lands Matrix.*",
+   "replace": "FTE 31–39 ch. 38; Chapter 29.docx; FTE Remnian Timeline Before Story Start; The Imperial Lineage (unaudited). Record: Knowledge of the Other Lands Matrix.*"
+  }
+ ]
+}

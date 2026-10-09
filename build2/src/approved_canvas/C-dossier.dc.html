@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>C4 Silas Graves dossier</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&amp;family=Barlow+Condensed:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap">
+<style>
+body{margin:0;background:#fff}
+a{color:#1a1a1a}a:hover{color:#000}
+.pg{width:816px;height:1056px;box-sizing:border-box;position:relative;background:#fff;color:#1a1a1a;font-family:'Atkinson Hyperlegible',Verdana,sans-serif;font-size:16px;line-height:1.5;overflow:hidden}
+.route{position:absolute;left:72px;right:72px;top:30px;display:grid;grid-template-columns:repeat(6,minmax(0,1fr))}
+.stn{position:relative;display:flex;flex-direction:column;gap:5px;font-family:'JetBrains Mono',monospace;font-size:12px;color:#555;line-height:1.2}
+.stn:before{content:'';position:absolute;top:6px;left:0;right:0;border-top:2px solid #1a1a1a}
+.stn i{position:relative;width:14px;height:14px;border-radius:50%;border:2px solid #1a1a1a;background:#fff;box-sizing:border-box;display:block}
+.stn.on{color:#1a1a1a;font-weight:600}
+.btab{position:absolute;bottom:0;width:96px;height:10px}
+.ft{position:absolute;left:72px;right:72px;bottom:30px;display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;font-size:12px;border-top:2px solid #1a1a1a;padding-top:6px}
+.code{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:60px;line-height:.9}
+.kind{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.06em;font-weight:600}
+h1.t{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:48px;line-height:1;text-transform:uppercase;margin:2px 0 0}
+.deck{font-size:17px;line-height:1.4;margin-top:4px;color:#2a2a2a}
+.sc{display:inline-flex;align-items:center;gap:5px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;line-height:1;white-space:nowrap;vertical-align:1px}
+.sc i{width:11px;height:11px;box-sizing:border-box;border:1.75px solid #1a1a1a;display:inline-block;flex:none}
+.sc.c i{border-radius:50%;background:#1a1a1a}
+.sc.d i{background:#1a1a1a}
+.sc.s i{background:linear-gradient(135deg,#1a1a1a 50%,#fff 50%)}
+.sc.p i{border-radius:50%;border-style:dashed}
+.sc.o i{border-radius:50%}
+.sc.x i{transform:rotate(45deg) scale(.82)}
+.sc.r i{border-radius:0}
+.sc.l{text-decoration:line-through;color:#555}
+.sc.l i{display:none}
+.ln{display:grid;grid-template-columns:96px minmax(0,1fr) 140px;column-gap:14px;border-top:1px solid #1a1a1a;padding:7px 0 8px;align-items:start}
+.ln .g{display:flex;flex-direction:column;gap:6px;padding-top:4px}
+.pv{font-family:'JetBrains Mono',monospace;font-size:12px;line-height:1.45;color:#333;padding-top:3px}
+.lg{position:relative;border:2px solid #1a1a1a;padding:16px 12px 10px}
+.lg > .lt{position:absolute;top:-9px;left:10px;background:#fff;padding:0 6px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.08em;line-height:1.3}
+.gt{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:21px;line-height:1.2}
+.nq{display:grid;grid-template-columns:minmax(0,1fr) 44px minmax(0,1fr);align-items:stretch}
+.nq .bx{border:1.5px solid #1a1a1a;padding:8px 10px;font-size:14.5px;line-height:1.35}
+.nq .tm{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:19px;display:block;line-height:1.15;margin-bottom:2px}
+.neq{width:30px;height:30px;border-radius:50%;border:2px solid #1a1a1a;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:18px;margin:auto;background:#fff}
+.chip{display:inline-block;border:1.5px solid #1a1a1a;padding:2px 7px;font-family:'JetBrains Mono',monospace;font-size:12px;margin:0 4px 4px 0}
+.ph{font-family:'JetBrains Mono',monospace;font-size:12px;color:#666}
+.idg{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:18px;row-gap:5px}
+.idf b{display:block;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;margin-bottom:1px}
+.idf span{font-size:14.5px;line-height:1.35}
+.lane{display:grid;grid-template-columns:118px minmax(0,1fr);border-top:1px solid #1a1a1a;min-height:32px}
+.lane b{font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;padding:6px 0 0}
+.lane div{border-left:1px solid #1a1a1a;padding:5px 10px}
+.sh{font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;margin:0 0 6px}
+.tm2{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:18px}
+</style>
+</helmet>
+<div class="pg">
+  <div class="route">
+    <div class="stn"><i></i>SPINE</div>
+    <div class="stn on"><i style="background:#74399A;border-color:#74399A;width:16px;height:16px;margin-top:-1px"></i>3SL</div>
+    <div class="stn"><i></i>FTE</div>
+    <div class="stn"><i></i>ADST</div>
+    <div class="stn"><i></i>TSWK</div>
+    <div class="stn"><i></i>CONTINUITY</div>
+  </div>
+  <div class="btab" style="left:184px;background:#74399A"></div>
+
+  <div style="position:absolute;left:72px;top:88px;width:672px">
+    <div style="display:grid;grid-template-columns:110px minmax(0,1fr);column-gap:14px;align-items:end;border-bottom:3px solid #1a1a1a;padding-bottom:10px">
+      <div class="code" style="color:#74399A">III.9</div>
+      <div><div class="kind">DOSSIER · PROTAGONIST · PART III · 3 SHADOWMERE LANE / THE UNDERSIDE</div><h1 class="t">Silas Graves</h1></div>
+    </div>
+
+    <div class="lg" style="margin-top:16px;padding-top:14px"><span class="lt">IDENTITY + SOURCE STATUS</span>
+      <div class="idg">
+        <div class="idf"><b>CONTROLS</b><span>3 Shadowmere Lane First Draft(9), 22 chapters</span> <span class="sc d"><i></i>DRAFTED</span></div>
+        <div class="idf"><b>STOP POINT</b><span>Remy alive; transit route unresolved</span> <span class="sc d"><i></i>DRAFTED</span></div>
+        <div class="idf"><b>SUPPORTS</b><span>Character Outlines</span> <span class="sc s"><i></i>SUPPORTED</span></div>
+        <div class="idf"><b>OBLIGATIONS</b><span>Shadowmere operator/enforcer</span> <span class="ph">[Stage 3]</span></div>
+        <div class="idf"><b>CONNECTIONS</b><span>Remy · Rhea · Jude</span> <span class="ph">[Stage 3]</span></div>
+        <div class="idf"><b>MAGIC</b><span>Graveshand</span> <span class="chip" style="margin:0">III.8</span></div>
+      </div>
+    </div>
+
+    <div style="margin-top:12px">
+      <div class="sh">CHARACTER LANES</div>
+      <div class="lane"><b>WANTS</b><div><span class="ph">[Stage 3 · 3SL draft]</span></div></div>
+      <div class="lane"><b>FEARS</b><div><span class="ph">[Stage 3 · 3SL draft]</span></div></div>
+      <div class="lane"><b>BELIEFS</b><div><span class="ph">[Stage 3 · 3SL draft]</span></div></div>
+      <div class="lane" style="border-bottom:1px solid #1a1a1a"><b>KNOWS · WHEN</b><div><span class="ph">[Stage 3 · 3SL draft]</span></div></div>
+    </div>
+
+    <div style="margin-top:12px">
+      <div class="sh">LOAD-BEARING CLAIMS</div>
+      <div class="ln"><div class="g"><span class="sc c"><i></i>CANON</span></div><div><span class="tm2">Graveshand.</span> Inherited Graves-family magic, outside the formal Six Disciplines.</div><div class="pv">TCD-004</div></div>
+      <div class="ln"><div class="g"><span class="sc c"><i></i>CANON</span></div><div><span class="tm2">The tether.</span> The magic Silas created without Isola’s consent.</div><div class="pv">TCD-044<br>→ III.11</div></div>
+      <div class="ln"><div class="g"><span class="sc c"><i></i>CANON</span></div><div><span class="tm2">The Elders’ Prayer.</span> Selah’s performance for Silas and Isola; Silas’s returning breath/pulse as recovery, not resurrection.</div><div class="pv">TCD-023 · 048 · 057<br>→ III.16</div></div>
+      <div class="ln" style="border-bottom:1px solid #1a1a1a"><div class="g"><span class="ph">—</span></div><div><span class="tm2">After Remy’s death.</span> <span class="ph">[Stage 3 · what changes]</span></div><div class="pv">→ III.15</div></div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:230px minmax(0,1fr);gap:16px;margin-top:18px">
+      <div class="lg"><span class="lt">GUARDRAIL</span><div class="gt">The tether is never evidence of romance or consent.</div></div>
+      <div class="lg" style="padding-top:14px"><span class="lt">NOT THE SAME AS</span>
+        <div class="nq">
+          <div class="bx"><span class="tm">Graveshand</span>Inherited Graves-family magic, outside the formal Six Disciplines</div>
+          <div class="neq">≠</div>
+          <div class="bx"><span class="tm">Deathwork</span>Broader category of ending-magic and its effects</div>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top:10px"><span style="font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;margin-right:6px">SEE ALSO</span><span class="chip">III.11 The Tether</span><span class="chip">III.12 Silas and Isola</span><span class="chip">III.18 Handoff into FTE</span></div>
+  </div>
+
+  <div class="ft"><span>3SL › III.9 SILAS GRAVES · SOURCE 3SL DRAFT · CHARACTER OUTLINES</span><span>III.9 / 1</span></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":816,"height":1056}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

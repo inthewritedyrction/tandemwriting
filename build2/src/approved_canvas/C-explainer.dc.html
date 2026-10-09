@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>C2 The Divide explainer</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&amp;family=Barlow+Condensed:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap">
+<style>
+body{margin:0;background:#fff}
+a{color:#1a1a1a}a:hover{color:#000}
+.pg{width:816px;height:1056px;box-sizing:border-box;position:relative;background:#fff;color:#1a1a1a;font-family:'Atkinson Hyperlegible',Verdana,sans-serif;font-size:16px;line-height:1.5;overflow:hidden}
+.route{position:absolute;left:72px;right:72px;top:30px;display:grid;grid-template-columns:repeat(6,minmax(0,1fr))}
+.stn{position:relative;display:flex;flex-direction:column;gap:5px;font-family:'JetBrains Mono',monospace;font-size:12px;color:#555;line-height:1.2}
+.stn:before{content:'';position:absolute;top:6px;left:0;right:0;border-top:2px solid #1a1a1a}
+.stn i{position:relative;width:14px;height:14px;border-radius:50%;border:2px solid #1a1a1a;background:#fff;box-sizing:border-box;display:block}
+.stn.on{color:#1a1a1a;font-weight:600}
+.btab{position:absolute;bottom:0;width:96px;height:10px}
+.ft{position:absolute;left:72px;right:72px;bottom:30px;display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;font-size:12px;border-top:2px solid #1a1a1a;padding-top:6px}
+.code{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:60px;line-height:.9}
+.kind{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.06em;font-weight:600}
+h1.t{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:48px;line-height:1;text-transform:uppercase;margin:2px 0 0}
+.deck{font-size:17px;line-height:1.4;margin-top:4px;color:#2a2a2a}
+.sc{display:inline-flex;align-items:center;gap:5px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;line-height:1;white-space:nowrap;vertical-align:1px}
+.sc i{width:11px;height:11px;box-sizing:border-box;border:1.75px solid #1a1a1a;display:inline-block;flex:none}
+.sc.c i{border-radius:50%;background:#1a1a1a}
+.sc.d i{background:#1a1a1a}
+.sc.s i{background:linear-gradient(135deg,#1a1a1a 50%,#fff 50%)}
+.sc.p i{border-radius:50%;border-style:dashed}
+.sc.o i{border-radius:50%}
+.sc.x i{transform:rotate(45deg) scale(.82)}
+.sc.r i{border-radius:0}
+.sc.l{text-decoration:line-through;color:#555}
+.sc.l i{display:none}
+.ln{display:grid;grid-template-columns:96px minmax(0,1fr) 140px;column-gap:14px;border-top:1px solid #1a1a1a;padding:8px 0 9px;align-items:start}
+.ln .g{display:flex;flex-direction:column;gap:6px;padding-top:4px}
+.pv{font-family:'JetBrains Mono',monospace;font-size:12px;line-height:1.45;color:#333;padding-top:3px}
+.lg{position:relative;border:2px solid #1a1a1a;padding:16px 12px 10px}
+.lg > .lt{position:absolute;top:-9px;left:10px;background:#fff;padding:0 6px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.08em;line-height:1.3}
+.lg.od{border-style:dashed}
+.nq{display:grid;grid-template-columns:minmax(0,1fr) 44px minmax(0,1fr);align-items:stretch}
+.nq .bx{border:1.5px solid #1a1a1a;padding:8px 10px;font-size:15px;line-height:1.35}
+.nq .tm{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:19px;display:block;line-height:1.15;margin-bottom:2px}
+.neq{width:30px;height:30px;border-radius:50%;border:2px solid #1a1a1a;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:18px;margin:auto;background:#fff}
+.og{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px}
+.og > div{border:1px dashed #1a1a1a;padding:6px 8px;font-size:14.5px;line-height:1.35}
+.og b{display:block;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;margin-bottom:2px}
+.chip{display:inline-block;border:1.5px solid #1a1a1a;padding:2px 7px;font-family:'JetBrains Mono',monospace;font-size:12px;margin:0 4px 4px 0}
+.ph{font-family:'JetBrains Mono',monospace;font-size:12px;color:#666}
+.nb{border:2px solid #1a1a1a;padding:8px 10px;font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:18px;line-height:1.15}
+.nb small{display:block;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;margin-bottom:3px}
+</style>
+</helmet>
+<div class="pg">
+  <div class="route">
+    <div class="stn on"><i style="background:#2B2B2B;border-color:#2B2B2B;width:16px;height:16px;margin-top:-1px"></i>SPINE</div>
+    <div class="stn"><i></i>3SL</div>
+    <div class="stn"><i></i>FTE</div>
+    <div class="stn"><i></i>ADST</div>
+    <div class="stn"><i></i>TSWK</div>
+    <div class="stn"><i></i>CONTINUITY</div>
+  </div>
+  <div class="btab" style="left:72px;background:#2B2B2B"></div>
+
+  <div style="position:absolute;left:72px;top:88px;width:672px">
+    <div style="display:grid;grid-template-columns:110px minmax(0,1fr);column-gap:14px;align-items:end;border-bottom:3px solid #1a1a1a;padding-bottom:10px">
+      <div class="code">II.7</div>
+      <div><div class="kind">EXPLAINER · PART II · THE SHARED TANDEM SPINE</div><h1 class="t">The Divide</h1><div class="deck">Establish the universe-level break without inventing its cause.</div></div>
+    </div>
+
+    <div class="ln" style="border-top:none;margin-top:6px"><div class="g"><span class="sc c"><i></i>CANON</span></div><div>Two stages: non-deliberate rupture, then deliberate containment/boundary response that hardened separation; “Divide” as event or era; migration as possible consequence, not cause.</div><div class="pv">TCD-045</div></div>
+
+    <div style="border-top:1px solid #1a1a1a;padding:14px 0 14px">
+      <div style="display:grid;grid-template-columns:minmax(0,1fr) 34px minmax(0,1fr) 34px 170px;align-items:center">
+        <div class="nb"><small>STAGE 1</small>Non-deliberate rupture</div>
+        <svg width="34" height="14" viewBox="0 0 34 14" fill="none" stroke="#1a1a1a" stroke-width="2"><path d="M2 7h28M24 1l6 6-6 6"/></svg>
+        <div class="nb"><small>STAGE 2</small>Deliberate containment / boundary response</div>
+        <svg width="34" height="14" viewBox="0 0 34 14" fill="none" stroke="#1a1a1a" stroke-width="2"><path d="M2 7h28M24 1l6 6-6 6"/></svg>
+        <div class="nb" style="border-width:3px">Hardened separation</div>
+      </div>
+      <div style="display:grid;grid-template-columns:minmax(0,1fr) 34px minmax(0,1fr) 34px 170px;margin-top:0">
+        <div></div><div></div>
+        <div style="display:flex;flex-direction:column;align-items:center"><div style="height:14px;border-left:2px dashed #1a1a1a"></div><div style="border:1.5px dashed #1a1a1a;padding:5px 8px;font-size:14px;line-height:1.3;width:100%;box-sizing:border-box">Migration: possible consequence, not cause</div></div>
+      </div>
+    </div>
+
+    <div class="ln"><div class="g"><span class="sc c"><i></i>CANON</span></div><div>“Divide” as event or era.</div><div class="pv">TCD-045</div></div>
+    <div class="ln"><div class="g"><span class="sc p"><i></i>POSSIBLE</span><span class="sc c"><i></i>CANON</span></div><div>Migration as possible consequence <span class="ph">(possible)</span>, not cause <span class="ph">(canon)</span>.</div><div class="pv">TCD-045</div></div>
+    <div class="ln" style="border-bottom:1px solid #1a1a1a"><div class="g"><span class="sc o"><i></i>OPEN</span></div><div>Whether Divide-era degradation fed the Warning Years.</div><div class="pv">II.8 · related open<br>RECORD Divide Reconstruction</div></div>
+
+    <div class="lg" style="margin-top:22px;padding-top:14px"><span class="lt">NOT THE SAME AS</span>
+      <div class="nq">
+        <div class="bx"><span class="tm">The Divide</span>Ancient rupture-plus-response · TCD-045</div>
+        <div class="neq">≠</div>
+        <div class="bx"><span class="tm">The Drowning</span>Later Thalaran regional catastrophe · TCD-055</div>
+      </div>
+    </div>
+
+    <div class="lg od" style="margin-top:22px"><span class="lt">OPEN DEVELOPMENT · <span class="sc o" style="vertical-align:0"><i></i>OPEN</span></span>
+      <div class="og">
+        <div><b>FIXED</b>Two stages: non-deliberate rupture, then deliberate containment/boundary response.</div>
+        <div><b>UNDECIDED</b>Rupture cause, duration, boundary intent, land-by-land consequences, Prism chronology.</div>
+        <div><b>WHY IT MATTERS</b><span class="ph">[Stage 3 copy]</span></div>
+        <div><b>DECIDE BY</b><span class="ph">[Stage 3 copy]</span></div>
+      </div>
+    </div>
+
+    <div style="margin-top:14px"><span style="font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;letter-spacing:.06em;margin-right:6px">SEE ALSO</span><span class="chip">II.8 The Drowning and the First Seal</span><span class="chip">II.9 Boundary Architecture</span></div>
+  </div>
+
+  <div class="ft"><span>SPINE › II.7 THE DIVIDE</span><span>II.7 / 1</span></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":816,"height":1056}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>

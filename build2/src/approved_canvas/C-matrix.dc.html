@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>C6 Master Synchronization Timeline</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&amp;family=Barlow+Condensed:wght@500;600;700&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap">
+<style>
+body{margin:0;background:#fff}
+a{color:#1a1a1a}a:hover{color:#000}
+.pg{width:1056px;height:816px;box-sizing:border-box;position:relative;background:#fff;color:#1a1a1a;font-family:'Atkinson Hyperlegible',Verdana,sans-serif;font-size:16px;line-height:1.5;overflow:hidden}
+.route{position:absolute;left:56px;right:56px;top:26px;display:grid;grid-template-columns:repeat(6,minmax(0,1fr))}
+.stn{position:relative;display:flex;flex-direction:column;gap:5px;font-family:'JetBrains Mono',monospace;font-size:12px;color:#555;line-height:1.2}
+.stn:before{content:'';position:absolute;top:6px;left:0;right:0;border-top:2px solid #1a1a1a}
+.stn i{position:relative;width:14px;height:14px;border-radius:50%;border:2px solid #1a1a1a;background:#fff;box-sizing:border-box;display:block}
+.stn.on{color:#1a1a1a;font-weight:600}
+.btab{position:absolute;bottom:0;width:124px;height:10px}
+.ft{position:absolute;left:56px;right:56px;bottom:24px;display:flex;justify-content:space-between;font-family:'JetBrains Mono',monospace;font-size:12px;border-top:2px solid #1a1a1a;padding-top:6px}
+.code{font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:46px;line-height:.9}
+.kind{font-family:'JetBrains Mono',monospace;font-size:12px;letter-spacing:.06em;font-weight:600}
+h1.t{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:34px;line-height:1;text-transform:uppercase;margin:2px 0 0}
+.sc{display:inline-flex;align-items:center;gap:4px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;line-height:1;white-space:nowrap;vertical-align:0}
+.sc i{width:11px;height:11px;box-sizing:border-box;border:1.75px solid #1a1a1a;display:inline-block;flex:none}
+.sc.c i{border-radius:50%;background:#1a1a1a}
+.sc.d i{background:#1a1a1a}
+.sc.s i{background:linear-gradient(135deg,#1a1a1a 50%,#fff 50%)}
+.sc.p i{border-radius:50%;border-style:dashed}
+.sc.o i{border-radius:50%}
+.sc.x i{transform:rotate(45deg) scale(.82)}
+.sc.r i{border-radius:0}
+.sc.l{text-decoration:line-through;color:#555}
+.sc.l i{display:none}
+.pv{font-family:'JetBrains Mono',monospace;font-size:12px;line-height:1.4;color:#333}
+.ph{font-family:'JetBrains Mono',monospace;font-size:12px;color:#666}
+table.mx{border-collapse:collapse;width:944px;table-layout:fixed;font-size:13px;line-height:1.3}
+.mx th{text-align:left;vertical-align:bottom;padding:4px 6px 6px;border-bottom:3px solid #1a1a1a;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;line-height:1.2}
+.mx th .dot{display:block;width:12px;height:12px;border-radius:50%;margin-bottom:4px}
+.mx td{padding:5px 6px 6px;border-bottom:1px solid #1a1a1a;border-left:1px solid #9a9a9a;vertical-align:top}
+.mx td:first-child{border-left:none}
+.mx td.rp{font-family:'Barlow Condensed',sans-serif;font-weight:600;font-size:16px;line-height:1.1;padding-left:0}
+.mx td.xl{border-left:2px solid #1a1a1a}
+.mx th.xl{border-left:2px solid #1a1a1a}
+.band{display:inline-block;border:1.5px solid #1a1a1a;padding:1px 5px;font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:600;margin-bottom:3px}
+.dash{color:#8a8a8a}
+.sc + .t{display:block}
+</style>
+</helmet>
+<div class="pg">
+  <div class="route">
+    <div class="stn"><i></i>SPINE</div>
+    <div class="stn"><i></i>3SL</div>
+    <div class="stn"><i></i>FTE</div>
+    <div class="stn"><i></i>ADST</div>
+    <div class="stn"><i></i>TSWK</div>
+    <div class="stn on"><i style="background:#C46F0D;border-color:#C46F0D;width:16px;height:16px;margin-top:-1px"></i>CONTINUITY</div>
+  </div>
+  <div class="btab" style="left:776px;background:#C46F0D"></div>
+
+  <div style="position:absolute;left:56px;top:72px;width:944px;display:grid;grid-template-columns:auto minmax(0,1fr) 210px 180px;column-gap:16px;align-items:end;border-bottom:3px solid #1a1a1a;padding-bottom:8px">
+    <div class="code" style="color:#C46F0D">VII.1</div>
+    <div><div class="kind">MATRIX / TRACKER · PART VII · CROSS-BOOK CONTINUITY ROOM</div><h1 class="t">Master Synchronization Timeline</h1></div>
+    <div class="pv"><b style="display:block;color:#1a1a1a;letter-spacing:.06em">GOVERNS</b>TCD-010 · 013 · 014 · 024 · 032 · 054 · 056</div>
+    <div class="pv"><b style="display:flex;gap:6px;align-items:center;color:#1a1a1a;letter-spacing:.06em">OPEN <span class="sc o"><i></i>OPEN</span></b>Exact dates; calendar anchor</div>
+  </div>
+
+  <div style="position:absolute;left:56px;top:150px">
+    <table class="mx">
+      <colgroup><col style="width:100px"><col style="width:100px"><col style="width:112px"><col style="width:124px"><col style="width:98px"><col style="width:100px"><col style="width:56px"><col style="width:142px"><col style="width:112px"></colgroup>
+      <tr>
+        <th>RELATIVE POINT</th>
+        <th><span class="dot" style="background:#74399A"></span>3SL</th>
+        <th><span class="dot" style="background:#B8332A"></span>FTE</th>
+        <th><span class="dot" style="background:#2C63C4"></span>ADST</th>
+        <th><span class="dot" style="background:#0E7F74"></span>TSWK</th>
+        <th><span class="dot" style="background:#74399A;box-shadow:inset 0 0 0 3px #fff;border:2px solid #74399A;box-sizing:border-box"></span>NEXT SHADOWMERE</th>
+        <th>LATER</th>
+        <th class="xl"><span class="dot" style="background:#C46F0D"></span>CROSS-LAND CONSEQUENCE</th>
+        <th>WHO KNOWS</th>
+      </tr>
+      <tr><td class="rp">About two years before FTE/ADST</td><td><span class="band">FULL RUN</span><br><span class="sc c"><i></i>C</span> 3SL</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl dash">—</td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">Elias’s double-life span</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl"><span class="sc c"><i></i>C</span> Elias voluntarily built Thorne over years <span class="pv">TCD-032</span></td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">3SL climax</td><td><span class="band">CLIMAX</span><br><span class="sc c"><i></i>C</span> Remy’s death <span class="pv">→ III.15</span></td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl">Melena’s state entering FTE <span class="pv">→ III.18</span></td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">Two-year interval</td><td><span class="band">RESOLUTION</span><br>Handoff <span class="pv">→ III.18</span></td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl"><span class="sc c"><i></i>C</span> The two-year interval</td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">Elias fails to return</td><td class="dash">—</td><td><span class="sc c"><i></i>C</span> Remnia misses Elias first</td><td><span class="band">OPENING</span><br><span class="sc c"><i></i>C</span> ADST opens when Elias fails to return</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl"><span class="sc c"><i></i>C</span> Remnia misses Elias before Somnoria loses Thorne <span class="pv">TCD-062</span></td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">A couple of weeks later</td><td class="dash">—</td><td><span class="band">OPENING</span><br><span class="sc c"><i></i>C</span> FTE opens</td><td><span class="sc c"><i></i>C</span> Thorne publicly present but deteriorating</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl"><span class="pv">TCD-062</span></td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">Concurrent run</td><td class="dash">—</td><td><span class="sc c"><i></i>C</span> Largely concurrent with ADST</td><td><span class="sc c"><i></i>C</span> Largely concurrent with FTE</td><td class="dash">—</td><td class="dash">—</td><td class="dash">—</td><td class="xl dash">—</td><td><span class="ph">[Stage 3]</span></td></tr>
+      <tr><td class="rp">Late ADST</td><td class="dash">—</td><td class="dash">—</td><td><span class="band">CLIMAX</span><br><span class="sc c"><i></i>C</span> Convergence T0: first established threshold</td><td><span class="sc p"><i></i>P</span> Blueprint “Oneiros response” must not precede T0</td><td class="dash">—</td><td class="dash">—</td><td class="xl"><span class="sc c"><i></i>C</span> Nightmare Awareness as indicator, not cause <span class="pv">TCD-056</span></td><td><span class="ph">[Stage 3]</span></td></tr>
+    </table>
+  </div>
+
+  <div class="ft"><span>CONTINUITY › VII.1 MASTER SYNCHRONIZATION TIMELINE · ROWS RESUME AT “LATE FTE”</span><span>VII.1 / 1 → CONTINUES</span></div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"$preview":{"width":1056,"height":816}}'>
+class Component extends DCLogic {
+  renderVals() { return {}; }
+}
+</script>
+</body>
+</html>
