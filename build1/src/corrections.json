@@ -1,0 +1,12 @@
+{
+  "note": "Explicit author corrections applied to the locked Content Master copy before layout. Each entry quotes the exact Content Master text it replaces. Nothing else in the copy is changed.",
+  "corrections": [
+    {
+      "id": "R-2026-10-09-tiers",
+      "ruling": "Author ruling 2026-10-09 (Underside tier status). CANON — TCD-025 / TCD-026: the Underside is vertically tiered and attached to Zenithia's side of Remnia; Crownlight and Dawnveil are surface/above-ground tiers; the nation is fully underground by Ironcross. DRAFTED — 3SL ch. 10: the Underside has nine tiers / the route board lists all nine in order. SUPPORTED — 3SL Full Worldbuilding: tier functions and other worldbuilding detail where not independently drafted or ruled. Do not promote the nine-tier count to ruled CANON.",
+      "section": "III.3",
+      "find": "> **Fixed:** Nine tiers in drafted order; Crownlight and Dawnveil surface-level; fully underground by Ironcross; the attachment off Zenithia's side (TCD-026).",
+      "replace": "> **Fixed:** Crownlight and Dawnveil surface-level; fully underground by Ironcross; the attachment off Zenithia's side (TCD-025, TCD-026). Not ruled: the nine-tier count and order are CURRENT DRAFTED TEXT (ch. 10)."
+    }
+  ]
+}

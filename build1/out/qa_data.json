@@ -1,0 +1,349 @@
+{
+ "pages_dom": 159,
+ "pages_pdf": 159,
+ "page_size": "612 x 792 pts (letter)",
+ "layout_issues": [],
+ "flags": [],
+ "footer_two_row_pages": [
+  110,
+  111
+ ],
+ "section_pages": {
+  "TITLE": 1,
+  "ABOUT": 2,
+  "TOC": 2,
+  "PART-I": 1,
+  "I.1": 3,
+  "I.2": 2,
+  "I.3": 3,
+  "I.4": 3,
+  "I.5": 3,
+  "I.6": 3,
+  "I.7": 2,
+  "PART-II": 1,
+  "II.2": 2,
+  "II.3": 2,
+  "II.4": 3,
+  "II.5": 3,
+  "II.14": 3,
+  "II.16": 2,
+  "PART-III": 2,
+  "III.1": 2,
+  "III.2": 3,
+  "III.3": 5,
+  "III.4": 2,
+  "III.5": 4,
+  "III.6": 5,
+  "III.7": 2,
+  "III.8": 6,
+  "III.9": 3,
+  "III.10": 3,
+  "III.11": 3,
+  "III.12": 4,
+  "III.13": 4,
+  "III.14": 3,
+  "III.15": 4,
+  "III.16": 2,
+  "III.17": 3,
+  "III.18": 2,
+  "III.19": 3,
+  "III.20": 3,
+  "III.20W": 13,
+  "CR": 6,
+  "APP-A": 23,
+  "APP-B": 4,
+  "APP-C": 2,
+  "APP-E": 2
+ },
+ "units_checked": 1818,
+ "missing_dom": [],
+ "missing_pdf": [],
+ "design_notes": [
+  [
+   "II.2#designnote",
+   " (Design note: render as an abstract relative-position diagram. No invented cartography.)"
+  ],
+  [
+   "II.16#designnote",
+   "(Design note: macro timeline with four stacked bands per book; the 3SL-to-FTE/ADST interval labeled \"about two years\"; ADST T0 marked on the ADST climax band.)"
+  ]
+ ],
+ "marker_counts_source": {
+  "CANON": 74,
+  "CURRENT DRAFTED TEXT": 87,
+  "SUPPORTED": 17,
+  "POSSIBLE": 8,
+  "OPEN": 53,
+  "CONFLICT": 6,
+  "RESEARCH": 3,
+  "LEGACY": 4
+ },
+ "tier_ruling": {
+  "old_fixed_line_absent": true,
+  "corrected_fixed_line_present": true,
+  "ruling_box_III3": true,
+  "queue_row_C_badges": true
+ },
+ "writing": {
+  "areas": 266,
+  "by_kind": {
+   "notes": 12,
+   "TD": 210,
+   "wr": 9,
+   "ans": 10,
+   "dr": 11,
+   "wb": 14
+  },
+  "lines_total": 905,
+  "below_min": [],
+  "smallest_prompt_lines": 5,
+  "working_section_lines": 183,
+  "working_section_pages": 13
+ },
+ "refs": {
+  "page_refs_checked": 192,
+  "page_refs_wrong": [],
+  "outside_volume": {
+   "Part V": 1,
+   "V.16": 1,
+   "IV.22": 1,
+   "IV.24": 2,
+   "V.17": 2,
+   "VI.13": 2,
+   "Part IV": 2,
+   "IV.2": 1,
+   "VI.2": 1,
+   "II.6": 1,
+   "IV.5": 1,
+   "V.4": 1,
+   "VI.3": 1
+  },
+  "resolved_chips": 109
+ },
+ "claims": [
+  {
+   "page": 102,
+   "section": "III.18",
+   "claim": "FTE: London Town's Bishop; Melena's history with him; advises and operationalizes the forfeit (TCD-042, TCD-052)",
+   "rulings": [
+    {
+     "id": "TCD-042",
+     "topic": "London Town forfeit causal chain and authority",
+     "ruling": "Katherine’s final sanctioned action against or for Melena prevents catastrophe, stabilizes or saves Melena, and creates the decisive state. Melena consciously chooses survival over victory rather than sacrificing more people to reach Challenge Seven. Tiran supports, communicates, or operationalizes that choice, but Bishop rank alone does not grant unilateral provincial surrender authority. The formal forfeit must be entered by the properly authorized Piece or official. The Sanctum accepts and may exploit the outcome but is not its original cause."
+    },
+    {
+     "id": "TCD-052",
+     "topic": "Maxim’s condition and authority at the London Town forfeit",
+     "ruling": "Maxim is alive, conscious, and functioning as active King when the forfeit occurs. Melena makes the substantive choice of survival over victory. Tiran advises, supports, and operationalizes that choice but cannot unilaterally surrender the province. Melena brings or endorses the decision to Maxim; Maxim formally enters or authorizes the forfeit. The Sanctum accepts and formalizes it rather than compelling it. Katherine remains Conqueror because her sanctioned action creates the decisive state."
+    }
+   ]
+  },
+  {
+   "page": 34,
+   "section": "II.5",
+   "claim": "All four modern magical traditions ultimately draw from one primordial magical source or substrate that predates the modern division of the Tandem world. CANON TCD-035. The Divide didn't create four unrelated magics. Geography, environment, bodies, bloodlines, culture, survival, history, and institutions reshaped one shared power into systems that are now genuinely distinct, with their own access, costs, classifications, and cultural explanations.",
+   "rulings": [
+    {
+     "id": "TCD-035",
+     "topic": "Fundamental origin of magic",
+     "ruling": "All four modern traditions ultimately draw from one primordial magical source or substrate predating the modern division of the Tandem world. The Divide did not create four unrelated magics. Geography, environment, bodies, bloodlines, culture, survival, history, and institutions reshaped the shared power into genuinely distinct systems with non-interchangeable mechanics, costs, classifications, and understandings."
+    }
+   ]
+  },
+  {
+   "page": 62,
+   "section": "III.6",
+   "claim": "Don't assume the NEUTRAL TRANSIT station is the Remnia–Underside crossing in TCD-027. Melena reading the numbers as Remnian is her identification, not a ruling, and TCD-017 says no route has every capability. It may be the crossing, part of it, or something else.",
+   "rulings": [
+    {
+     "id": "TCD-017",
+     "topic": "Nature and scale of routes",
+     "ruling": "Routes are magically enabled transit through real physical passages. They may serve local, tier, restricted/institutional, underground/smuggling, boundary-crossing, or neutral-transit functions. Cross-land routes breach barriers, distance, or concealed geography—not dimensions—and not every route has every capability."
+    },
+    {
+     "id": "TCD-027",
+     "topic": "Echo Gate and current Remnia–Underside access",
+     "ruling": "The singular sealed Echo Gate is Legacy. Its seal, spiral/mirrored glyph, or ancient-crossing imagery may be recovered later only as `[P]`. Independently, a current Remnia–Shadowmere/Underside crossing exists near the London Town edge/no-man’s-land associated with London Town, Old Prosperity, and Alea. The canonical Remnia map will control its precise provincial coordinate once reviewed."
+    }
+   ]
+  },
+  {
+   "page": 27,
+   "section": "II.2",
+   "claim": "The four lands occupy multiple major landmasses and regions in one world. CANON TCD-025. Four placements are fixed:",
+   "rulings": [
+    {
+     "id": "TCD-025",
+     "topic": "Tandem macro geography",
+     "ruling": "The four lands occupy multiple major landmasses/regions in one world. Remnia and Somnoria are separate continental landmasses with ocean between them. Underside attaches to the Zenithia side/corner of Remnia’s broader geography. Primarily underwater Thalara lies farther outward in the island/sea region. Spain/France/Italy/Greek-islands comparisons describe relative placement only, never real borders, scale, climate, culture, or coastlines."
+    }
+   ]
+  },
+  {
+   "page": 40,
+   "section": "II.16",
+   "claim": "Remy's death and Melena's catastrophic Fire; Tiran's cleanup follows (TCD-002, TCD-063)",
+   "rulings": [
+    {
+     "id": "TCD-002",
+     "topic": "3SL authority beyond drafted ch. 22",
+     "ruling": "Manuscript controls drafted events. Remy’s death and Tiran’s cleanup remain fixed; all other outline beats are provisional."
+    },
+    {
+     "id": "TCD-063",
+     "topic": "Remy’s objective death mechanism and Melena’s guilt",
+     "ruling": "A clarified: the gang leader mortally wounds Remy as he deliberately intervenes to protect/rescue Melena. Melena’s escalating uncontrolled Fire helps create the dangerous confrontation, but neither her Fire nor the later warehouse collapse is the objective lethal mechanism. After the wound, Melena attempts to save him but cannot stop catastrophic bleeding; his death then drives her Fire into full loss of control and the blaze/collapse. She feels causally responsible even though the gang leader physically kills him. The Beta’s machete/major-artery details are compatible candidates, not canon over the future 3SL scene."
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "section": "I.5",
+   "claim": "The Sanctum's likely \"Dyad\" label for Katherine, which is incomplete (TCD-049).",
+   "rulings": [
+    {
+     "id": "TCD-049",
+     "topic": "Katherine’s Fire/Frost magical anatomy",
+     "ruling": "Katherine is not objectively the same Fire/Frost Dyad as Zephyr. Her manifestation is ancestral reversion or resurfacing of a less-specialized earlier Remnian elemental inheritance. She genuinely possesses both Frost and Fire; Fire is not borrowed, temporary, or merely a reaction to Melena. The Sanctum likely labels her a Dyad because current taxonomy lacks a better category, but that diagnosis is incomplete or wrong. Zephyr remains a genuine modern Fire/Frost Dyad."
+    }
+   ]
+  },
+  {
+   "page": 31,
+   "section": "II.4",
+   "claim": "There's no universal answer to \"do people know about the other lands?\" Awareness varies by nation, class, institution, profession, network, person, and time. CANON TCD-016. A smuggler, a Sanctum archivist, and a miner's kid in the same land can hold three different pictures, and all three can change between chapter 5 and chapter 25.",
+   "rulings": [
+    {
+     "id": "TCD-016",
+     "topic": "Knowledge of the other lands",
+     "ruling": "Awareness varies by nation, class, institution, profession, network, person, and time. Existence, location, functional, route, historical, and true Tandem knowledge are distinct levels and cannot be inferred from one another."
+    }
+   ]
+  },
+  {
+   "page": 102,
+   "section": "III.18",
+   "claim": "3SL ends about two years before FTE and ADST begin (TCD-013), and it hands forward more than it resolves. The interval is canon at about two years; the FTE Beta's \"months since the alley\" line is a manuscript revision flag, not a competing chronology (III.14).",
+   "rulings": [
+    {
+     "id": "TCD-013",
+     "topic": "3SL/FTE/ADST chronology",
+     "ruling": "3SL occurs approximately two years before the main concurrent period. ADST begins when Elias goes missing; FTE begins a couple of weeks later. FTE and ADST then run largely concurrently and end around the same time without requiring chapter-level lockstep."
+    }
+   ]
+  },
+  {
+   "page": 80,
+   "section": "III.11",
+   "claim": "The tether is never evidence of consent. Relief at his touch isn't desire; pain at separation isn't longing; moving as one body isn't intimacy. When the draft gives these moments charge, the Companion records the charge in the voluntary track, not here. (TCD-044)",
+   "rulings": [
+    {
+     "id": "TCD-044",
+     "topic": "Silas and Isola’s Book One romantic landing",
+     "ruling": "Silas and Isola become explicitly and mutually romantic during 3SL, crossing from subtext into substantial consensual physical choice before the novel ends. Their magical tether is not romance or evidence of consent. They do not end as a fully settled, publicly defined couple; the crisis, Remy’s death, responsibilities, Silas’s changed role, and unresolved tether still pull them onto separate immediate paths. The outline’s restrained separation and future promise may survive only after the romantic line has already been crossed."
+    }
+   ]
+  },
+  {
+   "page": 35,
+   "section": "II.5",
+   "claim": "The Sanctum, within its semi-autonomous magical-regulation domain. CANON TCD-041",
+   "rulings": [
+    {
+     "id": "TCD-041",
+     "topic": "Remnian power structure",
+     "ruling": "Remnia is a centralized empire with overlapping centers of authority. The Crown is the highest public civil and dynastic authority and directly controls London Town and imperial affairs. Provincial Leaders administer territories within the Empire; titles and structures may vary. The Provincial Leadership Board provides formal representation and can be altered by a Conqueror’s one-year seat. The Elemental Court is a separate political-magical bloc influencing multiple provinces and elemental policy but not London Town. The Sanctum is semi-autonomous in magical regulation, bloodlines, Tournament law, doctrine, security, and historical control, but is neither simply subordinate to the Crown nor legally omnipotent over it."
+    }
+   ]
+  },
+  {
+   "page": 18,
+   "section": "I.5",
+   "claim": "The six levels of cross-land knowledge. Knowing another land exists doesn't mean knowing where it is, how its magic works, how to reach it, what its history is, or how the four lands actually relate. TCD-016 separates these into six levels, and none implies another:",
+   "rulings": [
+    {
+     "id": "TCD-016",
+     "topic": "Knowledge of the other lands",
+     "ruling": "Awareness varies by nation, class, institution, profession, network, person, and time. Existence, location, functional, route, historical, and true Tandem knowledge are distinct levels and cannot be inferred from one another."
+    }
+   ]
+  },
+  {
+   "page": 102,
+   "section": "III.18",
+   "claim": "Explicitly romantic, not a settled public couple, on separate immediate paths (TCD-044); the tether's state OPEN",
+   "rulings": [
+    {
+     "id": "TCD-044",
+     "topic": "Silas and Isola’s Book One romantic landing",
+     "ruling": "Silas and Isola become explicitly and mutually romantic during 3SL, crossing from subtext into substantial consensual physical choice before the novel ends. Their magical tether is not romance or evidence of consent. They do not end as a fully settled, publicly defined couple; the crisis, Remy’s death, responsibilities, Silas’s changed role, and unresolved tether still pull them onto separate immediate paths. The outline’s restrained separation and future promise may survive only after the romantic line has already been crossed."
+    }
+   ]
+  },
+  {
+   "page": 35,
+   "section": "II.5",
+   "claim": "The Seal Song is not the Drowned Canticle (TCD-028). Dren compatibility is not Leviathan identity (TCD-064).",
+   "rulings": [
+    {
+     "id": "TCD-028",
+     "topic": "Drowned Canticle within the Seal Song tradition",
+     "ruling": "The texts are neither identical nor unrelated. The Drowned Canticle is Thalara’s cultural Shattered Veil version and survives within or alongside the larger Seal Song tradition as a historical/prophetic strand. The Seal Song also encompasses pre-Drowning vows, memorial culture, identity, breathwork, sealing, pressure control, communal memory, and survival protocol."
+    },
+    {
+     "id": "TCD-064",
+     "topic": "Levi and the Leviathan / House Dren Anchor system",
+     "ruling": "E A+clarified D: Levi is fully human, not a shard, reincarnation, avatar, or soulprint of Leviathan. House Dren has genuine inherited compatibility with Leviathan-associated seal infrastructure, expressed through pressure tolerance and interface ability. The House made a hereditary Anchor system identifying, conditioning, marking/authorizing compatible children and sacrificing some within the system. First currently established Anchor Caelen was twelve, not the willing adult in House mythology. Levi is the current intended operator; his capacity does not entail consent, ownership, or obligation. The Leviathan does not choose, claim, bless, or possess him in Book One; it watches after the system is opened. His name reflects institutional history, not metaphysical identity."
+    }
+   ]
+  },
+  {
+   "page": 40,
+   "section": "II.16",
+   "claim": "Elias's years-long double life as Thorne; the organization's compromise of his research and dream functioning (TCD-032, TCD-062)",
+   "rulings": [
+    {
+     "id": "TCD-032",
+     "topic": "Elias Lockwood / Alexander Thorne double life",
+     "ruling": "Elias voluntarily created and maintained Professor Alexander Thorne as an established Somnorian researcher/instructor identity. He traveled to Somnoria and built that life for years, beginning while Lucia preceded him in succession and Aracelia reigned. After Lucia’s death, his elevation to Crown Prince made the lives increasingly incompatible. At ADST’s opening Elias is missing from Remnia because he failed to return on pattern, while Thorne is not yet missing from Somnoria but is becoming unstable or compromised."
+    },
+    {
+     "id": "TCD-062",
+     "topic": "Elias/Thorne’s failure to return",
+     "ruling": "E B+C hybrid: Nightmare the organization targets Thorne’s boundary/Network research and exploits the vulnerability created by his own exposure, operationally compromising dream/magical functioning so ordinary return to Remnia becomes unsafe or impossible without requiring initial physical captivity. Remnia notices Elias missing first; Thorne initially remains publicly present but deteriorating in Somnoria. Reverie’s encounter with his collapsing dream, breakdown rumors, and Professor Lane’s mirrored case reflect real patterned compromise. Exact technique, later captivity, protective self-isolation, travel risk, consent in the final operation, and physical status remain open."
+    }
+   ]
+  },
+  {
+   "page": 38,
+   "section": "II.14",
+   "claim": "Selah's act leaves no specific echo, reservoir, transmitted route, or power that Katherine later accesses. The two performances are connected by shared magical ancestry and ritual tradition, not by causation. Katherine doesn't need to know Selah exists, or that the Prayer has an Underside form, or its history. (TCD-023, TCD-048)",
+   "rulings": [
+    {
+     "id": "TCD-023",
+     "topic": "Elders’ Prayer relationship",
+     "ruling": "Selah and Katherine perform the same inherited Elders’ Prayer/magical working through different cultural language, terminology, and ritual expression. This is intentional cross-book repetition. Direct performance-to-performance causation was initially left open and is excluded by TCD-048."
+    },
+    {
+     "id": "TCD-048",
+     "topic": "Selah/Katherine Elders’ Prayer causal relationship",
+     "ruling": "Selah and Katherine independently perform the same inherited Elders’ Prayer approximately two years apart. Their connection is shared magical ancestry and ritual tradition, not direct causation. Selah’s act leaves no specific echo, reservoir contribution, transmitted route, or power that Katherine later accesses."
+    }
+   ]
+  }
+ ],
+ "fonts": [
+  "AtkinsonHyperlegible-Bold",
+  "AtkinsonHyperlegible-Italic",
+  "AtkinsonHyperlegible-Regular",
+  "BarlowCondensed-Bold",
+  "BarlowCondensed-SemiBold",
+  "JetBrainsMono-Regular",
+  "JetBrainsMono-SemiBold"
+ ],
+ "font_types": [
+  "CID TrueType"
+ ],
+ "empty_text_pages": [],
+ "pdf_words": 36730
+}
