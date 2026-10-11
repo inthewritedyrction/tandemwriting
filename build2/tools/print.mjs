@@ -10,8 +10,10 @@ let playwright;
 try { playwright = require('playwright'); } catch { playwright = require('/opt/node22/lib/node_modules/playwright'); }
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const html = path.join(ROOT, 'out', 'book.html');
-const pdf = path.join(ROOT, 'dist', 'Tandem_Companion_Build2_FTE.pdf');
+// optional: node tools/print.mjs <out/page.html> <dist/file.pdf> <out/layout_name.json>
+const html = path.join(ROOT, process.argv[2] || path.join('out', 'book.html'));
+const pdf = path.join(ROOT, process.argv[3] || path.join('dist', 'Tandem_Companion_Build2_FTE.pdf'));
+const qaOut = process.argv[4] || 'layout_qa.json';
 fs.mkdirSync(path.join(ROOT, 'dist'), { recursive: true });
 
 const browser = await playwright.chromium.launch();
@@ -29,8 +31,8 @@ const fontsOk = await page.evaluate(() => ['Atkinson Hyperlegible', 'Barlow Cond
 const qa = await page.evaluate(() => window.paginate());
 qa.fonts = fontsOk;
 qa.bookText = await page.evaluate(() => [...document.querySelectorAll('#book .pg')].map(p => p.innerText));
-fs.writeFileSync(path.join(ROOT, 'out', 'layout_qa.json'), JSON.stringify(qa, null, 1));
-fs.writeFileSync(path.join(ROOT, 'out', 'book.paginated.html'), await page.content());
+fs.writeFileSync(path.join(ROOT, 'out', qaOut), JSON.stringify(qa, null, 1));
+if (!process.argv[2]) fs.writeFileSync(path.join(ROOT, 'out', 'book.paginated.html'), await page.content());
 await page.emulateMedia({ media: 'print' });
 await page.pdf({ path: pdf, width: '8.5in', height: '11in', printBackground: true, margin: { top: 0, right: 0, bottom: 0, left: 0 }, preferCSSPageSize: true });
 await browser.close();
