@@ -1,0 +1,562 @@
+<title>Remnian Lineage Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Barlow+Condensed:wght@500;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: a single reading column for the record; the two family charts break out to full width
+   and scroll sideways on small screens. Faces follow the Build 2 companion (Direction C).
+   House colours come from the lineage's own tells: Hastings gold, Lockwood emerald. */
+:root {
+  --paper: #fcfcfa;
+  --card: #ffffff;
+  --ink: #1a1a1a;
+  --ink-2: #4a4b47;
+  --rule: #c9cac4;
+  --wash: #f0f1ec;
+  --hastings: #a8801a;
+  --lockwood: #1d6a4c;
+  --nicholas: #6d6f73;
+  --london: #3d5788;
+  --blackwood: #7c2f2f;
+  --violet: #6b4fa0;
+  --f-display: 'Barlow Condensed', 'Arial Narrow', sans-serif;
+  --f-body: 'Atkinson Hyperlegible', Verdana, sans-serif;
+  --f-mono: 'JetBrains Mono', ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #131513; --card: #1b1e1c; --ink: #e9eae4; --ink-2: #a9aba3; --rule: #3a3d39; --wash: #202421;
+    --hastings: #d8b04e; --lockwood: #4fb98a; --nicholas: #a3a6ab; --london: #86a4d8; --blackwood: #d07a7a; --violet: #a58ad8;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #131513; --card: #1b1e1c; --ink: #e9eae4; --ink-2: #a9aba3; --rule: #3a3d39; --wash: #202421;
+  --hastings: #d8b04e; --lockwood: #4fb98a; --nicholas: #a3a6ab; --london: #86a4d8; --blackwood: #d07a7a; --violet: #a58ad8;
+  color-scheme: dark;
+}
+
+body { background: var(--paper); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.5; }
+.wrap { max-width: 1760px; margin: 0 auto; padding-inline: 20px; padding-block: 32px 72px; display: flex; flex-direction: column; gap: 56px; }
+h1, h2, h3, h4 { font-family: var(--f-display); text-wrap: balance; margin: 0; }
+p { margin: 0; }
+
+/* masthead */
+.mast { max-width: 1120px; display: flex; flex-direction: column; gap: 14px; border-bottom: 3px solid var(--ink); padding-bottom: 24px; }
+.eyebrow { font-family: var(--f-mono); font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2); }
+.mast h1 { font-size: clamp(44px, 8vw, 76px); font-weight: 700; text-transform: uppercase; line-height: .92; letter-spacing: .005em; }
+.deck { font-size: 18px; max-width: 64ch; color: var(--ink-2); }
+.anchor { max-width: 64ch; padding: 10px 14px; border-left: 4px solid var(--hastings); background: var(--wash); }
+.keys { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 28px; margin-top: 6px; }
+.mini { font-family: var(--f-mono); font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; margin: 0 0 8px; }
+.legend, .hkey { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; font-size: 14px; }
+.legend li { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 10px; align-items: baseline; color: var(--ink-2); }
+.hkey { flex-direction: row; flex-wrap: wrap; gap: 6px 16px; margin-bottom: 14px; }
+.hkey li { display: flex; align-items: center; gap: 7px; }
+.sw { width: 22px; height: 6px; border-radius: 2px; display: inline-block; }
+.dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
+
+/* tags */
+.tag { font-family: var(--f-mono); font-size: 10.5px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase;
+  white-space: nowrap; padding: 2px 6px; border-radius: 2px; border: 1.5px solid var(--ink); line-height: 1.3; justify-self: start; }
+.t-Y { background: var(--ink); color: var(--paper); }
+.t-A { color: var(--ink); }
+.t-S { color: var(--ink-2); border-color: var(--rule); }
+.t-C { color: var(--hastings); border-color: var(--hastings); }
+.t-T { color: var(--lockwood); border-color: var(--lockwood); }
+.t-O { color: var(--ink-2); border-style: dashed; }
+
+/* chart sheets */
+.sheet { display: flex; flex-direction: column; gap: 14px; }
+.sheet-hd { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 14px; align-items: end; border-bottom: 2px solid var(--ink); padding-bottom: 8px; }
+.code { font-family: var(--f-display); font-weight: 700; font-size: 54px; line-height: .85; }
+.sheet-hd h2 { font-size: 34px; font-weight: 600; text-transform: uppercase; line-height: 1; }
+.sheet-hd p { color: var(--ink-2); max-width: 70ch; margin-top: 4px; }
+.scroller { overflow-x: auto; border: 1px solid var(--rule); background: var(--wash); border-radius: 3px; }
+.chart { display: block; min-width: 1400px; width: 100%; height: auto; }
+
+.chart .card { fill: var(--card); stroke: var(--ink-2); stroke-width: 1; }
+.chart .list .card { fill: var(--wash); stroke: var(--rule); }
+.chart .hidden .card { stroke-dasharray: 5 4; stroke-width: 1.5; stroke: var(--ink); }
+.chart .out .card { fill: var(--wash); stroke-dasharray: 2 3; }
+.chart .out-sw { fill: var(--wash); stroke: var(--ink-2); stroke-dasharray: 2 3; }
+.chart .nm { font-family: var(--f-display); font-weight: 600; font-size: 15.5px; fill: var(--ink); }
+.chart .list .nm { font-weight: 500; }
+.chart .dt { font-family: var(--f-body); font-size: 11.5px; fill: var(--ink); font-variant-numeric: tabular-nums; }
+.chart .ln { font-family: var(--f-body); font-size: 11.5px; fill: var(--ink-2); }
+.chart .lk { fill: none; stroke: var(--ink); stroke-width: 1.3; }
+.chart .lk.affair { stroke-dasharray: 6 4; }
+.chart .lk.legal { stroke-dasharray: 1.5 3.5; stroke-width: 1.8; stroke-linecap: round; }
+.chart .lk.sib { stroke: var(--ink-2); stroke-dasharray: 3 3; }
+.chart .cap { font-family: var(--f-mono); font-size: 10.5px; fill: var(--ink-2); }
+.chart .cap.mid { text-anchor: middle; }
+.chart .cap.hd { font-weight: 600; letter-spacing: .06em; fill: var(--blackwood); }
+.chart .eye { stroke: var(--ink); stroke-width: .8; }
+
+.h-hastings { fill: var(--hastings); background: var(--hastings); }
+.h-lockwood { fill: var(--lockwood); background: var(--lockwood); }
+.h-nicholas { fill: var(--nicholas); background: var(--nicholas); }
+.h-london { fill: var(--london); background: var(--london); }
+.h-blackwood { fill: var(--blackwood); background: var(--blackwood); }
+.e-emerald { fill: var(--lockwood); background: var(--lockwood); }
+.e-gold { fill: var(--hastings); background: var(--hastings); }
+.e-violet { fill: var(--violet); background: var(--violet); }
+
+/* reading blocks */
+.block { display: flex; flex-direction: column; gap: 18px; max-width: 900px; }
+.block > h2 { font-size: 32px; font-weight: 600; text-transform: uppercase; border-bottom: 2px solid var(--ink); padding-bottom: 6px; }
+.intro { color: var(--ink-2); max-width: 66ch; }
+
+.realms { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.realm h3 { font-size: 24px; font-weight: 600; text-transform: uppercase; }
+.realm .sub { font-family: var(--f-mono); font-size: 12px; color: var(--ink-2); margin: 2px 0 10px; }
+.realm ol { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+.realm li { display: grid; grid-template-columns: 28px minmax(0, 1fr) auto; gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--rule); align-items: baseline; }
+.realm li b { font-family: var(--f-display); font-size: 22px; line-height: 1; }
+.realm li span { font-weight: 700; }
+.realm li em { font-style: normal; color: var(--ink-2); font-size: 14px; text-align: right; }
+.realm .note { font-size: 14px; color: var(--ink-2); margin-top: 10px; }
+
+.tscroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 15px; }
+th { font-family: var(--f-mono); font-size: 11.5px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; text-align: left;
+  border-bottom: 2px solid var(--ink); padding: 6px 10px 6px 0; }
+td { border-bottom: 1px solid var(--rule); padding: 7px 10px 7px 0; vertical-align: top; }
+td.when { font-family: var(--f-mono); font-size: 13px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+td.src { font-family: var(--f-mono); font-size: 12.5px; white-space: nowrap; }
+.rev td:nth-child(2) { color: var(--ink-2); }
+
+.house { display: flex; flex-direction: column; gap: 22px; padding-top: 6px; }
+.house > h3 { font-size: 26px; font-weight: 600; text-transform: uppercase; }
+.person { display: flex; flex-direction: column; gap: 4px; border-top: 1px solid var(--rule); padding-top: 12px; break-inside: avoid; }
+.person h4 { font-size: 22px; font-weight: 600; line-height: 1.1; }
+.life { font-family: var(--f-mono); font-size: 12.5px; color: var(--ink-2); }
+.person dl { display: grid; grid-template-columns: minmax(110px, 190px) minmax(0, 1fr); gap: 6px 18px; margin: 8px 0 0; }
+.person dt { font-weight: 700; font-size: 14.5px; }
+.person dd { margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; font-size: 15px; }
+.person dd span { flex: 1 1 28ch; min-width: 0; }
+
+.check, .open { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0; }
+.check li { display: grid; grid-template-columns: 56px minmax(0, 1fr); gap: 14px; padding: 10px 0; border-bottom: 1px solid var(--rule); }
+.verdict { font-family: var(--f-mono); font-size: 11px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; padding-top: 3px; }
+.k-fits .verdict { color: var(--lockwood); }
+.k-note .verdict { color: var(--ink-2); }
+.k-ask .verdict { color: var(--hastings); }
+.open li { padding: 8px 0 8px 22px; border-bottom: 1px solid var(--rule); position: relative; }
+.open li::before { content: ''; position: absolute; left: 2px; top: 15px; width: 9px; height: 9px; border: 1.5px dashed var(--ink-2); border-radius: 50%; }
+
+@media (max-width: 720px) {
+  .keys, .realms { grid-template-columns: minmax(0, 1fr); }
+  .person dl { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .person dt { margin-top: 8px; }
+  .code { font-size: 40px; }
+  .sheet-hd h2 { font-size: 26px; }
+}
+
+/* print: charts on 11 x 17 landscape sheets, the rest on letter */
+@page { size: 8.5in 11in; margin: .6in .65in; }
+@page wide { size: 17in 11in; margin: .45in; }
+@media print {
+  :root { --paper: #fff; --card: #fff; --wash: #f4f5f1; }
+  body { font-size: 11pt; }
+  .wrap { display: block; max-width: none; padding: 0; }
+  .wrap > * + * { margin-top: 28px; }
+  .sheet { display: block; width: 100%; }
+  .sheet-hd { margin-bottom: 14px; }
+  .chart { width: 100%; }
+  .sheet { page: wide; break-before: page; break-after: page; }
+  .scroller { overflow: visible; border: 0; background: none; }
+  .chart { min-width: 0; }
+  .block { max-width: none; break-before: page; }
+  .person, .realm, tr, .check li { break-inside: avoid; }
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+}
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto; } }
+:focus-visible { outline: 2px solid var(--lockwood); outline-offset: 2px; }
+
+</style>
+<main class="wrap">
+<header class="mast">
+  <p class="eyebrow">For Their Entertainment · 3 Shadowmere Lane · the Remnian lineage</p>
+  <h1>Remnian Lineage Map</h1>
+  <p class="deck">Settled 11 October 2026 from your answers in the Suggestions Workbook, the four follow-up answers,
+  and a check against the 3SL outline. It's a working map, not a manuscript source: where it contradicts a drafted line,
+  the line is listed at the end for revision.</p>
+  <p class="anchor"><b>The fixed anchor.</b> Lucia dies on 7 September 2094: about three weeks before 3SL opens, and two years before FTE opens on 9 September 2096.</p>
+  <div class="keys">
+    <div><h2 class="mini">Where each line came from</h2><ul class="legend"><li><span class="tag t-Y">Your call</span><span>Your own words in the workbook, or one of the four answers you gave today.</span></li><li><span class="tag t-A">Agreed</span><span>My suggestion, which you marked Agree.</span></li><li><span class="tag t-S">Source</span><span>Kept as the source has it; you agreed.</span></li><li><span class="tag t-C">Canon</span><span>A Canon Decision Log ruling.</span></li><li><span class="tag t-T">3SL</span><span>What the 3SL outline shows.</span></li><li><span class="tag t-O">Open</span><span>Still yours to decide.</span></li></ul></div>
+    <div><h2 class="mini">Houses</h2><ul class="hkey"><li><i class="sw h-hastings"></i>Mignonette, Hastings</li><li><i class="sw h-lockwood"></i>Lockwood</li><li><i class="sw h-nicholas"></i>Nicholas, Old Prosperity</li><li><i class="sw h-london"></i>Kinross, Augustine</li><li><i class="sw h-blackwood"></i>Blackwood</li></ul>
+         <h2 class="mini">Eyes</h2><ul class="hkey"><li><i class="dot e-emerald"></i>Lockwood emerald</li><li><i class="dot e-gold"></i>Hastings gold</li><li><i class="dot e-violet"></i>violet</li></ul></div>
+  </div>
+</header>
+
+<section class="sheet" id="imperial">
+  <div class="sheet-hd"><span class="code">I</span><div><h2>The imperial house</h2>
+  <p>Eden to Lucia's children, with House Lockwood and the Nicholas house of Meridion. Katherine's box is dashed:
+  at FTE she isn't acknowledged.</p></div></div>
+  <div class="scroller"><svg class="chart" viewBox="0 0 1720 680" role="img" aria-label="Family chart of the imperial house" xmlns="http://www.w3.org/2000/svg">
+<path class="lk " d="M477.0 112V164M105.0 164H870.0M105.0 164V190M290.0 164V190M475.0 164V190M660.0 164V190M870.0 164V190"/>
+<path class="lk sib" d="M1180.0 190V168H1540.0V190"/>
+<text class="cap mid" x="1360.0" y="160">siblings · parents not named</text>
+<path class="lk " d="M105.0 268V350M105.0 350H105.0M105.0 350V372"/>
+<path class="lk " d="M290.0 268V350M290.0 350H290.0M290.0 350V372"/>
+<path class="lk " d="M475.0 268V350M475.0 350H475.0M475.0 350V372"/>
+<path class="lk " d="M660.0 268V350M660.0 350H660.0M660.0 350V372"/>
+<path class="lk " d="M870.0 284V350M835.0 350H1010.0M835.0 350V372M1010.0 350V372"/>
+<path class="lk " d="M1180.0 268V350M1180.0 350H1210.0M1210.0 350V372"/>
+<path class="lk " d="M1540.0 268V350M1540.0 350H1615.0M1615.0 350V372"/>
+<path class="lk" d="M1095 404H1125M1095 408H1125"/>
+<path class="lk affair" d="M1295 406H1325"/>
+<path class="lk" d="M1495 404H1525M1495 408H1525"/>
+<path class="lk " d="M1110.0 406V530M702.0 530H1236.0M702.0 530V560M880.0 530V560M1058.0 530V560M1236.0 530V560"/>
+<path class="lk" d="M1310.0 406V544H1420.0V560"/>
+<path class="lk legal" d="M1510.0 406V544H1480.0V560"/>
+<text class="cap" x="1316.0" y="538">father</text>
+<text class="cap" x="1516.0" y="538">father on record</text>
+<path class="lk " d="M20 656h34"/>
+<text class="cap" x="62" y="660">parent and child</text>
+<path class="lk" d="M210 654h34M210 658h34"/>
+<text class="cap" x="252" y="660">marriage</text>
+<path class="lk affair" d="M400 656h34"/>
+<text class="cap" x="442" y="660">Tobias and Michelle</text>
+<path class="lk legal" d="M590 656h34"/>
+<text class="cap" x="632" y="660">legal father only</text>
+<path class="lk sib" d="M780 656h34"/>
+<text class="cap" x="822" y="660">siblings</text>
+<g class="box ">
+<rect class="card" x="352" y="34" width="250" height="78" rx="3"/>
+<rect class="band h-hastings" x="352" y="34" width="250" height="5" rx="1.5"/>
+<text class="nm" x="362" y="58">Eden Genesis Caliane Azira</text>
+<text class="dt" x="362" y="76">Founding Empress · d. c. 2080</text>
+<text class="ln" x="362" y="92">m. Stephen Abraham Hastings</text>
+<text class="ln" x="362" y="108">Emperor Consort</text>
+</g>
+<g class="box ">
+<rect class="card" x="20" y="190" width="170" height="78" rx="3"/>
+<rect class="band h-hastings" x="20" y="190" width="170" height="5" rx="1.5"/>
+<text class="nm" x="30" y="214">Richard Hastings</text>
+<text class="dt" x="30" y="232">b. 2024</text>
+<text class="ln" x="30" y="248">Displaced Crown Prince</text>
+<text class="ln" x="30" y="264">m. Princess Ember</text>
+</g>
+<g class="box ">
+<rect class="card" x="205" y="190" width="170" height="78" rx="3"/>
+<rect class="band h-hastings" x="205" y="190" width="170" height="5" rx="1.5"/>
+<text class="nm" x="215" y="214">Madeleine Beatrix</text>
+<text class="dt" x="215" y="232">b. 2028</text>
+<text class="ln" x="215" y="248">m. Lord Felix D&#x27;Arcy</text>
+<text class="ln" x="215" y="264">Verdant branch</text>
+</g>
+<g class="box ">
+<rect class="card" x="390" y="190" width="170" height="78" rx="3"/>
+<rect class="band h-hastings" x="390" y="190" width="170" height="5" rx="1.5"/>
+<text class="nm" x="400" y="214">Victoria Cassiopeia</text>
+<text class="dt" x="400" y="232">b. 2035</text>
+<text class="ln" x="400" y="248">Flamer</text>
+<text class="ln" x="400" y="264">m. Lord Adrian Wells</text>
+</g>
+<g class="box ">
+<rect class="card" x="575" y="190" width="170" height="78" rx="3"/>
+<rect class="band h-hastings" x="575" y="190" width="170" height="5" rx="1.5"/>
+<text class="nm" x="585" y="214">Alexandria Melena</text>
+<text class="dt" x="585" y="232">b. 2038 · Duchess of Alleia</text>
+<text class="ln" x="585" y="248">Aracelia&#x27;s younger twin</text>
+<text class="ln" x="585" y="264">m. Lord Clyde Hastings</text>
+</g>
+<g class="box ">
+<rect class="card" x="760" y="190" width="220" height="94" rx="3"/>
+<rect class="band h-hastings" x="760" y="190" width="220" height="5" rx="1.5"/>
+<text class="nm" x="770" y="214">Aracelia Hastings</text>
+<text class="dt" x="770" y="232">b. 2038 · Empress c. 2080</text>
+<text class="ln" x="770" y="248">Frost</text>
+<text class="ln" x="770" y="264">m. Duke Jackson Harper</text>
+<text class="ln" x="770" y="280">of Zenithia, 2060</text>
+</g>
+<g class="box ">
+<rect class="card" x="1070" y="190" width="220" height="78" rx="3"/>
+<rect class="band h-lockwood" x="1070" y="190" width="220" height="5" rx="1.5"/>
+<text class="nm" x="1080" y="214">Sawyer &amp; Rowena Lockwood</text>
+<text class="dt" x="1080" y="232">b. c. 2007 · c. 2010</text>
+<text class="ln" x="1080" y="248">Duke and Duchess</text>
+<text class="ln" x="1080" y="264">Lockwood Manor, Highcrest</text>
+</g>
+<g class="box ">
+<rect class="card" x="1430" y="190" width="220" height="78" rx="3"/>
+<rect class="band h-nicholas" x="1430" y="190" width="220" height="5" rx="1.5"/>
+<text class="nm" x="1440" y="214">Celeste Nicholas</text>
+<text class="dt" x="1440" y="232">born Lockwood · d. before 2076</text>
+<text class="ln" x="1440" y="248">Sawyer&#x27;s sister</text>
+<text class="ln" x="1440" y="264">m. into the Nicholas house</text>
+</g>
+<g class="box list">
+<rect class="card" x="20" y="372" width="170" height="46" rx="3"/>
+<rect class="band h-hastings" x="20" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="30" y="396">Olympia, Estelle</text>
+<text class="dt" x="30" y="414">b. 2058, 2059</text>
+</g>
+<g class="box list">
+<rect class="card" x="205" y="372" width="170" height="62" rx="3"/>
+<rect class="band h-hastings" x="205" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="215" y="396">Aveline, Isabella,</text>
+<text class="dt" x="215" y="414">Arabella</text>
+<text class="ln" x="215" y="430">b. 2060, 2063, 2064</text>
+</g>
+<g class="box list">
+<rect class="card" x="390" y="372" width="170" height="46" rx="3"/>
+<rect class="band h-hastings" x="390" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="400" y="396">Fiona</text>
+<text class="dt" x="400" y="414">b. 2065</text>
+</g>
+<g class="box list">
+<rect class="card" x="575" y="372" width="170" height="62" rx="3"/>
+<rect class="band h-hastings" x="575" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="585" y="396">Amalia, Evangeline</text>
+<text class="dt" x="585" y="414">b. 2062, 2063</text>
+<text class="ln" x="585" y="430">Clyde d. Nov 2096</text>
+</g>
+<g class="box list">
+<rect class="card" x="760" y="372" width="150" height="78" rx="3"/>
+<rect class="band h-hastings" x="760" y="372" width="150" height="5" rx="1.5"/>
+<text class="nm" x="770" y="396">Charlotte, Elaine,</text>
+<text class="dt" x="770" y="414">Arianne</text>
+<text class="ln" x="770" y="430">b. 2055 (Lucia&#x27;s twin),</text>
+<text class="ln" x="770" y="446">2056, 2066</text>
+</g>
+<g class="box ">
+<rect class="card" x="925" y="372" width="170" height="94" rx="3"/>
+<rect class="band h-hastings" x="925" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="935" y="396">Lucia Hastings-Lockwood</text>
+<text class="dt" x="935" y="414">26 Oct 2055 – 7 Sept 2094</text>
+<text class="ln" x="935" y="430">Crown Princess · Frost</text>
+<text class="ln" x="935" y="446">car accident at 38</text>
+<circle class="eye e-gold" cx="940" cy="458" r="4.5"/>
+<text class="ln" x="950" y="462">Hastings gold eyes</text>
+</g>
+<g class="box ">
+<rect class="card" x="1125" y="372" width="170" height="94" rx="3"/>
+<rect class="band h-lockwood" x="1125" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="1135" y="396">Tobias Lockwood</text>
+<text class="dt" x="1135" y="414">2 Aug 2035 – c. Mar 2095</text>
+<text class="ln" x="1135" y="430">Prince Consort · Fire</text>
+<text class="ln" x="1135" y="446">godfather to Zoe, Orion</text>
+<circle class="eye e-emerald" cx="1140" cy="458" r="4.5"/>
+<text class="ln" x="1150" y="462">Lockwood emerald eyes</text>
+</g>
+<g class="box ">
+<rect class="card" x="1325" y="372" width="170" height="78" rx="3"/>
+<rect class="band h-nicholas" x="1325" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="1335" y="396">Michelle Nicholas</text>
+<text class="dt" x="1335" y="414">b. c. 2050</text>
+<text class="ln" x="1335" y="430">Conqueror c. 2070</text>
+<text class="ln" x="1335" y="446">Lieutenant, En Guard</text>
+</g>
+<g class="box ">
+<rect class="card" x="1525" y="372" width="180" height="78" rx="3"/>
+<rect class="band h-nicholas" x="1525" y="372" width="180" height="5" rx="1.5"/>
+<text class="nm" x="1535" y="396">Ethan Nicholas</text>
+<text class="dt" x="1535" y="414">b. 18 Nov 2035</text>
+<text class="ln" x="1535" y="430">Head of the Nicholas house</text>
+<text class="ln" x="1535" y="446">Tobias&#x27;s first cousin</text>
+</g>
+<g class="box ">
+<rect class="card" x="620" y="560" width="164" height="78" rx="3"/>
+<rect class="band h-lockwood" x="620" y="560" width="164" height="5" rx="1.5"/>
+<text class="nm" x="630" y="584">Elias Lockwood</text>
+<text class="dt" x="630" y="602">b. 3 Oct 2073</text>
+<text class="ln" x="630" y="618">Crown Prince · missing</text>
+<circle class="eye e-gold" cx="635" cy="630" r="4.5"/>
+<text class="ln" x="645" y="634">Hastings gold eyes</text>
+</g>
+<g class="box ">
+<rect class="card" x="798" y="560" width="164" height="78" rx="3"/>
+<rect class="band h-lockwood" x="798" y="560" width="164" height="5" rx="1.5"/>
+<text class="nm" x="808" y="584">Melena Lockwood</text>
+<text class="dt" x="808" y="602">b. 9 Sept 2076</text>
+<text class="ln" x="808" y="618">Duchess of Rovencia · Fire</text>
+<circle class="eye e-emerald" cx="813" cy="630" r="4.5"/>
+<text class="ln" x="823" y="634">Lockwood emerald eyes</text>
+</g>
+<g class="box ">
+<rect class="card" x="976" y="560" width="164" height="78" rx="3"/>
+<rect class="band h-lockwood" x="976" y="560" width="164" height="5" rx="1.5"/>
+<text class="nm" x="986" y="584">Cordelia Lockwood</text>
+<text class="dt" x="986" y="602">b. 2 Sept 2079</text>
+<text class="ln" x="986" y="618">Frost · Sawyer&#x27;s ward</text>
+<circle class="eye e-gold" cx="991" cy="630" r="4.5"/>
+<text class="ln" x="1001" y="634">amber (Hastings) eyes</text>
+</g>
+<g class="box ">
+<rect class="card" x="1154" y="560" width="164" height="62" rx="3"/>
+<rect class="band h-lockwood" x="1154" y="560" width="164" height="5" rx="1.5"/>
+<text class="nm" x="1164" y="584">Louis Lockwood</text>
+<text class="dt" x="1164" y="602">b. 14 May 2081</text>
+<text class="ln" x="1164" y="618">Richard&#x27;s ward</text>
+</g>
+<g class="box hidden">
+<rect class="card" x="1360" y="560" width="180" height="78" rx="3"/>
+<rect class="band h-nicholas" x="1360" y="560" width="180" height="5" rx="1.5"/>
+<text class="nm" x="1370" y="584">Katherine Nicholas</text>
+<text class="dt" x="1370" y="602">b. 14 July 2076</text>
+<text class="ln" x="1370" y="618">Old Prosperity · Frost</text>
+<text class="ln" x="1370" y="634">unacknowledged at FTE</text>
+</g>
+</svg></div>
+</section>
+
+<section class="sheet" id="london">
+  <div class="sheet-hd"><span class="code">II</span><div><h2>London Town, and House Blackwood</h2>
+  <p>Kinross becomes Augustine through David. House Blackwood stands apart: its Celeste is not Tobias's aunt.</p></div></div>
+  <div class="scroller"><svg class="chart" viewBox="0 0 1500 560" role="img" aria-label="Family chart of London Town and House Blackwood" xmlns="http://www.w3.org/2000/svg">
+<path class="lk " d="M545.0 112V164M125.0 164H1065.0M125.0 164V190M510.0 164V190M1065.0 164V190"/>
+<path class="lk" d="M620 222H650M620 226H650"/>
+<path class="lk " d="M635.0 224V342M97.0 342H927.0M97.0 342V372M263.0 342V372M429.0 342V372M595.0 342V372M761.0 342V372M927.0 342V372"/>
+<path class="lk " d="M1065.0 268V350M1065.0 350H1110.0M1110.0 350V372"/>
+<path class="lk " d="M1357.5 252V350M1357.0 350H1357.5M1357.0 350V372"/>
+<text class="cap hd" x="1245" y="176">HOUSE BLACKWOOD</text>
+<rect class="card out-sw" x="20" y="528" width="34" height="12" rx="2"/>
+<text class="cap" x="62" y="540">gave up their place</text>
+<path class="lk" d="M250 532h34M250 536h34"/>
+<text class="cap" x="292" y="540">marriage</text>
+<g class="box ">
+<rect class="card" x="410" y="34" width="270" height="78" rx="3"/>
+<rect class="band h-london" x="410" y="34" width="270" height="5" rx="1.5"/>
+<text class="nm" x="420" y="58">Samantha Ruby Kinross</text>
+<text class="dt" x="420" y="76">First Queen of London Town</text>
+<text class="ln" x="420" y="92">m. (1) King Edward XVIII, d. c. 2041–45</text>
+<text class="ln" x="420" y="108">m. (2) King Brenton, d. 2058</text>
+</g>
+<g class="box list">
+<rect class="card" x="20" y="190" width="210" height="62" rx="3"/>
+<rect class="band h-london" x="20" y="190" width="210" height="5" rx="1.5"/>
+<text class="nm" x="30" y="214">Lauren · Angelica · Fallon</text>
+<text class="dt" x="30" y="232">b. 2024, 2035, 2040</text>
+<text class="ln" x="30" y="248">Lauren gave up her place</text>
+</g>
+<g class="box ">
+<rect class="card" x="400" y="190" width="220" height="78" rx="3"/>
+<rect class="band h-london" x="400" y="190" width="220" height="5" rx="1.5"/>
+<text class="nm" x="410" y="214">Dalia Lexington</text>
+<text class="dt" x="410" y="232">b. 31 Oct 2038 · Queen 2090</text>
+<text class="ln" x="410" y="248">Duchess of Camor; of Rovencia</text>
+<text class="ln" x="410" y="264">until 2090, then Melena&#x27;s</text>
+</g>
+<g class="box ">
+<rect class="card" x="650" y="190" width="170" height="78" rx="3"/>
+<rect class="band h-london" x="650" y="190" width="170" height="5" rx="1.5"/>
+<text class="nm" x="660" y="214">David Augustine</text>
+<text class="dt" x="660" y="232">Prince Consort</text>
+<text class="ln" x="660" y="248">son of Lord Alexander</text>
+<text class="ln" x="660" y="264">Augustine</text>
+</g>
+<g class="box ">
+<rect class="card" x="980" y="190" width="170" height="78" rx="3"/>
+<rect class="band h-london" x="980" y="190" width="170" height="5" rx="1.5"/>
+<text class="nm" x="990" y="214">Nathaniel Kinross</text>
+<text class="dt" x="990" y="232">b. 24 Nov 2039</text>
+<text class="ln" x="990" y="248">King 2058 – June 2090</text>
+<text class="ln" x="990" y="264">birth-order rule</text>
+</g>
+<g class="box ">
+<rect class="card" x="20" y="372" width="154" height="62" rx="3"/>
+<rect class="band h-london" x="20" y="372" width="154" height="5" rx="1.5"/>
+<text class="nm" x="30" y="396">Maxim</text>
+<text class="dt" x="30" y="414">b. 7 Sept 2072</text>
+<text class="ln" x="30" y="430">Crown Prince · Terrain</text>
+</g>
+<g class="box out">
+<rect class="card" x="186" y="372" width="154" height="62" rx="3"/>
+<rect class="band h-london" x="186" y="372" width="154" height="5" rx="1.5"/>
+<text class="nm" x="196" y="396">Minho</text>
+<text class="dt" x="196" y="414">b. 12 Aug 2074</text>
+<text class="ln" x="196" y="430">gave up his place 2091</text>
+</g>
+<g class="box out">
+<rect class="card" x="352" y="372" width="154" height="78" rx="3"/>
+<rect class="band h-london" x="352" y="372" width="154" height="5" rx="1.5"/>
+<text class="nm" x="362" y="396">Zephyr</text>
+<text class="dt" x="362" y="414">b. 7 Sept 2075, elder</text>
+<text class="ln" x="362" y="430">by six minutes · Dyad</text>
+<circle class="eye e-emerald" cx="367" cy="442" r="4.5"/>
+<text class="ln" x="377" y="446">emerald eyes</text>
+</g>
+<g class="box ">
+<rect class="card" x="518" y="372" width="154" height="78" rx="3"/>
+<rect class="band h-london" x="518" y="372" width="154" height="5" rx="1.5"/>
+<text class="nm" x="528" y="396">Zoe</text>
+<text class="dt" x="528" y="414">b. 7 Sept 2075</text>
+<text class="ln" x="528" y="430">Tobias&#x27;s goddaughter</text>
+<circle class="eye e-violet" cx="533" cy="442" r="4.5"/>
+<text class="ln" x="543" y="446">violet eyes</text>
+</g>
+<g class="box out">
+<rect class="card" x="684" y="372" width="154" height="62" rx="3"/>
+<rect class="band h-london" x="684" y="372" width="154" height="5" rx="1.5"/>
+<text class="nm" x="694" y="396">Sebastian</text>
+<text class="dt" x="694" y="414">b. 15 Aug 2076</text>
+<text class="ln" x="694" y="430">gave up his place 2095</text>
+</g>
+<g class="box ">
+<rect class="card" x="850" y="372" width="154" height="62" rx="3"/>
+<rect class="band h-london" x="850" y="372" width="154" height="5" rx="1.5"/>
+<text class="nm" x="860" y="396">Orion</text>
+<text class="dt" x="860" y="414">b. 1 Oct 2090</text>
+<text class="ln" x="860" y="430">Tobias&#x27;s godson</text>
+</g>
+<g class="box ">
+<rect class="card" x="1030" y="372" width="160" height="62" rx="3"/>
+<rect class="band h-london" x="1030" y="372" width="160" height="5" rx="1.5"/>
+<text class="nm" x="1040" y="396">Arielle Kinross</text>
+<text class="dt" x="1040" y="414">The Princess Royal</text>
+<text class="ln" x="1040" y="430">restored by Dalia</text>
+</g>
+<g class="box ">
+<rect class="card" x="1245" y="190" width="225" height="62" rx="3"/>
+<rect class="band h-blackwood" x="1245" y="190" width="225" height="5" rx="1.5"/>
+<text class="nm" x="1255" y="214">Alistair &amp; Celeste Blackwood</text>
+<text class="dt" x="1255" y="232">Duke and Lady, London Town</text>
+<text class="ln" x="1255" y="248">not Celeste Nicholas</text>
+</g>
+<g class="box ">
+<rect class="card" x="1272" y="372" width="170" height="78" rx="3"/>
+<rect class="band h-blackwood" x="1272" y="372" width="170" height="5" rx="1.5"/>
+<text class="nm" x="1282" y="396">Tiran Lucien Blackwood</text>
+<text class="dt" x="1282" y="414">b. 15 April 2072</text>
+<text class="ln" x="1282" y="430">second child · Flamer</text>
+<text class="ln" x="1282" y="446">ran routes with Remy</text>
+</g>
+</svg></div>
+</section>
+
+<section class="block" id="succession">
+  <h2>Succession when FTE opens</h2>
+  <div class="realms"><div class="realm"><h3>Remnia</h3><p class="sub">Empress Aracelia, 9 Sept 2096</p><ol><li><b>1</b><span>Elias</span><em>Crown Prince; missing</em></li><li><b>2</b><span>Melena</span><em>Duchess of Rovencia</em></li><li><b>3</b><span>Cordelia</span><em></em></li><li><b>4</b><span>Louis</span><em>Richard&#x27;s ward</em></li><li><b></b><span>then Charlotte and her line</span><em></em></li></ol><p class="note">Once Katherine is acknowledged (after FTE), she stands second, between Elias and Melena.</p></div><div class="realm"><h3>London Town</h3><p class="sub">Queen Dalia, 9 Sept 2096</p><ol><li><b>1</b><span>Maxim</span><em>Crown Prince</em></li><li><b>2</b><span>Zoe</span><em>Styled “Princess Dalia”</em></li><li><b>3</b><span>Arielle</span><em>The Princess Royal</em></li><li><b>4</b><span>Orion</span><em>Six years old</em></li></ol><p class="note">Out: Minho, Zephyr and Sebastian, who each gave up their place.</p></div></div>
+</section>
+
+<section class="block" id="calendar">
+  <h2>The settled calendar</h2>
+  <div class="tscroll"><table class="cal"><thead><tr><th>When</th><th>What happens</th><th>From</th></tr></thead>
+  <tbody><tr><td class="when">Year 1 ER</td><td>Eden founds the Empire</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">3 Sept 2024</td><td>Richard born, Eden&#x27;s eldest</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">2 Aug 2035</td><td>Tobias Lockwood born, Highcrest</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">18 Nov 2035</td><td>Ethan Nicholas, Tobias&#x27;s cousin, born in Meridion</td><td><span class="tag t-Y">Your call</span></td></tr><tr><td class="when">7 Oct 2038</td><td>Aracelia and Alexandria born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">31 Oct 2038</td><td>Dalia born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">26 Oct 2055</td><td>Lucia and Charlotte born to Aracelia (17) and Jackson Harper</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">9 Sept 2060</td><td>Aracelia marries Jackson Harper</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">c. 2070</td><td>Michelle wins her Tournament; her Board year brings her to Tobias</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">15 April 2072</td><td>Tiran Lucien Blackwood born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">7 Sept 2072</td><td>Maxim born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">3 Oct 2073</td><td>Elias born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">c. 2074–2076</td><td>Lucia uses the Shadowmere route</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">7 Sept 2075</td><td>Zephyr born, then Zoe six minutes later</td><td><span class="tag t-Y">Your call</span></td></tr><tr><td class="when">Early 2076</td><td>Michelle marries Ethan Nicholas</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">14 July 2076</td><td>Katherine born, Old Prosperity</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">9 Sept 2076</td><td>Melena born; Lucia&#x27;s succession decree</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">2 Sept 2079</td><td>Cordelia born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">c. 2080</td><td>Eden dies; Aracelia accedes</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">14 May 2081</td><td>Louis born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">c. 2090</td><td>Elias called to the board as King, at sixteen</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">15–30 June 2090</td><td>Nathaniel abdicates; Dalia becomes Queen; Rovencia passes to Melena (13)</td><td><span class="tag t-Y">Your call</span></td></tr><tr><td class="when">1 Oct 2090</td><td>Orion born</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">7 Sept 2094</td><td>Lucia dies (the fixed anchor)</td><td><span class="tag t-Y">Your call</span></td></tr><tr><td class="when">11 Sept 2094</td><td>Guardianship orders; Tobias signs custody away</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">18 Sept 2094</td><td>Melena finds Lucia&#x27;s letter, addressed to Elias</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">c. 28 Sept 2094</td><td>3SL opens</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">Autumn 2094</td><td>Remy dies (3SL ch. 37); Melena leaves Shadowmere (ch. 41)</td><td><span class="tag t-T">3SL</span></td></tr><tr><td class="when">c. March 2095</td><td>Tobias dies</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">9 April 2095</td><td>Sebastian gives up his place</td><td><span class="tag t-S">Source</span></td></tr><tr><td class="when">Late Aug 2096</td><td>Suggested: the 3SL Epilogue, when Melena&#x27;s message arrives</td><td><span class="tag t-O">Open</span></td></tr><tr><td class="when">9 Sept 2096</td><td>FTE opens on Melena&#x27;s twentieth birthday</td><td><span class="tag t-A">Agreed</span></td></tr><tr><td class="when">Nov 2096</td><td>Clyde Hastings dies, during FTE</td><td><span class="tag t-S">Source</span></td></tr></tbody></table></div>
+</section>
+
+<section class="block" id="record">
+  <h2>The record, person by person</h2>
+  <section class="house"><h3>The imperial house: Mignonette, then Hastings, then Lockwood</h3><p class="intro">The throne takes its consort&#x27;s name: Mignonette becomes Hastings through Stephen, and Hastings becomes Lockwood through Tobias. Hair and eyes now sort cleanly: crimson hair and gold eyes come from the Hastings side, and emerald eyes come from the Lockwoods.</p><article class="person"><h4>Eden Genesis Caliane Azira Mignonette</h4><p class="life">Founding Empress · Year 1 ER · d. c. 2080</p><dl><dt>Full name</dt><dd><span>Eden Genesis Caliane Azira Mignonette; Hastings by marriage</span><span class="tag t-Y">Your call</span></dd><dt>On the throne</dt><dd><span>HIM Eden Genesis Caliane Azira, founding Empress of Remnia</span><span class="tag t-Y">Your call</span></dd><dt>F2025&#x27;s “Empress Caliane Azira Hastings”</dt><dd><span>Eden, by her middle names and married name</span><span class="tag t-Y">Your call</span></dd><dt>Spouse</dt><dd><span>Stephen Abraham Hastings, Emperor Consort</span><span class="tag t-S">Source</span></dd><dt>Children</dt><dd><span>Richard (2024), Madeleine (2028), Victoria (2035), and the twins Aracelia and Alexandria (2038)</span><span class="tag t-S">Source</span></dd><dt>Death</dt><dd><span>c. 2080, after blessing Lucia&#x27;s 2076 succession decree</span><span class="tag t-A">Agreed</span></dd><dt>To Elias</dt><dd><span>Great-grandmother</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Stephen Abraham Hastings</h4><p class="life">Emperor Consort</p><dl><dt>Role</dt><dd><span>Emperor Consort; Flamer Regnant until 2062</span><span class="tag t-S">Source</span></dd><dt>House</dt><dd><span>The dynasty takes his name, which sets the precedent Tobias repeats</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Richard David Elliot Hastings</h4><p class="life">b. 3 Sept 2024</p><dl><dt>Title</dt><dd><span>Crown Prince at birth; displaced in 2055 by his younger sister Aracelia</span><span class="tag t-S">Source</span></dd><dt>Family</dt><dd><span>m. Princess Ember; Olympia (2058), Estelle (2059)</span><span class="tag t-S">Source</span></dd><dt>2094</dt><dd><span>70 years old. Petitions for Elias, is granted Louis, and leads the Hastings faction</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Madeleine Beatrix</h4><p class="life">b. 15 July 2028</p><dl><dt>Family</dt><dd><span>m. Lord Felix D&#x27;Arcy; Aveline (2060), Isabella (2063), Arabella (2064), raised in Verdant. The D&#x27;Arcys are the imperial family&#x27;s Verdant branch</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Victoria Cassiopeia</h4><p class="life">b. 22 March 2035</p><dl><dt>Family</dt><dd><span>Flamer; m. Lord Adrian Wells; Fiona (2065)</span><span class="tag t-S">Source</span></dd><dt>Title</dt><dd><span>The Princess Imperial in 2063; the title passes to whoever is next in line</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Aracelia Meson Mignonette Hastings</h4><p class="life">b. 7 Oct 2038 · Empress from c. 2080</p><dl><dt>Name</dt><dd><span>Aracelia Meson Mignonette Hastings. F2025&#x27;s “Empress Aracelia Lockwood” is a caption error</span><span class="tag t-A">Agreed</span></dd><dt>Titles</dt><dd><span>Duchess of Meridion; heir from 2055 over Richard; Empress from c. 2080</span><span class="tag t-A">Agreed</span></dd><dt>Element</dt><dd><span>Frost</span><span class="tag t-S">Source</span></dd><dt>Spouse</dt><dd><span>Duke Jackson Harper of Zenithia, married 9 Sept 2060</span><span class="tag t-A">Agreed</span></dd><dt>Children</dt><dd><span>Lucia and Charlotte (26 Oct 2055, born before the wedding), Elaine (2056), Arianne (2066)</span><span class="tag t-S">Source</span></dd><dt>Ages</dt><dd><span>57 when Lucia dies; 58 at FTE, when she is thinking of abdicating</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Jackson Harper</h4><p class="life">Duke of Zenithia</p><dl><dt>Role</dt><dd><span>Lucia&#x27;s father; styled “The Crown Prince” on marrying Aracelia</span><span class="tag t-S">Source</span></dd><dt>Province</dt><dd><span>Zenithia, which is why Lucia is Duchess of Zenithia</span><span class="tag t-A">Agreed</span></dd><dt>Sister</dt><dd><span>Annemarie Harper, Elite Regnant from 2061 and still in 2091</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Alexandria Melena Mignonette</h4><p class="life">b. 7 Oct 2038</p><dl><dt>Title</dt><dd><span>Duchess of Alleia; Aracelia&#x27;s younger twin</span><span class="tag t-S">Source</span></dd><dt>Family</dt><dd><span>m. Lord Clyde Hastings, who dies in Nov 2096, during FTE; Amalia (2062), Evangeline (2063)</span><span class="tag t-S">Source</span></dd><dt>Namesake</dt><dd><span>Melena is named after her great-aunt Alexandria Melena</span><span class="tag t-Y">Your call</span></dd></dl></article><article class="person"><h4>Lucia Noelle Marie Hastings-Lockwood</h4><p class="life">b. 26 Oct 2055 · d. 7 Sept 2094</p><dl><dt>Born</dt><dd><span>26 Oct 2055, three minutes ahead of her twin Charlotte</span><span class="tag t-S">Source</span></dd><dt>Titles</dt><dd><span>The Princess Imperial; Crown Princess; Duchess of Zenithia (honorific)</span><span class="tag t-A">Agreed</span></dd><dt>Spouse</dt><dd><span>Tobias Lockwood, Prince Consort, in a match Eden arranged to bind House Lockwood</span><span class="tag t-A">Agreed</span></dd><dt>Children</dt><dd><span>Elias (2073), Melena (2076), Cordelia (2079), Louis (2081)</span><span class="tag t-S">Source</span></dd><dt>Element</dt><dd><span>Frost</span><span class="tag t-A">Agreed</span></dd><dt>Eyes, hair</dt><dd><span>Hastings gold eyes; crimson Hastings hair</span><span class="tag t-Y">Your call</span></dd><dt>Shadowmere</dt><dd><span>Used the route c. 2074–2076; Selah knew her (3SL ch. 22–23)</span><span class="tag t-A">Agreed</span></dd><dt>Succession decree</dt><dd><span>2076: birth order counts, regardless of sex</span><span class="tag t-A">Agreed</span></dd><dt>Katherine</dt><dd><span>Originates her erasure</span><span class="tag t-C">Canon</span></dd><dt>Death</dt><dd><span>At 38, in a car accident at night, on a call with Melena. “Nighttime medical crisis” is the palace statement</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Charlotte, Elaine and Arianne Hastings</h4><p class="life">Lucia&#x27;s sisters</p><dl><dt>Charlotte Elizabeth Anai</dt><dd><span>b. 26 Oct 2055, three minutes after Lucia; children by 2090. The Hastings faction&#x27;s living alternative to Lucia&#x27;s line</span><span class="tag t-A">Agreed</span></dd><dt>Elaine Marie</dt><dd><span>b. 21 Nov 2056; children by 2090</span><span class="tag t-S">Source</span></dd><dt>Arianne Jessamine</dt><dd><span>b. 2 April 2066 (the entry&#x27;s “Amelia Joy” is a slip)</span><span class="tag t-A">Agreed</span></dd></dl></article></section><section class="house"><h3>House Lockwood</h3><p class="intro">Tobias&#x27;s father is now Sawyer, which keeps him apart from Duke Alistair Blackwood. That matters in 3SL, where “Blackwood” is said right next to “Melena Lockwood” (ch. 23).</p><article class="person"><h4>Sawyer and Rowena Lockwood</h4><p class="life">b. c. 2007 and c. 2010</p><dl><dt>Name</dt><dd><span>Duke Sawyer Lockwood (BSS&#x27;s “Alistair” renamed)</span><span class="tag t-Y">Your call</span></dd><dt>Ages</dt><dd><span>87 and 84 in 2094</span><span class="tag t-A">Agreed</span></dd><dt>2094</dt><dd><span>Petition for Elias&#x27;s guardianship on 2 July; granted Cordelia on 11 Sept</span><span class="tag t-S">Source</span></dd><dt>Sawyer&#x27;s sister</dt><dd><span>Celeste, who married into the Nicholas house</span><span class="tag t-Y">Your call</span></dd></dl></article><article class="person"><h4>Celeste Nicholas, born Lockwood</h4><p class="life">d. before 2076</p><dl><dt>Who</dt><dd><span>Sawyer&#x27;s sister: Tobias&#x27;s aunt</span><span class="tag t-Y">Your call</span></dd><dt>Marriage</dt><dd><span>Married into the Nicholas house of Meridion; mother of Ethan Nicholas</span><span class="tag t-Y">Your call</span></dd><dt>Name</dt><dd><span>Katherine&#x27;s middle name honours her</span><span class="tag t-S">Source</span></dd><dt>Not</dt><dd><span>Lady Celeste Blackwood, Tiran&#x27;s mother, who is alive in 2072</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Tobias Lockwood</h4><p class="life">b. 2 Aug 2035 · d. c. March 2095</p><dl><dt>Born</dt><dd><span>Lockwood Manor, Highcrest; heir to the house at birth</span><span class="tag t-A">Agreed</span></dd><dt>Role</dt><dd><span>Prince Consort; the throne&#x27;s house becomes Lockwood through him</span><span class="tag t-A">Agreed</span></dd><dt>Element</dt><dd><span>Fire</span><span class="tag t-A">Agreed</span></dd><dt>Eyes</dt><dd><span>Lockwood emerald. “You have my eye color” is literally true for Melena</span><span class="tag t-Y">Your call</span></dd><dt>Cousin</dt><dd><span>Ethan Nicholas, son of his aunt Celeste; both born in 2035</span><span class="tag t-Y">Your call</span></dd><dt>Michelle</dt><dd><span>Met during her Board year (c. 2070–71); together again from c. 2075, through Lucia&#x27;s pregnancy with Melena</span><span class="tag t-A">Agreed</span></dd><dt>Katherine</dt><dd><span>Visits Old Prosperity and teaches her the imperial bow. His signature on the “bloodline suppression docs” is his non-acknowledgment</span><span class="tag t-A">Agreed</span></dd><dt>Godfather</dt><dd><span>To Zoe and Orion Augustine, who carry “Lockwood” in their names</span><span class="tag t-A">Agreed</span></dd><dt>After Lucia</dt><dd><span>Signs custody of his children away (11 Sept 2094)</span><span class="tag t-A">Agreed</span></dd><dt>Death</dt><dd><span>About six months after Lucia. He stops eating, then falls on wet stairs; the court calls it an accident, and Melena believes it was suicide</span><span class="tag t-A">Agreed</span></dd></dl></article></section><section class="house"><h3>Lucia and Tobias&#x27;s children</h3><p class="intro">Lucia&#x27;s 2076 decree sets the order by birth, not by sex.</p><article class="person"><h4>Elias Louis Alexander Lockwood</h4><p class="life">b. 3 Oct 2073</p><dl><dt>Born</dt><dd><span>3 Oct 2073; Lucia is seventeen, as Aracelia was</span><span class="tag t-A">Agreed</span></dd><dt>Eyes</dt><dd><span>Hastings gold, from his mother</span><span class="tag t-Y">Your call</span></dd><dt>Titles</dt><dd><span>Prince at birth; Duke of Somnoria; Crown Prince from Lucia&#x27;s death</span><span class="tag t-A">Agreed</span></dd><dt>His Tournament</dt><dd><span>Called to the board as King c. 2090, at sixteen</span><span class="tag t-A">Agreed</span></dd><dt>At FTE</dt><dd><span>Missing from Remnia; Professor Thorne in Somnoria</span><span class="tag t-C">Canon</span></dd><dt>Later</dt><dd><span>Forced to return in Book 3</span><span class="tag t-S">Source</span></dd><dt>3SL</dt><dd><span>Lucia&#x27;s last letter is addressed to him; Melena burns it in ch. 20</span><span class="tag t-T">3SL</span></dd></dl></article><article class="person"><h4>Melena Elizabeth Beatrix Lockwood</h4><p class="life">b. 9 Sept 2076</p><dl><dt>Born</dt><dd><span>9 Sept 2076. She turns twenty the morning FTE opens</span><span class="tag t-A">Agreed</span></dd><dt>Element</dt><dd><span>Fire, volatile; she took after Tobias</span><span class="tag t-S">Source</span></dd><dt>Eyes, hair</dt><dd><span>Lockwood emerald eyes, Tobias&#x27;s (the green that stops Silas in 3SL); crimson Hastings hair</span><span class="tag t-Y">Your call</span></dd><dt>Title</dt><dd><span>Duchess of Rovencia, one of London Town&#x27;s strongest allies. It passes to her from Dalia when Dalia becomes Queen in June 2090</span><span class="tag t-Y">Your call</span></dd><dt>Succession</dt><dd><span>Second, after Elias</span><span class="tag t-A">Agreed</span></dd><dt>Guardians</dt><dd><span>Lorelei and Lady Helena&#x27;s household, from 11 Sept 2094</span><span class="tag t-S">Source</span></dd><dt>Named for</dt><dd><span>Her great-aunt Alexandria Melena</span><span class="tag t-Y">Your call</span></dd><dt>In Shadowmere</dt><dd><span>Mira. Remy makes her promise never to say her own name there (3SL ch. 23)</span><span class="tag t-T">3SL</span></dd></dl></article><article class="person"><h4>Cordelia Gwendolyn Marie Lockwood</h4><p class="life">b. 2 Sept 2079</p><dl><dt>Element, looks</dt><dd><span>Frost from Lucia; amber (Hastings gold) eyes like Elias&#x27;s; crimson hair like Melena&#x27;s</span><span class="tag t-Y">Your call</span></dd><dt>Succession</dt><dd><span>Third</span><span class="tag t-S">Source</span></dd><dt>Guardians</dt><dd><span>Her Lockwood grandparents, Sawyer and Rowena</span><span class="tag t-S">Source</span></dd><dt>Later</dt><dd><span>“Prepared to take the crown”</span><span class="tag t-S">Source</span></dd></dl></article><article class="person"><h4>Louis Reginald Henry Lockwood</h4><p class="life">b. 14 May 2081</p><dl><dt>Succession</dt><dd><span>Fourth</span><span class="tag t-S">Source</span></dd><dt>Guardian</dt><dd><span>Prince Richard, his great-uncle</span><span class="tag t-S">Source</span></dd><dt>Detail</dt><dd><span>Has Lucia&#x27;s hands</span><span class="tag t-S">Source</span></dd></dl></article></section><section class="house"><h3>Michelle, Ethan and Katherine</h3><p class="intro">Lucia&#x27;s legal erasure of Katherine works through a marriage: Michelle marries Ethan Nicholas before Katherine is born, and he becomes the father on her records. Ethan is Tobias&#x27;s first cousin, so the man on the paperwork is family.</p><article class="person"><h4>Michelle Nicholas</h4><p class="life">b. c. 2050</p><dl><dt>Her Tournament</dt><dd><span>Conqueror c. 2070, with the Leadership Board seat that follows</span><span class="tag t-A">Agreed</span></dd><dt>Rank</dt><dd><span>Lieutenant; undefeated former Captain of the En Guard</span><span class="tag t-S">Source</span></dd><dt>Tobias</dt><dd><span>Met him during her Board year, before his marriage; “tried to make it work for years”</span><span class="tag t-A">Agreed</span></dd><dt>Marriage</dt><dd><span>Married Ethan Nicholas in early 2076, while pregnant</span><span class="tag t-A">Agreed</span></dd><dt>Family</dt><dd><span>Her maternal grandmother is the Medina of Katherine&#x27;s name</span><span class="tag t-S">Source</span></dd><dt>Since stepping down</dt><dd><span>A Sanctum assignment; she trades records for Katherine&#x27;s Tournament slot</span><span class="tag t-A">Agreed</span></dd><dt>Dalia</dt><dd><span>One of the three people who knew about her and Tobias</span><span class="tag t-S">Source</span></dd></dl></article><article class="person"><h4>Ethan Nicholas</h4><p class="life">b. 18 Nov 2035</p><dl><dt>Born</dt><dd><span>Nicholas Estate, Meridion; head of the Nicholas house; an academic</span><span class="tag t-S">Source</span></dd><dt>Parents</dt><dd><span>Son of Celeste Nicholas, born Lockwood</span><span class="tag t-Y">Your call</span></dd><dt>Role</dt><dd><span>Katherine&#x27;s legal father. Her biological father is Tobias</span><span class="tag t-C">Canon</span></dd></dl></article><article class="person"><h4>Katherine Medina Celeste Nicholas</h4><p class="life">b. 14 July 2076</p><dl><dt>Born</dt><dd><span>Military Hospital, Old Prosperity; eight weeks before Melena</span><span class="tag t-S">Source</span></dd><dt>Parents</dt><dd><span>Michelle and Tobias; Ethan on her records</span><span class="tag t-C">Canon</span></dd><dt>Names</dt><dd><span>Medina for Michelle&#x27;s grandmother. Celeste for Celeste Nicholas, who is both Tobias&#x27;s aunt and Ethan&#x27;s mother, so the name reads as innocent on either side</span><span class="tag t-Y">Your call</span></dd><dt>Element</dt><dd><span>Registered Frost</span><span class="tag t-S">Source</span></dd><dt>Surname</dt><dd><span>Katherine Nicholas for life, by her own choice, because of her mother. She keeps it after she is acknowledged and named heir apparent in Book 3</span><span class="tag t-Y">Your call</span></dd><dt>Rank once acknowledged</dt><dd><span>Ahead of Melena, by eight weeks, under Lucia&#x27;s decree</span><span class="tag t-A">Agreed</span></dd><dt>Eyes</dt><dd><span>Not set. Emerald would make her Tobias&#x27;s daughter at a glance</span><span class="tag t-O">Open</span></dd></dl></article></section><section class="house"><h3>London Town: Kinross, then Augustine</h3><p class="intro">London Town follows the imperial pattern: Kinross becomes Augustine through Dalia&#x27;s consort.</p><article class="person"><h4>Samantha Ruby Kinross</h4><p class="life">First Queen of London Town</p><dl><dt>Role</dt><dd><span>Founds House Kinross; Eden&#x27;s adviser; the first to serve as Queen, Queen Regent and Queen Dowager</span><span class="tag t-S">Source</span></dd><dt>Husbands</dt><dd><span>King Edward XVIII, Dalia&#x27;s father; then King Brenton, who dies in 2058</span><span class="tag t-A">Agreed</span></dd><dt>Children</dt><dd><span>Lauren (2024), Angelica (2035), Dalia (2038), Nathaniel (2039), Fallon (2040)</span><span class="tag t-S">Source</span></dd></dl></article><article class="person"><h4>Edward XVIII</h4><p class="life">d. c. 2041–2045</p><dl><dt>Role</dt><dd><span>King of an old royal line that is older than the Empire; Maxim&#x27;s grandfather</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Nathaniel Reece Isaiah Kinross</h4><p class="life">b. 24 Nov 2039</p><dl><dt>Reign</dt><dd><span>King from 2058; abdicates to Dalia on 15 June 2090</span><span class="tag t-S">Source</span></dd><dt>His rule</dt><dd><span>Daughters keep their place by birth order, “as long as they are born to the Queen and Prince Consort”</span><span class="tag t-S">Source</span></dd><dt>Child</dt><dd><span>Arielle</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Arielle Monet Kinross</h4><p class="life">The Princess Royal</p><dl><dt>Place</dt><dd><span>Nathaniel&#x27;s daughter, left out by his own rule; Dalia restores her ahead of Orion</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>Lauren, Angelica and Fallon Kinross</h4><p class="life">Dalia&#x27;s sisters</p><dl><dt>Lauren Felicity</dt><dd><span>b. 2024; the Grand Princess; m. Lord Julian Somerset in 2065 and gave up her place</span><span class="tag t-A">Agreed</span></dd><dt>Angelica Demeter, Fallon Valentina</dt><dd><span>b. 2035 and 2040</span><span class="tag t-S">Source</span></dd></dl></article><article class="person"><h4>Dalia Clementine Lexington</h4><p class="life">b. 31 Oct 2038 · Queen from 30 June 2090</p><dl><dt>Titles</dt><dd><span>Duchess of Camor; Duchess of Rovencia until she becomes Queen, when Rovencia passes to Melena; Crown Princess from 2058</span><span class="tag t-Y">Your call</span></dd><dt>Spouse</dt><dd><span>David Augustine, Prince Consort</span><span class="tag t-A">Agreed</span></dd><dt>Michelle</dt><dd><span>Knew about her and Tobias; sat with her after Lucia and Tobias died</span><span class="tag t-S">Source</span></dd></dl></article><article class="person"><h4>David Augustine</h4><p class="life">Prince Consort</p><dl><dt>Family</dt><dd><span>Son of Lord Alexander Augustine; nephew of Lord George Augustine</span><span class="tag t-S">Source</span></dd><dt>House</dt><dd><span>London Town&#x27;s house takes his name</span><span class="tag t-A">Agreed</span></dd></dl></article><article class="person"><h4>The Augustine children</h4><p class="life">Dalia and David&#x27;s six</p><dl><dt>Maxim</dt><dd><span>b. 7 Sept 2072. Crown Prince; Terrain; refused the PAE three times to protect the succession</span><span class="tag t-S">Source</span></dd><dt>Minho</dt><dd><span>b. 12 Aug 2074. Gave up his place (3 March 2091) to join Old Prosperity; En Guard Captain</span><span class="tag t-S">Source</span></dd><dt>Zephyr</dt><dd><span>b. 7 Sept 2075, six minutes before Zoe. A true Fire/Frost Dyad, registered Frost at birth and re-registered Flamer after thirteen. Gave up his place to play for Old Prosperity</span><span class="tag t-Y">Your call</span></dd><dt>Zephyr&#x27;s eyes</dt><dd><span>Emerald, kept as a red herring: readers may wonder whether Tobias is the twins&#x27; father. He is only their godfather</span><span class="tag t-Y">Your call</span></dd><dt>Zoe</dt><dd><span>b. 7 Sept 2075. “Princess Zoe Dalia Lockwood Augustine”; violet eyes; Tobias&#x27;s goddaughter</span><span class="tag t-A">Agreed</span></dd><dt>Sebastian</dt><dd><span>b. 15 Aug 2076. Flamer; gave up his place (9 April 2095); has shielded Zephyr&#x27;s secret for years</span><span class="tag t-S">Source</span></dd><dt>Orion</dt><dd><span>b. 1 Oct 2090. “Orion Nathaniel Lockwood Augustine”; six at FTE; Tobias&#x27;s godson</span><span class="tag t-A">Agreed</span></dd></dl></article></section><section class="house"><h3>Kept separate: House Blackwood and the collateral lines</h3><article class="person"><h4>House Blackwood</h4><p class="life">London Town nobility</p><dl><dt>Duke Alistair Blackwood</dt><dd><span>Of London Town; namesake grandson of High Chancellor Alistair Blackwood, who served Eden in Year 2</span><span class="tag t-A">Agreed</span></dd><dt>Lady Celeste Blackwood</dt><dd><span>His wife. Not Celeste Nicholas</span><span class="tag t-A">Agreed</span></dd><dt>Tiran Lucien Blackwood</dt><dd><span>b. 15 April 2072, their second child and first son; a Flamer. He ran Shadowmere routes with Remy, and “Blackwood&#x27;s collecting” (3SL ch. 9) points at his house</span><span class="tag t-T">3SL</span></dd></dl></article><article class="person"><h4>Nora Victoria Alexandria Evans</h4><p class="life">b. 19 Aug 2063, Alleia</p><dl><dt>Who</dt><dd><span>The Sanctum&#x27;s first recorded dual attunement (Flight and Blocker). Her titles are her faction&#x27;s honours, not royal blood</span><span class="tag t-A">Agreed</span></dd></dl></article></section>
+</section>
+
+<section class="block" id="revisions">
+  <h2>Lines in the drafts that now need changing</h2>
+  <p class="intro">Each of these is a line in an existing file that the settled lineage contradicts. Nothing here has been edited.</p>
+  <div class="tscroll"><table class="rev"><thead><tr><th>File</th><th>It says</th><th>Change to</th></tr></thead>
+  <tbody><tr><td class="src">Beta, F2025</td><td>Melena&#x27;s “Lockwood amber” eyes (also F2025: “her amber eyes locking directly with Katherine&#x27;s”)</td><td>Lockwood emerald</td></tr><tr><td class="src">Beta</td><td>Cordelia&#x27;s “amber eyes and crimson hair like Melena&#x27;s”</td><td>Amber eyes like Elias&#x27;s; crimson hair like Melena&#x27;s</td></tr><tr><td class="src">BSS</td><td>Melena&#x27;s emerald eyes and crimson hair, “traits that have long been associated with the Hastings lineage”</td><td>Emerald eyes from the Lockwoods; crimson hair from the Hastings</td></tr><tr><td class="src">BSS</td><td>Elias&#x27;s golden eyes, “long associated with the Lockwood lineage”</td><td>Gold is the Hastings eye</td></tr><tr><td class="src">BSS</td><td>Duke Alistair Lockwood (67) and Duchess Rowena (64)</td><td>Duke Sawyer Lockwood (87) and Duchess Rowena (84)</td></tr><tr><td class="src">BSS</td><td>Melena, “Duchess of Avalon”</td><td>Duchess of Rovencia, from June 2090</td></tr><tr><td class="src">BSS</td><td>Zephyr, “the elder twin by two minutes”</td><td>Six minutes</td></tr><tr><td class="src">BSS</td><td>Eden as Elias&#x27;s “grandmother”, “deceased for decades” by 2091</td><td>Great-grandmother, dead for just over a decade</td></tr><tr><td class="src">BSS</td><td>Richard “55” in 2094; Lucia born 2047</td><td>Richard 70; Lucia born 2055</td></tr><tr><td class="src">CB</td><td>Melena born 2077</td><td>2076</td></tr><tr><td class="src">F4</td><td>“Katherine Lockwood” in Book 3</td><td>Katherine Nicholas, by her own choice</td></tr><tr><td class="src">F2025</td><td>“Empress Aracelia Lockwood”</td><td>Aracelia Hastings (a caption error)</td></tr><tr><td class="src">F2025, Mirror</td><td>Lucia a Flamer, Tobias a Frost</td><td>Lucia Frost, Tobias Fire. Leave the Mirror lines only if the Mirror is meant to distort</td></tr><tr><td class="src">Beta</td><td>“Months since the alley”</td><td>About two years: Remy dies in autumn 2094</td></tr></tbody></table></div>
+</section>
+
+<section class="block" id="check">
+  <h2>Checked against the 3SL outline</h2>
+  <ul class="check"><li class="k-fits"><span class="verdict">Fits</span><div><b>The opening</b> The outline starts with Melena already in Shadowmere, carrying Lucia&#x27;s letter unopened until ch. 5. BSS has her finding it on 18 Sept, so 3SL opening around 28 Sept 2094 holds.</div></li><li class="k-fits"><span class="verdict">Fits</span><div><b>The letter to Elias</b> Lucia&#x27;s last words go to her heir. Elias is Crown Prince from her death.</div></li><li class="k-fits"><span class="verdict">Fits</span><div><b>“Melena Lockwood”</b> The Synod&#x27;s name for her (ch. 23) matches the Lockwood surname.</div></li><li class="k-fits"><span class="verdict">Fits</span><div><b>Selah&#x27;s “Lucia?”</b> Melena has Lucia&#x27;s crimson hair, so Selah sees Lucia in her (ch. 22). The emerald eyes are Tobias&#x27;s: that&#x27;s the green that stops Silas.</div></li><li class="k-fits"><span class="verdict">Fits</span><div><b>Blackwood</b> “Blackwood&#x27;s collecting” (ch. 9) is Tiran&#x27;s house. Renaming Tobias&#x27;s father to Sawyer keeps “Blackwood” and “Lockwood” from blurring when both are said together (ch. 23).</div></li><li class="k-fits"><span class="verdict">Fits</span><div><b>Remy&#x27;s death</b> Ch. 37 falls in autumn 2094, about two years before FTE, as TCD-013 has it.</div></li><li class="k-note"><span class="verdict">Note</span><div><b>Tobias is alive</b> He lives until about March 2095, so he&#x27;s alive (having signed his children away) all through 3SL. Whether Melena thinks of him when she says “I don&#x27;t know who I am without my mother!” (ch. 20) is your call.</div></li><li class="k-note"><span class="verdict">Note</span><div><b>The Epilogue</b> It runs “straight into FTE”, so I&#x27;d set it in late August 2096: two years after the main story and days before FTE opens. The outline leaves this to you.</div></li><li class="k-ask"><span class="verdict">Ask</span><div><b>Asha Noelle Wraithmoor</b> Asha shares Lucia&#x27;s middle name, and Lucia sat in Selah&#x27;s kitchen around 2074–2076. If Asha was born around then, she could be named for Lucia. Is that echo intended?</div></li><li class="k-ask"><span class="verdict">Ask</span><div><b>“Mira”</b> None of Melena&#x27;s four names contains it. If it should come from a middle name, that would be a fifth name. I&#x27;d keep it as Remy&#x27;s name for her.</div></li></ul>
+</section>
+
+<section class="block" id="open">
+  <h2>Still open</h2>
+  <ul class="open"><li>Katherine&#x27;s eyes: emerald would make her Tobias&#x27;s daughter at a glance.</li><li>The Epilogue&#x27;s date: I suggest late August 2096.</li><li>Whether Asha Noelle is named for Lucia.</li><li>Where “Mira” comes from (3SL ch. 14): I&#x27;d keep it as Remy&#x27;s name for her, not one of hers.</li><li>How public Katherine&#x27;s birth stays (TCD-059): my suggestion is news for a week, unspeakable after, forgotten in twenty years.</li></ul>
+</section>
+</main>
