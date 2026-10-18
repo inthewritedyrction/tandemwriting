@@ -300,7 +300,7 @@ He asked before he'd decided why. The reasons showed up a second later and lined
 
 Something moved at the corner of her mouth, like she'd almost laughed at him and decided he didn't deserve it. “You ain't earned it.”
 
-It was a fair answer. Most people would have given him a name, a fake one, and he'd have known it was fake by the second syllable. She hadn't bothered lying. She just stood there in the drip from Pell's awning and let him not know, and Silas liked that more than he had time for.
+It was a fair answer. Most people would have given him a name, a fake one, and he'd have known it was fake by the second syllable. She hadn't bothered lying. She just stood there in the drip from Pell's awning and let him not know, and Silas liked that more than he had time for. Six seconds, maybe, of standing in a lane with a job at his back and doing nothing but looking at somebody who wouldn't tell him her name. From anybody else, he'd have called it a mistake.
 
 He looked past her to check on Melena, and the liking went out of him.
 
@@ -330,7 +330,7 @@ He'd already checked. Token in the left pocket, tin in the right, knife where it
 
 “She tried.”
 
-Melena looked at him from under the hood for a moment longer than the answer needed, then looked away. Silas went back over the lane in his head to see who might have turned for the crash and who might have kept looking afterward. He got the Hush shopkeeper, two women at the thread stall, a man with a cart who hadn't looked up at all. Then he got Ironcross rings, Ashvein dust, a missing cousin, and *You ain't earned it*, and he realized he had more of her than he had of anybody else in that lane, and none of it was what he needed.
+Melena looked at him from under the hood for a moment longer than the answer needed, then looked away. Silas went back over the lane in his head to see who might have turned for the crash and who might have kept looking afterward. He got the Hush shopkeeper, two women at the thread stall, a man with a cart who hadn't looked up at all. Then he got the ring, the middle one, close enough to his sternum that he'd felt the cold of it through his shirt before her fist ever stopped. Then Ashvein dust, a missing cousin, and *You ain't earned it*, and he realized he had more of her than he had of anybody else in that lane, and none of it was what he needed.
 
 He didn't have her name.
 
@@ -348,7 +348,7 @@ She looked at the wall the sound had come through. He gave her time for one brea
 
 The shop's shutter was down. Silas checked beneath it, then the narrow gap beside the false utility panel. He took the brass token from his pocket and pressed it into the center of the panel. Ward lines showed under his palm, and the panel released without pulling anything from him. He held it open for Melena and watched the alley until she had both feet on the stairs, then stepped through and closed it behind them.
 
-Her borrowed boots sounded too loud in the narrow stairwell. She heard it too and placed the next step more carefully. Silas kept to the side so she could use the rail and took the climb slower than he normally would. His shoulder didn't object to that part.
+Her borrowed boots sounded too loud in the narrow stairwell. She heard it too and placed the next step more carefully. Silas kept to the side so she could use the rail and took the climb slower than he normally would. His shoulder didn't object to that part. The ring came up every one of those stairs with him.
 
 Camille's seal waited at the top. He knew her work from the cuts around the frame, deep and even, every line finished all the way to the end the way she finished everything. The brass token wasn't going to be enough for this door. Silas drew his knife, nicked the side of his thumb, and pressed the fresh blood into the seal. He held it against the stone until the line closed, then took his hand away and put the small cut to his mouth. Behind him, Melena had stopped on the last stair.
 
@@ -362,7 +362,7 @@ Warm amber light reached the landing. Silas let Melena pass him, then checked th
 
 He left her in sight of the open door while he checked the bathroom and the bedroom. Fresh clothes filled the wardrobe. The bed was made, and the flowers on the table hadn't started to drop. Somebody had readied this place in the last day. Either Dante had sent someone this morning, or his mother had known a lot more over that crossword than *Don't know*. Silas would have bet on the second and hoped for the first. He checked the hidden emergency route out of habit. Only Mercer blood opened it, which made it the one door in the place nobody else could come through.
 
-Back in the main room, he lifted the corner of the rug nearest the kitchen. The ward line under it hadn't been disturbed. He laid the rug flat, checked the seals on the food, then took a bottle of water from the cabinet and set it within Melena's reach.
+Back in the main room, he lifted the corner of the rug nearest the kitchen. The ward line under it hadn't been disturbed. He laid the rug flat, checked the seals on the food, then took a bottle of water from the cabinet. Behind the water, a locked grate held a short row of small dark bottles labeled for emergency Dimming. Silas checked that the lock held and looked at them a second longer than he needed to before he shut the cabinet and set the water within Melena's reach.
 
 She'd taken off Dante's coat and laid it over a chair. Without it, the burned cuff showed against the table. She was smoothing the envelope again, working carefully around the place her hand had crushed it in the office.
 
@@ -550,7 +550,7 @@ Two men stepped up to the counter on her left. One stopped at the far end of the
 
 Pell reached under the counter, farther back than the drawer. He pulled out an envelope and set it down. The man beside Isola picked it up and slid it into his coat without looking at it. The man at the end of the counter looked at Isola's hand, the one still holding Rae's token out in the open air, and Isola felt that look all the way up her arm. She closed her fist over the token. He followed the first man out of the stall, and the two of them went up the lane toward the bend without hurrying.
 
-Pell didn't unlock the drawer until they'd been gone several minutes.
+Pell didn't unlock the drawer until they'd been gone several minutes, and when he finally did, his hands were shaking hard enough that the key took two tries.
 
 Isola dropped the cord back under her shirt while she waited. *Down here, nobody told you who owned the street until you owed it something.* Pell owed it something. She'd just watched him pay.
 
@@ -586,11 +586,11 @@ He reached for the scoop. Coats brushed behind her as somebody came up the lane,
 
 Asha was standing at the bend.
 
-Isola knew her from the way she stood before she could see her face, weight back, head turned just enough to count the turns ahead of her. Isola had never seen Asha stand like that anywhere she was supposed to be. The coat was dark, fitted close at the waist, and fell to her knees. Isola had never seen it in her life.
+Isola knew her from the way she stood before she could see her face, weight back, head turned just enough to count the turns ahead of her. Isola had never seen Asha stand like that anywhere she was supposed to be. The coat was dark, fitted close at the waist, and fell to her knees. A structured tote hung from her shoulder, stiff-sided and new, the kind of bag that held its shape whether there was anything in it or not. Isola had never seen either one in her life.
 
-Coats like that cost money. Money like that came from somewhere. Isola thought of the bags lined up against Asha's wall, and the coin sitting against her own hip, and she didn't like how easily the three things fit together.
+Coats like that cost money. Bags like that too. Money like that came from somewhere. Isola thought of the bags lined up against Asha's wall and the coin sitting against her own hip, and she didn't like how easily it all fit together.
 
-She turned from the counter, still talking. “And don't put none of that grey mess on her slip again or I'm telling her myself—”
+She was already stepping away from the counter toward the bend, still talking over her shoulder. “And don't put none of that grey mess on her slip again or I'm telling her myself—”
 
 Up ahead, something crashed. Glass went across stone, a shopkeeper yelled, and a boy came out of the Hush shop running straight down the lane at them. Somewhere close, a man's voice said one flat word, and a hooded shape moved toward the freight wall.
 
@@ -666,7 +666,9 @@ The lift groaned up the shaft with eleven people pressed into a cage built for e
 
 She spent the whole ride irritated by six seconds of him.
 
-Six seconds. She'd taken longer than that to decide whether to trust a coin. She went back over *You ain't earned it* and still liked it. Then she went back over *Then I owe you* and liked that a lot less, because she didn't know what he thought he owed her or how he planned to pay it. Isola knew what owing meant. Owing came with a number and a day, and he hadn't given her either one.
+Six seconds. She'd taken longer than that to decide whether to trust a coin. She went back over *You ain't earned it* and still liked it. Then she went back over *Then I owe you* and liked that a lot less, because she didn't know what he thought he owed her or how he planned to pay it. Isola knew what owing meant. Owing came with a number and a day, and he hadn't given her either one. If she ever laid eyes on him again, she planned on collecting.
+
+Somewhere past Service Shaft, she caught her thumb working the middle ring around her finger, the one that had stopped an inch from his chest. She made herself quit. By Ashvein West, she was doing it again.
 
 By the time the gate opened, the rain on her coat had started drying into dust. Coal smoke hung low over the lane, and she'd missed at least one bell while she was gone. The boys from across the street were gone from under their lantern. Isola trusted the empty spot less than she'd trusted the boys standing in it. Somebody had swept the red dust off the Wraithmoor step and left it piled at the edge, and Isola looked at that little pile longer than a pile deserved.
 
