@@ -820,4 +820,76 @@ The silver was warm.
 
 Not hot. Warm, like a hand had been resting against the other side of it for a while. Silas kept his palm there until he was sure he wasn't imagining it, then sat back down, a little closer to the door this time, and didn't take his eyes off the lock.
 
+No windows. He'd been glad about that when he walked the rooms. It meant the only way out of that apartment was this door, and the only thing between this door and Shadowmere was him.
+
+It took longer than he expected. Long enough for Gutterlight to call two more matches through the wall. Long enough for his shoulder to set like cooling iron, and for him to decide, more than once, that the warmth had been the corridor's and not hers.
+
+The smell reached him first. Hot metal, and under it something like singed cloth. Silas was on his feet before he'd decided to stand, and his shoulder charged him for every inch.
+
+The silver over the lock had gone from pale to bright. While he watched, it ran. The containment mark didn't break so much as give up, its lines sliding out of shape like wax down the side of a candle, and the lock behind it glowed dull red at the center, then a hard, clean orange.
+
+"Melena." He kept his voice level, the way he'd kept the knife low in his father's office. "Step back from the door."
+
+The answer was heat. It came through the wood like a hand in his chest and moved him back a step whether he meant to go or not. The lock gave with a sound like a bone going. The door swung in, then out, and Melena came through it with her hood down, her hands black to the second knuckle, and her eyes already on the stairs.
+
+He reached for her with his left arm because it was the one between them. It didn't come up. His shoulder locked halfway, every minute of last night in the Ring arriving at once, and by the time he'd turned to bring his right hand around, she was past him and on the stairs, Rhea's boots loud on every step.
+
+He went after her. He didn't look at what she'd done to Camille's frame on the way by. He'd hear about that later, at length.
+
+At the bottom, the panel stood open, its edge scorched black where she'd put her hands to it. Silas came through it into the rain and found the alley empty in both directions. Then he found her by the way people at the far end were turning around to look at something. She'd gone toward the light. People who didn't know Shadowmere always did. The lit end of the row ran straight back toward the market crowd, and she was halfway down it in a mourning dress with her hair loose, and every single person she passed was going to remember her.
+
+Silas didn't follow her down the row. He cut behind the tailor shops, through a gap between two walls that only people raised on these streets knew was a gap, and came out ahead of her where the row narrowed past a freight door. She saw him and turned hard into the nearest alley.
+
+It was the wrong alley. He'd known it would be. It ran forty feet and stopped at a wall of wet stone with a drain grate at the bottom, and by the time she reached the end of it and turned around, he was standing in its mouth with his good hand open at his side.
+
+"Don't," she said. Heat came off her in waves he could see, bending the rain before it reached her.
+
+"I'm not coming any closer."
+
+"I am not going back in there."
+
+"Then where you going?"
+
+She opened her mouth. Nothing came out of it. She didn't know. She'd burned through a Mercer lock and run out into a tier she couldn't name three streets of, and she had nowhere in Shadowmere to run to. Silas watched her understand that, and he watched it make her angrier, and the heat climbed.
+
+Then the sound went out.
+
+The rain didn't stop. He could see it falling, streaking past the lamp at the alley mouth and breaking on the stones at his feet, but the hiss of it was gone, all at once, like somebody had shut a door on it. Gutterlight's roar went with it. The drip off the gutters went. When Silas breathed, he couldn't hear that either.
+
+Silence. He knew it the way he knew the cold of his mother's seals.
+
+Out on the row, people had stopped moving. A woman with a basket stood frozen with her mouth open on a word that wasn't coming. Past her, three figures came down the middle of the street with no sound to them at all, veiled from crown to collar, pale bone marks showing through the cloth where their faces should have been. Nobody looked at them. Everybody on that row had learned a long time ago what happened to people who got to say afterward that they'd seen something.
+
+Melena's hair was loose and red. Her hands were giving off light at the knuckles like coals somebody had blown on. If one of those veils turned this way, there wasn't a shadow in Shadowmere deep enough to hide her in.
+
+There was no time to ask. There wasn't even sound to ask with.
+
+Silas crossed the alley in four steps, put her back to the wall, and opened his coat around her. He pressed her into the stone with his body between her and the street, pulled the coat closed over her hair, and put his right hand flat over both of her burning hands to cover the light.
+
+It was like closing his palm on a stove.
+
+He didn't move it. She went rigid against him, every inch of her furious, and he could feel her trying to shove him off and finding nothing to push against but the wall. Her heat came through his shirt. It came through the bandage Camille had wrapped. It came up into the bones of his hand, and he kept his hand where it was and his head turned so his face was the only thing the street could see, just another man in a dark coat leaning on a girl in an alley, which was nothing anybody on that row would look at twice.
+
+The three veils passed the alley mouth. One of them slowed. Silas didn't breathe. He couldn't have heard himself if he had. The veiled head turned a quarter of the way toward the dark where they stood, held there for a count he felt in his teeth, and then turned back to the street and kept going.
+
+Sound came back slowly, the way feeling came back to a foot that had been sat on. First the rain. Then the gutters. Then, from very far off, Gutterlight. Then his own breath, ragged, louder than he'd wanted it to be.
+
+He let go of her hands and stepped back.
+
+His palm was blistered across the middle, raw and shining where the bandage had burned through. He didn't look at it long. Melena came off the wall like she'd been thrown from it and put three feet of alley between them. Her hands had stopped glowing. She was shaking, and he didn't think it was all the cold.
+
+He owed her the truth more than he owed her an apology, so he gave her that.
+
+"I touched you without asking," Silas said. "I'd do it again."
+
+She looked at his hand. She looked at his face. Whatever she found there didn't soften anything about her own.
+
+"Then don't ask me to thank you."
+
+He didn't. He jerked his chin toward the mouth of the alley, and after a long moment, she went, because she'd seen the same three veils he had and she wasn't stupid. He walked her back down the row with his burned hand held away from his coat and his eyes on every doorway, through the scorched panel and up the stairs, past what was left of the lock.
+
+The door wouldn't latch anymore. He got her inside and pulled it shut as far as it would go, and when that wasn't far enough, he set the chair in the doorway and sat down in it with his back against the frame, half in the corridor and half in the room, his bad arm against his ribs and his good hand open on his knee, throbbing in time with his pulse.
+
+Behind him, Melena sat down at the table with the envelope and didn't say a word.
+
 Last night, at least, he'd known what he was fighting.
