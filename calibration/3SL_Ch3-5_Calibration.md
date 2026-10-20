@@ -868,7 +868,7 @@ Silas crossed the alley in four steps, put her back to the wall, and opened his 
 
 It was like closing his palm on a stove.
 
-He didn't move it. She went rigid against him, every inch of her furious, and he could feel her trying to shove him off and finding nothing to push against but the wall. Her heat came through his shirt. It came through the bandage Camille had wrapped. It came up into the bones of his hand, and he kept his hand where it was and his head turned so his face was the only thing the street could see, just another man in a dark coat leaning on a girl in an alley, which was nothing anybody on that row would look at twice.
+He didn't move it. She went rigid against him, every inch of her furious, and he could feel her trying to shove him off and finding nothing to push against but the wall. Her heat came through his shirt and up into the bones of his hand, and he kept his hand where it was and his head turned so his face was the only thing the street could see, just another man in a dark coat leaning on a girl in an alley, which was nothing anybody on that row would look at twice.
 
 The three veils passed the alley mouth. One of them slowed. Silas didn't breathe. He couldn't have heard himself if he had. The veiled head turned a quarter of the way toward the dark where they stood, held there for a count he felt in his teeth, and then turned back to the street and kept going.
 
@@ -876,7 +876,7 @@ Sound came back slowly, the way feeling came back to a foot that had been sat on
 
 He let go of her hands and stepped back.
 
-His palm was blistered across the middle, raw and shining where the bandage had burned through. He didn't look at it long. Melena came off the wall like she'd been thrown from it and put three feet of alley between them. Her hands had stopped glowing. She was shaking, and he didn't think it was all the cold.
+His palm was blistered across the middle, raw and shining. He didn't look at it long. Melena came off the wall like she'd been thrown from it and put three feet of alley between them. Her hands had stopped glowing. She was shaking, and he didn't think it was all the cold.
 
 He owed her the truth more than he owed her an apology, so he gave her that.
 
