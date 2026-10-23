@@ -10,12 +10,14 @@ const require = createRequire(import.meta.url);
 let playwright;
 try { playwright = require('playwright'); } catch { try { playwright = require('/opt/node-tools/node_modules/playwright'); } catch { playwright = require('/opt/node22/lib/node_modules/playwright'); } }
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const pdfPath = process.argv[2] || path.join(root, 'dist', 'TKC_Volume_One_Workbook.pdf');
+const VOL = process.env.TKC_VOL || '1';
+const SFX = VOL === '1' ? '' : '_v' + VOL;
+const pdfPath = process.argv[2] || path.join(root, 'dist', VOL === '1' ? 'TKC_Volume_One_Workbook.pdf' : 'TKC_Volume_Two_Workbook.pdf');
 fs.mkdirSync(path.dirname(pdfPath), { recursive: true });
 
 const browser = await playwright.chromium.launch();
 const page = await browser.newPage({ viewport: { width: 816, height: 1056 } });
-await page.goto('file://' + path.join(root, 'out', 'workbook.html'), { waitUntil: 'networkidle' });
+await page.goto('file://' + path.join(root, 'out', `workbook${SFX}.html`), { waitUntil: 'networkidle' });
 await page.evaluate(() => document.fonts.ready);
 await page.emulateMedia({ media: 'print' });
 
@@ -53,7 +55,7 @@ const report = await page.evaluate(() => {
   });
   return { pages: document.querySelectorAll('.page').length, over, short };
 });
-fs.writeFileSync(path.join(root, 'out', 'overflow.json'), JSON.stringify(report, null, 1));
+fs.writeFileSync(path.join(root, 'out', `overflow${SFX}.json`), JSON.stringify(report, null, 1));
 console.log(`${report.short.length} short writing areas`);
 await page.pdf({ path: pdfPath, width: '8.5in', height: '11in', printBackground: true, preferCSSPageSize: true });
 await browser.close();
@@ -61,7 +63,7 @@ console.log(`${report.pages} pages · ${report.over.length} layout problems`);
 for (const o of report.over) console.log('  ' + o);
 // record which prompts need a working page, for the next wb.py run
 {
-  const html = fs.readFileSync(path.join(root, 'out', 'workbook.html'), 'utf8');
+  const html = fs.readFileSync(path.join(root, 'out', `workbook${SFX}.html`), 'utf8');
   const conts = report.short.map(s => {
     const re = new RegExp('<section class="page[^"]*">', 'g');
     let m, n = 0, start = -1;
@@ -70,11 +72,11 @@ for (const o of report.over) console.log('  ' + o);
     const rh = (seg.match(/<div class="rh">(.*?)<\/div>/) || [, ''])[1].replace(/<[^>]+>/g, '');
     return { rh: rh.replace(/&amp;/g, '&'), prompt: s.prompt.replace(/\s+/g, ' ').trim().toUpperCase(), mode: s.mode };
   });
-  const prev = fs.existsSync(path.join(root, 'out', 'continuations.json')) ? JSON.parse(fs.readFileSync(path.join(root, 'out', 'continuations.json'), 'utf8')) : [];
+  const prev = fs.existsSync(path.join(root, 'out', `continuations${SFX}.json`)) ? JSON.parse(fs.readFileSync(path.join(root, 'out', `continuations${SFX}.json`), 'utf8')) : [];
   const key = c => c.rh + '|' + c.prompt;
   const all = [...prev, ...conts.filter(c => !c.rh.endsWith('WORKING SPACE'))];
   const m = new Map();
   for (const c of all) { const old = m.get(key(c)); m.set(key(c), old && old.mode === 'move' ? old : c); }
   const uniq = [...m.values()];
-  fs.writeFileSync(path.join(root, 'out', 'continuations.json'), JSON.stringify(uniq, null, 1));
+  fs.writeFileSync(path.join(root, 'out', `continuations${SFX}.json`), JSON.stringify(uniq, null, 1));
 }

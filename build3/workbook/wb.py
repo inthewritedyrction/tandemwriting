@@ -22,6 +22,10 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 OUT = ROOT / 'out'
+import os
+VOL = os.environ.get('TKC_VOL', '1')
+SFX = '' if VOL == '1' else '_v' + VOL
+UNITS = 'units' if VOL == '1' else 'units_v' + VOL
 
 LABELS = ['INTERPRETATION', 'CONTESTED', 'INFERENCE', 'POSSIBLE', 'OPEN QUESTION', 'CONFLICT',
           'SUPERSEDED', 'DECIDED', 'RESEARCH']
@@ -314,7 +318,7 @@ def margin_html(attrs, page_kind):
 
 
 def build():
-    units = sorted((HERE / 'units').glob('*.tkc'))
+    units = sorted((HERE / UNITS).glob('*.tkc'))
     pages = []  # (kind, attrs, lines)
     for u in units:
         cur = None
@@ -327,7 +331,7 @@ def build():
                 cur[2].append(line)
     # a dense page whose writing area came out short gets a working page after it
     # (out/continuations.json is written by the print step and keyed by the page's running head + prompt)
-    cont_file = OUT / 'continuations.json'
+    cont_file = OUT / f'continuations{SFX}.json'
     conts = json.loads(cont_file.read_text()) if cont_file.exists() else []
     if conts:
         want = {(c['rh'], c['prompt']): c.get('mode', 'add') for c in conts}
@@ -399,10 +403,10 @@ def build():
         html_pages.append(f'<section class="page {kind} {parity}">{rh}<div class="body"><div class="main">{main}</div>'
                           f'{margin_html(attrs, kind)}</div>{folio}</section>')
 
-    doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>TKC Volume One · The World Dossier</title>'
+    doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>TKC Volume ' + ('One · The World Dossier' if VOL == '1' else 'Two · The People') + '</title>'
            '<link rel="stylesheet" href="../workbook/wb.css"></head><body>' + ''.join(html_pages) + '</body></html>')
     OUT.mkdir(exist_ok=True)
-    (OUT / 'workbook.html').write_text(doc)
+    (OUT / f'workbook{SFX}.html').write_text(doc)
     print(len(html_pages), 'pages')
 
 
