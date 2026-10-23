@@ -1,0 +1,52 @@
+                                          F R O N T   M AT T E R   ·   S TAT U S   A N D   S O U R C E
+
+
+
+
+STATUS AND SOURCE
+The signals on the facing page tell you what kind of material you are reading. These two systems tell you
+something dierent and equally necessary: how settled a claim is, and where it came from. All three run at
+once and none of them substitutes for another.
+
+I    ·       CL AIM   S TAT U S   —   INLINE,   IN    THE   SENTENCE    ITSELF
+
+
+
+[C]                  Canon. Established by the manuscript or by an approved worldbuilding source, and logged.
+                     Nothing is canon because it is good; it is canon because it is logged.
+[P]                  Possible. A working idea or reading of your own that has not been approved. Freewriting lands
+                     here by default and stays here until you move it.
+[?]                  Question. Something the manuscript and the companion have not answered, named as open
+                     rather than left to look like an answer.
+[R]                  Research. A claim needing biblical, historical, linguistic, or worldbuilding veri cation before it
+                     is used as evidence.
+
+II       ·    SOURCE     N O TAT I O N   —   OUTER     MARGIN,     NEVER   INLINE
+
+
+
+The outer margin column carries provenance and nothing else: where a statement on that page comes from.
+Margins are mirrored, so the column is always on the outside edge — left on a left-hand page, right on a
+right-hand page. A status marker is not provenance; a claim can be Canon and still owe you a source.
+BIBLICAL
+                                         Book, chapter, and verse — Gen 3.16, Eph 5.21–33. The passage the page is
+                                         actually about.
+MANUSCRIPT
+                                         The witness at issue — Sinaiticus, Vaticanus, Masoretic Text, Septuagint, Dead Sea
+                                         Scrolls, or a translation's own textual footnote.
+LEXICON
+                                         Where a word's range is the question — a standard Greek or Hebrew lexicon, cited
+                                         by name, never a word-study memory.
+C O M M E N TA R Y
+                                         A named commentary or critical study standing behind a reading, so the reading
+                                         can be traced and checked.
+H I S TO R I C A L
+                                         Non-biblical evidence — a canon list, a council, a Roman household code, an
+                                         ancient Near Eastern parallel.
+T KC         SOURCE
+                                         Your own les, tagged as they are in the ledger — timeline, Dominions, Trials, the
+                                         men, the manuscript, a draft.
+✥ A page with a status marker and no source is un nished. Say where it came from, or mark it [R] and move on.
+
+                                                                       v
+
