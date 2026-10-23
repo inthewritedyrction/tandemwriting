@@ -1,0 +1,82 @@
+@opener id="zara" rh="THE COVENANT DAUGHTERS · XI · ZARA · PORTRAIT" m="TKC: TR · TL · DOM · WR 27; VOL. I · {v1:sable}"
+plate: frame | PORTRAIT · ZARA VOSS · TWENTY-ONE · DOMINION OF SABLE
+/end
+tk: PART III · COVENANT DAUGHTER XI · ⌖
+big: Zara
+lede: Two Sable women are worth five from anywhere else. Her real name is Tazaleh, and the Empire doesn't have it (TL).
+calls:
+k: On the record
+Zara Voss of Sable Reach, twenty-one. Nominated by her mother. Excelled in Sable's Regional Assessment. Underestimated on arrival, and she doesn't stay underestimated (TR).
+||
+k: Her fate
+One of the women standing at the final checkpoint, and she advances to final consideration (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · XI · ZARA · THE RECORD AND HER DOMINION" m="TKC: TR · TL · DOM; VOL. I · {v1:sable} · {v1:lived5}"
+# Sable Reach and the desert
+plate: doc
+dh: Covenant Registry | DOMINION OF SABLE · SABLE REACH
+df: Candidate | VOSS, Zara · twenty-one
+df: Nominated by | her mother (TR)
+df: Mother | Unbound · raised her alone
+df: Father | unnamed (TR)
+df: Desert name | not on file
+stamp: COVENANT DAUGHTER
+/end
+rec:
+Her grandmother | Her real name is one the desert knows and the Empire doesn't. She raised Zara with the Sable education: the land, the plants, and the patience of someone who reads an environment that kills you if you misread it (TR).
+Her father | Unnamed, the way the desert is unnamed. It exists, it shaped everything, and it doesn't need documentation (TR).
+Her Dominion | The Empire sees the desert and sees geography to manage. Sable women see a teacher (TR). The Empire renamed the cities and not the land, and the scoring process has no rubric for silence as calculation (DOM).
+In the Trials | The Trial has had three cycles to learn what two Sable women are worth, and hasn't adjusted. Zara's been counting on that (TR).
+prompt: What her grandmother taught her first | fill
+
+@page rh="THE COVENANT DAUGHTERS · XI · ZARA · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · TL · DOM; VOL. I · {v1:sable} · {v1:lived5}"
+# What she believes
+rec:
+Who taught her | Her grandmother and the desert (TR). The Finding, a girl left at a family site from sunset to sunrise, and what she brings back becomes her adult name in the community (DOM).
+What she carries | Two names, as Sable women do, one the Empire knows and one that lives in the house where it can't reach (TR). Hers is Tazaleh (TL).
+What she practices | The Desert Walk before a Binding. The dead given back to the desert, the name said once into a fire that nobody puts out (DOM).
+empire: What the Temple teaches about a woman like her
+The Empire doesn't know desert names exist (DOM). POSSIBLE: The Temple teaches that the name the Registry holds is the name God knows.
+/end
+prompt: What she brought back from the Finding, and how it became Tazaleh | fill
+
+@page rh="THE COVENANT DAUGHTERS · XI · ZARA · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 38.27–30; MATT 1.3; GEN 16.13; ISA 35.1; REV 2.17; DEUT 8.2"
+# The text
+rec:
+Her name | *Zara* is the King James spelling of Zerah, Tamar's twin (Matt 1.3, Gen 38.30, Vol. I, {v1:cast}). At the birth his hand comes out first and the midwife ties a scarlet thread on it, "This came out first." His brother breaks out ahead of him (Gen 38.28–30).
+Where it breaks | POSSIBLE: Zerah is marked first and born second, and the royal line runs through his brother. Zara is marked last and doesn't stay there.
+Hagar · Genesis 16 | POSSIBLE: A woman alone in the desert who names God, "Thou God seest me" (16.13). **Where it breaks:** Hagar is found in the desert. Zara was raised to be at home in it.
+tab:
+| She'd quote | Never read to her |
+| Isaiah 35.1, "the desert shall rejoice, and blossom as the rose" | Revelation 2.17, a white stone with "a new name written, which no man knoweth saving he that receiveth it" |
+| Genesis 16.13, "Thou God seest me" | Genesis 38, which the Temple doesn't teach (Vol. I, {v1:tamar}) |
+box: Volume One
+Sable, {v1:sable}. Lived religion, {v1:lived5}. Tamar and the twins, {v1:tamar}. Hagar, {v1:hagar}. The names in the cast, {v1:cast}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · XI · ZARA · THROUGH THE TRIAL" m="TKC: TR · TL"
+# Through the Trial
+tab:
+| Phase | What the files give | Yours |
+| Arrival | Underestimated (TR) | _ |
+| Phase One · the Temple | _ | _ |
+| Phase Two · the Crown | _ | _ |
+| The middle of the book | The name exchange with Eden (Vol. I, {v1:sable}) | _ |
+| Endurance | Standing at the final checkpoint (TR) | _ |
+| After | Advances to final consideration (TR) | _ |
+prompt: What she does in Endurance that none of the others could | fill
+
+@page rh="THE COVENANT DAUGHTERS · XI · EDEN AND ZARA" m="TKC: TR · TL · WR 27"
+# Eden and Zara
+rec:
+The rule | She can say the quiet thing, and she still knows where she is. She isn't there to explain the scene's politics (WR 27).
+The exchange | INTERPRETATION: Sable's two-name custom and Celeste's house name for Eden are the same instinct in two Dominions (Vol. I, {v1:sable}).
+prompt: The night they trade names. Who offers first, and what each name costs to say. | fill
+prompt: Lines only Zara would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · XI · ZARA · WORKING PAGE" m="WRITING"
+# Write her at the final checkpoint
+Ten minutes. Mountain terrain, the end of Day 3, and Zara reading the land the way the desert taught her.
+prompt: Write | fill
+status

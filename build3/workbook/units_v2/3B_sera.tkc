@@ -1,0 +1,78 @@
+@opener id="sera" rh="THE COVENANT DAUGHTERS · XII · SERA · PORTRAIT" m="TKC: TR · TL · DOM; VOL. I · {v1:pacific}"
+plate: frame | PORTRAIT · SERA MONTOYA · TWENTY-FOUR · PACIFIC DOMINION
+/end
+tk: PART III · COVENANT DAUGHTER XII · ⌖
+big: Sera
+lede: "Monitor closely" is on her record before she arrives. She has to outscore everyone by enough that the judgment becomes impossible to sustain, and she does (TL).
+calls:
+k: On the record
+Sera Montoya of Westhold, twenty-four. She entered not to win but to find the person she'd been waiting for (TR).
+||
+k: Her fate
+Nearly removed before Endurance. Survives, reaches the final checkpoint, and is one of three who advance. Her flag is updated after the Trial, and the new notation isn't public (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · XII · SERA · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:pacific} · {v1:memory}"
+# Westhold
+plate: doc
+dh: Covenant Registry | PACIFIC DOMINION · WESTHOLD
+df: Candidate | MONTOYA, Sera · twenty-four
+df: Class | Westhold's administrative class (TR)
+df: Flag | Monitor closely · on file before arrival
+df: Review | every Pacific score reviewed at Crownward level (DOM)
+stamp: MONITOR CLOSELY
+/end
+rec:
+Her grandmother | At the last protest before the Partition Agreement ended Pacific's resistance in 2041. She tells it as a caution and not a hero's story, because knowing when and how is the difference between impact and loss (TR).
+How she watches | One eye on the Empire's architecture and the other on the gap between what it claims and what it does. Her patience is the patience of someone waiting for the moment worth acting on (TR).
+Her Dominion | More cameras per block than anywhere, a Governor-Prelate Dorian appointed himself, and mothers who teach daughters how to pass the Designation without revealing themselves. Pacific candidates arrive trained to be watched, and the ones who last learn to watch back (DOM).
+prompt: The protest, as her grandmother tells it | fill
+
+@page rh="THE COVENANT DAUGHTERS · XII · SERA · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:pacific} · {v1:lived5}"
+# What she believes
+rec:
+Who taught her | Her grandmother, and Westhold, where the dead are buried facing west, toward the ocean and the direction of the secession (DOM).
+What she believes | INFERENCE: That two people who see clearly are more dangerous than one (TR).
+What she practices | The Real Binding, a private ceremony with the promises a couple actually means. Facing West, the dawn ceremony where a boy turns back toward the city (DOM).
+empire: What the Temple teaches about a woman like her
+Pacific girls are reviewed for inherited resistance, for any sign the secession story survived in the children (DOM). POSSIBLE: The Temple preaches Romans 13.2 in Westhold more than anywhere, "whosoever therefore resisteth the power, resisteth the ordinance of God."
+/end
+prompt: What she'd promise at a Real Binding, if she ever had one | fill
+
+@page rh="THE COVENANT DAUGHTERS · XII · SERA · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 46.17; NUM 26.46; 1 SAM 18.1–3; 1 SAM 20; ECCL 3.7; JUDG 9.8–15; ROM 13.2"
+# The text
+rec:
+Her name | Serah, daughter of Asher, one of the few daughters named in the genealogies (Gen 46.17, Num 26.46). In later Jewish tradition she lives for centuries, is the one who tells Jacob that Joseph is alive, and shows Moses where Joseph's bones are buried. She's a keeper of memory. She shares the name with Sera Callum, the first Anointed Wife (Vol. I, {v1:cast}).
+Jonathan · 1 Samuel 18 | POSSIBLE: A man who looks at a rival and chooses alliance instead, "the soul of Jonathan was knit with the soul of David." **Where it breaks:** Jonathan's choice costs him a throne. Sera's survival costs Ruth hers, and Sera may never know (TR).
+tab:
+| She'd quote | Never read to her |
+| Ecclesiastes 3.7, "a time to keep silence, and a time to speak" | Judges 9.8–15, the bramble that takes the crown the olive, the fig and the vine refused |
+box: Volume One
+Pacific, {v1:pacific}. Living memory, with her grandmother, {v1:memory}. Echoes, labeled, with Jotham's fable, {v1:echoes}. David and Jonathan, {v1:david}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · XII · SERA · THROUGH THE TRIAL" m="TKC: TR; CONFLICT"
+# Through the Trial
+tab:
+| Phase | What the files give | Yours |
+| The Settling | Meets Eden on the first day and makes a decision that afternoon (TR) | _ |
+| The Dominion Forum | Watches Eden for forty minutes and moves from competing to working beside her. Eden notices at once. Four words in the hallway after (TR). | _ |
+| Before Endurance | Corinne's trap, and Sera walks into it because she sees too clearly to stay quiet. Judah trades Ruth to keep her (TR). | _ |
+| Endurance | Reaches the final checkpoint (TR) | _ |
+| After | Advances. The flag is updated, privately (TR). | _ |
+small: CONFLICT: Two decision points, one on the Settling's first day and one forty minutes into the Forum (TR). Both can stand if the first is about Eden and the second about the room.
+prompt: What Corinne's trap is | fill
+
+@page rh="THE COVENANT DAUGHTERS · XII · EDEN AND SERA" m="TKC: TR"
+# Eden and Sera
+rec:
+The files | Short of a friend for now. She's someone else who sees the room clearly and has decided two people who see clearly are more dangerous than one (TR).
+prompt: The four words | 2
+prompt: What Sera was waiting for, and how she knew it was Eden | 6
+prompt: Lines only Sera would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · XII · SERA · WORKING PAGE" m="WRITING"
+# Write the hallway
+Ten minutes. The Forum's over, the corridor outside, a camera somewhere, and four words.
+prompt: Write | fill
+status

@@ -1,0 +1,82 @@
+@opener id="maren" rh="THE COVENANT DAUGHTERS · III · MAREN · PORTRAIT" m="TKC: TR · DOM; VOL. I · {v1:ardenne}"
+plate: frame | PORTRAIT · MAREN COLE · TWENTY-THREE · DOMINION OF ARDENNE
+/end
+tk: PART III · COVENANT DAUGHTER III · ⌖
+big: Maren
+lede: She's carrying knowledge she doesn't fully understand, and she came looking for the context that makes it make sense (TR).
+calls:
+k: On the record
+Maren Cole of Ashford, twenty-three. Self-nominated, four months of paperwork, second in Ardenne's Regional Assessment (TR).
+||
+k: Her fate
+Knocked unconscious on Endurance Day 3 by Eden and Delphine, and left behind in Mountain terrain (TR). CONFLICT: Her profile has her eliminated before the Social Policy debate.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · III · MAREN · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:ardenne} · {v1:lived2}"
+# Ashford and the hollows
+plate: doc
+dh: Covenant Registry | DOMINION OF ARDENNE · ASHFORD
+df: Candidate | COLE, Maren · twenty-three
+df: Nominated by | herself · four months of paperwork (TR)
+df: Regional Assessment | second
+df: Father | Crown officer, Ashford
+df: Mother | from the mountain communities · came to Ashford at eighteen (TR)
+stamp: COVENANT DAUGHTER
+/end
+rec:
+Two worlds | One official, one quiet. She learned early that the difference between them mattered and could be dangerous (TR).
+What she carries | Ashford sits close to classified operations in the outer territory. She absorbed the Empire's mountain work in fragments, not through access (TR).
+Her Dominion | Ashford is the city the Empire keeps as proof Ardenne is pacified, and everything past the tree line says otherwise. The Ungoverned have their deepest roots in the hollows, where the mountain people call them something closer to saints (DOM).
+In the Trials | Ardenne rarely sends a Covenant Daughter. When it does she's usually from Ashford, more Imperial than the hollows, and quiet about the gap (DOM).
+prompt: The fragment she heard as a girl that she's been trying to understand ever since | fill
+
+@page rh="THE COVENANT DAUGHTERS · III · MAREN · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:ardenne} · {v1:lived2}"
+# What she believes
+rec:
+Who taught her | An Ashford father in Crown service and a mother from the hollows (TR). INFERENCE: Two catechisms, one recited and one never written down.
+What her mother's people practice | Marriage as a community declaration and a broom jumped. The First Winter Work, a real job in the community's survival at thirteen or fourteen. The Sitting, so the dead don't leave alone (DOM).
+What she believes | OPEN QUESTION: Which of the two catechisms she reaches for when she's frightened.
+empire: What the Temple teaches about a woman like her
+Ashford's devotion is loud because watched people perform loyalty where it can be seen (DOM). POSSIBLE: The Temple teaches Ardenne girls Romans 13.1, "Let every soul be subject unto the higher powers," and calls the women in the hollows criminals.
+/end
+prompt: What her mother told her about the hollows, and what she left out | fill
+
+@page rh="THE COVENANT DAUGHTERS · III · MAREN · FAITH AND SCRIPTURE · 2 OF 2" m="2 KGS 5.2–3; 2 KGS 6.15–17; PS 121.1; ROM 13.1"
+# The text
+rec:
+Her name | *Maren* has no biblical source. It's a Scandinavian form of Marina, "of the sea."
+The servant girl · 2 Kings 5 | POSSIBLE: A captive girl from Israel tells her mistress the general could be healed by the prophet in Samaria. She knows something the powerful household doesn't. **Where it breaks:** Her knowledge sends a general to be healed. Maren's gets her left on a mountain.
+Elisha's servant · 2 Kings 6 | POSSIBLE: Surrounded, the servant sees only the enemy, until his eyes are opened and "the mountain was full of horses and chariots of fire" (6.17). **Where it breaks:** What's hidden in Maren's mountains belongs to the Empire.
+tab:
+| She'd quote | Never read to her |
+| Psalm 121.1, "I will lift up mine eyes unto the hills, from whence cometh my help" | 2 Kings 6.17, the mountain full of what you can't see |
+box: Volume One
+Ardenne, {v1:ardenne}. Lived religion, {v1:lived2}. Mountain, and the classified work, {v1:mountain}. Passages put to work, with Romans 13, {v1:put-to-work}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · III · MAREN · THROUGH THE TRIAL" m="TKC: TR; CONFLICT"
+# Through the Trial
+note: Violence during Endurance.
+tab:
+| Phase | What the files give | Yours |
+| Arrival | _ | _ |
+| Phase One · the Temple | _ | _ |
+| Phase Two · the Crown | Eliminated before the Social Policy debate (TR, profile) | _ |
+| Endurance · Day 3 | Knocked unconscious by Eden and Delphine, and left behind in Mountain terrain (TR, fates) | _ |
+| After | What she does on her way out with what she learned is "not recorded" (TR) | _ |
+small: CONFLICT: Eliminated in Phase Two, or in Endurance on Day 3 (TR). One has to go.
+prompt: What she learns in the Crownward that finally makes the fragments make sense | fill
+
+@page rh="THE COVENANT DAUGHTERS · III · EDEN AND MAREN" m="TKC: TR"
+# Eden and Maren
+rec:
+The files | Eden and Delphine leave her unconscious on the mountain (TR).
+prompt: Why Eden does it, and whether Maren ever knows | 6
+prompt: What Maren knows that Eden needs | 5
+prompt: Lines only Maren would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · III · MAREN · WORKING PAGE" m="WRITING"
+# Write her waking up
+Ten minutes. Mountain terrain, Day 3, and no one in sight.
+prompt: Write | fill
+status

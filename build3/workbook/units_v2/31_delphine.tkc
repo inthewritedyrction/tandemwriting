@@ -1,0 +1,85 @@
+@opener id="delphine" rh="THE COVENANT DAUGHTERS · II · DELPHINE · PORTRAIT" m="TKC: TR · DOM · WR 29; VOL. I · {v1:gulf}"
+plate: frame | PORTRAIT · DELPHINE FONTENOT · TWENTY-TWO · GULF DOMINION
+/end
+tk: PART III · COVENANT DAUGHTER II · ⌖
+big: Delphine
+lede: Warm in a way that's genuine and dangerous, and the Empire's scoring system has never known what to do with it (TL).
+calls:
+k: On the record
+Delphine Fontenot of Port Seraphine, twenty-two. First in Gulf's Regional Assessment. The genuine friend (TR).
+||
+k: Her fate
+Medically extracted during Endurance after a head injury on Day 1 (TR). Married down the elite ladder as designated (FR 19).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · II · DELPHINE · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:gulf} · {v1:lived} · {v1:lived2}"
+# Port Seraphine
+plate: doc
+dh: Covenant Registry | GULF DOMINION · PORT SERAPHINE
+df: Candidate | FONTENOT, Delphine · twenty-two
+df: Nominated by | a colleague of her father's at the Temple (TR)
+df: Regional Assessment | first
+df: Mother | Vowed, then a Bonded Wife, by choice (TR)
+stamp: COVENANT DAUGHTER
+/end
+rec:
+Her mother | A Vowed woman who chose love over status and became a Bonded Wife. Delphine watched every shift, which rooms her mother could enter, whose attention she held, what she could say, and carries a quiet fury for her that Port Seraphine taught her to wear as warmth (TR).
+Her Dominion | The most culturally intact in the Empire. Music survived here, standing in plain sight, because "cultural pilgrimage" pays too well to stop it. Girls walk the Procession at fourteen, and every year the crowd turns it into a second line (DOM).
+In the Trials | Gulf candidates have historically been penalized for warmth, which Crown advisors read as performance. A Gulf woman who knows the gap between what she shows and what she keeps is one of the most dangerous women in the room (DOM).
+How she moves | Rhythmically. She laughs sincerely, and she disarms people who've spent careers learning not to be disarmed. The Crownward will try to correct her, and it won't succeed (TR). She works a room and opens doors through conversation (WR 29).
+prompt: Her father's work at the Temple, and what he thinks of her entering | fill
+
+@page rh="THE COVENANT DAUGHTERS · II · DELPHINE · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:gulf} · {v1:lived} · {v1:lived6}"
+# What she believes
+rec:
+Who taught her | A Vowed mother and a Temple father (TR), in a city where the Vowed "have learned to look away from certain things" (DOM).
+What she believes | INFERENCE: Joy can be a form of survival. The Last Free Night tells a bride the truth "in the one language the Empire has never learned how to police properly" (DOM).
+What she practices | Music at Bindings, against three ordinances. The Procession and its counter-rhythm. Three-day funerals with a second line to the grave, and then the Quiet (DOM).
+What she'd be arrested for | INFERENCE: Anywhere but Gulf, most of what she grew up doing in church.
+empire: What the Temple teaches about a woman like her
+Warmth reads as performance unless it comes from someone the Crown already trusts (DOM). POSSIBLE: The Temple sets 1 Peter 3.4, "the ornament of a meek and quiet spirit," against everything Port Seraphine taught her.
+/end
+prompt: The hymn she hums when she forgets the cameras | fill
+
+@page rh="THE COVENANT DAUGHTERS · II · DELPHINE · FAITH AND SCRIPTURE · 2 OF 2" m="EXOD 15.20; 2 SAM 6.14–16; PS 149.3; PS 150.4; ECCL 3.4; ACTS 16.14–15; 1 PET 3.4"
+# The text
+rec:
+Her name | *Delphine* has no biblical source. It's French, from the Greek for Delphi, the oracle's town.
+Miriam's timbrel · Exodus 15.20 | POSSIBLE: The women follow Miriam "with timbrels and with dances." **Where it breaks:** Miriam sings at the sea in front of everyone. Gulf's music survives as an exception the Empire won't admit exists (DOM).
+David dancing · 2 Samuel 6 | POSSIBLE: A king dances before the ark with all his might, and his wife watches from a window and despises him. **Where it breaks:** Nobody in the Crownward is going to dance, and Delphine knows exactly who's watching from the windows.
+Lydia · Acts 16.14–15 | POSSIBLE: A woman whose household opens and who "constrained us" to stay. Hospitality as a form of power (Vol. I, {v1:ranthings}).
+tab:
+| She'd quote | Never read to her in the Temple |
+| Ecclesiastes 3.4, "a time to mourn, and a time to dance" | Psalm 149.3, "Let them praise his name in the dance" |
+| _ | Psalm 150.4, "Praise him with the timbrel and dance" |
+box: Volume One
+Gulf, {v1:gulf}. Lived religion, {v1:lived} and {v1:lived2}. Miriam, {v1:miriam}. David, {v1:david}. The women who ran things, {v1:ranthings}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · II · DELPHINE · THROUGH THE TRIAL" m="TKC: TR · DOM; CONFLICT"
+# Through the Trial
+note: A head injury during Endurance.
+tab:
+| Phase | What the files give | Yours |
+| Arrival | Gulf candidates arrive fluent in being watched (DOM) | _ |
+| Phase One · the Temple | _ | _ |
+| Phase Two · the Crown | _ | _ |
+| Endurance · Day 1 | A head injury, and medical extraction (TR) | _ |
+| Endurance · Day 3 | With Eden, knocks Maren unconscious (TR) | _ |
+| After | Married down as designated (FR 19) | _ |
+small: CONFLICT: Extracted on Day 1, and with Eden on Day 3 (TR). Decide which day moves.
+prompt: The moment the Crownward tries to correct her, and what she does with it | fill
+
+@page rh="THE COVENANT DAUGHTERS · II · EDEN AND DELPHINE" m="TKC: TR · WR 29"
+# Eden and Delphine
+rec:
+The files | The genuine friend (TR). Her social skill shows physically and isn't explained (WR 29).
+prompt: The first thing Delphine does that makes Eden trust her | 5
+prompt: What Eden thinks of her the night she's extracted | 5
+prompt: Lines only Delphine would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · II · DELPHINE · WORKING PAGE" m="WRITING"
+# Write her working a room
+Ten minutes. A reception room in the Crownward, Delphine in the middle of it, and three people who've decided not to like her.
+prompt: Write | fill
+status

@@ -1,0 +1,81 @@
+@opener id="ruth" rh="THE COVENANT DAUGHTERS · VII · RUTH · PORTRAIT" m="TKC: TR · TL · DOM · WR 26; VOL. I · {v1:heartland}"
+plate: frame | PORTRAIT · RUTH GIDEON · TWENTY-TWO · HEARTLAND DOMINION
+/end
+tk: PART III · COVENANT DAUGHTER VII · ⌖
+big: Ruth
+lede: Genuine faith as credential and liability at once. She says "see you soon" like it's a promise, and means it (TL).
+calls:
+k: On the record
+Ruth Gideon of Providence Cross, twenty-two. First in Heartland's Regional Assessment. The true believer, sincere without being foolish (TR, WR 26).
+||
+k: Her fate
+Sent home before Endurance, as the price Judah pays to keep Sera in the Trials. She goes home believing she wasn't enough. She was more than enough (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · VII · RUTH · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:heartland} · {v1:lived3}"
+# Providence Cross
+plate: doc
+dh: Covenant Registry | HEARTLAND DOMINION · PROVIDENCE CROSS
+df: Candidate | GIDEON, Ruth · twenty-two
+df: Nominated by | her grandmother (TR)
+df: Regional Assessment | first
+df: Father | a Temple deacon
+df: Mother | teaches theology
+stamp: COVENANT DAUGHTER
+/end
+rec:
+Her family | Her grandmother attended the first Covenant Trial in 2065 and nominated Ruth, believing she exemplified the Trials' stated purpose. She may have misunderstood what the actual purpose is (TR).
+Her faith | She grew up believing in the Trials and the divine order they stand for, genuinely, without the doubt most candidates carry with it. She's more theologically sophisticated than she lets on (TR).
+Her Dominion | The Heartland didn't need conquering. People sing the hymns because they mean them, and real believers have opinions about what faithfulness requires. Heartland women questioning the Commonwife designation call it theological inquiry, and mean it (DOM).
+prompt: What her grandmother remembers of the first Trial, in 2065 | fill
+
+@page rh="THE COVENANT DAUGHTERS · VII · RUTH · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM · WR 26; VOL. I · {v1:heartland} · {v1:lived3} · {v1:lived6}"
+# What she believes
+rec:
+What she believes | The Trials and the divine order are real and good (TR). Her faith is real, and her curiosity is careful in public (WR 26).
+Who taught her | A deacon father, a mother who teaches theology, and a grandmother who was there in 2065 (TR). The First Covenant at thirteen, scripture memorized and a gift to the Temple, the moment her track was set in public (DOM).
+What she gives Eden | The clearest look Eden gets at faith from the inside, an uncomfortable gift (TR).
+What she practices | The Anointing, hair washed and braided the night before a Binding, each woman speaking a private word over the bride. Planting something after a burial (DOM).
+empire: What the Temple teaches about a woman like her
+A girl who believes is more useful to the Empire than a girl who performs belief (DOM). The most dangerous Heartland candidates learned to make their questions sound like prayers (DOM).
+/end
+prompt: The question she's been asking since childhood, worded as a prayer | fill
+
+@page rh="THE COVENANT DAUGHTERS · VII · RUTH · FAITH AND SCRIPTURE · 2 OF 2" m="RUTH 1.16–17; JUDG 6.36–40; JUDG 8.22–23; 1 SAM 8.11–18"
+# The text
+rec:
+Her names | Ruth, the Moabite who binds herself to her mother-in-law with the most famous vow in scripture (Vol. I, {v1:ruth}). Gideon, who tests God with a fleece twice and later refuses a crown: "the LORD shall rule over you" (Judg 8.23).
+Where Ruth breaks | POSSIBLE: Ruth's vow binds her to a person and a people, and they keep faith with her. Ruth Gideon's loyalty to the Empire is repaid by being traded away (TR).
+Where Gideon breaks | POSSIBLE: Gideon asks God for proof, and gets it. Ruth asks the Empire nothing and believes.
+tab:
+| She'd quote | Never read to her |
+| Ruth 1.16, "whither thou goest, I will go" | Judges 8.23, a judge refusing to found a dynasty |
+| _ | 1 Samuel 8.11–18, what a king will take |
+box: Volume One
+Ruth, {v1:ruth} and {v1:b-ruth}. Kingmakers, with Gideon, {v1:kingmakers}. Heartland, {v1:heartland}. Faith that isn't performance, {v1:lived6}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · VII · RUTH · THROUGH THE TRIAL" m="TKC: TR · TL"
+# Through the Trial
+tab:
+| Phase | What the files give | Yours |
+| Phase One · the Temple | Exceptional, as in every phase she takes part in (TR) | _ |
+| Phase Two · the Crown | Exceptional (TR) | _ |
+| Before Endurance | Sent home. Judah trades her to keep Sera. She doesn't know (TR). | _ |
+| Leaving | "See you soon," like a promise (TL) | _ |
+| After | Believes she wasn't enough (TR). Married down as designated (FR 19). | _ |
+prompt: How she's told, by whom, and what she says | fill
+
+@page rh="THE COVENANT DAUGHTERS · VII · EDEN AND RUTH" m="TKC: TR · TL · WR 26"
+# Eden and Ruth
+rec:
+The rule | Ruth believes the Empire more than Eden does, and that doesn't make her foolish (WR 26).
+prompt: The conversation where Ruth shows Eden faith from the inside | 6
+prompt: What Eden owes her, and whether she ever pays it | 4
+prompt: Lines only Ruth would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · VII · RUTH · WORKING PAGE" m="WRITING"
+# Write her train home
+Ten minutes. Ruth on the transport back to Providence Cross, praying for the women still there.
+prompt: Write | fill
+status

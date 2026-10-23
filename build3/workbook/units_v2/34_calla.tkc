@@ -1,0 +1,81 @@
+@opener id="calla" rh="THE COVENANT DAUGHTERS · V · CALLA · PORTRAIT" m="TKC: TR · TL · RULING; VOL. I · {v1:vane}"
+plate: frame | PORTRAIT · CALLA MERRITT · TWENTY-ONE · DOMINION OF VANE
+/end
+tk: PART III · COVENANT DAUGHTER V · ⌖
+big: Calla
+lede: Legacy, carried lightly and warmly until it isn't (TL).
+calls:
+k: On the record
+Calla Merritt of Saint Meridian, twenty-one. A Broadcast family, and the Broadcast's favorite, because she's what it's decided the Trials should produce without any manipulation required (TR). Her surname is Merritt (Ruling).
+||
+k: Her fate
+note: Her death.
+Pushed into the river by Corinne on Endurance Day 2 (TR). Her status goes back to her family, with no compensation and no punishment (FR 24).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · V · CALLA · THE RECORD AND HER DOMINION" m="TKC: TR · TL · DOM · RULING; VOL. I · {v1:vane} · {v1:trials-history}"
+# Saint Meridian
+plate: doc
+dh: Covenant Registry | DOMINION OF VANE · SAINT MERIDIAN
+df: Candidate | MERRITT, Calla · twenty-one
+df: Father | Broadcast, a mid-level editor (TR)
+df: Mother | a former Covenant Daughter (TR)
+df: Prepared since | childhood (TR)
+stamp: COVENANT DAUGHTER
+/end
+rec:
+What she knows | Broadcast cues, camera patterns, the kind of attention that reads as grace on a screen. Her talent is real, and the performance has become her identity (TR).
+Her mother | A former Covenant Daughter who withdrew in Phase Three of an earlier Trial (TR). The timeline says the 32nd (TL).
+Her Dominion | The legacy Dominion. Some families have sent daughters to three Trials running, and high-scoring girls are prepared for candidacy from the time they can read (DOM). The Broadcast Assessment at sixteen makes exceptional girls minor public figures overnight (DOM).
+CONFLICT | The 32nd Trial was in 2097, when Calla was fourteen, and a Covenant Daughter can't already be a mother. INFERENCE: Her mother's Trial was earlier, and the "32nd" belongs to someone or something else.
+prompt: Which Trial her mother was in, and why she withdrew | fill
+
+@page rh="THE COVENANT DAUGHTERS · V · CALLA · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:vane} · {v1:lived3}"
+# What she believes
+rec:
+Who taught her | A mother who withdrew and a father who edits (TR). INFERENCE: She learned faith as something performed well.
+What she believes | OPEN QUESTION: Whether anything under the performance is hers.
+Her Dominion's underground | Ghost Marriages outside registration, and the Ghost Declaration, where a boy says what he actually intends before saying what's required (DOM).
+empire: What the Temple teaches about a woman like her
+INTERPRETATION: That she's the Trials working as designed. The Broadcast doesn't have to manipulate her, because she already is what it wants (TR).
+/end
+prompt: The one moment in the Crownward where she isn't performing, and who sees it | fill
+
+@page rh="THE COVENANT DAUGHTERS · V · CALLA · FAITH AND SCRIPTURE · 2 OF 2" m="SONG 2.2; MATT 6.28–29; GEN 4.8; JUDG 11.37–40; PS 69.2"
+# The text
+note: Her death.
+rec:
+Her name | The calla lily, from the Greek *kallos*, beauty. It has no biblical source. INTERPRETATION: *Merritt* sounds like merit, and she was raised to earn it.
+The lily · Song 2.2 | POSSIBLE: "As the lily among thorns, so is my love among the daughters." **Where it breaks:** The lily in the Song is loved. Calla is watched.
+Abel · Genesis 4 | POSSIBLE: Killed in a field by a rival, out of sight. **Where it breaks:** Abel's blood cries from the ground. The Empire's paperwork returns Calla's status to her family and moves on (FR 24).
+Jephthah's daughter · Judges 11 | POSSIBLE: A daughter who dies for what her father's world required, and whom the daughters of Israel lamented four days a year. **Where it breaks:** Nobody in the Empire is going to lament Calla on a calendar.
+tab:
+| She'd quote | Never read to her |
+| Matthew 6.28, "Consider the lilies of the field" | Psalm 69.2, "I am come into deep waters, where the floods overflow me" |
+box: Volume One
+Vane, {v1:vane}. The unnamed, with Jephthah's daughter, {v1:unnamed}. The Trials' history, {v1:trials-history}. The Declaration, and a candidate's death, {v1:declaration}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · V · CALLA · THROUGH THE TRIAL" m="TKC: TR · FR 23–24"
+# Through the Trial
+note: Her death by drowning.
+tab:
+| Phase | What the files give | Yours |
+| Early | Warm, the legacy carried lightly, rooms settling around her (TR) | _ |
+| The Tea Party | The tension with Corinne begins (TR) | _ |
+| Throughout | The Broadcast's favorite (TR) | _ |
+| Endurance · Day 2 | The water's moving fast. Corinne pushes her in. One person sees it and can't look away fast enough (TR). | _ |
+| After | Her status goes back to her family. A candidate's death doesn't downgrade the Trial (FR 23–24). | _ |
+prompt: How the Broadcast reports her death, and what her father, the editor, does with the footage | fill
+
+@page rh="THE COVENANT DAUGHTERS · V · EDEN AND CALLA" m="TKC: TR"
+# Eden and Calla
+prompt: What Eden envies in her, and what Eden pities | 6
+prompt: The last thing Calla says to anyone | 4
+prompt: Lines only Calla would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · V · CALLA · WORKING PAGE" m="WRITING"
+# Write her mother watching
+Ten minutes. Saint Meridian, the Broadcast on, a former Covenant Daughter watching her own daughter on the screens.
+prompt: Write | fill
+status

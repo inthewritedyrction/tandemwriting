@@ -1,0 +1,77 @@
+@opener id="nadia" rh="THE COVENANT DAUGHTERS · VI · NADIA · PORTRAIT" m="TKC: TR · TL · DOM; VOL. I · {v1:irongate}"
+plate: frame | PORTRAIT · NADIA ORIN · TWENTY · DOMINION OF IRONGATE
+/end
+tk: PART III · COVENANT DAUGHTER VI · ⌖
+big: Nadia
+lede: The Trial identifies her as eliminated. The people who know her would use a different word (TR).
+calls:
+k: On the record
+Nadia Orin of Iron Benediction, twenty. The most working-class Covenant Daughter in the Trials' history, a fact the Broadcast can't decide how to handle (TR).
+||
+k: Her fate
+Withdraws before the Social Policy debate, and the circumstances aren't made public. She goes home and does something meaningful with what she learned (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · VI · NADIA · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:irongate} · {v1:lived3}"
+# Iron Benediction
+plate: doc
+dh: Covenant Registry | DOMINION OF IRONGATE · IRON BENEDICTION
+df: Candidate | ORIN, Nadia · twenty
+df: Nominated by | a Vowed officer (TR)
+df: Mother | Commonwife
+df: Father | factory worker
+df: District | labor
+stamp: COVENANT DAUGHTER
+/end
+rec:
+Her parents | They genuinely love each other, which isn't small in a system that treats love as a function, and Nadia understands both truths (TR).
+Her nomination | A Vowed officer saw something in her that the labor district's schools weren't built to recognize (TR).
+Her Dominion | The most class-divided in the Empire. The labor-district women run a mutual aid network so invisible the Vowed have never mapped it, and they call it the Kitchen. Blues and jazz went underground in 2053 (DOM).
+In the Trials | Irongate almost always sends administrative daughters, because selection rewards polish. When a labor-district girl gets through, she adapts in real time instead of applying a prepared answer (DOM).
+prompt: The Vowed officer who nominated her, and what that officer saw | fill
+
+@page rh="THE COVENANT DAUGHTERS · VI · NADIA · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:irongate} · {v1:lived3} · {v1:lived6}"
+# What she believes
+rec:
+What she believes | She chooses kindness knowingly. She believes in the Empire's ideals even understanding their corruption (TR).
+Who taught her | Two parents who love each other, and the Kitchen (TR, DOM). The Placement at fourteen, a community's assessment of what she's suited for and what it needs (DOM).
+What she practices | Mutual aid that the Vowed have never mapped (DOM).
+empire: What the Temple teaches about a woman like her
+POSSIBLE: The labor districts hear "if any would not work, neither should he eat" (2 Thess 3.10) and "Servants, be obedient to them that are your masters" (Eph 6.5). Nadia hears them and believes the ideal underneath anyway.
+/end
+prompt: The ideal she believes in, stated the way she'd say it | fill
+
+@page rh="THE COVENANT DAUGHTERS · VI · NADIA · FAITH AND SCRIPTURE · 2 OF 2" m="ACTS 9.36–39; MARK 12.41–44; MIC 6.8; JAS 5.4; 2 THESS 3.10; EPH 6.5"
+# The text
+rec:
+Her name | *Nadia* has no biblical source. It's from the Slavic word for hope.
+Tabitha · Acts 9 | POSSIBLE: The only woman the New Testament calls a disciple in the feminine, whose widows hold up the garments she made when she dies (Vol. I, {v1:ranthings}). The Kitchen is Tabitha's widows with a name. **Where it breaks:** Tabitha is raised and goes back to the work. Nadia's work starts when she goes home.
+The widow's two mites · Mark 12 | POSSIBLE: She gives "all that she had," and Jesus says she gave more than the rich. **Where it breaks:** The widow's gift is unseen by everyone but him. Nadia's withdrawal is unseen by the public on purpose (TR).
+tab:
+| She'd quote | Never read to her |
+| Micah 6.8, "to do justly, and to love mercy, and to walk humbly with thy God" | James 5.4, the hire of the labourers "kept back by fraud, crieth" |
+box: Volume One
+Irongate, {v1:irongate}. Lived religion, {v1:lived3}. The women who ran things, with Tabitha, {v1:ranthings}. Passages put to work, {v1:put-to-work}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · VI · NADIA · THROUGH THE TRIAL" m="TKC: TR · TL"
+# Through the Trial
+tab:
+| Phase | What the files give | Yours |
+| Arrival | The Broadcast can't decide how to handle her (TR) | _ |
+| Phase One · the Temple | _ | _ |
+| Phase Two · the Crown | Withdraws before the Social Policy debate. The circumstances aren't stated (TR, TL). | _ |
+| After | Home to Iron Benediction, to do something meaningful with what she learned (TR). Married down as designated (FR 19). | _ |
+prompt: Why she withdraws, and who knows the real reason | fill
+
+@page rh="THE COVENANT DAUGHTERS · VI · EDEN AND NADIA" m="TKC: TR"
+# Eden and Nadia
+prompt: What two girls from labor households recognize in each other | 6
+prompt: What Nadia says when she leaves | 4
+prompt: Lines only Nadia would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · VI · NADIA · WORKING PAGE" m="WRITING"
+# Write her coming home
+Ten minutes. Iron Benediction, the labor district, the Kitchen, and everyone who watched her on the screens.
+prompt: Write | fill
+status

@@ -1,0 +1,83 @@
+@part id="part3" num="III" kind="PART THREE · ⌖" title="The Covenant/Daughters" sub="Twelve women, one from each Dominion. One goes to the heir, two never come home, and the rest are married down the elite ladder." series="THY KINGDOM COME · VOLUME TWO · THE PEOPLE"
+toc: i · The twelve, and what happens to them | p3-intro
+toc: I · Eden Selah Osei, through the Trial | p3-eden
+toc: II · Delphine Fontenot | delphine
+toc: III · Maren Cole | maren
+toc: IV · Corinne Vale | corinne
+toc: V · Calla Merritt | calla
+toc: VI · Nadia Orin | nadia
+toc: VII · Ruth Gideon | ruth
+toc: VIII · Delia Cross | delia
+toc: IX · Vivienne Hale | vivienne
+toc: X · Petra Solano | petra
+toc: XI · Zara Voss | zara
+toc: XII · Sera Montoya | sera
+
+@essay id="p3-intro" rh="THE COVENANT DAUGHTERS · HOW TO USE THIS PART"
+# Eleven more people
+drop: Every one of these women was raised somewhere specific, sorted by a Designation built for her Dominion, nominated by someone with a reason, and sent to the Crownward carrying more than the Broadcast will ever show. The Writing Rules ask for their own rhythms, so Eden, Ruth, Zara, Delphine, Petra and Abigail don't all sound like Imperial brochures (WR 15). These dossiers are where you find the rhythms.
+Each dossier runs the same way. The portrait and the Registry card come first, then her Dominion, a faith and scripture spread, her path through the three phases, Eden and her, and a working page. The phase page prints what the files already give, beat by beat, and leaves the rest ruled.
+Under the Final Rulings, all thirty-nine Trials place Anointed Wives. One goes to the heir and the other eleven are married down the elite ladder as designated, and nobody goes home unassigned (FR 19). A candidate who dies has her status returned to her family, with no compensation and no punishment (FR 24). Rejection follows a woman "not in the record, in the room" (FR 25).
+side:
+chips: TR, DOM, FR 19–25
+k: Eden
+stext: Her full dossier is in Part I. Her path through the Trial is on the pages after the fates.
+marg
+see: Vol. I, the Covenant Daughters of the 39th, {v1:daughters}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · THE TWELVE AND THEIR FATES" m="TKC: TR · FR 19 · FR 24; CONFLICT"
+# The twelve and their fates
+note: Two deaths, one of them a killing. Injury and violence during Endurance.
+tabrl:
+| Daughter | Dominion · age | Role | Fate (TR) |
+| Eden Selah Osei | Aurem · 21 | Protagonist | Wins. The Anointed Wife of the 39th Trial. |
+| Delphine Fontenot | Gulf · 22 | Genuine friend | Medically extracted during Endurance, a head injury on Day 1 |
+| Maren Cole | Ardenne · 23 | Knows too much | Knocked unconscious on Endurance Day 3 by Eden and Delphine, and left behind |
+| Corinne Vale | Meridian · 22 | Malicious architect | Completes Endurance. Placement by composite score. |
+| Calla Merritt | Vane · 21 | The Broadcast's favorite | Dies on Endurance Day 2, pushed into the river by Corinne |
+| Nadia Orin | Irongate · 20 | Heartbreakingly good | Withdraws before the Social Policy debate |
+| Ruth Gideon | Heartland · 22 | True believer | Sent home before Endurance, Judah's trade to keep Sera |
+| Delia Cross | Red Earth · 24 | Grudge against Aurem | Reaches the final checkpoint, doesn't advance, becomes a Lady in Waiting |
+| Vivienne Hale | Lone · 23 | Wildcard observer | Ankle fails on a Day 1 slope. Extracted at the first checkpoint. |
+| Petra Solano | Mountain · 22 | Came looking for love | Dies before Phase Two. A "sudden medical event." It isn't. |
+| Zara Voss | Sable · 21 | Underestimated | Reaches the final checkpoint and advances |
+| Sera Montoya | Pacific · 24 | The ally | Nearly removed before Endurance. Survives, reaches the final checkpoint, advances. |
+
+@page rh="THE COVENANT DAUGHTERS · WHERE THE FILES DISAGREE" m="TKC: TR · FR 19; CONFLICT; OPEN QUESTION"
+# Where the files disagree
+rec:
+CONFLICT · Maren | The profile says she's eliminated before the Social Policy debate. The fates table has her in Endurance on Day 3 (TR).
+CONFLICT · Vivienne | The profile says she's eliminated before the Social Policy debate. The fates table has her ankle failing on Endurance Day 1 (TR).
+CONFLICT · Delphine and Maren | Delphine is extracted on Day 1 and helps knock Maren unconscious on Day 3 (TR). One of the two days has to move.
+CONFLICT · the final checkpoint | Zara is "one of the four women standing at the final checkpoint." Eden, Sera and Delia reach it too, and Corinne completes Endurance (TR). The count comes to five.
+OPEN QUESTION · Ladies in Waiting | The third- and fourth-place Endurance finishers (TR). Delia is one. Who's the other?
+OPEN QUESTION · going home | The profiles send Maren, Nadia and Vivienne home. Under FR 19 nobody goes home unassigned. INFERENCE: They go home with an elite-ladder assignment, and the wedding comes later.
+prompt: How I'm resolving each one | fill
+
+@page id="p3-eden" rh="THE COVENANT DAUGHTERS · I · EDEN, THROUGH THE TRIAL · 1 OF 2" m="TKC: TR · CR · TL; VOL. I · {v1:phases} · {v1:phase-detail} · EDEN'S DOSSIER, PART I"
+# Eden, through the Trial
+Her full dossier is in Part I. This is her path, beat by beat, as the files give it.
+tab:
+| Phase | What the files give | Ch. |
+| Arrival · day five | She looks at the city before the cameras, carries her own bag, and walks slower than the choreography. Forty-seven seconds, the most discussed arrival in a decade (TR). | _ |
+| The Settling | Sera meets her on the first day and makes a decision that afternoon (TR). | _ |
+| Doctrinal Assessment | The most complex questions in eleven cycles, three written by the Prelate herself. Finishes forty minutes early, reconsiders two answers, changes one, correctly. The highest score in the Trial's history (TR). | _ |
+| Theological Interview | Two hours. A report three pages longer than anyone's: aligned, or clear-eyed, and the officer can't tell which (TR). | _ |
+| Public Testimony | Declines her handler in writing. A statement of faith in women's intelligence, defensible line by line and incendiary as a whole. Lyris looks at her hands, then at Judah, who's been watching Eden for six minutes. She moves from fourth to first (TR). | _ |
+small: The files call the Prelate "Prelate Naomi." Under FR 33 she's renamed, working name Aurelia (POSSIBLE).
+prompt: The three questions the Prelate wrote for Eden herself | fill
+
+@page rh="THE COVENANT DAUGHTERS · I · EDEN, THROUGH THE TRIAL · 2 OF 2" m="TKC: TR · CR; VOL. I · {v1:phases} · {v1:declaration} · {v1:binding}"
+# Eden, through the Trial, continued
+note: Violence during Endurance.
+tab:
+| Phase | What the files give | Ch. |
+| The Dominion Forum | Moving the room within twenty minutes, by asking what the group actually has to decide. Four words to Sera in the hallway after (TR). | _ |
+| The Civic Debates | She argues for the room and for the editor at once, so the Broadcast can't reshape her and can only deprioritize her (TR). | _ |
+| The Anointed Evening | Eleven minutes with Lyris, three things off the record, the third a warning that's also instructions (TR) | _ |
+| The Pairing | Judah sends the officials out and checks her for a wire. "Most candidates tell me they feel called." "I know." (TR) | _ |
+| Endurance | Mountain terrain. On Day 3, with Delphine, she knocks Maren unconscious and leaves her (TR). | _ |
+| The Declaration | She wins (TR). OPEN QUESTION: The Crownward file calls it "the moment Eden will have planned for and the moment that will be taken from her" (CR). What's taken? | _ |
+| Covenant Week | Seven days, a residence on the Palace grounds, her score replaced by The Chosen, and the Anointing on the sixth day (CR) | _ |
+prompt: The beat the files don't have yet that the book needs most | fill

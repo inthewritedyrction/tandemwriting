@@ -1,0 +1,78 @@
+@opener id="delia" rh="THE COVENANT DAUGHTERS · VIII · DELIA · PORTRAIT" m="TKC: TR · TL · DOM; VOL. I · {v1:redearth}"
+plate: frame | PORTRAIT · DELIA CROSS · TWENTY-FOUR · DOMINION OF RED EARTH
+/end
+tk: PART III · COVENANT DAUGHTER VIII · ⌖
+big: Delia
+lede: Perfectly prepared, perfectly composed, absolutely unreadable. She's been deciding something for months before she nods (TL).
+calls:
+k: On the record
+Delia Cross of Canaan's Gate, twenty-four. Second in Red Earth's Regional Assessment, selected over the first-ranked girl because of concerns about that girl's family history (TR).
+||
+k: Her fate
+Reaches the final checkpoint and doesn't advance. Becomes a Lady in Waiting, and what she does with the position is the most significant thing she does in the Crownward (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · VIII · DELIA · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:redearth} · {v1:lived4}"
+# Canaan's Gate
+plate: doc
+dh: Covenant Registry | DOMINION OF RED EARTH · CANAAN'S GATE
+df: Candidate | CROSS, Delia · twenty-four
+df: Regional Assessment | second · selected over the first (TR)
+df: Mother | Stewardwife
+df: Father | Crown officer · transferred from Aurem when she was six (TR)
+stamp: COVENANT DAUGHTER
+/end
+rec:
+The transfer | A Crown efficiency initiative moved her family from the Empire's showcase Dominion to its policy testing ground. She's known since she was six what it means that Aurem is celebrated and Red Earth is proof (TR).
+What she carries | The anger of a girl told all her life that the place she left was better than the place that raised her. Polished and composed in public, angrier and more frightened in private (TR).
+Her Dominion | Red Earth piloted the Commonwife quota in 2058, and its women have lived under the full version longest. Under the performance runs a language of small signals refined over decades. Its candidates are the best in the Empire at performing compliance while thinking something else, and the council places them mid-pack until it realizes "middle was a choice, not a ceiling" (DOM).
+prompt: What she remembers of Aurem from before she was six | fill
+
+@page rh="THE COVENANT DAUGHTERS · VIII · DELIA · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:redearth} · {v1:lived4}"
+# What she believes
+rec:
+Who taught her | A Stewardwife mother, and Red Earth, where the morning after a Binding mothers take daughters aside for the Second Covenant, what the first one means and what a daughter may keep for herself (DOM).
+What she practices | The small signals, a way of folding hands, a phrase that means something other than what it says (DOM). Women sitting with the dead in shifts, and burial at midday so the body knows the sun's warmth (DOM).
+What she believes | OPEN QUESTION: The files give her anger and her shift, and not her God.
+empire: What the Temple teaches about a woman like her
+Red Earth is the most visibly religious Dominion, with scripture on every building and the Vowed embedded as "pastoral care" (DOM). POSSIBLE: The Temple preaches Philippians 2.14, "Do all things without murmurings," to the women who invented a language for murmuring.
+/end
+prompt: The small signal she uses most, and what it means | fill
+
+@page rh="THE COVENANT DAUGHTERS · VIII · DELIA · FAITH AND SCRIPTURE · 2 OF 2" m="LUKE 15.25–32; ESTH 4.4; ESTH 4.16; PHIL 2.14"
+# The text
+rec:
+Her name | *Delia* has no biblical source. It's Greek, "from Delos," a title of Artemis. INTERPRETATION: *Cross* is the heaviest surname in the cast, and nobody says so.
+The elder brother · Luke 15 | POSSIBLE: The son who stayed and served, furious when the father kills the fatted calf for the one who left. "Lo, these many years do I serve thee… and yet thou never gavest me a kid" (15.29). **Where it breaks:** The father goes out to him and says "all that I have is thine" (15.31). The Empire never goes out to Red Earth.
+Esther's maidens · Esther 4 | POSSIBLE: The young women who serve the queen, tell her what's happening outside, and fast with her when it matters (4.4, 4.16). **Where it breaks:** Delia ends up serving the Aurem girl. Whether she fasts with her is the book.
+tab:
+| She'd quote | Never read to her |
+| Luke 15.29, if she ever said it aloud | Luke 15.31, "Son, thou art ever with me" |
+box: Volume One
+Red Earth, {v1:redearth}. Lived religion, {v1:lived4}. Esther, {v1:esther}. Commonwives and the quota, {v1:arrangement}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · VIII · DELIA · THROUGH THE TRIAL" m="TKC: TR · TL"
+# Through the Trial
+tab:
+| Phase | What the files give | Yours |
+| Phase One · the Temple | _ | _ |
+| The Dominion Forum | Votes with Eden (TL) | _ |
+| Social Policy debate | Votes with Eden (TL) | _ |
+| Endurance | Her alignment has shifted in a direction she didn't expect. She makes a choice she'll have to live with and reaches the final checkpoint (TR). | _ |
+| After | Doesn't advance. Lady in Waiting (TR). | _ |
+prompt: The choice she makes in Endurance | fill
+
+@page rh="THE COVENANT DAUGHTERS · VIII · EDEN AND DELIA" m="TKC: TR · TL"
+# Eden and Delia
+rec:
+The files | A grudge against Aurem (TR), and two votes with Eden anyway (TL).
+prompt: What Delia decided over those months, and when she nodded | 6
+prompt: What she does as a Lady in Waiting that matters most | 5
+prompt: Lines only Delia would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · VIII · DELIA · WORKING PAGE" m="WRITING"
+# Write the Forum vote
+Ten minutes. The scenario room, no leader, Eden moving the room, and Delia deciding.
+prompt: Write | fill
+status

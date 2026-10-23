@@ -1,0 +1,83 @@
+@opener id="petra" rh="THE COVENANT DAUGHTERS · X · PETRA · PORTRAIT" m="TKC: TR · TL · DOM · WR 28 · FR 23–24; VOL. I · {v1:mountain}"
+plate: frame | PORTRAIT · PETRA SOLANO · TWENTY-TWO · MOUNTAIN DOMINION
+/end
+tk: PART III · COVENANT DAUGHTER X · ⌖
+big: Petra
+lede: She came looking for something. She found it (TL).
+calls:
+k: On the record
+Petra Solano of Crestfall, twenty-two. Nominated by a Vowed officer and approved by the Crown (TR). She matters by doing less (WR 28).
+||
+k: Her fate
+note: Her death.
+Dies before Phase Two. The Empire calls it a sudden medical event, and it isn't (TR). Her death costs the Trial nothing, and her status goes back to her family (FR 23–24).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · X · PETRA · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:mountain} · {v1:lived5}"
+# Crestfall
+plate: doc
+dh: Covenant Registry | MOUNTAIN DOMINION · CRESTFALL
+df: Candidate | SOLANO, Petra · twenty-two
+df: Nominated by | a Vowed officer (TR)
+df: Approved by | the Crown (TR)
+df: Stated purpose | the Trials
+df: Actual purpose | ____________
+stamp: COVENANT DAUGHTER
+/end
+rec:
+The boy next door | She grew up beside a family whose youngest son she loved, the way children who grow up together do. The family relocated where she couldn't follow, and she kept looking, the way you look for something you believe can still be found (TR).
+Why she entered | To get into the Crownward, where the records and archives are. The boy disappeared into Mountain terrain four years ago, and the official record doesn't hold his name (TR).
+Why she was chosen | POSSIBLE: Someone in the Crown's advisory structure suspected she was looking for something and wanted her looking where they could intercept it. If so, the control failed (TR).
+Her Dominion | Crestfall is the face and the mountains are the truth. Girls chosen at Designation for classified Vowed service disappear from public life (DOM).
+prompt: The boy's name, as she knew it | 3
+
+@page rh="THE COVENANT DAUGHTERS · X · PETRA · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM · WR 28; VOL. I · {v1:mountain} · {v1:lived5}"
+# What she believes
+rec:
+What she believes | INFERENCE: That what's lost can still be found if you keep looking (TR).
+Who taught her | Crestfall, where discipline mattered before the Empire made it doctrine. Families take their sons above the city the night before assessment and show them the mountains, which were there before the Empire and will be there after (MEN).
+What she practices | The Witness Walk. The name spoken once, directly to the mountain, which Crestfall trusts more than God or the Temple, and then the long walk down where the grief happens (DOM).
+empire: What the Temple teaches about a woman like her
+POSSIBLE: The Temple reads the Song of Songs only as an allegory of Christ and the church, which is an old and real tradition, so the Song's woman searching the streets for the one she loves is never read as a woman.
+/end
+prompt: What she says to the mountain, and whose name | fill
+
+@page rh="THE COVENANT DAUGHTERS · X · PETRA · FAITH AND SCRIPTURE · 2 OF 2" m="MATT 16.18; SONG 3.1–4; SONG 5.6–7; SONG 8.6"
+# The text
+note: Her death.
+rec:
+Her name | Greek *petra*, "rock," the word behind "upon this rock I will build my church" (Matt 16.18, Vol. I, {v1:cast}).
+The woman searching · Song 3 | POSSIBLE: "I will rise now, and go about the city… I will seek him whom my soul loveth" (3.2). She finds him and won't let him go. **Where it breaks:** Petra goes about the city and finds the archive instead.
+The watchmen · Song 5.7 | POSSIBLE: The second time she searches, "the watchmen that went about the city found me, they smote me, they wounded me." **Where it breaks:** The Song keeps going after the watchmen. Petra's story doesn't.
+tab:
+| She'd quote | Never read to her |
+| Song 3.2, "I will seek him whom my soul loveth" | Song 5.7, the watchmen |
+| _ | Song 8.6, "love is strong as death" |
+box: Volume One
+Mountain, {v1:mountain}. Lived religion, {v1:lived5}. The three arguments, with the Song of Songs, {v1:b-proverbs}. The ledger and the Dissent, {v1:ledger}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · X · PETRA · THROUGH THE TRIAL" m="TKC: TR · FR 23–24 · FR 41–42"
+# Through the Trial
+note: Her death.
+tab:
+| Phase | What the files give | Yours |
+| Arrival | Mountain candidates carry the alertness of someone raised knowing what she doesn't know might be classified (DOM) | _ |
+| Phase One | The east wing archive holds things that are not about Azrael and are about Azrael at the same time. What she finds there is why she's dead (TR). | _ |
+| Before Phase Two | Dies. "A sudden medical event," the Empire's phrase for Azrael too (TR, TL). | _ |
+| After | Her status goes back to her family. The Trial loses nothing (FR 23–24). | _ |
+small: OPEN QUESTION: How does a Covenant Daughter get into the east wing archive, which Azrael reached only through a Crown advisory access period (FR 41)?
+prompt: What she finds, and who knows she found it | fill
+
+@page rh="THE COVENANT DAUGHTERS · X · EDEN AND PETRA" m="TKC: TR · WR 28"
+# Eden and Petra
+rec:
+The rule | Her stillness, her watching, her refusal to react or perform can be stronger than dialogue. Don't overexplain her (WR 28).
+prompt: The one thing Petra does that Eden doesn't understand until after | 6
+prompt: Who the boy is, and how he's tied to Azrael | fill
+
+@page rh="THE COVENANT DAUGHTERS · X · PETRA · WORKING PAGE" m="WRITING"
+# Write the archive
+Ten minutes. The east wing, a drawer, and Petra reading something about a boy whose name isn't in it.
+prompt: Write | fill
+status

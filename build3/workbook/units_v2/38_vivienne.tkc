@@ -1,0 +1,76 @@
+@opener id="vivienne" rh="THE COVENANT DAUGHTERS · IX · VIVIENNE · PORTRAIT" m="TKC: TR · DOM; VOL. I · {v1:lone}"
+plate: frame | PORTRAIT · VIVIENNE HALE · TWENTY-THREE · LONE DOMINION
+/end
+tk: PART III · COVENANT DAUGHTER IX · ⌖
+big: Vivienne
+lede: Curious rather than ambitious, engaged without being revealing, and noncommittal in a way that reads as easy and is actually a skill (TR).
+calls:
+k: On the record
+Vivienne Hale of Covenant Basin, twenty-three. Self-nominated on impulse after two years of thinking about it. Third in Lone's Regional Assessment (TR).
+||
+k: Her fate
+Her ankle fails on a Day 1 slope in Endurance, and she's extracted at the first checkpoint (TR). She goes home knowing more about how the Crownward works than anyone there will know what to do with (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · IX · VIVIENNE · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:lone} · {v1:lived4}"
+# Covenant Basin
+plate: doc
+dh: Covenant Registry | LONE DOMINION · COVENANT BASIN
+df: Candidate | HALE, Vivienne · twenty-three
+df: Nominated by | herself (TR)
+df: Regional Assessment | third
+df: Selected because | clean and interesting, and to avoid a nepotism story about the first-ranked girl (TR)
+stamp: COVENANT DAUGHTER
+/end
+rec:
+Her family | Pragmatic and quietly independent. Her father works in resource extraction. Her mother runs the household and treats Imperial loyalty as a practical arrangement rather than a conviction (TR).
+Her Dominion | Texas negotiated its surrender and kept the attitude. Lone performs loyalty loudly and then does what it was going to do anyway, and its outer-territory women have an autonomy that would get them flagged in Aurem (DOM).
+In the Trials | If a Lone girl is selected she goes, the Dominion supports her adequately, and nobody gets emotional about the outcome. Lone directness: do the thing, see what happens (DOM).
+prompt: What she was thinking about for two years before she filed | fill
+
+@page rh="THE COVENANT DAUGHTERS · IX · VIVIENNE · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:lone} · {v1:lived4}"
+# What she believes
+rec:
+Who taught her | A mother for whom loyalty is a practical arrangement (TR). The First Ride, a long distance navigated alone while the community waits. The Giving, something of a grandmother's handed to a bride (DOM).
+What she believes | OPEN QUESTION: Curiosity is the only creed on file (TR).
+What she practices | Burial with boots on, ready for wherever the dead go next (DOM).
+empire: What the Temple teaches about a woman like her
+POSSIBLE: Lone gets Proverbs 31.27, "She looketh well to the ways of her household," and the Governor-Prelate never checks whether anyone listened (DOM).
+/end
+prompt: What she was given at the Giving, or will be | fill
+
+@page rh="THE COVENANT DAUGHTERS · IX · VIVIENNE · FAITH AND SCRIPTURE · 2 OF 2" m="1 KGS 10.1–7; MATT 12.42; NUM 13.25–33; JOSH 2"
+# The text
+rec:
+Her name | *Vivienne* has no biblical source. It's from the Latin *vivus*, "alive."
+The queen of Sheba · 1 Kings 10 | POSSIBLE: She comes from far away to see for herself, asks hard questions, and says "the half was not told me" (10.7). **Where it breaks:** Sheba goes home with gifts and a story she's free to tell. Vivienne goes home with information nobody in Covenant Basin can use (TR).
+The spies · Numbers 13 | POSSIBLE: Twelve men sent to look at a land and come back with a report. **Where it breaks:** Their report is public, and argued over. Vivienne's report is hers.
+tab:
+| She'd quote | Never read to her |
+| 1 Kings 10.7, "the half was not told me" | Joshua 2, a woman who reads the whole war correctly from her window |
+box: Volume One
+Lone, {v1:lone}. Lived religion, {v1:lived4}. Rahab, {v1:ruth}. Numbers, the count and the camp, {v1:f1-count}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · IX · VIVIENNE · THROUGH THE TRIAL" m="TKC: TR; CONFLICT"
+# Through the Trial
+note: An injury during Endurance.
+tab:
+| Phase | What the files give | Yours |
+| Phase One · the Temple | _ | _ |
+| Phase Two · the Crown | Eliminated before the Social Policy debate (TR, profile) | _ |
+| Endurance · Day 1 | Her ankle fails on a slope. Extracted at the first checkpoint (TR, fates). | _ |
+| After | Home to Covenant Basin with more than anyone there can use (TR). Married down as designated (FR 19). | _ |
+small: CONFLICT: Phase Two, or Endurance Day 1 (TR). One has to go.
+prompt: The single most useful thing she learned, and who she tells | fill
+
+@page rh="THE COVENANT DAUGHTERS · IX · EDEN AND VIVIENNE" m="TKC: TR"
+# Eden and Vivienne
+prompt: What Vivienne notices about Eden that nobody else does | 6
+prompt: Lines only Vivienne would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · IX · VIVIENNE · WORKING PAGE" m="WRITING"
+# Write her report
+Ten minutes. Vivienne back in Covenant Basin, telling one person what the Crownward actually is.
+prompt: Write | fill
+status

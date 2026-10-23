@@ -1,0 +1,83 @@
+@opener id="corinne" rh="THE COVENANT DAUGHTERS · IV · CORINNE · PORTRAIT" m="TKC: TR · TL · DOM; VOL. I · {v1:meridian}"
+plate: frame | PORTRAIT · CORINNE VALE · TWENTY-TWO · DOMINION OF MERIDIAN
+/end
+tk: PART III · COVENANT DAUGHTER IV · ⌖
+big: Corinne
+lede: Precision as a weapon, compliance as strategy, and the most dangerous woman in every room she's ever entered (TL).
+calls:
+k: On the record
+Corinne Vale of Blessed Shore, twenty-two. First in Meridian's Regional Assessment, and the most connected Covenant Daughter in the Trials' history (TR).
+||
+k: Her fate
+Completes Endurance, placed by composite score (TR). She pushes Calla Merritt into the river on Day 2, and no camera sees it (TR).
+/end
+
+@page rh="THE COVENANT DAUGHTERS · IV · CORINNE · THE RECORD AND HER DOMINION" m="TKC: TR · DOM; VOL. I · {v1:meridian} · {v1:lived2}"
+# Blessed Shore
+plate: doc
+dh: Covenant Registry | DOMINION OF MERIDIAN · BLESSED SHORE
+df: Candidate | VALE, Corinne · twenty-two
+df: Regional Assessment | first
+df: The Crownward | Quarterly Audiences attended · the Court wives known · three visits to the Crown Palace (TR)
+stamp: COVENANT DAUGHTER
+/end
+rec:
+What she is | The machinery of the Trials "in the way that a key embodies the lock it was made for" (TR).
+Why she's dangerous | Her ruthlessness comes from conviction. She believes she's the right choice, so she treats a threat as an obstacle to what's right, which makes her more dangerous than a girl who only likes winning (TR).
+Her Dominion | Blessed Shore holds the Covenant Court's secondary chambers. Its administrators trust process, its Stewardwives read Binding contracts in Reading Circles, and a Meridian woman who decides to move is almost impossible to stop because she's read every rule and knows where the gaps are (DOM).
+OPEN QUESTION | She shares a surname with Maribel Vale of Aurem (DR3). Related?
+prompt: Her family, and what her mother taught her about contracts | fill
+
+@page rh="THE COVENANT DAUGHTERS · IV · CORINNE · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · DOM; VOL. I · {v1:meridian} · {v1:teaches}"
+# What she believes
+rec:
+What she believes | She's the right choice, and so whatever she does is right (TR).
+Who taught her | INFERENCE: Blessed Shore, where Designation tests "relational compliance" over three days and preparing daughters for high-stakes assessment is what families do (DOM).
+What she can recite | INFERENCE: All of it, and the clauses.
+What she'd be arrested for | Murder, if a camera had seen it (TR).
+empire: What the Temple teaches about a woman like her
+INTERPRETATION: Nothing against her. She's what the Trials reward, built for it from birth (TR). POSSIBLE: Her Temple holds her up as Proverbs 31 in person.
+/end
+prompt: The verse she tells herself on the bank of the river | fill
+
+@page rh="THE COVENANT DAUGHTERS · IV · CORINNE · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 4.8–10; GEN 25.29–34; 1 KGS 21; PHIL 3.6; ROM 8.31; 1 COR 1.12"
+# The text
+note: Murder.
+rec:
+Her name | *Corinne* is from the Greek *Korinna*, "maiden," and has no biblical source. INTERPRETATION: It sounds like Corinth, the church Paul wrote to about its factions, each one saying "I am of Paul" or "I of Apollos" (1 Cor 1.12).
+Cain · Genesis 4 | POSSIBLE: The first killing, in a field, with no one there to see it. "The voice of thy brother's blood crieth unto me from the ground" (4.10). **Where it breaks:** God asks Cain where his brother is. Nobody asks Corinne, because no camera was there.
+Jacob's stew · Genesis 25 | POSSIBLE: A birthright bought with a bowl of food from a hungry brother. Corinne uses food as a weapon (TR).
+Jezebel's letters · 1 Kings 21 | POSSIBLE: A man killed by correct procedure, through letters and sealed witnesses. Corinne builds a parallel intelligence operation from the Trial's own surveillance (TR). **Where it breaks:** Jezebel's crime has a prophet waiting at the vineyard.
+tab:
+| She'd quote | Never read to her |
+| Romans 8.31, "If God be for us, who can be against us?" | Genesis 4.10, the blood crying from the ground |
+| _ | Philippians 3.6, Paul's zeal described as the thing he had to lose |
+box: Volume One
+Meridian, {v1:meridian}. Genesis, the primeval history, {v1:g-primeval}. Jezebel, {v1:jezebel}. Ruth and the other foreign women, {v1:ruth}.
+/end
+
+@page rh="THE COVENANT DAUGHTERS · IV · CORINNE · THROUGH THE TRIAL" m="TKC: TR"
+# Through the Trial
+note: Murder, and a trap set for another candidate.
+tab:
+| Phase | What the files give | Yours |
+| The Tea Party | The tension with Calla begins here and runs through every shared event (TR) | _ |
+| Throughout | Food as a weapon. A parallel intelligence operation among the Covenant Houses, built from the surveillance (TR). | _ |
+| Before Endurance | Sets the trap that nearly removes Sera (TR) | _ |
+| Endurance · Day 2 | Pushes Calla into the river. No camera. One person sees it and can't look away fast enough (TR). | _ |
+| After | Completes Endurance, placed by composite (TR). Married down as designated (FR 19). | _ |
+prompt: Who sees her at the river, and what she does about it | fill
+
+@page rh="THE COVENANT DAUGHTERS · IV · EDEN AND CORINNE" m="TKC: TR · TL"
+# Eden and Corinne
+rec:
+The files | Two women raised for opposite reasons to understand exactly how the Trials work. Corinne was built for the lock (TR). Eden read the small print (TR, DR3).
+prompt: The first time Eden sees what Corinne is | 5
+prompt: What Corinne thinks Eden is | 5
+prompt: Lines only Corinne would say | fill
+
+@page rh="THE COVENANT DAUGHTERS · IV · CORINNE · WORKING PAGE" m="WRITING"
+# Write the Tea Party
+Ten minutes. The first shared event, Corinne and Calla, and something on a plate.
+prompt: Write | fill
+status
