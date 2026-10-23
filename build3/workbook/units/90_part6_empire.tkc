@@ -1,0 +1,325 @@
+@part id="part6" num="VI" kind="PART SIX · ☙" title="Building/the Empire" sub="Three constitutional bodies, twelve Dominions, a Registry that holds everyone's paper, a Temple that tells each woman what she is, and the religion people practice where nobody is watching." series="THY KINGDOM COME · VOLUME ONE · THE WORLD"
+toc: i · The Triune Rule | p6-triune
+toc: ii · The Crown and the House of Vane | p6-crown
+toc: iii · The Crownward | p6-crownward
+toc: iv · The Temple and the Vowed | p6-temple
+toc: v · The Broadcast, the Governors, the Registry | p6-registry
+toc: vi · Men, labor and the economy | p6-men
+toc: vii · Doctrine and lived religion | p6-doctrine
+toc: viii · Women, marriage and the household order | p6-women
+
+@page id="p6-triune" rh="BUILDING THE EMPIRE · I · THE TRIUNE RULE" m="TKC: TL · TR · CR"
+# Three bodies, one score
+In 2051 the Crown, the Temple and the Broadcast were made the three governing bodies of the Empire. What had worked informally since 2043 became constitutional, and the Broadcast stopped being a network of Coalition media companies and became a branch of government (TL).
+<div class="org">
+<div class="or"><div class="on">The Crown<span>House of Vane · Phase Two · 30%</span></div><div class="on">The Temple<span>Sanctum · Vowed · Phase One · 30%</span></div><div class="on pink">The Broadcast<span>Citadel · Saint Meridian · 40%</span></div></div>
+<div class="ol"></div>
+<div class="or"><div class="on sm">Governor-Prelates<span>one per Dominion</span></div><div class="on sm">The Registry<span>every citizen's paper</span></div><div class="on sm">The Vowed<span>assessment · observation</span></div><div class="on sm">Covenant Court<span>the law, interpreted</span></div></div>
+</div>
+rec:
+How the Trials are split | The Temple runs Phase One and the Crown runs Phase Two. Endurance belongs to the terrain. The Covenant Score is weighted 30 percent Temple, 30 percent Crown and 40 percent Broadcast (TR).
+The secret | The Broadcast's share is never disclosed, because the public would be angry to learn that a broadcaster outweighs the Church in choosing the Empire's most powerful woman (TR).
+prompt: Who in the cast knows the forty percent, and how they found out | fill
+
+@page id="p6-crown" rh="BUILDING THE EMPIRE · II · THE CROWN AND THE HOUSE OF VANE" m="TKC: TL · AM · RULING · FR 35 · FR 39 · FR 41 · CR · MEN · WR"
+# Four rulers, three methods
+Every Emperor descends from Elias Vane, who founded the House in 2054 (TL). The Temple teaches that God chose Elias and that the bloodline carries the anointing forward, so the family's status is theological as well as political (CR).
+tabrl:
+| Ruler | Years | How he held power | Source |
+| Elias Vane | First Elector 2043, Emperor 2054–2061 | Belief. A preacher who made people want what he wanted. | TL, AM |
+| Crest Vane | 2062–2085 | Procedure: quotas, designations, criminal categories and the Trials | TL |
+| Dorian Vane | 2085 to now, 59 in 2104 | Performance. He brought back the spectacle and made the Trials the year's biggest event. | TL, Ruling |
+| Judah Elijah Vane | Crown Heir, 25 in 2104 | Not yet. Raised by the Temple as much as by his parents. | TL |
+rec:
+Succession | By survivorship and the absence of any other recognized claimant (FR 39). Crest inherited after his elder sibling was removed in 2061. Dorian, that sibling's son, inherited after Crest died (FR 35, 39). When Azrael was declared dead in 2100, the line passed to Judah (TL).
+The heir's marriage | A matter of state. Dorian has pushed Judah toward an Anointed Wife since he turned 23, because an unmarried heir is an heir whose loyalties are still unwritten (CR). Elite men usually marry between 25 and 35. The Trials exist partly because of Judah's reluctance, to make the choice feel like an honor instead of pressure (MEN).
+Advisory access | Young members of the House take part in "Crown advisory access periods," which is how Azrael got legitimate access to the east wing archive (TL, FR 41).
+Lyris Vane | Empress, 58, and the most sophisticated political operator in the Empire. She's spent thirty years performing perfect Anointed Wifehood while running the Crownward's domestic and diplomatic machinery, and lobbied through Dorian for a decade to shape the Anointed Wife's legal protections, framing every gain as his gift (CR). She came from Mountain Dominion (WR).
+small: SUPERSEDED: The Crownward file calls Crest Dorian's father. Under FR 35, Crest is Dorian's uncle.
+prompt: How did Lyris, a woman from Mountain, become Dorian's wife? What did the Trials have to do with it? | fill
+
+@page id="p6-crownward" rh="BUILDING THE EMPIRE · III · THE CROWNWARD · 1 OF 2" m="TKC: CR; RESEARCH: ARLINGTON, VIRGINIA"
+# The capital
+The Crownward is built over Washington, D.C., formally established in 2043. Elias occupied the old capital instead of moving it, because you don't abandon the seat of the thing you claim to restore. Most people in 2104 have never seen a photograph of Washington (CR). The Potomac is now the Covenant River, and it divides the city.
+<div class="map">
+<div class="bank w"><div class="bl">THE SOVEREIGN SIDE · WEST</div><div class="pl hi">Crown Palace</div><div class="pl">Temple Sanctum</div><div class="pl">Broadcast Citadel<br><span>north edge, sees both</span></div><div class="pl long">Sovereign Boulevard<br><span>half a mile, Palace to river</span></div><div class="pl long">Covenant Row<br><span>the twelve Covenant Houses</span></div></div>
+<div class="river"><div class="rv">COVENANT RIVER</div><div class="br b1">Sovereign Bridge</div><div class="br b2">Covenant Bridge</div><div class="br b3 pink">Grace Bridge</div></div>
+<div class="bank e"><div class="bl">THE ADMINISTRATIVE SIDE · EAST</div><div class="pl hi">The Registry</div><div class="pl">Covenant Court offices</div><div class="pl">Registration bureaus</div><div class="pl">Vowed training</div><div class="pl long">Staff housing · market streets<br><span>Temple schools · Dominion kitchens</span></div></div>
+</div>
+rec:
+The bridges | The Sovereign Bridge is the widest and appears on the currency. The Covenant Bridge is narrower and used by staff. The Grace Bridge is the oldest, never fully renovated, and has blind spots in Broadcast coverage, so it's where people go when they don't want to be filmed.
+RESEARCH | In the real city central Washington sits on the Potomac's east bank, and the west bank is Arlington, Virginia. Read literally, the Sovereign Side stands where Arlington National Cemetery and the Pentagon are now. POSSIBLE: Somebody in the Crownward knows the Crown Palace is built over the old national cemetery.
+
+@page rh="BUILDING THE EMPIRE · III · THE CROWNWARD · 2 OF 2" m="TKC: CR"
+# The order nobody writes down
+The Crownward has a rigid social order that nobody writes down and everybody enforces (CR).
+rec:
+The House of Vane | At the top.
+The Anointed Court | About forty families whose standing is measured by how close they live to the Palace. They attend quarterly audiences with the Emperor, and the Temple High Prelates sit among them.
+The Administrative Class | The senior staff of the Crown, Temple and Broadcast. Most of their wives hold Stewardwife designation.
+Their daughters | The Crownward's daughters who enter the Trials are rarely the most celebrated candidates, and they're almost always the most dangerous (CR).
+prompt: What someone on the Grace Bridge can do that they can't do anywhere else | fill
+prompt: A walk across the Crownward, west to east, in Eden's first week | fill
+
+@page id="p6-temple" rh="BUILDING THE EMPIRE · IV · THE TEMPLE AND THE VOWED" m="TKC: DR3 · CR · DOM · MEN · TR · TL · FR 30 · FR 33"
+# Ministers, Vowed and the Prelate
+The Temple is a church and a branch of government. In Eden's world it shows up as ministers, Vowed women and doctrine. Its scripture is read from the Book of Covenant (DR3), and the Temple Sanctum in the Crownward is its seat (CR).
+rec:
+Ministers | Senior Minister Bell is the model: a man who signs Binding certificates, sponsors Assessment candidates, and prays God will close every door not intended for a girl (DR3).
+The Vowed | Women in Temple service, who run most of the Empire's contact with women. A Vowed officer assesses every Aurem girl at eighteen (DOM). They conduct the quarterly household assessments in Aurem's Commonwife homes (MEN), run the Regional Assessments, and observe, examine and interview the Covenant Daughters (TR). In Red Earth they attend school performances as "pastoral care" (DOM).
+The Crownward Vowed | The Temple's elite and the Empire's most efficient intelligence network. The Temple calls it spiritual discernment and the Crown uses it as surveillance, and it's never written down anywhere the Empire could confiscate it (CR).
+Leaving | The designation can be left through marriage. Delphine's mother went from Vowed to Bonded Wife, and Hannah was Vowed before she became House Mother (TR, FR 30). Sera Callum was Vowed when Elias married her (TL). Hannah's daughter Naomi has one year left in Vowed education (TL).
+@page rh="BUILDING THE EMPIRE · IV · THE TEMPLE AND THE VOWED, CONTINUED" m="TKC: DR3 · CR · DOM · MEN · TR · TL · FR 30 · FR 33"
+# The Prelate
+cols:
+plate: frame | PORTRAIT · THE PRELATE · WORKING NAME AURELIA | 3in
+/end
+||
+k: The Prelate
+She heads the Crownward's Vowed. She's 67, has served three Emperors, and knows better than anyone in the city how power actually works. She assessed Judah's spiritual formation personally. In the Trial's first week she'll reach a conclusion about Eden that she shares with no one, the Emperor included. She anoints the Crown Heir's bride (CR).
+small: The files call her Prelate Naomi. FR 33 renames her so Hannah's daughter keeps the name. POSSIBLE: Prelate Aurelia is the working name. She is never Huldah.
+/end
+prompt: What the Prelate concludes about Eden in the first week, and what she does with it | fill
+
+@page id="p6-registry" rh="BUILDING THE EMPIRE · V · THE BROADCAST, THE GOVERNORS, THE REGISTRY" m="TKC: CR · DOM · TR · TL · DR3 · MEN"
+# Paper and cameras
+rec:
+The Broadcast | State media and the third branch. Its Citadel stands in the Crownward, and its studios, where Trial scores are announced, sit in old Midtown Manhattan in Saint Meridian (DOM). It holds 40 percent of the Covenant Score, including "narrative priority decisions" by the Broadcast Director. It edits the Civic Debates for Dominion release and builds a story around every candidate in real time. When a candidate's intelligence becomes the story instead of her compliance, it runs the "Eve narrative," which implies and never accuses (TR).
+Governor-Prelates | One political and religious office per Dominion (TL). They choose each Covenant Daughter from the top three of the Regional Assessment, and in practice take whoever the Crown has quietly signaled it prefers (TR). Gulf's first lasted fourteen months. Lone's has always been born in Texas. Pacific's was appointed by Dorian. Ardenne's has mostly stopped trying to fix the marriage records from outside Ashford (DOM).
+The Registry | On the Administrative Side. Every citizen's Imperial record: birth designations, marriage registrations, Covenant Scores, Designation results and deaths. Only the Crown Palace is guarded more heavily. Whoever controls what the Registry says about you controls something more basic than law, faith or the Broadcast, and Eden will understand this before most people in the story (CR).
+The Covenant Court | Interprets Imperial law, with offices on the Administrative Side and secondary chambers in Blessed Shore, where the law "gets interpreted, refined, and weaponized" (CR, DOM).
+Surveillance | Cameras and screens everywhere in the seat cities. The Covenant Houses are wired in every common area but not the bedrooms, a deliberate illusion of privacy that keeps candidates manageable (CR). Pacific has more cameras per block than any other Dominion. Eden's file reads "Exceptional intellect. Monitor closely," later "Selected for Trial. Monitor closely" (TL).
+The gaps | The Grace Bridge, the Ardenne hollows, the Sable desert, west Lone's distances, Saint Meridian's density, and the Mountain terrain where Endurance runs mostly without cameras (CR, DOM, TR).
+prompt: Who runs the Registry, and who has ever changed what it says about a person | fill
+
+@page rh="BUILDING THE EMPIRE · V · THE LAW ARRIVES AS FORMS" m="TKC: DR3 · TL · MEN · TR · CR · DOM; OPEN QUESTION"
+# The forms
+plate: doc
+dh: Household Return | REGISTRY FORM H-1 · AUREM
+dsub: ONE COPY TO THE TEMPLE, ONE TO THE CROWN · ALL FIELDS REQUIRED
+df: Household of | Parish, Celeste · Unbound
+df: Adult male authority | "deceased" · returned with the word circled, next adult male requested
+df: Dependents | ________________________________
+df: Reclassification | six years pending
+df: Authority, on resubmission | Zion Osei, eighteen
+stamp: RETURNED
+/end
+rec:
+The authority line | Household forms demand an adult male authority. Celeste wrote "deceased" on the line, and the form came back with the word circled and a request for the next adult male (DR3). Solomon's vocational form kept coming back to the house until Zion, at eighteen, declared himself the authority (TL, DR3).
+Reclassifying | A woman reclassifying her household under her own registration has to prove the arrangement is permanent (TL). Celeste's took six years.
+Moving | Moving between Dominions requires Crown authorization, technically available and practically difficult (MEN).
+Citations | Any Ungoverned citation disqualifies a woman from the Covenant Registry (TR). OPEN QUESTION: What else does it do? Criminal record, designation, or both?
+Deaths | Registered within 48 hours in the Crownward and 24 in Meridian (CR, DOM).
+prompt: A form from the Osei household I want on the page, field by field | fill
+
+@page id="p6-men" rh="BUILDING THE EMPIRE · VI · MEN, LABOR AND THE ECONOMY" m="TKC: MEN · DOM · TL"
+# Control by structure
+The Empire controls women through designation and men through structure. Men are told they're free, and the control sits in housing, careers and marriage approvals (MEN).
+tabrl:
+| Class | Who they are | Marriage |
+| Common men | The labor and service class, registered to their Dominion | Expected by 21. Unmarried men past 22 stay in labor dormitories. Within caste and region. |
+| Bonded men | Mid-tier administrators and skilled professionals, steered by Crown labor allocation | Between 21 and 25, from Unbound and Commonwife-eligible women, with Crown approval |
+| Covenant men | Crown officers, Temple leadership, Broadcast directors, senior military | Between 25 and 35. Their wives are Anointed. |
+| Conscript men | Common boys whose scores flag them. Officially they don't exist. | Crown approval at the Covenant Man level, for life |
+rec:
+The Imperial Education Track | A common boy whose Designation scores come back exceptional gets a visit from a Crown education officer within three months, offering a scholarship. The family can decline, and declining routes him to the worst labor for life. Accepting makes him Crown-adjacent for life (MEN). (Volume Two, Solomon.)
+The Covenant Declaration | At 18, common men register a public statement of loyalty and readiness for service and marriage. Elite men register theirs at the end of the Track (MEN).
+Twelve economies | Irongate manufacturing. Lone oil and space infrastructure. Mountain classified operations, extraction and military capacity. Gulf tourism, rebranded "cultural pilgrimage." Meridian law and administration. Vane the Broadcast (DOM).
+small: INFERENCE: The forty percent of working-class jobs lost to automation in the Fracture Years never came back, which is what makes Imperial service look like opportunity to a common man.
+prompt: How an Aurem common man gets authorization to move, and how often it's granted | fill
+
+@page id="p6-doctrine" rh="BUILDING THE EMPIRE · VII · WHAT THE TEMPLE TEACHES" m="TKC: CR · TL · DR3 · TR"
+# The official religion, in one line
+plate: quote | | 2in
+pk: Preached every week in every Temple
+pq: The husband leads, the wife supports, the household reflects divine order in miniature.
+pr: THE OFFICIAL THEOLOGY OF MARRIAGE (CR)
+/end
+rec:
+The Vane anointing | God chose Elias to restore the nation, and the bloodline carries divine sanction (CR). Elias was canonized within a year, "not quite sainthood but close enough" (TL).
+The House judges fairly | Bell tells Celeste "The House always judges fairly," and Celeste answers "The House calls whom it calls." Before the scores Bell speaks about "divine order, talent as stewardship, and elevation as burden," and closes with "May every daughter receive with grace the portion appointed to her" (DR3).
+The House virtues | The banners in the Aurelia Temple atrium read obedience, discernment, modesty, stewardship and endurance (DR3).
+Selection as revelation | The Broadcast frames the Trials as a revelation and never a competition: anointing, covenant, calling, worthy, chosen. A competition can be rigged, and a revelation can't (TR).
+Being Bound as service | "Every girl in Aurem wanted to be Bound. It was the only way they knew how to serve." Covenant Candidacy is "the closest thing a woman could get to godliness" (DR3).
+prompt: Which verses are carved over the doors of the Aurelia Temple and the Sanctum | fill
+
+@page rh="BUILDING THE EMPIRE · VII · THE FOUNDING TEXTS" m="TKC: TL · AM · DR3; PART IV, THE SLAVE BIBLE"
+# Four documents
+rec:
+*Thy Kingdom Come* · 2033 | Six hours, preached by Elias at The Gathering House. Required curriculum in every Dominion school since 2061 (TL). INTERPRETATION: The old companion reads it as a familiar prayer taken literally in public for the first time. Nobody in the stadium heard a coup. They heard their own prayer said aloud by a man who wasn't embarrassed by it (AM).
+The Covenant of Purpose | A founding document. It describes a series of deliberate removals as God's order, and the east wing ledger describes the same removals as something else (TL). Celeste can recite it (AM).
+The Covenant of Dissent | Written by Elias in the same hand and the same year, as the theological counter-argument to everything the Empire was built on. Catalogued until 2100, when it disappeared the same week as the ledger. Judah has been looking for it since before his brother's exile (TL).
+The Book of Covenant | The book Bell reads from at the Assessment. It includes Proverbs 31.29, "Many daughters have done virtuously, but thou excellest them all," in King James wording (DR3). OPEN QUESTION: A full Protestant Bible, an abridged edition on the 1807 model, or scripture bound with the Empire's own founding texts?
+tabrl:
+| Passage | What the Assessment made of it (DR3) |
+| Honor thy father and thy mother (Exod 20.12) | A question about reporting an Unbound woman who housed her children without male authority |
+| The widow's oil (2 Kgs 4) | An argument for household rationing |
+| Esther's crown | Proof a woman could influence government, "so long as she was beautiful, obedient, and prepared to die for the privilege" |
+| Proverbs 31 | Printed on the first page and read before the scores |
+small: Eden's read: "Facts might earn professional placement. Knowing which facts the House needed her to believe could carry her farther" (DR3).
+prompt: The passage of the Covenant of Purpose about the removals, in the Empire's own voice | fill
+
+@page rh="BUILDING THE EMPIRE · VII · LIVED RELIGION · 1 OF 6" m="TKC: DOM · MEN"
+# What people actually practice
+In every Dominion people do things around the official rites that the Empire doesn't know about, tolerates because stopping them would cost too much, or eventually approves because it already lost (DOM, MEN).
+tabrl:
+| Dominion | Practice | What it is | The Empire's position |
+| Aurem | The Salt Ceremony | The bride's mother or grandmother washes her hands in salt water the night before her Binding and tells her the truth about marriage | Doesn't know it exists |
+| Aurem | The old way of burial | Three days, family-led, no Empire officiant: the Telling, the Feeding, the Release. Red clay packed down by family hands. | Doesn't know. The paperwork is filed anyway. |
+| Aurem | The Speaking | The night before a boy's Declaration, each man present tells him one true thing about being a man in Aurelia. The boy can't speak. | Unregulated |
+| Aurem | Kitchens | Recipes that "looked like submission and tasted like memory" | Never thought the kitchen worth watching |
+| Gulf | Music in worship | Live music at Bindings, against three ordinances, classed "ceremonial expression within approved parameters" | Tolerated for tourism money |
+| Gulf | The Last Free Night | The women of the family dance, drink and tell the bride the truth | Never on paper |
+
+prompt: Which of these my characters have done, seen or only heard about | rest
+@page rh="BUILDING THE EMPIRE · VII · LIVED RELIGION · 2 OF 6" m="TKC: DOM · MEN"
+# What people actually practice, continued
+tabrl:
+| Dominion | Practice | What it is | The Empire's position |
+| Gulf | The Procession | At 14, girls walk the boulevard in white, and the crowd turns it into a second line | Can't be stopped without a Broadcast incident |
+| Gulf | Funerals | Three days of open house, a second line to the grave, then the Quiet, an hour of silence | Approved in 2052 |
+| Ardenne | Hollow marriages | A community declaration and a broom jump | Records left incomplete |
+| Ardenne | The First Winter Work, the Sitting | A real job in the community's survival at 13 or 14. Sitting with the dead through the night. | Unregulated |
+| Meridian | Reading Circles | Officially Temple Bible studies. Actually a legal-literacy network for Stewardwives, running since 2069. | Doesn't know what they are |
+| Meridian | The record | Before his Declaration, a father walks his son through the family's complete Imperial record | Within the rules |
+
+prompt: Which of these my characters have done, seen or only heard about | rest
+@page rh="BUILDING THE EMPIRE · VII · LIVED RELIGION · 3 OF 6" m="TKC: DOM · MEN"
+# What people actually practice, continued
+tabrl:
+| Dominion | Practice | What it is | The Empire's position |
+| Vane | Ghost Marriages, the Ghost Declaration | Unions outside registration, and a boy's private statement of what he actually intends | Doesn't know they exist |
+| Irongate | The Kitchen | The women's mutual aid network | Never mapped by the Vowed |
+| Irongate | The Placement, the First Shift | A girl's work assessed at 14, a boy's first adult shift at 18 | Unregulated |
+| Irongate | Music | Blues and jazz, "morally ambiguous musical forms" since 2053 | Suppressed. Survives underground. |
+| Heartland | The Anointing | The women wash and braid the bride's hair, each speaking a private word over her | "The most tender thing the Empire accidentally preserved" |
+| Heartland | Planting | After a burial the community plants something that will come back | Approved in 2058 |
+
+prompt: Which of these my characters have done, seen or only heard about | rest
+@page rh="BUILDING THE EMPIRE · VII · LIVED RELIGION · 4 OF 6" m="TKC: DOM · MEN"
+# What people actually practice, continued
+tabrl:
+| Dominion | Practice | What it is | The Empire's position |
+| Red Earth | The Second Covenant | The morning after a Binding, a mother tells her daughter what the first covenant means and what she may keep for herself | Unrecorded, word for word across the Dominion |
+| Red Earth | Score coaching | For twenty years mothers have taught high-scoring sons how much ability to show | Never documented |
+| Red Earth | Sitting with the dead | Women sit with the body in shifts. Burial at midday. | Never understood, so never regulated |
+| Lone | The Giving, the First Ride | The bride receives something of her grandmother's. A girl navigates a long distance alone. | Never acknowledged |
+| Lone | Boots | The dead are buried with boots on | Approved without being understood |
+| Mountain | The Witness Walk | A couple walks alone in the mountains before the ceremony | Unregulated |
+
+prompt: Which of these my characters have done, seen or only heard about | rest
+@page rh="BUILDING THE EMPIRE · VII · LIVED RELIGION · 5 OF 6" m="TKC: DOM · MEN"
+# What people actually practice, continued
+tabrl:
+| Dominion | Practice | What it is | The Empire's position |
+| Mountain | The name to the mountain | A death prayer said once, with the name spoken to the mountain | Unregulated |
+| Sable | Desert names | Every woman has two names, one for the Empire and one for the house. A girl earns hers at the Finding. | Doesn't know they exist |
+| Sable | The Desert Walk, fire burials | A couple's night alone in the desert. The name said once into a fire left to burn out. | Unregulated |
+| Pacific | The Real Binding | A private ceremony with the promises the couple actually means | Unregistered |
+| Pacific | Facing West | A boy faces the ocean at dawn, then turns back to the city. The dead are buried facing west. | Ignored until the Empire gave up in 2078 |
+
+prompt: Which of these my characters have done, seen or only heard about | rest
+@page rh="BUILDING THE EMPIRE · VII · LIVED RELIGION · 6 OF 6" m="TKC: DOM · WR 26 · DR3 · AM"
+# Faith that isn't performance
+small: INFERENCE: Where the files don't say how the Empire treats a practice, the column reads "Unregulated."
+box: The blind spot
+The files don't make every believer a dupe. Heartland faith is genuine, and its women call their questions about the Commonwife designation theological inquiry and mean it (DOM). Ruth Gideon "believes the Empire more than Eden does," sincere without being foolish (WR 26). Eden's own faith is real and "required more maintenance" than Maribel Vale's (DR3). Celeste is the most religious person in the book and the least Imperial (AM). INTERPRETATION: The Empire approves what it's already lost and tolerates what makes money. What women do in kitchens, at bedsides and the night before a wedding mostly goes unseen. Celeste's whole faith is built in that blind spot, and the novel's religious line runs between faith the Temple can use and faith that answers to something it doesn't control.
+/end
+
+
+@page rh="BUILDING THE EMPIRE · VII · DOCTRINE · WORKING QUESTIONS" m="YOURS; OPEN QUESTIONS; PART IX LOG"
+# Working questions
+prompt: 1 · What does the Covenant of Dissent argue, and which line would get someone arrested today? | 3
+prompt: 2 · What happens to a woman caught performing a Salt Ceremony, if anyone ever has been? Has Eden attended one? | 3
+prompt: 3 · What did the men tell Zion at his Speaking? One line Eden will never hear. | 3
+prompt: 4 · Is there an Aurem equivalent of the Reading Circles or the Kitchen, a network Celeste belongs to? | 3
+prompt: 5 · What hymns does the Temple approve, and what do the outer districts sing instead? | 3
+prompt: 6 · What does a Heartland woman's theological inquiry into the Commonwife designation actually argue? This matters for Ruth. | fill
+
+@page id="p6-women" rh="BUILDING THE EMPIRE · VIII · THE DESIGNATIONS" m="TKC: CR · MEN · FR 1 · FR 19 · TR · DOM · TL"
+# What each woman is
+Since the Restoration Act of 2041, a woman's citizenship has depended on her marital status (TL). The Empire controls women by telling each one what she is and making that classification the frame of her whole life (MEN).
+<div class="ladder">
+<div class="rung pink">Anointed Wife<span>wife of a Covenant man · the Trials' product · lost at widowhood</span></div>
+<div class="rung">Stewardwife<span>the Administrative Class</span></div>
+<div class="rung">Bonded Wife<span>wife of a Bonded man (INFERENCE)</span></div>
+<div class="rung">Commonwife<span>a registration status (FR 1) · quotas · Temple review</span></div>
+<div class="rung vw">Vowed<span>Temple service · left by marriage</span></div>
+<div class="rung vw">Unbound<span>unmarried · "difficult and surveilled"</span></div>
+<div class="rung out">Ungoverned<span>outside the system · criminal since 2062</span></div>
+</div>
+@page rh="BUILDING THE EMPIRE · VIII · THE DESIGNATIONS, CONTINUED" m="TKC: CR · MEN · FR 1 · FR 19 · TR · DOM · TL"
+# What each woman is, continued
+rec:
+The Widowed Covenant | Because the designation belongs to the marriage, an Anointed widow holds a temporary status for two years that keeps most protections. She's expected to remarry within the class or drop to Stewardwife. The senior Anointed Wives run a network so efficient that no widow has ever fallen below Stewardwife (CR).
+The six | INFERENCE: Older notes describe a six-tier caste system. Leaving out the Ungoverned, the six are Anointed, Stewardwife, Bonded, Commonwife, Vowed and Unbound. OPEN QUESTION: Is that the six, what's the official order, and where does Vowed rank?
+prompt: Can a woman move up, or only down? Where each door locks | fill
+
+@page rh="BUILDING THE EMPIRE · VIII · BEING SORTED" m="TKC: DOM · DR3 · DECIDED"
+# Designation
+Every girl is assessed and given an initial classification. In Aurem it happens at eighteen, by a Vowed officer, testing literacy, theological knowledge and "domestic aptitude." The result is the Unbound track or the elevated track, which means better education and a chance at Covenant Daughter consideration (DOM).
+tabrl:
+| Dominion | When and how |
+| Aurem | At 18, by a Vowed officer |
+| Gulf | At 14, the Procession |
+| Ardenne | Standard in Ashford. Hollow children tested when they can be brought in. |
+| Meridian | Three-day sessions: theology, written reasoning, policy, "relational compliance" |
+| Vane | At 16, the Broadcast Assessment, partly filmed |
+| Irongate | At 14 the Placement, at 18 Imperial Designation |
+| Heartland | At 13, the First Covenant, where her track is set in public |
+| Red Earth | At 18, two weeks in Temple spaces, Crown facilities and "domestic simulation environments" |
+| Lone | At 16 in Covenant Basin. The First Ride outside it. |
+| Mountain | At 16, with a physical assessment. Girls chosen for classified Vowed service disappear from public life. |
+| Sable | At 18 in Sable Reach. The Finding outside it. |
+| Pacific | At 18. Every score reviewed in the Crownward for signs of inherited resistance. |
+rec:
+The Aurelia board | Administration, Education, Domestic Service, Housekeeping, Food Service, Binding Recommendation and Remedial Instruction. Strong doctrine can lead to Temple Administration, strong household judgment to a Binding recommendation, and girls who test well everywhere to professional placement (DR3).
+Leah | DECIDED: Leah sat for an assessment. Bell offered to nominate her "for Home Instruction the following year" as a consolation (DR3). OPEN QUESTION: What is Home Instruction?
+prompt: Leah's assessment day, from her side | fill
+
+@page rh="BUILDING THE EMPIRE · VIII · THE BINDING" m="TKC: TL · DOM · DR3 · CR · AM"
+# Marriage as designation
+The Binding is marriage as a legal and theological designation (TL). In Aurem it's held in a Temple, witnessed by a Vowed officiant, and registered with the Crown and the Temple at once. The bride wears white and gold and takes a surname hyphenated with her husband's. Ministers sign Binding certificates beneath each husband's name (DR3).
+plate: quote | | 1.9in
+pk: The Aurem Binding
+pq: Nobody asks if she consents. They ask if she is worthy. The correct answer is yes.
+pr: DOM
+/end
+rec:
+Across the Dominions | Meridian's is the most legally elaborate, with registration that can take three weeks. Red Earth's is the most surveilled, with Vowed witnesses at every one. Mountain adds Crown officers. Sable Reach binds at dawn. Gulf keeps its music. In the Crownward a Commonwife Binding is a short registration at the Crown office, and an Administrative Class Binding is recorded for the Broadcast (DOM, CR).
+The Imperial Binding | Seven public stages: the Declaration, Covenant Week, the Anointing (a private ceremony on the sixth day in which the Prelate anoints the bride), the Binding Night, the Grand Binding (four hours in the Sanctum), the Procession down Sovereign Boulevard, and the Private Supper, five guests at most. The bride's vows are twice as long as the heir's. The Empire calls that theology. In practice it's a legal document spoken aloud in a sacred building (CR).
+Names | OPEN QUESTION: Does the hyphenated surname apply only in Aurem? Celeste never took a Binding name, so she's still a Parish (AM). Miriam's would be something like Parish-Osei.
+prompt: What an Aurem bride actually says when she's asked if she's worthy | fill
+
+@page rh="BUILDING THE EMPIRE · VIII · COMMONWIVES, ANOINTED WIVES, THE ARRANGEMENT" m="TKC: DOM · TL · MEN · FR 0 · FR 3 · FR 16 · FR 19 · FR 28 · CR · TR"
+# Two ends of the ladder
+rec:
+Commonwife marriage | How the Empire marries off the labor class. Aurem has the highest Commonwife rate, because the Empire made marriage look like the highest honor available there (DOM). A Commonwife is expected to conceive within the Covenant timeline. A Vowed officer conducts quarterly household assessments, and two years without a pregnancy brings informal comments first and then Temple review (MEN, TL). (Volume Two, Leah.)
+Reassignment | When a husband abandons his Commonwife, she can be reassigned to another man's household. That's what happened to Miriam after Thomas left (FR 0). Thomas left voluntarily (FR 3). Celeste has no proof Miriam is alive (FR 16). OPEN QUESTION: Who decides it, what is her status during it, and why did Solomon keep the Osei name?
+Anointed Wives | All thirty-nine Trials place Anointed wives, and the Crown contest is a layer on top. One woman goes to the heir, the other eleven are married down the elite ladder, and nobody goes home unassigned (FR 19). The husbands are chosen by the oversight committee and ranked by standing. A man can't reject the woman assigned to him, but he can decline the assignment altogether, which removes him from the ladder. It has happened twice (FR 28).
+The Arrangement | Among the Anointed Court, male headship is mostly performance. Wives manage the information, relationships and social intelligence that make their husbands' positions work, and surface the right idea in private so the husband can present it in public. They never take credit or contradict him in public. New Anointed Wives learn it in the first year. Lyris runs the whole network, inherited from the Anointed Wife who mentored her. Celeste told Eden about the Arrangement before she left Aurem (CR).
+small: INFERENCE: Ladies in Waiting, the third- and fourth-place finishers, stay in the Crownward in supporting roles (TR). Under FR 19 they'd also be married into elite households. Both hold if they're placed in Crownward households and serve the Anointed Wife too.
+prompt: Who the two men were who declined their assignments, and what happened to them | fill
+
+@page rh="BUILDING THE EMPIRE · VIII · THE HOUSEHOLD ON PAPER" m="TKC: TL · DR3 · FR 31 · FR 32 · DOM"
+# Unbound, Ungoverned, and four households
+rec:
+Unbound | "Difficult and surveilled" (TL). An Unbound woman can head a household only through reclassification, and household paperwork still demands an adult male authority.
+Children | The Empire classifies children by household registration, not parentage or appearance (FR 32). Hannah's daughter Naomi is eligible through Hannah's household and standing, whatever her father's status (FR 31).
+The Ungoverned | Women who chose exile over designation. Their deepest roots are in the Ardenne hollows, where some communities have lived outside the system for two or three generations. The Empire calls them criminals, and the mountain people call them something closer to saints. Crossings happen through the Sable desert. Lone interprets "Ungoverned" loosely and never files a full report. Saint Meridian has the largest population of sympathizers, people inside the system who leave gaps in it on purpose (DOM).
+tab:
+| | Celeste's | Leah's | Hannah's | An Anointed household |
+| On the paper | Unbound, reclassified. A young man on the authority line. | Commonwife | A former Vowed woman's | Covenant man, Anointed Wife |
+| Who decides | _ | _ | _ | _ |
+| What's assessed | _ | _ | _ | _ |
+| What's hidden | _ | _ | _ | _ |
+small: POSSIBLE: Each one is a different answer to the same law.
+
+@page rh="BUILDING THE EMPIRE · VIII · WORKING QUESTIONS" m="YOURS; OPEN QUESTIONS; PART IX LOG"
+# Working questions
+prompt: 1 · What exactly is the Covenant timeline for conception, and what happens after Temple review? | 3
+prompt: 2 · How does Commonwife reassignment work, and who in Aurelia decides it? | 3
+prompt: 3 · What can an Unbound woman legally own, sign or inherit? | 3
+prompt: 4 · What happens to a woman's designation if her husband is convicted, or declared Ungoverned? | 3
+prompt: 5 · What do the senior Anointed Wives do for a widow in those two years? | 3
+prompt: 6 · How does a girl in the Ardenne hollows end up Ungoverned instead of designated, and does anyone ever go back? | fill

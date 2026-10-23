@@ -201,3 +201,26 @@ table td.blank { height: 0.55in; }
 .tree .tn.ghost { border-style: dashed; color: var(--mid); }
 .tree .tn.mark { border-color: var(--pink); box-shadow: inset 0 0 0 2pt #fff, inset 0 0 0 2.6pt var(--pink); }
 .tree .tl { width: 1pt; height: 0.32in; background: var(--pink); }
+.org { margin: 12pt 0 14pt; display: flex; flex-direction: column; align-items: center; }
+.org .or { display: flex; gap: 10pt; justify-content: center; }
+.org .on { border: 1.2pt solid var(--ink); padding: 9pt 10pt; min-width: 1.5in; text-align: center; font-family: 'Cinzel'; font-weight: 600; font-size: 12pt; }
+.org .on.pink { border-color: var(--pink); color: var(--pink); }
+.org .on.sm { min-width: 1.1in; font-size: 9.5pt; border-width: 0.8pt; }
+.org .on span { display: block; font-family: 'Jost'; font-weight: 400; font-size: 6.8pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mid); margin-top: 3pt; }
+.org .ol { width: 70%; height: 0.28in; border: 1pt solid var(--pink); border-bottom: 0; margin: 4pt 0; }
+.map { display: flex; gap: 0; margin: 10pt 0 12pt; border: 1pt solid var(--ink); min-height: 3.4in; }
+.map .bank { flex: 1; padding: 10pt; display: flex; flex-direction: column; gap: 6pt; }
+.map .bl { font-family: 'Jost'; font-weight: 600; font-size: 7pt; letter-spacing: 0.2em; color: var(--pink); margin-bottom: 4pt; }
+.map .pl { border: 0.8pt solid var(--ink); padding: 5pt 7pt; font-family: 'Cinzel'; font-size: 9.5pt; }
+.map .pl.hi { border-width: 1.6pt; }
+.map .pl span { display: block; font-family: 'Jost'; font-size: 6.6pt; letter-spacing: 0.08em; color: var(--mid); text-transform: uppercase; }
+.map .river { flex: 0 0 1.05in; background: repeating-linear-gradient(180deg, #fbe3e8 0 6pt, #fff 6pt 12pt); border-left: 1pt solid var(--pink); border-right: 1pt solid var(--pink); position: relative; display: flex; flex-direction: column; justify-content: space-around; align-items: center; padding: 8pt 0; }
+.map .rv { writing-mode: vertical-rl; font-family: 'Jost'; font-weight: 600; font-size: 7pt; letter-spacing: 0.3em; color: var(--pink); }
+.map .br { background: #fff; border: 1pt solid var(--ink); font-family: 'Jost'; font-size: 6.6pt; letter-spacing: 0.08em; text-transform: uppercase; padding: 3pt 4pt; width: 1.25in; text-align: center; }
+.map .br.pink { border-color: var(--pink); color: var(--pink); }
+.ladder { margin: 10pt 0 12pt; display: flex; flex-direction: column; align-items: center; gap: 5pt; }
+.ladder .rung { border: 1pt solid var(--ink); width: 4.2in; padding: 6pt 10pt; font-family: 'Cinzel'; font-weight: 600; font-size: 11pt; text-align: center; }
+.ladder .rung span { display: block; font-family: 'Jost'; font-weight: 400; font-size: 6.8pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mid); }
+.ladder .rung.pink { border: 1.6pt solid var(--pink); color: var(--pink); }
+.ladder .rung.vw { width: 3.4in; border-style: dotted; flex: none; padding: 6pt 10pt; }
+.ladder .rung.out { width: 3in; border-style: dashed; color: var(--mid); }
