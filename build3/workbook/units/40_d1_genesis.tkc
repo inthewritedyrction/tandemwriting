@@ -1,0 +1,247 @@
+@divider id="d1" num="I" kind="DEEP-DIVE DOSSIER" title="Genesis" sub="The book Dominion quotes first and reads least" foot="DOSSIER I · EIGHTEEN PAGES"
+
+@opener rh="DEEP-DIVE DOSSIER I · GENESIS" m="SOURCE MARGIN; GEN 1–50; MT · LXX; ALTER, GENESIS (TRANS.); WESTERMANN, GENESIS 1–11; TKC: AM"
+plate: quote
+pk: Genesis 1.28
+pq: Be fruitful and multiply, and fill the earth and subdue it,
+pq: and have dominion over the fish of the sea and over the birds of the air and over every living thing that moves upon the earth.
+pr: The verse the Dominions are named after (AM). Fish, birds and living things. No people.
+/end
+tk: DEEP-DIVE DOSSIER I · ✥
+big: Genesis
+lede: Everything the Empire claims about men, women, land and order is traced back to fifty chapters that spend most of their length undermining that claim.
+calls:
+k: Why this one is first
+It's the source of the Empire's founding doctrine and of your own earliest religious education. Both need digging out, and this dossier is the model for the three that follow.
+||
+k: How to work it
+Reference is about a third of these pages, and the rest is yours. A half-filled dossier is more useful than a blank one.
+/end
+
+@page rh="GENESIS · 1 OF 16 · THE BOOK ON THE RECORD" m="GEN 1.1; GEN 1–11; GEN 12–50; GEN 50.26; WESTERMANN, GENESIS 1–11; ENUMA ELISH · ATRAHASIS; TKC: TL"
+# What it is
+rec:
+Name | Greek *genesis*, "origin." Hebrew *Bereshit*, "in the beginning." Hebrew books are named for their first words more than their contents.
+Place | The first book of the Torah in every collection. Nobody disputes its position, and nearly everything else about it is discussed.
+Authorship | Traditionally Moses. CONTESTED: Most critical scholars read it as woven from more than one source and period, with major editing in or after the exile, and the two creation accounts are the clearest seam. The classic documentary hypothesis has been heavily revised since the 1970s, and traditional readers hold to a single author.
+Genres inside | Cosmology, genealogy, origin stories, family saga, legal precedent, poetry, dream reports and a novella-length court story in the Joseph chapters. Don't run one test across all fifty chapters.
+Structure | Chapters 1–11, the primeval history, from creation to the scattering of peoples. Chapters 12–50, one family across four generations, ending with Joseph's coffin in Egypt (50.26). The seam shows, and the two halves behave differently.
+Setting | No king, no priesthood and no temple. Everything happens in households, and households decide who inherits.
+Neighbors | Mesopotamian creation and flood literature covers similar ground with different theology. Comparison is where Genesis's own claims become visible.
+box: What the book is actually about, if it's about one thing
+INTERPRETATION: Blessing that keeps passing to the wrong person. Younger over elder, the barren over the fertile, the deceiver over the dutiful, the foreigner into the family. A book used to justify hierarchy spends fifty chapters disrupting the hierarchy it names most often, birth order.
+/end
+prompt: What I already think this book says, before reading it again | fill
+
+@page rh="GENESIS · 2 OF 16 · THE TWO BEGINNINGS" m="GEN 1.1–2.3; GEN 2.4–25; EXOD 18.4; DEUT 33.29; PS 121.1–2; EXOD 26.20; TRIBLE, GOD AND THE RHETORIC OF SEXUALITY"
+# Two accounts, unreconciled
+The book opens with two creation accounts in a row, differing in order, method, vocabulary and picture of God. The editors who assembled it kept both. It's the first thing Genesis teaches about how scripture works.
+tabrl:
+| | First account · 1.1–2.3 | Second account · 2.4b–25 |
+| Name for God | Elohim, "God" | YHWH Elohim, "the LORD God" |
+| Starting point | Dark water, the deep | Dry ground, no plants, no rain, no one to work it |
+| Order | Light, sky, land and plants, lights, sea creatures and birds, land animals, humans last | The human first, then a garden, trees, animals, then the woman |
+| Method | Speech and separation | Shaping dust, breathing, planting, building |
+| Humans | Male and female together, both in God's image (1.27) | The human (*ha'adam*) from the ground (*ha'adamah*), the woman built from his side |
+| Their task | Fill the earth, subdue it, have dominion over the creatures (1.28) | Work the garden and keep it (2.15) |
+| Ends with | God resting on the seventh day | Two people naked and unashamed |
+k: The helper · 2.18
+God makes "a helper fit for him," *ʿezer kenegdo*. The noun *ʿezer* appears about twenty times in the Hebrew Bible, and most of them describe God helping Israel. It names whoever supplies what the other can't, so "assistant" is a poor gloss. *Kenegdo* means "corresponding to him." The word usually translated "rib," *tsela*, means "side" nearly everywhere else, including the sides of the tabernacle.
+empire: What Dominion does with the pair
+POSSIBLE: Teaches the second account as the operative one and the first as poetry. Order of creation becomes order of authority, "helper" becomes a job description, and dominion over the earth quietly becomes dominion inside the household. Not a word has to change. Only the choice of which account is doctrine.
+/end
+prompt: Which account I was taught, and which one I'd never noticed was separate | fill
+
+@page rh="GENESIS · 3 OF 16 · THE IMAGE AND THE ORDER · WRITING" m="WRITING; GEN 1.26–28; GEN 2.15; VON RAD, GENESIS; TKC: DOM"
+# Work the doctrine
+Two doctrines come out of these chapters and both hold weight for the Empire. Write them out in Dominion's voice before you write your objection. The Empire's version has to be truly persuasive or Eden's crisis isn't a crisis.
+prompt: 1 · The image of God. What the Empire says it means, and who it quietly leaves out | fill
+prompt: 2 · Dominion as stewardship or as ownership. The Empire's argument at its best | fill
+prompt: 3 · My objection, in one paragraph I'd defend out loud | fill
+prompt: 4 · Where this lands in the manuscript: scene, chapter or catechism | fill
+status
+
+@page rh="GENESIS · 4 OF 16 · CHAPTERS 1–11" m="GEN 3; GEN 4.7; GEN 4.8–17; GEN 6–9; GEN 11.1–9; SONG 7.10; 1 TIM 2.13–14; GILGAMESH XI · ATRAHASIS"
+# The primeval history
+INTERPRETATION: Four movements, each ending worse than it began, and each answered with a promise more than a punishment. The pattern is the argument.
+rec:
+The garden · 3 | The serpent asks a question and the woman answers, adding that they mustn't even touch the tree. She eats and gives fruit to her husband, "who was with her" (3.6). Only two things are cursed, the serpent and the ground. The woman isn't cursed, and neither is the man. Her pain in childbearing and his toil on the land are the same Hebrew noun, *ʿitstsavon*. The chapter never uses the word "sin," which first appears in 4.7, spoken to Cain. The fruit is never an apple. The apple came from a Latin pun on *malum*, "evil" and "apple."
+The first killing · 4 | Violence arrives within a generation of the garden, and God answers it with a mark of protection, not an execution. The first city in the book is founded by the murderer. Genesis isn't sentimental about civilization.
+The flood · 6–9 | The counting runs two ways at once, pairs of animals and sevens, forty days and a hundred and fifty, which source critics read as two accounts woven together. Mesopotamian flood stories share the structure and differ sharply on why it happens. This one ends with a one-sided promise never to do it again, and the sign is a war bow hung in the clouds.
+The tower · 11 | One people, one language and a building project so they won't be scattered. They're scattered anyway. INTERPRETATION: Read beside an empire that standardizes speech and centralizes construction, it's the most politically pointed story in the first eleven chapters, and the one Dominion would find hardest to teach honestly.
+contested: "He shall rule over you" · 3.16
+Prescription or description. Read as prescription, God sets male rule in place. Read as description, the verse names what the break has done to the pair. The word for "desire," *teshuqah*, appears three times in the Hebrew Bible: here, in 4.7 where sin's desire is for Cain, and in Song 7.10, the man's desire for the woman. The Empire has never once presented this as a dispute.
+/end
+prompt: Which of the four is Dominion's founding myth, and which is its indictment | fill
+
+@page rh="GENESIS · 5 OF 16 · CHAPTERS 12–50" m="GEN 12–25; GEN 24–27; GEN 29–35; GEN 37–50; GEN 41.34–36; GEN 47.13–26; EXOD 1.8–11; SPEISER, GENESIS (AB)"
+# Four generations
+One household carrying a promise it keeps putting at risk. Read the right column before writing anything about inheritance in the Empire.
+tabrl:
+| Generation | What happens | How the order breaks |
+| Abraham and Sarah | Called to leave, promised land and children, and childless for decades. Sarah gives Hagar to Abraham, and Hagar bears Ishmael. Hagar flees once and is expelled once. A covenant, a near-sacrifice, and a burial cave that's the only land actually acquired. | The firstborn isn't the heir. The enslaved woman's son gets his own promise. |
+| Isaac and Rebekah | The quietest generation. Rebekah asks God about the struggle in her womb, gets the oracle directly and acts on it. | The younger twin is named before birth, and the mother makes it happen. |
+| Jacob, Leah and Rachel | Deception both ways, two sisters married to one man, four mothers of twelve sons, twenty years of labor and a night of wrestling that leaves him renamed and limping. | The unloved wife bears the priests and the kings. The blessing arrives through a lie and isn't withdrawn. |
+| Joseph and his brothers | Sold by his brothers, jailed on a false accusation, raised to run an empire's grain and reunited with a family he can now feed or destroy. | The eleventh son governs. Judah carries the royal line. |
+box: The Joseph material is an administration story
+A famine is forecast and grain is centralized. Over the crisis the population sells its money, its livestock, its land and finally itself to the crown for food (47.13–26). The Hebrew says he moved the people into the cities, and the Samaritan and Greek texts say he made them slaves. The priests keep their land. A fifth of every harvest goes to Pharaoh "to this day," and the people thank him. Exodus opens on the consequence. CONTESTED: Whether Genesis presents the policy as wise government or as the start of a trap. The text praises his wisdom and records the cost without comment.
+/end
+prompt: Which Dominion policy is the Joseph administration, and who in the Empire admires him | fill
+
+@page rh="GENESIS · 6 OF 16 · THE COVENANT LADDER" m="GEN 9.8–17; GEN 12.1–3; GEN 15; GEN 17; GEN 16.10–13; GEN 21.17–18; GEN 28.10–22; GEN 49.8–12; ANE SUZERAIN TREATIES"
+# Seven promises
+The book's spine is a promise made seven times, often to someone with less standing to receive it, each with a different sign. Note what's asked in return. For most of them, almost nothing.
+tabrl:
+| To whom | What's promised, and what's asked | The sign |
+| Noah and every living creature · 9 | No flood will destroy the earth again. Made with all flesh, and nothing is required. The only unconditional promise in the book. | A bow in the clouds |
+| Abram at the call · 12 | Land, a great nation, a great name, and blessing for "all the families of the earth." Asked only to leave. | None. Only the going. |
+| Abram between the pieces · 15 | Descendants like the stars, the land, and four hundred years of oppression first. A firepot and torch pass between the halves. God alone passes through, and Abram sleeps. | Fire between the pieces |
+| Abraham and Sarah renamed · 17 | Many nations, kings, an everlasting covenant, a son by Sarah. Asked: circumcision of every male in the household, slaves included. | Flesh |
+| Hagar, twice in the wilderness · 16, 21 | Descendants too many to count and a great nation from Ishmael. She's enslaved, foreign and expelled, and the promise is in the patriarch's terms. | A well, and a name for God |
+| Jacob at Bethel · 28 | The same promise, to a man running from the brother he cheated. Jacob answers with a conditional vow of his own. | A stone, and a stairway |
+| Judah, in the deathbed blessing · 49 | His brothers will bow and the scepter won't leave him. Spoken by the dying Jacob and not by God. "Until Shiloh comes" is one of the most disputed phrases in the book. | Words only |
+box: The structure underneath
+INTERPRETATION: The ceremony in chapter 15 borrows the shape of an ancient treaty between a greater power and a lesser one and inverts the key term, since the greater power walks the path alone. It's a reading, and a well-supported one.
+/end
+prompt: Which promise Dominion claims to stand on, and which terms it leaves out to do it | fill
+
+@page rh="GENESIS · 7 OF 16 · THE FAMILY LINE" m="GEN 4.25; GEN 21.10–12; GEN 25.23; GEN 38.27–30; GEN 48.13–20; GEN 49.3–4; 1 CHR 5.1–2; RUTH 4.18–22; TKC: TL · MEN"
+# Who inherits, and why not
+In every generation the promise passes over the firstborn. The Empire runs on birth order, and this is the book it says it runs on.
+tabrl:
+| Firstborn | Passed over for | Where |
+| Cain | Seth, after Abel's death | 4.25 |
+| Ishmael | Isaac. The displaced son still receives a nation. | 21.10–12 |
+| Esau | Jacob, by oracle, appetite and deception. Nobody undoes it afterward. | 25.23, 27 |
+| Reuben | Judah for rule, Joseph for the double portion | 49.3–4, 8–12, 22–26 |
+| Manasseh | Ephraim, by Jacob's crossed hands | 48.13–20 |
+| Zerah | Perez, who breaks out first at birth | 38.27–30 |
+k: Women decide several of these
+Sarah demands Hagar's expulsion, and God tells Abraham to listen to her (21.12). Rebekah engineers Jacob's blessing and takes the risk on herself, "Upon me be your curse, my son" (27.13). Tamar forces Judah to acknowledge her son. INTERPRETATION: Genesis treats inheritance as election and never as law. The legal heir is the one person the story reliably doesn't choose.
+prompt: Where the Vane succession sits on this page, and who is the Ishmael of that house | fill
+
+@page rh="GENESIS · 8 OF 16 · THE WOMEN" m="GEN 16; GEN 21; GEN 24–27; GEN 29–30; GEN 34; GEN 38; FRYMER-KENSKY, READING THE WOMEN OF THE BIBLE; WILLIAMS, SISTERS IN THE WILDERNESS"
+# Six women, six levers
+note: The Dinah row concerns sexual violence and a massacre.
+Genesis pays unusual attention to women without being kind to them. Each of these six works inside a system that gives her no formal power, and each finds a different lever. The character work comes from this page.
+tabrl:
+| Who | What she does, and what it costs | The lever |
+| Hagar | Enslaved, given to Abram as a wife, treated harshly with the verb Exodus uses for Egypt. She flees once and is expelled once. She's the only person in scripture who names God, and she does it alone. She later finds Ishmael a wife, head of her own household. | None. She has none, and is met anyway. |
+| Sarah | Barren from her first mention, twice passed off as Abraham's sister to protect him, and the one who demands Hagar's expulsion. She laughs at the promise and denies it. God names the boy "he laughs," and she plays on the name afterward. | Household authority, used against a woman with less. |
+| Rebekah | Answers "I will go" about her own departure, asks God directly about her pregnancy, and redirects the blessing. Her death is never narrated. | Information, and the willingness to act on it first. |
+| Leah | Married by deception to a man who wanted her sister, and "hated," the text says. Names her sons as running commentary on her marriage. Mother of Levi and Judah, priests and kings. Buried beside Jacob, where Rachel isn't. | Endurance, and the naming of sons. |
+| Dinah | CONTESTED: Most readers take chapter 34 as rape, and some read the verb as shaming more than force. Used as the pretext for a massacre by her brothers. She doesn't speak once. | Silence. The text's, not hers. |
+| Tamar | Denied the marriage owed her, she veils herself, takes Judah's seal, cord and staff as a pledge, and produces them when he orders her burned. "She is more righteous than I." | Documentation. She keeps the receipt. |
+prompt: Which of the six is Eden, which is Celeste, and which is the one nobody in TKC has been yet | fill
+
+@page rh="GENESIS · 9 OF 16 · THE WOMEN, WORKED · WRITING" m="YOURS; WRITING; PART II, WOMEN OF THE TEXT"
+# One woman, all the way down
+Pick one from the facing page and work her fully. Don't pick the one you already have an opinion about.
+box: The pattern worth taking
+INTERPRETATION: Every one of them works the system more than escaping it, and the two who win outright, Rebekah and Tamar, win with information and evidence. POSSIBLE: Eden's method is on this page. So is Celeste's, who wrote "deceased" on the Empire's authority line and made the form answer to it (DR3).
+/end
+prompt: She is, and her passages | 3
+prompt: What the text says she does, and what it declines to say about it | fill
+prompt: What she's reduced to in sermons and study notes | fill
+prompt: What Dominion would teach about her to girls at designation age | fill
+prompt: The scene she unlocks, and who in the Parish household has lived it | fill
+status
+
+@page rh="GENESIS · 10 OF 16 · CONTESTED IN THIS BOOK" m="GEN 1.27; GEN 3.16; GEN 9.20–27; GEN 19; EZEK 16.49; GEN 22; GOLDENBERG, THE CURSE OF HAM; LEVENSON, DEATH AND RESURRECTION OF THE BELOVED SON"
+# Six fault lines
+Sorted by the four kinds of disagreement from the Contested Readings module: I scholarly, II denominational, III open theological, IV unsupported.
+tabrl:
+| The dispute | Kind | What's actually at stake |
+| The image of God | III | Whether it names a capacity, a status, a function or a relationship, and whether it's held individually or only together. The text doesn't define it, and every definition since has been an argument about who qualifies. |
+| "He shall rule over you" | I | Prescription or description. The Hebrew permits both, and specialists divide. |
+| The curse of Ham | IV | The text curses Canaan, not Ham, says nothing about skin, and was attached centuries later to justify racial slavery. A documented misuse more than a contested reading, and the most important thing in this book for TKC to get exactly right. |
+| Sodom | II | What the city is condemned for. The narrative centers a mob's violent demand against guests under protection. Ezekiel names pride, excess and refusing the poor (16.49). Traditions differ. |
+| The binding of Isaac | III | A test passed, a test failed, a polemic against child sacrifice, or a horror the text won't soften. Sarah isn't told, and in the narrative Abraham and Sarah never speak again. |
+| Genre of chapters 1–11 | II | Historical report, theological narrative, or a kind of writing modern categories don't divide well. The difference drives most modern conflict over the book. |
+box: The one to handle with both hands
+Row three. A category IV claim built into centuries of law and preaching is exactly what Dominion would still teach, and what a novel mustn't reproduce carelessly while depicting it. Write the Empire believing it. Don't let the companion be vague about its falsity.
+/end
+prompt: Which of the six Dominion teaches as settled, and who in the Empire knows otherwise | fill
+
+@page rh="GENESIS · 11 OF 16 · PASSAGE PRACTICE, LEFT" m="METHOD; BIBLE 101 VIII; ONE PASSAGE, TWO TRANSLATIONS"
+# Run the eight
+One Genesis passage, all eight questions, and two translations side by side. A good first run is the sentence about ruling in 3.16.
+prompt: Passage | 2
+prompt: The two renderings, copied out word for word | 4
+cols:
+prompt: 1 · Genre | 3
+prompt: 3 · Audience | 3
+||
+prompt: 2 · Speaker | 3
+prompt: 4 · Before and after | 3
+/end
+prompt: 5 · What world produced it | 3
+prompt: 6 · What the words do, and where the two translations part | fill
+
+@page rh="GENESIS · 12 OF 16 · PASSAGE PRACTICE, RIGHT" m="METHOD; BDB · HALOT; TKC: DOM; PART IX LOG"
+# Who gains, who pays
+The last two questions, with room to answer them properly, and the record of what the run produced. Nothing on this spread is canon until the status row is filled.
+prompt: 7 · Who gains from each reading. Name them, including where I benefit | fill
+prompt: 8 · What each reading costs, and who pays it | fill
+cols:
+prompt: Dominion's reading | 4
+||
+prompt: Where I currently land | 4
+/end
+prompt: What still needs a real source: lexicon, commentary or manuscript note | 3
+status
+
+@page rh="GENESIS · 13 OF 16 · GENESIS AFTER GENESIS" m="EXOD 1.8–14; EZEK 16.49; RUTH 4.18–22; MATT 1.1–17; ROM 4; ROM 5.12–21; GAL 3; GAL 4.21–31; 1 TIM 2.11–15; REV 22.1–5"
+# Who used it next
+Genesis is quoted, argued with and rewritten across the rest of the collection. Every later use is somebody deciding what the book meant, which is what Dominion does, with a printing press and a lectionary.
+tabrl:
+| Who | What they do with it |
+| Exodus | Opens on the result of Joseph's administration. The descendants of the man who centralized the grain are the forced labor. INTERPRETATION: The two books are one argument, and almost nobody teaches them that way. |
+| The prophets | Reach back to Abraham and Sodom as precedent. Ezekiel names Sodom's sin as pride, plenty and refusing the poor, a reading of Genesis printed inside the Bible. |
+| Ruth | Closes by tracing David's line through Perez, Tamar's son. The line has always run through outsiders and irregular unions. |
+| Matthew | Opens the New Testament with a Genesis-style genealogy and names Tamar in it, with Rahab, Ruth and "the wife of Uriah." |
+| Paul | Uses Abraham to argue the promise came before the law, Adam as a pattern for Christ, and Hagar as an allegory (Gal 4). Genesis as precedent for a present fight, the same move Dominion makes, aimed differently. |
+| The Pastorals | Cite the order of creation and the deception in the garden as grounds for restricting women's teaching (1 Tim 2.13–14). For TKC, the most consequential later use of Genesis 2–3. |
+| Revelation | Ends the collection by reversing the opening: a garden inside a city, the tree open again, the serpent finished. |
+k: Afterlives, briefly
+Jewish midrash treats the gaps as invitations and argues in the margins for centuries. Christian allegory reads the garden forward into doctrine. The Reformation reads it for law and grace. Modern criticism asks who wrote it and when. Each tradition answers a different question, and none reads it cold.
+prompt: Which later use Dominion inherited without knowing it was an interpretation | fill
+
+@page rh="GENESIS · 14 OF 16 · WHAT WAS DONE WITH IT" m="GEN 9.20–27; GEN 2–3; 1 TIM 2.11–15; GEN 1.28; GEN 3.16; GOLDENBERG, THE CURSE OF HAM; HAYNES, NOAH'S CURSE; WHITE, “HISTORICAL ROOTS” (1967)"
+# Four documented misuses
+These aren't contested readings. They're historical uses of the book to justify harm, and a novel about an empire built on scripture has to know them well enough not to reproduce them by accident.
+rec:
+I · The so-called curse of Ham | Noah curses Canaan, Ham's son, and not Ham (9.25). Nothing in the passage mentions skin, color or Africa. David Goldenberg's *The Curse of Ham* (2003) traces how later interpreters attached blackness to Ham and slavery to blackness, and shows the supposed derivation of "Ham" from a word for "black" doesn't hold. In the Atlantic world it became a standard justification for enslaving Africans. Stephen Haynes documents its central place in American proslavery argument in *Noah's Curse* (2002).
+II · Order of creation as permanent rank | Made second, so subordinate. Deceived first, so untrustworthy. Built by reading the second account as a hierarchy chart and setting the first aside, and used to bar women from teaching, testifying, holding property and holding office. INTERPRETATION: Order alone settles rank in neither account, since the animals come before both humans in chapter 1.
+III · Dominion as license | A grant over the earth and its creatures turned into a warrant for extraction, conquest and taking inhabited land. The verse concerns creatures and soil and says nothing about authority over other peoples. Lynn White Jr. made the charge famous in 1967, and the stewardship reading is the main answer.
+IV · Childbearing as a sentence | Pain in childbirth read as a penalty women should bear, and used to refuse them relief. When James Young Simpson began using chloroform in labor in 1847, he published an answer to religious objections. CONTESTED: Historians debate how widespread the clerical opposition really was.
+box: How to write these
+Let Dominion hold them sincerely and argue them well, which is what makes the Empire frightening more than cartoonish. Don't let the companion be vague about whether they're true. Sincerity and falsity are both required, and they belong on different pages.
+/end
+prompt: Which of the four is law in Dominion, and who teaches it believing it | fill
+
+@page rh="GENESIS · 15 OF 16 · DOMINION'S GENESIS" m="TKC: DOM · AM; GEN 1.26–28; THE SIX INSTRUMENTS, MODULE II"
+# What the Empire took
+Four doctrines Dominion draws from this book, each traceable to a verse and each needing the rest of the chapter left out. Fill the right column with the instrument from the six: the calendar, the readings, clergy access, schoolbooks, provincial editions or commentary.
+tab:
+| Doctrine | What has to be left out for it to hold | Instrument |
+| Order of the household | The first creation account entirely, and the fact that the ruling sentence sits in a description of loss more than a design specification. | _ |
+| Fruitfulness as duty | That the blessing is given to humanity together, and that three of the book's matriarchs are barren for years without being judged for it. | _ |
+| Dominion itself | That the grant covers the earth and its creatures and never other people, and that the Empire's name comes from a verse that doesn't authorize it. | _ |
+| Order restored after collapse | That the flood story ends with a promise never to do it again, which makes divine catastrophe a poor template for a state that stages one. | _ |
+corr: The old page said "four of the book's central women" were barren. Three are, Sarah (11.30), Rebekah (25.21) and Rachel (29.31). Leah is the fertile one. It also said Hagar was driven out twice. She flees once and is expelled once.
+box: The name problem
+The Dominions are named after a verse about rule over the earth and its creatures (AM). INFERENCE: The verse is 1.28, or 1.26, the only places in Genesis where humans are told to "have dominion." Somebody in the founding generation chose that word and knew what it said. OPEN QUESTION: Who named the Dominions, and does the Temple teach the verse as rule or as care?
+/end
+prompt: Who named the Dominions, and whether it was piety or a joke | fill
+
+@page rh="GENESIS · 16 OF 16 · CLOSING THE DOSSIER" m="YOURS; PART IX LOG; QUEUE: D1"
+# What changed
+Close every dossier the same way: what you believed, what you found, what's still open and what's now canon. Nothing on the earlier pages is canon until it's entered here and in the log.
+prompt: What I believed about Genesis before this dossier | fill
+prompt: What surprised me, and why surprise isn't evidence yet | fill
+prompt: What stays open, and what I need a real source for | fill
+prompt: What I'm making canon from this book, and the log number it gets | fill
+status
+
+@notes rh="DOSSIER NOTES · I GENESIS" m="NOTES; OPEN NOTES" prompt="Anything this dossier started and didn't finish"
