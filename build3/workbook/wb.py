@@ -379,6 +379,14 @@ def build():
             expanded.append((kind, attrs, keep))
             expanded.extend(extra)
         pages = expanded
+    # every part and divider opens on a right-hand (odd) page, so two-sided printing
+    # and the split print files line up; the filler is a ruled notes page, never a blank
+    placed = []
+    for pg in pages:
+        if pg[0] in ('part', 'divider') and (len(placed) + 1) % 2 == 0:
+            placed.append(('notes', {'rh': 'NOTES', 'm': 'NOTES'}, []))
+        placed.append(pg)
+    pages = placed
     anchors = {a['id']: i + 1 for i, (k, a, _) in enumerate(pages) if 'id' in a}
     OUT.mkdir(exist_ok=True)
     (OUT / f'anchors{SFX}.json').write_text(__import__('json').dumps(anchors))
