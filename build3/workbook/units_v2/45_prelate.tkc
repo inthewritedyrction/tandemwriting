@@ -1,0 +1,62 @@
+@opener id="prelate" rh="THE HOUSE OF VANE · THE PRELATE · PORTRAIT" m="TKC: CR · TR · FR 33; VOL. I · {v1:prelate} · {v1:temple}"
+plate: frame | PORTRAIT · THE PRELATE · WORKING NAME AURELIA · SIXTY-SEVEN
+/end
+tk: PART IV · DOSSIER 29 · ✥ · SHORT
+big: The Prelate
+lede: She'll reach a conclusion about Eden in the first week that she won't share with anyone, the Emperor included. What she does with it will matter more than almost any other single decision in the story (CR).
+calls:
+k: On the record
+Head of the Crownward's Vowed order, sixty-seven, servant of three Emperors, and the most institutionally knowledgeable person in the city about how power actually works (CR). Phase One belongs to her (TR).
+||
+k: Her name
+POSSIBLE: Prelate Aurelia, a working name until you choose one. She's never Huldah, and never Naomi, which belongs to Hannah's daughter (FR 33).
+/end
+
+@page rh="THE HOUSE OF VANE · THE PRELATE · THE RECORD AND THE OFFICE" m="TKC: CR · TR · FR 33; VOL. I · {v1:temple} · {v1:prelate} · {v1:binding}"
+# The record and the office
+plate: doc
+dh: Temple Record | THE SANCTUM · CROWNWARD
+df: Name | PRELATE ____________ · working name Aurelia (POSSIBLE)
+df: Office | head of the Crownward Vowed
+df: Age | sixty-seven (CR)
+df: Emperors served | three (CR)
+stamp: PRELATE
+/end
+rec:
+What she does | Assessed Judah's spiritual formation herself (CR). Runs Phase One with her senior Vowed team, and writes three of Eden's Doctrinal Assessment questions personally (TR). Anoints the chosen woman on the sixth day of Covenant Week, the one stage that isn't filmed, and places the gold cord on the couple's right hands at the Grand Binding (CR).
+What she holds | The Vowed hold what they know about every Anointed family in memory, passed between them as part of their formation and never written down anywhere the Empire could take it (CR).
+SUPERSEDED | "Prelate Naomi" (TR, CR) and "Prelate Huldah" (AM). Renamed under FR 33.
+OPEN QUESTION | *Aurelia* is also the name of Eden's city. A working name that matches the seat of Aurem will confuse a reader, or mean something. Decide which.
+prompt: Her real name, and who in the Crownward still uses it | fill
+
+@page rh="THE HOUSE OF VANE · THE PRELATE · FAITH AND SCRIPTURE" m="1 SAM 16.13; 1 KGS 1.39; 1 SAM 3.1–10; 2 KGS 11.2; VOL. I · {v1:temple} · {v1:kingmakers} · {v1:f7-office}"
+# Faith and scripture
+rec:
+What she believes | OPEN QUESTION: Thirty years assessing candidates and three Emperors (CR) leave no record of what she believes.
+What the Temple teaches about a woman like her | INTERPRETATION: She's the Temple. The Crownward's Vowed perform perfect devotion under the closest observation in the Empire (CR).
+Her name | *Aurelia* is Latin, from *aurum*, gold. It has no biblical source.
+Samuel and Zadok | POSSIBLE: Samuel pours the oil on David among his brothers (1 Sam 16.13), and Zadok anoints Solomon with a horn of oil from the tabernacle (1 Kgs 1.39). **Where it breaks:** Their anointing chooses a king. Hers confirms a choice a committee already made (FR 21).
+Jehosheba · 2 Kings 11 | POSSIBLE: A woman of the priestly household who hides a prince in the temple for six years. **Where it breaks:** Only if she's one of the two others who know about Azrael.
+tab:
+| She'd quote | Never read to her |
+| _ | 1 Samuel 3.1, "the word of the LORD was precious in those days" |
+small: Volume One: the Temple and the Vowed, {v1:temple}, and the Prelate, {v1:prelate}. Kingmakers, prophets and priests, {v1:kingmakers}. The licensed prophetic office, {v1:f7-office}.
+prompt: What she concludes about Eden in the first week | fill
+
+@page rh="THE HOUSE OF VANE · THE PRELATE · PEOPLE AND VOICE" m="TKC: CR · TR"
+# Who she's assessed
+tabrl:
+| Person | What passes between them |
+| Judah | She assessed his spiritual formation (CR) |
+| Eden | Three questions written in her own hand (TR) |
+| Lyris | The Anointing, whatever happens in the room (CR) |
+| Dorian | One of three Emperors (CR) |
+| The Theological Interview officer | Twenty years of the work, reporting up (TR) |
+prompt: What happens in the room at the Anointing | fill
+prompt: Lines only she would say | fill
+
+@page rh="THE HOUSE OF VANE · THE PRELATE · WORKING PAGE" m="WRITING"
+# Write the three questions
+Ten minutes. Her study in the Sanctum, the Settling's reports on her desk, and three questions for one candidate.
+prompt: Write | fill
+status

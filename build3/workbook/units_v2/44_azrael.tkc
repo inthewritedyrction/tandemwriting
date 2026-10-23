@@ -1,0 +1,159 @@
+@opener id="azrael" rh="THE HOUSE OF VANE · AZRAEL · PORTRAIT" m="TKC: TL · TR · FR 41–43; VOL. I · {v1:ledger} · {v1:mountain}"
+plate: frame | PORTRAIT · AZRAEL VANE · TWENTY-SEVEN · OFFICIALLY DECEASED SINCE 2100
+/end
+tk: PART IV · DOSSIER 28 · ✥
+big: Azrael
+lede: He asked questions the Temple had already decided were settled, and the questions didn't stop (TL).
+calls:
+k: On the record
+Azrael Vane, twenty-seven, firstborn of Dorian and Lyris. Found the east wing ledger at twenty-one. Officially deceased since 2100 after "a medical event." He's alive, in Mountain Dominion under another name (TL).
+||
+k: Still open
+His name now, the patriarch's debt, who the other two are who know, and what he found that was "enough" (TL).
+/end
+
+@page rh="THE HOUSE OF VANE · AZRAEL · THE RECORD" m="TKC: TL · CR; VOL. I · {v1:crown} · {v1:ledger}"
+# Two records
+cols:
+plate: doc
+dh: Imperial Record | HOUSE OF VANE
+df: Name | AZRAEL VANE
+df: Born | 2077 · firstborn
+df: Died | 2100 · a medical event
+df: Announcement | none (TL)
+stamp: DECEASED
+/end
+||
+plate: doc
+dh: Registry | MOUNTAIN DOMINION
+df: Name | ____________
+df: Born | ____________
+df: Household | a community under a patriarch (TL)
+df: Arrived | 2100
+stamp: ____________
+/end
+/end
+tabrl:
+| Name | Who uses it | What it does to him |
+| Azrael | Lyris, Judah, the dead record | _ |
+| _ | The community in Mountain | _ |
+| _ | Petra, if the boy next door is who you think | _ |
+small: His name has no biblical source. In later Islamic and Jewish tradition Azrael is the angel of death (Vol. I, {v1:cast}).
+prompt: The name he chose, or was given, in Mountain | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · THE YEARS" m="TKC: TL · FR 41–43; VOL. I · {v1:timeline2}"
+# His years against the Empire's
+tabrl:
+| Year | Age | His life | Source |
+| 2077 | 0 | Born, the heir apparent, his mother's favorite | TL |
+| childhood | _ | Curious from the beginning, genuinely, in the way the Empire's schools are built to contain and fail to | TL |
+| 2098 | 21 | A Crown advisory access period puts him in the east wing archive legitimately. He finds the ledger and takes it to his father. | TL, FR 41 |
+| 2098–2100 | 21–23 | Doesn't put it back. Looks for the Covenant of Dissent and doesn't find it. What he finds is enough. | TL |
+| 2100 | 23 | Officially deceased. No announcement. The line passes to Judah. | TL |
+| 2100–04 | 23–27 | Mountain Dominion, under a different name | TL |
+prompt: What he found that was "enough" | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · STANDING" m="TKC: TL · TR · DOM; VOL. I · {v1:mountain}"
+# The record's version and the true one
+rec:
+On the record | Dead since 2100 of a medical event (TL). "A sudden medical event" is the phrase the Empire uses for Petra too (TR).
+In fact | Alive, in a Mountain community whose patriarch owes the Vane family a debt that predates the Trials Commission by a decade. The Empire doesn't know. Almost no one does (TL).
+Where he is | Mountain is where the Empire's least documented and most important work happens, up past Crestfall (DOM). Endurance returns to its lower ranges for the 39th Trial without explanation (TR).
+Who knows | Judah, Lyris and two others (TL).
+prompt: What he does all day in Mountain, and what he can never do there | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TL · FR 44; VOL. I · {v1:texts} · {v1:ledger}"
+# What he believes
+rec:
+Who taught him | The Temple's schools, which he out-asked (TL), and after them the ledger.
+What he knows | The Covenant of Purpose calls a series of deliberate removals God's order. The ledger calls them something else (TL).
+What he believes | OPEN QUESTION: After the ledger, what's left of the faith he was raised in, and what he'd put in its place.
+What he'd be arrested for | Being alive (TL).
+empire: What the Temple teaches about a man like him
+A son of the anointed bloodline is anointed (CR). INTERPRETATION: The Temple has no doctrine for an anointed son who asks what the anointing is built on, so it recorded him as dead.
+/end
+prompt: What he believes the Covenant of Dissent says | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 37.31–35; 1 KGS 17.2–6; 1 KGS 18.4; JER 36.26; LUKE 8.17; JER 36.23"
+# The text
+rec:
+Joseph · Genesis 37 | POSSIBLE: A favored son reported dead to his father, alive in another country (37.31–35). **Where it breaks:** Jacob grieves a lie his other sons told him. In Azrael's family the question is who told the lie (TL).
+Elijah at Cherith · 1 Kings 17 | POSSIBLE: Told to hide himself by a brook, and fed there by ravens. **Where it breaks:** Elijah goes back to confront the king. Whether Azrael can is the book.
+Obadiah's cave · 1 Kings 18.4 | POSSIBLE: A palace steward who hides a hundred prophets in caves and feeds them with bread and water. INTERPRETATION: The patriarch who owes the Vanes a debt (TL).
+Baruch · Jeremiah 36 | POSSIBLE: The scribe of a scroll the king wants destroyed. "But the LORD hid them" (36.26).
+tab:
+| He'd quote | Never read to him |
+| Luke 8.17, "nothing is secret, that shall not be made manifest" | Jeremiah 36.23, a king cutting a scroll with a penknife |
+box: Volume One
+The founders, with Joseph, {v1:founders}. Kingmakers, with Elijah, {v1:kingmakers}. Jeremiah, {v1:b-jeremiah}. The ledger and the Dissent, {v1:ledger}. Mountain, {v1:mountain}.
+/end
+
+@page rh="THE HOUSE OF VANE · AZRAEL · BODY AND FEAR" m="TKC: TL · DOM"
+# Body and fear
+rec:
+What the record shows | INFERENCE: Four years in Mountain, where altitude changes everything and winters are long and clarifying (DOM).
+What he's afraid will happen | INFERENCE: That someone in the Trials comes looking.
+prompt: What he's afraid is true | fill
+prompt: What four years in the mountains have done to his body | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · BELIEF ARC" m="TKC: TL; YOURS"
+# Belief arc
+tab:
+| Station | What he believes | What cracks it, and what he does | Ch. |
+| I · The Temple's son | The Temple's settled answers, questioned (TL) | The ledger (TL) | _ |
+| II · 2098 | His father will want to know (INFERENCE) | "Put it back" (TL) | _ |
+| III · 2100 | _ | Declared dead (TL) | _ |
+| IV · Mountain | _ | _ | _ |
+prompt: Whether he wants to come back, and to what | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · POWER AND PEOPLE" m="TKC: TL · TR · FR 42–43"
+# Who he can move, and who can move him
+tabrl:
+| Person | What passes between them | Leverage |
+| Judah | Two years younger, and the brother who knows (TL) | _ |
+| Lyris | The favorite, and she knows (TL) | _ |
+| Dorian | "Put it back." The documents gone the week he "died." (TL, FR 42) | _ |
+| The patriarch | A debt to the family, older than the Trials Commission (TL) | _ |
+| Petra | OPEN QUESTION: The boy next door, or someone tied to him (TR) | _ |
+| The other two | _ | _ |
+prompt: Who the boy next door in Crestfall is, and whether Azrael knows Petra died looking | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · VOICE AND CONTRADICTION" m="TKC: TL; WRITING"
+# Voice and contradiction
+rec:
+The contradiction | INFERENCE: He went looking for the truth about his family and survived by becoming one of its secrets.
+prompt: Lines only Azrael would say | fill
+prompt: What he sounds like to people in Mountain who don't know who he is | 5
+
+@page rh="THE HOUSE OF VANE · AZRAEL · EXCAVATION · THE ARCHIVE" m="TKC: TL · FR 41; WRITING"
+# The east wing
+At twenty-one, during a Crown advisory access period, he goes into the east wing archive legitimately and finds a ledger that shouldn't exist, left there since 2085 and unmoved for thirteen years because nobody was looking (TL, FR 41).
+prompt: 1 · The shelf, the binding, the first page | fill
+prompt: 2 · The line where he understood what he was reading | 4
+prompt: 3 · The walk to his father's rooms | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL AND JUDAH · BOTH SIDES" m="TKC: TL · CR"
+# Azrael and Judah
+cols:
+prompt: What Azrael wants Judah to do | 8
+||
+prompt: What Judah has done, and hasn't, since 2100 | 8
+/end
+prompt: The last conversation they had in person, and where | fill
+
+@page rh="THE HOUSE OF VANE · AZRAEL · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in his words | _ |
+| Who can challenge it | _ |
+| A room he can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What he wants | _ |
+| What he says | _ |
+| What he won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE HOUSE OF VANE · AZRAEL · NOTES" m="NOTES" prompt="Anything Azrael's dossier started and didn't finish"

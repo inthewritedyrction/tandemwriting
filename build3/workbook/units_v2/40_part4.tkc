@@ -1,0 +1,64 @@
+@part id="part4" num="IV" kind="PART FOUR · ✥" title="The House/of Vane" sub="A family that keeps documents instead of grandmothers' stories, and the most dangerous papers in the Crownward." series="THY KINGDOM COME · VOLUME TWO · THE PEOPLE"
+toc: i · The family and its paper | p4-intro
+toc: Dorian Vane | dorian
+toc: Lyris Vane | lyris
+toc: Judah Elijah Vane | judah
+toc: Azrael Vane | azrael
+toc: The Prelate | prelate
+toc: Working questions for the House of Vane | p4-q
+
+@essay id="p4-intro" rh="THE HOUSE OF VANE · HOW TO USE THIS PART"
+# The family and its paper
+drop: The Temple teaches that God chose Elias Vane to restore the nation and that his bloodline carries the anointing forward. In the Crownward that isn't a metaphor. It shapes every interaction the family has with everyone else (CR). The House of Vane is the only household in the book where theology is the family business.
+The Final Rulings rebuilt this family. Dorian's parent was Elias's elder child and the rightful successor, removed in 2061 when Dorian was a child. Crest, the younger sibling, took the throne by survivorship and knew the shape of what he sat on (FR 35–37, 39). Dorian was spared because a child's claim can be supervised (FR 38). The ledger Azrael found named Elias, and Dorian has known that since 2061 (FR 44).
+Everyone in this part performs for the Broadcast, and the dossiers keep asking what each of them does in the rooms it can't film: the Study, the side rooms at the Anointed Evening, the Binding Night, the Sovereign Garden behind its gates (CR).
+side:
+chips: CR, TL, FR 35–44
+k: Ages in 2104
+stext: Dorian 59 (Ruling). Lyris 58. Azrael 27. Judah 25. The Prelate 67 (CR, TL).
+marg
+see: Vol. I, the family tree, {v1:tree}. The Crown, {v1:crown}.
+/end
+
+@page rh="THE HOUSE OF VANE · THE FAMILY TREE" m="TKC: TL · FR 35–39 · CR · WR · RULING; VOL. I · {v1:tree}"
+# The family tree
+<div class="tree">
+<div class="tr"><div class="tn">Elias Vane<br><span>c. 1996–2061 · Founder</span></div><div class="tn ghost">First wife<br><span>OPEN QUESTION</span></div><div class="tn">Sera Callum<br><span>m. 2048 · Anointed</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn mark">The removed heir<br><span>elder child · removed 2061</span></div><div class="tn">Crest Vane<br><span>r. 2062–2085 · aware, not acting</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn">Dorian Vane<br><span>b. 2045 · r. 2085– · 59</span></div><div class="tn">Lyris Vane<br><span>Empress · 58 · from Mountain</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn mark">Azrael Vane<br><span>b. 2077 · "deceased" 2100</span></div><div class="tn">Judah Elijah Vane<br><span>b. 2079 · Crown Heir · 25</span></div></div>
+</div>
+small: The removed heir is Dorian's parent, and Crest is Dorian's uncle (FR 35). SUPERSEDED: Crest as Dorian's father (CR). SUPERSEDED: Dorian at sixty-one (CR). DECIDED: Fifty-nine (Ruling).
+prompt: The removed heir's name, and how the official history spells it, if it does | fill
+
+@page rh="THE HOUSE OF VANE · THE DOCUMENTS" m="TKC: TL · FR 40–44; VOL. I · {v1:ledger} · {v1:texts}"
+# The documents, in order
+tabrl:
+| When | What happens to the paper | Source |
+| 2061 | The ledger names Elias. Dorian, a child, learns it, and it's the only thing he's ever been certain of. | FR 44 |
+| 2062–85 | Crest preserves the documents, the one thing he did. Neither destroyed nor used, left where the east wing archive would someday be inventoried. | FR 40 |
+| 2085–98 | Unmoved for thirteen years, because nobody was looking | FR 41 |
+| 2098 | Azrael, twenty-one, finds the ledger legitimately during a Crown advisory access period, and brings it to his father | TL, FR 41 |
+| 2098 | Dorian tells him to put it back. A document Azrael has read and returned is one Dorian controls, and destroying it would have told Azrael it mattered. | TL, FR 43 |
+| 2098–2100 | Azrael looks for the Covenant of Dissent, written in the same hand the same year. He doesn't find it. What he finds is enough. | TL |
+| 2100 | The week Azrael is declared dead, the ledger and the Dissent both vanish. Dorian took them. | TL, FR 42 |
+small: CONFLICT: The timeline says Azrael doesn't put the ledger back, and also that it vanishes from the east wing archive in 2100 (TL). INFERENCE: Somewhere between the two he returned it, or Dorian took it from somewhere else.
+prompt: Where Dorian keeps them now | fill
+
+@page rh="THE HOUSE OF VANE · WHO KNOWS AZRAEL IS ALIVE" m="TKC: TL · TR; OPEN QUESTION"
+# Four people
+Azrael has been in Mountain Dominion under another name for four years, in a community whose patriarch owes the Vane family a debt that predates the Trials Commission by a decade. Four people know he's alive: Judah, Lyris, and two others (TL).
+tabrl:
+| Who | How they know | What it costs them |
+| Judah | _ | _ |
+| Lyris | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+rec:
+OPEN QUESTION · Dorian | Does he know? He removed the documents the week Azrael was declared dead (FR 42), and the files don't say who arranged the "medical event."
+POSSIBLE · the patriarch | One of the two others, since the debt is to the family (TL).
+POSSIBLE · Hannah | Judah "has always known" about her (TL).
+OPEN QUESTION · Petra | The boy next door disappeared into Mountain terrain four years ago, the same year (TR). Who is he to Azrael?

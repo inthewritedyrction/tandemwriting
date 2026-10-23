@@ -1,0 +1,175 @@
+@opener id="lyris" rh="THE HOUSE OF VANE · LYRIS · PORTRAIT" m="TKC: CR · TL · TR · WR 32; VOL. I · {v1:crown} · {v1:arrangement}"
+plate: frame | PORTRAIT · EMPRESS LYRIS VANE · FIFTY-EIGHT
+/end
+tk: PART IV · DOSSIER 26 · ✥
+big: Lyris
+lede: The most sophisticated political operator in the Empire, and the least visible one, because she's spent thirty years performing perfect Anointed Wifehood (CR).
+calls:
+k: On the record
+Empress Lyris Vane, fifty-eight, from Mountain Dominion (CR, WR 32). Mother of Azrael and Judah. One of four people who know Azrael is alive (TL). She runs the Arrangement (CR).
+||
+k: Still open
+How a woman from Mountain became Dorian's wife, what she tells Eden in eleven minutes, and what happens in the room at the Anointing.
+/end
+
+@page rh="THE HOUSE OF VANE · LYRIS · THE RECORD" m="TKC: CR · TL · WR 32; VOL. I · {v1:crown} · {v1:designations}"
+# The Imperial record
+plate: doc
+dh: Imperial Record | HOUSE OF VANE
+dsub: ANOINTED WIFE OF THE EMPEROR
+df: Name | LYRIS VANE · Empress
+df: Of | Mountain Dominion (WR 32)
+df: Designation | Anointed Wife · c. 2074
+df: Sons | Azrael · Judah
+df: Public duties | ceremonial, says the record (CR)
+stamp: ANOINTED
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Empress | The Empire | _ |
+| Lyris | Dorian, the Anointed Court | _ |
+| Mother | Judah. Azrael, once publicly. | _ |
+| _ | The name she had in Mountain | _ |
+small: She is Lyris. Never Cordelia, and never any other invented name (WR 32).
+prompt: Her name before her Binding, and whether anyone still uses it | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · THE YEARS" m="TKC: CR · TL · TR · WR; VOL. I · {v1:timeline2}"
+# Her years against the Empire's
+tabrl:
+| Year | Her life | Source |
+| c. 2046 | Born in Mountain Dominion. INFERENCE from her age. | WR 32 |
+| c. 2074 | Bound to Dorian. Mentored in her first year by an Anointed Wife who taught her the Arrangement. | CR, INFERENCE |
+| 2077 | Azrael, her favorite, the first child who showed her who she actually was | TL |
+| 2079 | Judah | TL |
+| 2085 | Empress, when Dorian takes the throne | TL |
+| c. 2085–95 | A decade lobbying through Dorian for the Anointed Wife's legal protections, each one framed as his gift | CR |
+| 2100 | Azrael declared dead. She knows he isn't. | TL |
+| 2104 | The 39th Trial, watched "with specific and personal interest" | TL |
+small: OPEN QUESTION: Was she a Covenant Daughter? Dorian wasn't heir when they married, and the Trials had been running since 2065 (Vol. I, {v1:crown}).
+prompt: How a woman from Mountain became the wife of a supervised prince | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · STANDING" m="TKC: CR · TR; VOL. I · {v1:arrangement} · {v1:crownward2}"
+# The record's version and the true one
+rec:
+On the record | Ceremonial (CR).
+In fact | For thirty years she's run the domestic and diplomatic infrastructure of Imperial life (CR). She runs the Arrangement, inherited from the Anointed Wife who mentored her and refined into something close to a shadow government: about forty Anointed Wives who decide what should happen and arrange for their husbands to decide it (CR).
+The law | She's the reason the Anointed Wife designation has the shape it has. She lobbied through Dorian for a decade and framed every gain as a gift he was giving (CR).
+On camera | She doesn't appear on the Broadcast in any way that reveals anything, and she's spent thirty years making sure of it (CR).
+On Eden | She'll recognize something she hasn't seen in thirty years of candidates, and won't decide right away whether that's a reason to help Eden or destroy her (CR). She's the blueprint Eden doesn't know she's following (CR).
+prompt: The afternoon social where she sets the next week's policy | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: CR · TL · WR; VOL. I · {v1:mountain} · {v1:arrangement} · {v1:teaches}"
+# What she believes
+rec:
+Who taught her | Mountain, where the name of the dead is spoken to the mountain and not to God or the Temple (DOM). The Anointed Wife who mentored her (CR).
+What she says in public | The Anointing was the most meaningful moment of her life. She's never said what actually happens in the room (CR).
+What she believes | OPEN QUESTION: Whether she believes in God, the Temple or only the Arrangement.
+Grief | The hour of private Binding of Return after the death of her own parents was the only time in Imperial Mourning she remembered what grief felt like (CR).
+empire: What the Temple teaches about a woman like her
+The husband leads, the wife supports, and the household reflects divine order in miniature (CR). INTERPRETATION: She's the Empire's model of that doctrine and the proof it's performance.
+/end
+small: OPEN QUESTION: Why did her own parents receive Imperial Mourning? Were they Vanes, or was she remembering them during someone else's (CR)?
+prompt: What she prays, if she does, the night Azrael is declared dead | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 25.28; GEN 27; 1 KGS 1.11–31; 1 KGS 2.19; 1 SAM 19.11–17; PROV 31.23; ESTH 9.29"
+# The text
+rec:
+Her name | *Lyris* has no biblical source. INTERPRETATION: It sounds like the lyre, the instrument David played to quiet a troubled king (1 Sam 16.23).
+Rebekah · Genesis 25–27 | POSSIBLE: "Rebekah loved Jacob," and she engineers which son gets the blessing (25.28). **Where it breaks:** Rebekah steers the blessing to her favorite. Lyris's favorite was the elder, and the succession went to the younger anyway when the elder was declared dead (TL).
+Bathsheba · 1 Kings 1–2 | POSSIBLE: The queen mother who works with a prophet to put her son on the throne, and is given a seat at the king's right hand. **Where it breaks:** Bathsheba's influence is on the record. Lyris's has been kept off it for thirty years (CR).
+Michal at the window · 1 Samuel 19 | POSSIBLE: A wife who lets David down through a window and puts an idol in his bed to buy him time. **Where it breaks:** Michal saves her husband from her father. Lyris may have saved her son from his.
+tab:
+| She'd quote | Never read to her |
+| Proverbs 31.23, "Her husband is known in the gates" | Esther 9.29, where the queen "wrote with all authority" |
+box: Volume One
+Genesis, the family line, {v1:g-family}. Bathsheba, {v1:bathsheba}. Hannah, Abigail and Michal, {v1:hannah}. Esther, {v1:esther}. The Arrangement, {v1:arrangement}. Mountain, {v1:mountain}.
+/end
+
+@page rh="THE HOUSE OF VANE · LYRIS · BODY AND FEAR" m="TKC: CR · TR"
+# Body and fear
+rec:
+What the record shows | At Eden's Testimony she watches Eden finish, looks at her hands, and then looks at Judah (TR). Imperial grief is performed as dignity, and the family doesn't cry in public (CR).
+What she's afraid will happen | INFERENCE: That someone learns where Azrael is.
+prompt: What she's afraid is true | fill
+prompt: What her hands do when she looks at them | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · BELIEF ARC" m="TKC: CR · TL · TR; YOURS"
+# Belief arc
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · Mountain | _ | _ | _ |
+| II · The first year | The Arrangement, as her mentor taught it (CR) | _ | _ |
+| III · 2100 | _ | Azrael "dies," and she helps keep him alive (TL) | _ |
+| IV · Eden | _ | Help her or destroy her (CR) | _ |
+prompt: The moment she decides about Eden | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · POWER AND PEOPLE" m="TKC: CR · TL · TR"
+# Who she can move, and who can move her
+tabrl:
+| Person | What passes between them | Leverage |
+| Dorian | Thirty years of the Arrangement, each gain his gift (CR) | _ |
+| Azrael | Her favorite. Alive, and she knows (TL). | _ |
+| Judah | He knows pieces of what she runs, and the pieces have made him careful at dinner (CR) | _ |
+| Eden | Eleven minutes and three things (TR) | _ |
+| The Anointed Court | About forty wives (CR) | Hers |
+| Her mentor | The woman who taught her the Arrangement (CR) | _ |
+prompt: The three things she says to Eden | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · VOICE AND CONTRADICTION" m="TKC: CR · TR · WR 32"
+# Voice and contradiction
+rec:
+The contradiction | INFERENCE: She's the Empire's model Anointed Wife, and she runs the shadow government that makes the model a lie (CR).
+The meeting | Eden and Lyris are the only two people in the story playing the same game at the same level (CR).
+prompt: Lines only Lyris would say | fill
+prompt: How she speaks to Dorian when she's surfacing an idea that's already hers | fill
+
+@essay rh="THE HOUSE OF VANE · LYRIS · THE MACHINERY AROUND HER"
+# The machinery around her
+drop: Lyris lives inside the most watched marriage in the Empire. The powerful have their intimacy taken from them on purpose, because citizens invested in Imperial marriages won't overthrow the family whose love story they followed (CR).
+She answers the watching with the Arrangement, a network of about forty wives that's never once let a widow fall below Stewardwife (CR). She answers her son's death with a secret that only four people hold (TL). And she answers the Trials by watching them with "specific and personal interest" (TL), because the woman Judah marries will become either her successor in the network or its first real threat.
+side:
+chips: CR, TL, TR
+k: The Widowed Covenant
+stext: Two years of protection for an Anointed widow, then remarriage or Stewardwife. Her network has made sure no one has ever dropped (CR).
+marg
+see: Vol. I, the Arrangement, {v1:arrangement}.
+/end
+
+@page rh="THE HOUSE OF VANE · LYRIS · EXCAVATION · ELEVEN MINUTES" m="TKC: TR · CR; WRITING"
+# Eleven minutes
+The Anointed Evening, four hours in the Crown Palace reception hall, cameras in the hall and not the side rooms. Eden spends eleven minutes with Lyris. Lyris says three things that aren't on any Broadcast record, and the third is a warning that's also, if you know how to hear it, a set of instructions. Judah watches from across the hall. He's never seen his mother spend eleven uninterrupted minutes with a candidate (TR).
+prompt: 1 · The first thing | 4
+prompt: 2 · The second thing | 4
+prompt: 3 · The third thing, the warning and the instructions | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write her the morning after
+Ten minutes. The morning after the Anointed Evening, Lyris alone, deciding.
+prompt: Write | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS AND AZRAEL · BOTH SIDES" m="TKC: TL"
+# Lyris and Azrael
+He was her favorite, the way first children who show you who you actually are always are (TL).
+cols:
+prompt: What she did in 2100, and what it cost | 8
+||
+prompt: What he thinks she did | 8
+/end
+prompt: The last time she saw him | fill
+
+@page rh="THE HOUSE OF VANE · LYRIS · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE HOUSE OF VANE · LYRIS · NOTES" m="NOTES" prompt="Anything Lyris's dossier started and didn't finish"

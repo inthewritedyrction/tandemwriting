@@ -1,0 +1,190 @@
+@opener id="dorian" rh="THE HOUSE OF VANE · DORIAN · PORTRAIT" m="TKC: TL · CR · WR 31 · FR 35–44 · RULING; VOL. I · {v1:removed-heir} · {v1:crown}"
+plate: frame | PORTRAIT · EMPEROR DORIAN VANE · FIFTY-NINE · THE CURRENCY LIKENESS, OR THE PRIVATE ONE
+/end
+tk: PART IV · DOSSIER 25 · ✥
+big: Dorian
+lede: He understands that people need to love the machine, or they'll eventually dismantle it (TL).
+calls:
+k: On the record
+Dorian Vane, fifty-nine, third Emperor since 2085 (TL, Ruling). The son of Elias's removed elder child, raised in the house of the uncle who took his parent's place (FR 35, 38). Charming in public, cold in private, and the gap between the two is where he makes his real decisions (CR).
+||
+k: Still open
+Whether he knows Azrael is alive, what he says to Judah on the Binding Night, and where the documents are now.
+/end
+
+@page rh="THE HOUSE OF VANE · DORIAN · THE RECORD" m="TKC: TL · CR · FR 35–39 · RULING; VOL. I · {v1:crown} · {v1:removed-heir}"
+# The Imperial record
+plate: doc
+dh: Imperial Record | HOUSE OF VANE · III
+dsub: AS THE TEMPLE AND THE BROADCAST HOLD IT
+df: Name | DORIAN VANE · third Emperor
+df: Born | 2045 (INFERENCE from his age at accession)
+df: Parent | ____________ · "removed" 2061 (FR 35–36)
+df: Raised in | the house of his uncle, Emperor Crest (FR 38)
+df: Accession | 2085, at forty, by survivorship (FR 39)
+df: Anointed Wife | Lyris
+df: Sons | Azrael (b. 2077, "deceased" 2100) · Judah (b. 2079), Crown Heir
+stamp: EMPEROR
+/end
+tabrl:
+| Name | Who uses it | What it does to him |
+| His Imperial Majesty | The Empire | _ |
+| The Emperor | The Broadcast | _ |
+| Father | Judah | _ |
+| _ | Lyris | _ |
+prompt: What his parent called him, before 2061 | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · THE YEARS" m="TKC: TL · CR · FR 35–44 · RULING; VOL. I · {v1:timeline2}"
+# His years against the Empire's
+tabrl:
+| Year | Age | His life | Source |
+| 2045 | 0 | Born, son of Elias's elder child | INFERENCE, FR 35 |
+| 2061 | 16 | Elias dies. His parent, the rightful successor, is removed. He learns the ledger names Elias. | FR 35–36, FR 44 |
+| 2062 | 17 | His uncle Crest takes the throne and raises him inside the house | TL, FR 38 |
+| c. 2074 | c. 29 | Lyris, from Mountain. Thirty years of marriage by 2104. | CR, WR, INFERENCE |
+| 2077 | 32 | Azrael born | TL |
+| 2079 | 34 | Judah born | TL |
+| 2085 | 40 | Crest dies mid-cycle. He takes the throne. The Trial is cancelled. | TL, FR 39 |
+| 2085– | 40– | Brings back the spectacle. The Trials become the most-watched event in the calendar. | TL |
+| 2098 | 53 | Azrael brings him the ledger. "Put it back." | TL, FR 43 |
+| 2100 | 55 | Azrael declared dead. He removes the ledger and the Dissent that week. | TL, FR 42 |
+| 2102 | 57 | Judah turns twenty-three, and the pressure to marry begins | CR |
+| 2104 | 59 | The 39th Trial, his most valuable Broadcast property | TL |
+small: CONFLICT: The ruling has him "a child" in 2061 (FR 36), and his birth year makes him about sixteen. Both hold if he was a minor.
+prompt: The day in 2061, from inside the house | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · STANDING" m="TKC: TL · CR · DOM · MEN · FR 37–38; VOL. I · {v1:crown} · {v1:crownward2}"
+# The public version and the private one
+rec:
+In public | Handsome where Crest was cold, and everything about him is performance. Under him the Broadcast became genuinely sophisticated (TL). He holds the Quarterly Audiences where everyone watches the seating chart before they watch him (CR).
+In private | Cold. The gap between his public and private selves is where his real decisions happen (CR).
+On Judah | He's pressed Judah to choose an Anointed Wife since Judah turned twenty-three. He calls it duty, and it's also control, because an unmarried heir's loyalties are still unwritten (CR). The Trials exist partly to make Judah's choice feel like honor instead of pressure (MEN).
+On his uncle | Crest was aware and didn't act. He neither arranged the removal nor prevented it, and he spent twenty-four years on a throne he knew the shape of (FR 37). Dorian was spared because a child's claim is a claim you can supervise (FR 38).
+His appointments | Pacific's Governor-Prelate, who performs warmth while administering iron (DOM).
+prompt: What he's like at a private dinner with Lyris when no one's serving | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: CR · TL · FR 44; VOL. I · {v1:teaches} · {v1:texts} · {v1:crown}"
+# What he believes
+rec:
+What he believes | INFERENCE: In the machine, and in being loved by the people who live inside it (TL). OPEN QUESTION: In God?
+What he knows | The ledger names Elias. He's known since 2061, and it's the only thing he's ever been certain of (FR 44).
+Who taught him | Elias's house, then Crest's. INFERENCE: Two teachers, one who believed and one who administered (Vol. I, {v1:crown}).
+What he'd be arrested for | INFERENCE: Nothing. He's the one who decides who is.
+empire: What the Temple teaches about a man like him
+The Vane bloodline carries divine sanction. God chose Elias, and the anointing passes to his descendants (CR). INTERPRETATION: The Temple's doctrine of the bloodline makes Dorian sacred, and his own knowledge of 2061 makes him the one man in the Empire who can't believe it.
+/end
+prompt: What he says when he prays in public, and whether he ever prays in private | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · FAITH AND SCRIPTURE · 2 OF 2" m="2 SAM 9.7–13; DAN 3.4–6; JER 36.21–23; 2 SAM 7.16; DEUT 17.18–20; 2 SAM 12.7"
+# The text
+rec:
+His name | *Dorian* has no biblical source. It's Greek, from the Dorians. INTERPRETATION: To most English readers it's Wilde's Dorian Gray, the beautiful man whose portrait ages in his place.
+Mephibosheth · 2 Samuel 9 | POSSIBLE: The grandson of the fallen king, brought to David's court to "eat bread at my table continually." Kindness, and supervision. **Where it breaks:** Mephibosheth never takes the throne. The supervised child became the Emperor (FR 38).
+The golden image · Daniel 3 | POSSIBLE: "At what time ye hear the sound of the cornet… ye fall down and worship." A king who governs by spectacle and music. **Where it breaks:** Nebuchadnezzar has a furnace for the ones who won't bow. Dorian's method is to make them love it (TL).
+Jehoiakim · Jeremiah 36 | POSSIBLE: A king who cuts a prophet's scroll with a penknife, column by column, and burns it. **Where it breaks:** Jehoiakim destroys the document in front of his court. Dorian says put it back, and takes it later (FR 42–43).
+tab:
+| He'd quote | Never read to him |
+| 2 Samuel 7.16, "thine house and thy kingdom shall be established for ever" | Deuteronomy 17.20, "that his heart be not lifted up above his brethren" |
+| _ | 2 Samuel 12.7, "Thou art the man" |
+box: Volume One
+David, {v1:david}. Kingmakers, with Nathan, {v1:kingmakers}. The law of the king, {v1:d-king}. Ezekiel and Daniel, {v1:b-daniel}. Jeremiah, {v1:b-jeremiah}. The removed heir and Dorian, {v1:removed-heir}.
+/end
+
+@page rh="THE HOUSE OF VANE · DORIAN · BODY AND FEAR" m="TKC: CR · TL"
+# Body and fear
+rec:
+What the record shows | Handsome. Performance in everything (TL). INFERENCE: A body trained to be filmed since 2085, and watched since 2061.
+What he's afraid will happen | INFERENCE: An heir whose loyalties stay unwritten (CR). A Judah with genuine questions about the Empire, which the Empire can't survive (CR).
+prompt: What he's afraid is true | fill
+prompt: What his face does when he's alone with the ledger | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · BELIEF ARC" m="TKC: TL · FR 38 · FR 42–44; YOURS"
+# Belief arc
+tab:
+| Station | What he believes | What cracks it, and what he does | Ch. |
+| I · 2061 | The ledger names Elias (FR 44) | His parent is removed and he's kept (FR 38) | _ |
+| II · 2085 | People need to love the machine (TL) | _ | _ |
+| III · 2098–2100 | Control the document by letting it be read and returned (FR 43) | His son goes looking for the Dissent (TL). He takes both documents (FR 42). | _ |
+| IV · The 39th | _ | _ | _ |
+prompt: What he says to Judah on the Binding Night, the charge no one outside the room hears (CR) | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · POWER AND PEOPLE" m="TKC: TL · CR · DOM · FR 37–44"
+# Who he can move, and who can move him
+tabrl:
+| Person | What passes between them | Leverage |
+| Lyris | Thirty years, and a network she runs that he may only half see (CR) | _ |
+| Judah | Two years of pressure to choose a wife (CR) | _ |
+| Azrael | "Put it back" (TL) | _ |
+| Crest | The uncle who raised him on a throne he knew the shape of (FR 37) | _ |
+| The removed heir | His parent (FR 35) | _ |
+| The Prelate | Has served three Emperors (CR) | _ |
+| The Mountain patriarch | A debt to the family older than the Trials Commission (TL) | _ |
+prompt: The one person who can still surprise him | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · VOICE" m="TKC: WR 31 · CR"
+# His voice
+rec:
+The rule | He can sound ceremonial, elevated, controlled and Imperial. Keep his line, "My son is not with us tonight," and Judah remaining "in service before covenant." The narration around him stays clear (WR 31).
+In private | Cold (CR). Nothing on the page yet.
+prompt: The ceremonial version of a sentence, and the private version of the same sentence | fill
+prompt: Lines only Dorian would say | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · CONTRADICTION" m="TKC: FR 43–44 · CR"
+# The contradiction
+rec:
+What he believes and breaks | INFERENCE: He rules as God's anointed, through a bloodline the Temple calls sacred (CR), and he's the one man who knows what the ledger says about the man it started with (FR 44).
+What it costs | A son "deceased," and a document he can never destroy without telling someone it mattered (TL, FR 43).
+prompt: How he justifies it to himself | fill
+prompt: The scene where it lands on him, and who's in the room | fill
+
+@essay rh="THE HOUSE OF VANE · DORIAN · THE MACHINERY AROUND HIM"
+# The machinery around him
+drop: Dorian built most of the machinery the other dossiers describe. The Broadcast became sophisticated under him, and the Trials became its most valuable property (TL). It holds forty percent of the Covenant Score through narrative priority decisions nobody discloses (TR).
+What presses on him is older. He sits on the throne by survivorship, the son of an heir removed in 2061 (FR 35, 39). The ledger in his keeping names Elias (FR 44). His heir is twenty-five, unmarried, and keeps a room on the Administrative Side his father doesn't know about (CR). His elder son is officially dead, and the paperwork was quiet (TL).
+INTERPRETATION: A man who governs by being loved has to keep the people closest to him from looking at the paper.
+side:
+chips: TL, CR, FR 35–44
+k: The calendar
+stext: Quarterly Audiences, the Temple calendar, Trial season, and the Binding Night (CR).
+marg
+see: Vol. I, the Crown and the House of Vane, {v1:crown}.
+/end
+
+@page rh="THE HOUSE OF VANE · DORIAN · EXCAVATION · PUT IT BACK" m="TKC: TL · FR 43; WRITING"
+# Put it back
+Azrael, twenty-one, brings his father a ledger from the east wing archive. Their father tells him to put it back (TL). A document Azrael has read and returned is a document Dorian controls, and destroying it would tell Azrael it mattered (FR 43).
+prompt: 1 · What Azrael says, and what Dorian's face does while he reads | fill
+prompt: 2 · How long Dorian waits before he speaks | 3
+prompt: 3 · What he does that night, alone | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write him off camera
+Ten minutes of Dorian in a room the Broadcast never films, with nothing to perform. If he can't stop performing, write that.
+prompt: Write | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN AND JUDAH · BOTH SIDES" m="TKC: CR · MEN"
+# Dorian and Judah
+The pressure to choose a wife has become something that takes up space in every conversation they have (CR).
+cols:
+prompt: What Dorian wants from Judah, and won't say | 8
+||
+prompt: What Judah knows about his father, and won't say | 8
+/end
+prompt: The Binding Night, at the table | fill
+
+@page rh="THE HOUSE OF VANE · DORIAN · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in his words | _ |
+| Who can challenge it | _ |
+| A room he can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What he wants | _ |
+| What he says | _ |
+| What he won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE HOUSE OF VANE · DORIAN · NOTES" m="NOTES" prompt="Anything Dorian's dossier started and didn't finish"

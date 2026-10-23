@@ -1,0 +1,186 @@
+@opener id="judah" rh="THE HOUSE OF VANE · JUDAH · PORTRAIT" m="TKC: TL · CR · TR · MEN · WR 33–37; VOL. I · {v1:crown} · {v1:cast}"
+plate: frame | PORTRAIT · JUDAH ELIJAH VANE · TWENTY-FIVE · CROWN HEIR
+/end
+tk: PART IV · DOSSIER 27 · ✥
+big: Judah
+lede: The most watched young man in the Empire and the loneliest one (CR). He's two years younger than a brother the Empire says is dead (TL).
+calls:
+k: On the record
+Judah Elijah Vane, twenty-five, Crown Heir. The 39th Trial will decide his Anointed Wife. He moderates the Social Policy debate, has been looking for the Covenant of Dissent since before his brother's exile, and knows about Hannah, and always has (TL).
+||
+k: Still open
+What he does with the recommendation at the Declaration (TR), what he knows about Hannah, and what he does wrong first (CR).
+/end
+
+@page rh="THE HOUSE OF VANE · JUDAH · THE RECORD" m="TKC: TL · CR · MEN; VOL. I · {v1:crown} · {v1:men}"
+# The Imperial record
+plate: doc
+dh: Imperial Record | HOUSE OF VANE
+dsub: HEIR IMPERIAL · FILMED SINCE BIRTH
+df: Name | JUDAH ELIJAH VANE
+df: Born | 2079 · second son
+df: Heir since | 2100, when the line passed cleanly (TL)
+df: Formation | the Temple, as much as his parents (TL) · assessed by the Prelate (CR)
+df: Residence | the Crown Residence, a wing of the Palace (CR)
+df: Registered study | ____________ (CR)
+df: Marriage | unbound at twenty-five · elite window 25–35 (MEN)
+stamp: HEIR IMPERIAL
+/end
+tabrl:
+| Name | Who uses it | What it does to him |
+| The Crown Heir | The Empire, the Broadcast | _ |
+| Judah | Lyris, Azrael | _ |
+| My son | Dorian, in public | _ |
+| _ | Eden | _ |
+prompt: Who named him Elijah, and what they meant by it | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · THE YEARS" m="TKC: TL · CR · TR · FR 41; VOL. I · {v1:timeline2}"
+# His years against the Empire's
+tabrl:
+| Year | Age | His life | Source |
+| 2079 | 0 | Born into dynasty with no say in what it means | TL |
+| 2085 | 6 | His father takes the throne | TL |
+| 2098 | 19 | Azrael finds the ledger | TL |
+| before 2100 | _ | Already looking for the Covenant of Dissent | TL |
+| 2100 | 21 | Azrael declared dead. Judah is heir. He knows Azrael is alive. Reassigns a room on the Administrative Side to himself through three layers of paperwork. | TL, CR |
+| 2102 | 23 | His father starts pressing him to choose | CR |
+| 2104 | 25 | The 39th Trial | TL |
+prompt: The first time he stood at the center of the Grace Bridge, and why | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · STANDING" m="TKC: CR · TL · MEN; VOL. I · {v1:crownward} · {v1:crown}"
+# The public version and the private one
+rec:
+In public | He's been performing Judah Vane since before he understood what performing meant. The Temple formed him, the Crown trained him, and the Broadcast has filmed him since birth (CR).
+The Crown Residence | Impeccably kept, and nowhere a person actually lives. He's never said so to anyone (CR).
+The Study | A room on the Administrative Side, registered as a "policy research facility." Books not on the approved list, a window facing the Grace Bridge, no Broadcast equipment. The only place he isn't performing. His father, the Temple advisors and his own security detail don't know about it (CR).
+What he suspects | The certainty he was handed was designed to keep him manageable more than to make him good. The Empire can't survive a Judah with genuine questions about the Empire (CR).
+OPEN QUESTION | What does he know about Hannah, and since when (TL)?
+prompt: What's on the Study's shelves | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TL · CR; VOL. I · {v1:texts} · {v1:ledger} · {v1:prayer}"
+# What he believes
+rec:
+Who taught him | The Temple raised him as much as his parents did (TL). The Prelate assessed his spiritual formation personally (CR). Temple advisors manage it still (CR).
+What he believes | INFERENCE: Something he's been working out in the Study for four years that isn't Imperial (CR).
+What he's looking for | The Covenant of Dissent, Elias's own counter-argument to everything the Empire was built on, written in the same hand the same year as the Covenant of Purpose (TL).
+What he'd be arrested for, if he weren't the heir | The Study, the Grace Bridge, and a brother who's alive (CR, TL).
+empire: What the Temple teaches about a man like him
+The Vane bloodline carries God's anointing (CR). POSSIBLE: The Temple teaches him Genesis 49.10, "The sceptre shall not depart from Judah," as a verse about him.
+/end
+prompt: The question he's asked in the Study that he's never asked out loud | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 37.26–27; GEN 38.26; GEN 44.33; GEN 49.10; 1 KGS 19.4–12; DEUT 17.18–19; MARK 10.42–45"
+# The text
+rec:
+Judah | Leah's fourth son. He proposes selling Joseph instead of killing him (Gen 37.26–27). He wrongs Tamar and admits it, "She hath been more righteous than I" (38.26). In Egypt he offers himself as a slave in Benjamin's place, the longest speech in Genesis (44.33, Vol. I, {v1:founders}).
+Where Judah breaks | POSSIBLE: The biblical Judah sells a brother and later offers himself for another. Judah Vane inherited his brother's place and keeps his brother alive.
+Elijah | Confronts a king and a queen, wins on Carmel, then runs, asks to die under a juniper tree, and hears God in "a still small voice" (1 Kgs 19.4, 12). The founder's name, Elias, is the King James New Testament spelling of the same prophet (Vol. I, {v1:cast}).
+Where Elijah breaks | POSSIBLE: Elijah runs from the palace into the wilderness. Judah's wilderness is a room on the Administrative Side.
+tab:
+| He'd quote | Never read to him by his advisors |
+| Genesis 38.26, "She hath been more righteous than I" | Deuteronomy 17.18–19, the king copying the law "and he shall read therein all the days of his life" |
+| _ | Mark 10.43, "whosoever will be great among you, shall be your minister" |
+box: Volume One
+The founders, with Judah, {v1:founders}. Tamar, {v1:tamar}. Kingmakers, with Elijah, {v1:kingmakers}. The law of the king, {v1:d-king}. What he meant by kingdom, {v1:kingdom}. The ledger and the Dissent, {v1:ledger}.
+/end
+
+@page rh="THE HOUSE OF VANE · JUDAH · BODY AND FEAR" m="TKC: CR · TR · WR 36–37"
+# Body and fear
+rec:
+What the record shows | Restrained, guarded, observant, and out of step with the room's performance. His stillness is specific (WR 36). His attention travels through a room to the cameras and the exits (WR 37). He's learned to route around his own security detail (CR).
+What he's afraid will happen | INFERENCE: Choosing, and having the choice be the Empire's.
+prompt: What he's afraid is true | fill
+prompt: What his body does when he watches Eden's arrival footage the third time | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · BELIEF ARC" m="TKC: CR · TR · TL; YOURS"
+# Belief arc
+tab:
+| Station | What he believes | What cracks it, and what he does | Ch. |
+| I · Formed | The certainty he was handed (CR) | Azrael and the ledger (TL) | _ |
+| II · The Study | INFERENCE: The certainty was designed to keep him manageable (CR) | Eden's arrival, watched three times (CR) | _ |
+| III · The Trial | _ | Trades Ruth to keep Sera (TR) | _ |
+| IV · The Declaration | _ | What he does with the recommendation (TR) | _ |
+small: When Eden figures out the Study exists, it'll be the first time he's felt seen and not assessed. He won't know what to do with it, and he'll do the wrong thing first (CR).
+prompt: The wrong thing he does first | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · POWER AND PEOPLE" m="TKC: TL · TR · CR · FR 20–22"
+# Who he can move, and who can move him
+tabrl:
+| Person | What passes between them | Leverage |
+| Eden | Six minutes of watching at the Testimony. Thirty minutes at the Pairing. "I know." (TR) | _ |
+| Dorian | Two years of pressure (CR) | _ |
+| Lyris | Pieces of what she runs, enough to make him careful at dinner (CR) | _ |
+| Azrael | Alive, and Judah knows (TL) | _ |
+| Hannah | Something he's always known (TL) | _ |
+| Sera and Ruth | He trades one to keep the other (TR) | His |
+| The Prelate | Assessed his formation (CR) | _ |
+prompt: What the Declaration rules leave him, in his own words: free choice, costly deviation, refusal as abstention (FR 20–22) | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · VOICE" m="TKC: TR · WR 33–37"
+# His voice
+rec:
+On the page | At the Pairing he sends the officials out, which has never been done. The Crown advisor resists, and he's "precise and final," and they go. He checks Eden for a wire and explains afterward what he did and why the order mattered (TR).
+The exchange | "Most candidates tell me they feel called." "I know." (TR)
+The rules | His early moves are small and deniable, a look, a barely-there nod, a shift near the door. He isn't a generic mysterious boy (WR 34, 36).
+prompt: Lines only Judah would say | fill
+prompt: How he speaks as heir, and how he speaks in the Study | 5
+
+@page rh="THE HOUSE OF VANE · JUDAH · CONTRADICTION" m="TKC: TR · TL · CR"
+# The contradiction
+rec:
+What he believes and breaks | INFERENCE: He's looking for the document that argues against the Empire (TL), and to keep one woman in the Trials he sends another home who never learns why (TR).
+What it costs | Ruth, who goes home believing she wasn't enough (TR).
+prompt: How he justifies the trade to himself | fill
+prompt: Whether Eden ever finds out, and the scene | fill
+
+@essay rh="THE HOUSE OF VANE · JUDAH · THE MACHINERY AROUND HIM"
+# The machinery around him
+drop: The Trials exist partly because of Judah's reluctance. The Empire needed a way to make his choice feel like honor and not pressure (MEN). An heir's Binding is the biggest Broadcast event of the year, and his staying unbound since twenty has become its own running story (CR).
+He has rules on his side and none of them help. He can choose any of the twelve. "Without deviation" is a record and not a rule (FR 20). Deviation is permitted and expensive, and no heir has ever paid it (FR 21). If he refuses, the recommendation stands by default, so refusal is abstention and produces the same result as compliance (FR 22). The ranking tells him which choice is free.
+His escape routes are a room nobody's traced and a bridge with a blind spot (CR), and a brother in Mountain Dominion who can't come back (TL).
+side:
+chips: MEN, CR, FR 20–22
+k: Seven stages
+stext: The Declaration, Covenant Week, the Anointing, the Binding Night, the Grand Binding, the Procession, the Private Supper (CR).
+marg
+see: Vol. I, the Declaration and its rules, {v1:declaration}.
+/end
+
+@page rh="THE HOUSE OF VANE · JUDAH · EXCAVATION · THE PAIRING" m="TKC: TR; WRITING"
+# Thirty minutes
+A Crown advisor, a Vowed officer, a camera outside the door, and an unrecorded room. He sends the officials out. He checks her for a wire. She tells him she wants the kind of power that changes things. He's quiet for four seconds. "Most candidates tell me they feel called." "I know." He looks at her a little longer than the format allows, then asks his next question (TR).
+prompt: 1 · The four seconds, from inside his head | 4
+prompt: 2 · His next question | 3
+prompt: 3 · The rest of the thirty minutes | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write him in the Study
+Ten minutes. The Study, the window on the Grace Bridge, a book that isn't on the list, nobody watching.
+prompt: Write | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH AND EDEN · BOTH SIDES" m="TKC: TR · CR · WR 33–37"
+# Judah and Eden
+Attention before desire. She doesn't know why her attention catches on him, and she distrusts it (WR 33). He watches her arrival footage three times before he understands why he can't stop (CR).
+cols:
+prompt: What Judah sees in Eden, in order | 8
+||
+prompt: What Eden sees in Judah, in order | 8
+/end
+prompt: The Declaration, from his side | fill
+
+@page rh="THE HOUSE OF VANE · JUDAH · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in his words | _ |
+| Who can challenge it | _ |
+| A room he can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What he wants | _ |
+| What he says | _ |
+| What he won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE HOUSE OF VANE · JUDAH · NOTES" m="NOTES" prompt="Anything Judah's dossier started and didn't finish"
