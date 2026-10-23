@@ -1,0 +1,107 @@
+@divider id="f4" num="F4" kind="FOCUSED STUDY SPREAD" title="1 and 2/Chronicles" sub="The same history told again, for a different congregation" foot="F4 · NINE PAGES"
+
+@opener rh="FOCUSED STUDY SPREAD F4 · 1 AND 2 CHRONICLES" m="SOURCE MARGIN; 1–2 CHR; MT · LXX; JAPHET, I & II CHRONICLES (OTL); KNOPPERS, 1 CHRONICLES (AB)"
+plate: doc
+dh: The Register of Households | COVENANT RECORD, VOL. I
+dsub: ENTERED BY THE TEMPLE CLERK · CERTIFIED TRUE TO THE OLDER ROLLS
+df: Line of | ________________________________
+df: Descended from | entered as far back as the rolls allow
+df: Standing | priestly · landed · resident · none on record
+df: Women named | ______ (enter where the line runs through her)
+df: Certified by | ________________________________
+dnote: First Chronicles 1–9 runs from Adam to the settlers of Jerusalem, name by name. POSSIBLE: Dominion's household register (FR 32) is the same instrument, kept for the opposite reason.
+stamp: ENTERED
+/end
+tk: FOCUSED STUDY F4 · ✥
+big: 1 and 2 Chronicles
+lede: The same centuries, told again by someone with a temple to justify and a congregation to hold together. What it leaves out is famous. What it adds is more interesting.
+calls:
+k: Why this is a focused study
+Chronicles isn't a new story. It's a second telling. Nine pages are enough to hold what changed, why a community after the exile would want it changed, and what an empire learns from a sanctioned retelling.
+||
+k: Read it against Samuel–Kings
+This spread only works in comparison. Keep a Samuel–Kings text open beside it, or the differences stay invisible.
+/end
+
+@page rh="CHRONICLES · 1 OF 6 · THE BOOK ON THE RECORD" m="1 CHR 1–9; 2 CHR 36.22–23; JAPHET, I & II CHRONICLES; WILLIAMSON, ISRAEL IN CHRONICLES; 1–2 KGS (COMPARE)"
+# What it is
+rec:
+Name | The Hebrew title, *Divrei Hayyamim*, means "the events of the days," an annals title. The Greek tradition called it *Paraleipomena*, "the things left out," which is a judgment about the book wearing the clothes of a label.
+Where it sits | In the Jewish ordering it's the last book of the whole Bible, and it ends with a Persian king telling the exiles to go up. In the Christian ordering it sits after Kings, in the middle. Same text, two different final words.
+When and by whom | Anonymous, and generally placed in the Persian period, after the return. Whether the same hand wrote Ezra–Nehemiah was long assumed and is now widely questioned. Treat "the Chronicler" as a label for an unknown writer and not as an identified person.
+Structure | Nine chapters of genealogy. David, at length. Solomon and the temple. The kings of Judah only, down to the exile, closing with the decree of Cyrus. The northern kingdom mostly isn't its subject.
+Its sources | It draws on Samuel and Kings, often nearly word for word, and also cites records the reader can't check. It's a book openly built out of other books, which makes it the Bible's clearest case of a tradition editing itself.
+Its purpose | Theological, liturgical and genealogical, written for a community after the exile that needed to know it was continuous with what came before. INTERPRETATION: Calling it "the authorized version" or "state-sponsored scripture" is an argument about that purpose. Use those phrases as arguments you're making and never as facts you're reporting.
+box: What the book is actually doing
+INTERPRETATION: Proving that a small, occupied province with a rebuilt temple is the same people as the kingdom in the old stories. Continuity is the argument, the genealogies are the evidence and the temple is the proof.
+/end
+prompt: What I assumed Chronicles was, before reading it next to Kings | fill
+
+@page rh="CHRONICLES · 2 OF 6 · WHAT CHANGED IN THE RETELLING" m="2 SAM 11–12; 1 CHR 3.5; 2 SAM 24 · 1 CHR 21; 2 CHR 29–31; 2 CHR 33.10–20; KNOPPERS, 1 CHRONICLES"
+# Subtraction and addition
+The omissions are the famous part and the least interesting way to read the book. Chronicles also adds a great deal Samuel–Kings doesn't have, and keeps damaging material it could easily have dropped. Study the pattern and not only the gaps.
+tabrl:
+| Material | What Chronicles does with it |
+| Bathsheba and Uriah | The story isn't retold. Bathsheba isn't erased. She appears in David's genealogy as the mother of Solomon and three other sons, under the name Bath-shua (1 Chr 3.5). The dynastic record keeps her, and the scandal is absent. |
+| Amnon, Tamar, Absalom | The household violence and the revolt aren't retold. The reign comes through war, worship and preparation for the temple instead. |
+| David's census | Kept, with the plague and the deaths. Where Samuel says the LORD incited David, Chronicles says an adversary did (1 Chr 21.1). The sin stays and the attribution moves. INTERPRETATION: A book doing pure whitewash wouldn't have kept the chapter. |
+| Levites, singers, musicians | Added, extensively. Named guilds, rotas, instruments and duties Samuel–Kings barely mentions. For what a working sanctuary staff looked like, this is the source. |
+| Hezekiah's Passover | Added. A mass reform and festival, with invitations sent north to people outside Judah's jurisdiction. A reunification liturgy (2 Chr 30). |
+| Manasseh | Added. Kings gives Judah's worst king no redemption. Chronicles has him taken to Babylon with hooks, pray and be restored (2 Chr 33.11–13). INTERPRETATION: The most theologically loaded addition in the book, since it says no reign is beyond repentance. |
+box: How to read the omissions honestly
+A retelling that assumes its reader knows the older account isn't the same as one that hides it, and Chronicles points readers to other records. CONTESTED: "Cover-up" is one available reading. Another is a history written for worship more than for judgment. Hold both, and say which one you're using.
+/end
+prompt: The omission I find hardest to read charitably, and why | fill
+
+@page rh="CHRONICLES · 3 OF 6 · SIDE BY SIDE · WORKSHEET" m="WORKSHEET; 2 SAM · 1 CHR; 1–2 KGS · 2 CHR"
+# One reign, two tellings
+Pick one king. Read his reign in Samuel or Kings, then in Chronicles, and log what moved.
+tab:
+| | Samuel–Kings | Chronicles |
+| King and chapters | _ | _ |
+| How the reign opens | _ | _ |
+| What's kept word for word | _ | _ |
+| What's missing | _ | _ |
+| What's added | _ | _ |
+| Who gets the blame | _ | _ |
+| How it ends | _ | _ |
+prompt: What the second telling protects, and who it protects it for | fill
+
+@page rh="CHRONICLES · 4 OF 6 · NINE CHAPTERS OF NAMES" m="1 CHR 1–2; 1 CHR 2.34–35; 1 CHR 4.9–10; 1 CHR 4.18; 1 CHR 7.18; 1 CHR 7.24; 1 CHR 9.1–34; KNOPPERS, 1 CHRONICLES; TKC: DOM"
+# The register as an argument
+INTERPRETATION: The nine chapters most readers skip are the book's foundation. A community whose records were broken by deportation is establishing, name by name, who belongs, who serves and who holds land. It's the same instrument as Numbers 1, used to prove a people didn't end, where Numbers used it to muster an army.
+k: From Adam forward
+The list begins with the first human and narrows to the nations, Israel, the tribes, Judah, David, the priests and Levites, and the settlers of Jerusalem. A funnel. The whole world is in the frame at verse one so the small province at the end can be its point.
+k: The women in the lists
+Named women turn up more often than these chapters' reputation suggests. Sheerah builds Lower and Upper Beth-horon and Uzzen-sheerah (7.24). Sheshan has no sons and gives his daughter to Jarha, his Egyptian servant, and the line runs through them (2.34–35). The text records the marriage and the descent and doesn't say she inherits. Hammolecheth is named among Manasseh's descendants (7.18). Bithiah, a daughter of Pharaoh, is recorded as a wife without comment (4.18). Jabez's mother names him (4.9). Nobody preaches these chapters, so nobody notices. Mine them.
+cols:
+k: What a genealogy does politically
+INTERPRETATION: It assigns priestly eligibility, land claims and standing. It also excludes, since to be missing from the register is to have no documented claim. The list is a comfort and a boundary at once.
+||
+k: Gaps and variants
+Names, spellings and lines differ from parallels elsewhere, and some segments are incomplete. Ancient genealogies were claims about relationship, arranged to make a point, more than birth certificates.
+/end
+empire: The direct line to Dominion
+POSSIBLE: Household registration, lineage verification and the Covenant record are this technology. Chronicles keeps the register to gather in a scattered people. Dominion keeps it to rank a gathered one.
+/end
+prompt: Who in the cast isn't on a register, and what it costs them | fill
+
+@page rh="CHRONICLES · 5 OF 6 · THE SANCTIONED RETELLING · WRITING" m="WRITING; 2 CHR 36; TKC: DOM · TL"
+# Write the Empire's second telling
+Dominion has an official history of the Fall. Chronicles shows how a sanctioned retelling actually behaves. It keeps more than you expect, adds liturgy, moves blame without deleting the event, and ends on the note it wants remembered. Build yours on that model and not on crude deletion.
+prompt: 1 · What the Empire's history of the Fall keeps, even though it's damaging | fill
+prompt: 2 · Where it moves the blame without removing the event | fill
+prompt: 3 · The liturgy it adds. What the official version has that the old one didn't | fill
+prompt: 4 · The last sentence of the official history, drafted word for word | fill
+
+@page rh="CHRONICLES · 6 OF 6 · CLOSE THE SPREAD" m="WRITING; SPREAD CLOSE; QUEUE: F4"
+# What I take out of Chronicles
+prompt: The one difference from Samuel–Kings that changed my reading | fill
+prompt: A name from the genealogies I want to use, and where | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+review: Promotion review | log only, no promotion is made here
+Chronicles is a focused study. Log a promotion if the Empire's official history becomes a plot object more than background, or if the register material outgrows this spread. OPEN QUESTION: A combined study with Ezra and Nehemiah, titled Restoration, Record and Exclusion, has been floated. The decision belongs in the backlog.
+fields: LOGGED, DATE, REASON
+/end
+
+@notes rh="SPREAD NOTES · F4 1 AND 2 CHRONICLES" m="NOTES; OPEN NOTES" prompt="Anything this spread started and didn't finish"

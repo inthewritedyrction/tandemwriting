@@ -38,7 +38,7 @@ const report = await page.evaluate(() => {
     fl.forEach(box => {
       if (overflowing || (box.children.length < 6 && !box.parentElement.classList.contains('rest'))) {
         const k = box.parentElement.querySelector('.k');
-        short.push({ page: idx + 1, prompt: k ? k.textContent : '', mode: overflowing ? 'move' : 'add' });
+        short.push({ page: idx + 1, prompt: k ? k.textContent : '', mode: (overflowing || box.children.length < 3) ? 'move' : 'add' });
       }
     });
   });

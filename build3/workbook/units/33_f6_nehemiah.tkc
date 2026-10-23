@@ -1,0 +1,86 @@
+@divider id="f6" num="F6" kind="FOCUSED STUDY SPREAD" title="Nehemiah" sub="A wall, a register, a debt crisis, and a governor who worked for the king" foot="F6 · NINE PAGES"
+
+@opener rh="FOCUSED STUDY SPREAD F6 · NEHEMIAH" m="SOURCE MARGIN; NEH 1–13; MT · LXX; WILLIAMSON, EZRA, NEHEMIAH (WBC); ESKENAZI, IN AN AGE OF PROSE"
+plate: doc
+dh: Order of the Gates | POSTED AT EVERY ENTRANCE
+dsub: BY THE GOVERNOR OF THE PROVINCE · TO THE GATEKEEPERS, SINGERS AND LEVITES
+df: Gates open | not until the sun is hot
+df: Gates shut | while the guards are still standing
+df: Guards | residents, each opposite his own house
+df: Sabbath | gates shut from dark, no load to enter
+df: Merchants outside the wall | will be dealt with
+dnote: Nehemiah 7.3 and 13.19–21, nearly word for word. POSSIBLE: Every checkpoint in the Empire runs on this order.
+stamp: BY ORDER
+/end
+tk: FOCUSED STUDY F6 · ✥
+big: Nehemiah
+lede: A memoir by a man who held a post at the imperial court, went home with an escort, rebuilt the city's defenses in fifty-two days, made his own class give back what it had taken, and enforced a boundary by force.
+calls:
+k: Why this is a focused study
+Nehemiah is among the most administratively detailed books in the Old Testament, and the closest to how Dominion actually runs. Nine pages hold the mechanics: employment, security, registers, debt and enforcement.
+||
+k: First person
+Much of the book is Nehemiah's own account of himself, including prayers asking to be remembered for it. Read it as testimony from an interested party.
+/end
+
+@page rh="NEHEMIAH · 1 OF 5 · THE BOOK ON THE RECORD" m="NEH 1.11; NEH 2.1–9; NEH 3; NEH 4.15–23; NEH 6.15; NEH 13; WILLIAMSON, EZRA, NEHEMIAH; TKC: DOM"
+# What it is
+rec:
+His job | Cupbearer to the Persian king, a trusted office at court that carries personal access to the monarch. He then serves as governor of the province. His authority to act in Jerusalem is delegated imperial authority.
+Form | Largely a first-person memoir, with lists, letters, a covenant document and a long public reading set into it. Scholars commonly identify a "Nehemiah memoir" running through the book with other material inserted. CONTESTED: Where the seams fall.
+Structure | Chapters 1–7, the commission, the night inspection, the building, the opposition, the debt crisis and a register. Chapters 8–10, the public reading of the law, confession and a signed covenant. Chapters 11–13, settlement lists, dedication and a final enforcement campaign.
+The wall | Rebuilt in fifty-two days by crews assigned to the stretch nearest their own houses, with families, guilds and perfumers named. Half the workforce stood armed while the other half built. Defense and construction as one operation.
+How it ends | With a return visit and a purge in place of a dedication: a temple chamber cleared, Sabbath trade shut down by locking the gates, and confrontations over marriages that include beatings and cursing. The book closes with Nehemiah asking to be remembered for good.
+box: What the book is actually about
+INTERPRETATION: Building an institution and then policing it. The construction is the first half and the enforcement is the second, and the book doesn't present them as different projects.
+/end
+prompt: What I was taught about Nehemiah, and what that teaching left out | fill
+
+@page rh="NEHEMIAH · 2 OF 5 · EMPLOYMENT, WALLS AND WATCH" m="NEH 2.7–9; NEH 2.11–16; NEH 3.12; NEH 4; NEH 6.1–14; NEH 7.1–5"
+# Security as a theology
+INTERPRETATION: The wall is the book's controlling image, and it's a real defensive perimeter with gates, guards, hours and a list of who may open them. Everything the second half does about identity is already implied in the first half's masonry.
+rec:
+The paperwork he asks for | Letters of safe passage to the provincial governors and a requisition to the keeper of the king's forest for timber. An escort of officers and cavalry. He arrives as an official with a materials order.
+The night inspection | He surveys the ruins at night, telling no one what he intends, and presents the plan as a decision already made. Information control comes before construction.
+Who builds | Priests, goldsmiths, perfumers, district rulers, people from outlying towns, and one official who builds with his daughters (3.12). Chapter 3 is a labor roster, one of the clearest places in the Bible to see a whole community's trades assigned to public works.
+Opposition, rumor and a setup | Ridicule, threats of attack, repeated invitations to a meeting outside the city, an open letter claiming he means to make himself king, and a hired prophet urging him to hide in the temple. He refuses all of it. The clearest sequence in scripture on how a construction project becomes a political accusation.
+The gates and the register | Once the wall stands, he sets the gate hours and appoints guards, and in the same breath convenes an enrollment by genealogy. Wall and register arrive together.
+prompt: Dominion's perimeter. Where it is, who guards it and when it opens | fill
+
+@page rh="NEHEMIAH · 3 OF 5 · THE DEBT CRISIS" m="NEH 5.1–5; NEH 5.6–13; NEH 5.14–19; NEH 10.31; LEV 25 (COMPARE); DEUT 15 (COMPARE); TKC: DOM · MEN"
+# Chapter five
+In the middle of the building project the account breaks off for a debt crisis. The workers are hungry and their children are being taken. The text doesn't say construction stopped. It reports a crisis serious enough to interrupt the narrative. It's the most economically explicit chapter in the historical books, and one of the least preached.
+rec:
+The outcry | A great outcry from the people "and their wives" (5.1). Three groups speak: those with no land, those mortgaging land for grain, and those who've borrowed against fields and vineyards to pay the king's tax.
+The children | They say their sons and daughters are being forced into slavery for debt, some daughters already, and they're powerless because their fields now belong to others. Debt bondage inside the community, in the same weeks as the sacred building project.
+The creditors | The nobles and officials, the same class doing the building and signing the covenant. The crisis is internal, and no foreign oppressor is needed.
+The remedy | Nehemiah confronts them in public, calls it wrong, orders fields, houses and interest returned and makes them swear to it before the priests. He also gives up the governor's food allowance and says he fed a large table at his own expense. Reform by a member of the creditor class, on the creditor class.
+The limit | INTERPRETATION: Chapter 5 is immediate relief backed by an oath and personal authority. The covenant in chapter 10 makes a seventh-year release a standing obligation. Neither changes the lending system or the imperial tax that drove the borrowing, and the text doesn't say how long either was enforced.
+box: The tax is the engine
+INTERPRETATION: The people say outright that they borrowed to pay the king's tax. The debt crisis is downstream of imperial extraction, and the reform touches the local creditor and leaves the empire alone, since the empire isn't available to be reformed. For a Dominion economy, that's the whole shape of it.
+/end
+prompt: How a Dominion household loses a daughter to debt. Write the mechanism. | fill
+
+@page rh="NEHEMIAH · 4 OF 5 · THE COVENANT AND THE ENFORCEMENT" m="NEH 8; NEH 9; NEH 10.28–39; NEH 13.4–14; NEH 13.15–22; NEH 13.23–31; FISHBANE, BIBLICAL INTERPRETATION IN ANCIENT ISRAEL"
+# Signed, then policed
+The middle of the book is a public reading and a signed agreement. The end is what happens when the agreement isn't kept. Read them together or the ending looks arbitrary.
+rec:
+The public reading | A morning-long reading in an open square before men, women and all who could understand, with Levites giving the sense so the people understood (8.8). The people weep, and they're told to feast and send portions to those with nothing. CONTESTED: Whether "giving the sense" includes translation into Aramaic is a common reading and a debated one.
+The signed covenant | A sealed document with named signatories committing to specific obligations: no intermarriage, no Sabbath trade, a seventh-year release, a temple tax, wood offerings and firstfruits. A funding and compliance schedule with a religious preamble.
+The temple chamber | He comes back to find a temple room given to an outsider and the Levites unpaid and gone back to their fields. He throws the household goods out and restores the payments. The reform failed the moment its enforcer left.
+The Sabbath shutdown | Winepresses working, grain hauled and foreign traders selling on the Sabbath. He orders the gates shut before dark and posts his own men, and when merchants camp outside he threatens to lay hands on them. Sabbath observance enforced as a border operation.
+The marriage confrontation | He reports contending with the men, cursing them, beating some and pulling out their hair, and driving out a priest's son who'd married into the family of a rival governor. He reports it approvingly, as zeal. Unlike Ezra 10 there's no assembly, commission or list, only an official's personal violence recorded in the first person. INTERPRETATION: The marriages also tie Jerusalem's priestly families to neighboring provincial power.
+prompt: A reformer whose reform only holds while he's in the room. Who is that here? | fill
+
+@page rh="NEHEMIAH · 5 OF 5 · CLOSE THE SPREAD" m="WRITING; SPREAD CLOSE; QUEUE: F6"
+# What I take out of Nehemiah
+prompt: The perimeter and the register arrive together. Where does Dominion do this? | fill
+prompt: Leadership aimed at its own class. Who in my cast reforms the people they belong to? | fill
+prompt: A scene where observance is enforced by locking a gate | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+review: Promotion review | log only, no promotion is made here
+Nehemiah is a focused study. Log a promotion if the debt and bondage material becomes the spine of Dominion's economy more than one mechanism among several, or if chapter 5 outgrows its page here. OPEN QUESTION: The combined Restoration, Record and Exclusion study stays in the backlog.
+fields: LOGGED, DATE, REASON
+/end
+
+@notes rh="SPREAD NOTES · F6 NEHEMIAH" m="NOTES; OPEN NOTES" prompt="Anything this spread started and didn't finish"
