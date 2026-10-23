@@ -21,7 +21,7 @@ stext: 2085, Eden alone, about two years old. 2090, Leah, Zion and Solomon toget
 k: The household on paper
 stext: Unbound, reclassified after six years, with a young man on the authority line (Vol. I, {v1:household}).
 marg
-see: Vol. I, the household on paper, 514. Aurem, 520.
+see: Vol. I, the household on paper, {v1:household}. Aurem, {v1:aurem}.
 /end
 
 @page rh="THE PARISH HOUSEHOLD · THE DAY MIRIAM LEFT · 2090" m="TKC: FR 11–15 · TL"

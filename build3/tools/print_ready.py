@@ -11,7 +11,7 @@ import pikepdf
 ROOT = Path(__file__).resolve().parent.parent
 VOL = sys.argv[1] if len(sys.argv) > 1 else '1'
 SFX = '' if VOL == '1' else '_v' + VOL
-NAME = 'TKC_Volume_One_Workbook' if VOL == '1' else 'TKC_Volume_Two_Workbook'
+NAME = {'1': 'TKC_Volume_One_Workbook', '2': 'TKC_Volume_Two_Workbook', '3': 'TKC_Reading_Plan'}[VOL]
 SRC = ROOT / 'dist' / f'{NAME}.pdf'
 
 # section starts, by page anchor; each runs to the page before the next

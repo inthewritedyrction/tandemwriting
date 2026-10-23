@@ -464,7 +464,7 @@ def build():
         html_pages.append(f'<section class="page {kind} {parity}">{rh}<div class="body"><div class="main">{main}</div>'
                           f'{margin_html(attrs, kind)}</div>{folio}</section>')
 
-    doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>TKC Volume ' + ('One · The World Dossier' if VOL == '1' else 'Two · The People') + '</title>'
+    doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>TKC Volume ' + ({'1': 'One · The World Dossier', '2': 'Two · The People'}.get(VOL, 'One and Two · The Reading Plan')) + '</title>'
            '<link rel="stylesheet" href="../workbook/wb.css"></head><body>' + ''.join(html_pages) + '</body></html>')
     OUT.mkdir(exist_ok=True)
     (OUT / f'workbook{SFX}.html').write_text(ornaments(doc))

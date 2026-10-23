@@ -12,7 +12,8 @@ try { playwright = require('playwright'); } catch { try { playwright = require('
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const VOL = process.env.TKC_VOL || '1';
 const SFX = VOL === '1' ? '' : '_v' + VOL;
-const pdfPath = process.argv[2] || path.join(root, 'dist', VOL === '1' ? 'TKC_Volume_One_Workbook.pdf' : 'TKC_Volume_Two_Workbook.pdf');
+const PDF_NAMES = { '1': 'TKC_Volume_One_Workbook.pdf', '2': 'TKC_Volume_Two_Workbook.pdf', '3': 'TKC_Reading_Plan.pdf' };
+const pdfPath = process.argv[2] || path.join(root, 'dist', PDF_NAMES[VOL]);
 fs.mkdirSync(path.dirname(pdfPath), { recursive: true });
 
 const browser = await playwright.chromium.launch();

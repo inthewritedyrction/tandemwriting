@@ -65,3 +65,14 @@ TKC_VOL=2 node workbook/wb_print.mjs
 TKC_VOL=2 python3 workbook/voice_lint.py
 python3 tools/print_ready.py 2      # needs pikepdf
 ```
+
+## The reading plan
+
+`dist/TKC_Reading_Plan.pdf` pairs Volume Two with the Volume One pages it cites, day by day. It also schedules every Volume One page that nothing cites, so both volumes finish together. To rebuild it after either volume changes (the number is pages per day):
+
+```
+python3 tools/reading_plan.py 10
+rm -f out/continuations_v3.json
+for i in 1 2 3; do TKC_VOL=3 python3 workbook/wb.py && TKC_VOL=3 node workbook/wb_print.mjs out/sample.pdf; done
+TKC_VOL=3 node workbook/wb_print.mjs && python3 tools/print_ready.py 3
+```
