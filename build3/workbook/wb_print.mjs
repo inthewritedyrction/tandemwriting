@@ -36,7 +36,7 @@ const report = await page.evaluate(() => {
     const main = pg.querySelector('.main');
     const overflowing = main.scrollHeight > main.clientHeight + 2;
     fl.forEach(box => {
-      if (overflowing || box.children.length < 6) {
+      if (overflowing || (box.children.length < 6 && !box.parentElement.classList.contains('rest'))) {
         const k = box.parentElement.querySelector('.k');
         short.push({ page: idx + 1, prompt: k ? k.textContent : '', mode: overflowing ? 'move' : 'add' });
       }

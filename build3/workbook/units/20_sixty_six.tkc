@@ -1,0 +1,728 @@
+@divider id="b66" num="X" kind="PART ONE · THE LIBRARY" title="The Sixty-Six/Books" sub="One entry per book, in canonical order, each answering the same six questions so the whole library can be read side by side" foot="X · THE SIXTY-SIX BOOKS"
+
+@essay rh="LEARNING THE BIBLE · THE SIXTY-SIX BOOKS · HOW TO USE THEM"
+# The sixty-six books
+drop: One entry per book, in canonical order, and every entry answers the same six questions so you can compare across the whole library instead of reading each book alone. None of them replaces the book. They're orientation, enough to know what you're walking into, what the book argues about and which of its pressures the novel can use.
+Two of the six questions belong to you more than to the Bible. *What it gives TKC* is where the raw material gets named. *What Dominion would do* is where you decide how the Empire has already processed the book before any character opens it. Answer those in pencil, because they'll change as the manuscript changes.
+The narrative books get a full page each, since story is where characters come from and you'll keep coming back to them. The shorter prophetic books and the letters share pages, because what you need from them is a fast, reliable sense of the argument more than a scene inventory. The layout tells you how much material is in there.
+k: The six questions
+- **Where we are.** The political and historical position.
+- **What happens.** The shape of the thing, briefly.
+- **Who matters.** The names worth knowing.
+- **What it wrestles with.** The internal argument.
+- **What it gives TKC.** Usable material.
+- **What Dominion would do.** The Empire's use of it.
+pull: "Sixty-six books, and none of them was written for you."
+side:
+k: A reading order, if you want one
+stext: Canonical order isn't chronological, and it's a poor first path. To read for competence before completeness, take Genesis, Exodus, Judges, 1–2 Samuel, Mark, Luke, Amos, Isaiah, Esther, Ruth, Romans and Revelation. You'll have origins, law, monarchy, prophetic anger, exile, a life, a movement and an apocalypse, the whole grammar Dominion is built on, in about a tenth of the pages. Come back afterward and do it properly.
+marg
+see: Bible 101, I to IX; the focused studies and the deep dives that follow this section.
+/end
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · TORAH · I"
+# Genesis
+small: *Bereshit* · fifty chapters · Book i of lxvi
+k: Where we are
+Before nation, before law, before temple. There's no state in this book and no priesthood, only households. Everything the Empire later cites as eternal precedent begins as a family argument about land, inheritance and whose child counts.
+k: What happens
+Two creation accounts that tell the order differently, an expulsion, a flood and a scattered tower. After that, thirty-eight chapters narrow to one family: a promise, a wife who laughs at it, an enslaved surrogate driven into the desert, twin sons who cheat each other, two sisters married to the same man, and a favored son sold by his brothers who ends up running an empire's grain.
+k: Who matters
+Eve · Noah · Sarah · Hagar · Abraham · Isaac · Rebekah · Jacob · Leah · Rachel · Dinah · Tamar · Joseph
+k: What it wrestles with
+Blessing as a scarce resource that can't be shared, only won or stolen. Naming as an act of authority. Whether obedience is trust or terror. The book never settles it, and the binding of Isaac is left standing without comment.
+q: You are El-roi, the God who sees me. | HAGAR · GEN 16.13
+prompt: Notes on the text | rest
+side:
+chips: OT, START: ORIGINS
+k: Read first
+stext: Ch. 1–3 · 16 · 21 · 22 · 29–30 · 38
+corr: The old page called Hagar the first person in the book to name God. She's the only person in the Bible who does it (Gen 16.13).
+marg
+see: Deep dive I, Genesis; Hagar and Leah, Part II.
+/end
+
+@page rh="GENESIS · I · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Genesis, for the novel
+cols:
+k: What it gives TKC
+The garden as a supervised enclosure with one prohibition. Naming as ownership. The sister rivalry beneath the candidate system. And Hagar, the woman used for someone else's promise, who is the only person in scripture to give God a name.
+||
+kp: What Dominion would do
+POSSIBLE: Read the curse as a constitution. Order of creation becomes order of rank, the expulsion becomes the founding case for permanent supervision, and Hagar becomes a warning about women who run, instead of a woman God followed into the desert.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · TORAH · II"
+# Exodus
+small: *Shemot* · forty chapters · Book ii of lxvi
+k: Where we are
+Inside an empire, as its labor force. The family from Genesis has become a population, and the state that once fed them now fears their numbers enough to legislate against their children. Here God is first identified as the one who takes sides in a labor dispute.
+k: What happens
+Midwives disobey a royal order to kill newborn boys and are honored for it. A child is hidden, raised in the palace, kills a slave driver, flees, and is recruited from a burning bush. He comes back and negotiates with the state through escalating catastrophe until the workforce walks out. After the walkout come a sea, a mountain, a law and a gold statue.
+k: Who matters
+Shiphrah and Puah · Jochebed · Miriam · Pharaoh's daughter · Moses · Zipporah · Aaron · Pharaoh
+k: What it wrestles with
+Whether freedom is the point or only the precondition. The people are barely out before they're handed a legal code and a building project. There's also the terrible arithmetic of liberation. This book's God kills other people's firstborn to free these ones, and the text doesn't soften it.
+q: I have heard their cry on account of their taskmasters. | EXOD 3.7
+prompt: Notes on the text | rest
+side:
+chips: OT, START: EMPIRE
+k: Read first
+stext: Ch. 1–3 · 5 · 12 · 15 · 20 · 32
+marg
+see: Deep dive II, Exodus; Empires of the Bible, Part IV.
+/end
+
+@page rh="EXODUS · II · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Exodus, for the novel
+cols:
+k: What it gives TKC
+The template for holy disobedience: two midwives who lie to a king and are recorded by name while the king isn't. A liberation story any oppressed population inside Dominion can read and apply without a word of commentary.
+||
+kp: What Dominion would do
+POSSIBLE: Move the weight from the escape to the mountain. Teach Exodus as the book where God gives commandments and punishes the golden calf, and drop the book where God overthrows a government. Freedom becomes the prologue and obedience becomes the moral.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · TORAH · III"
+# Leviticus
+small: *Vayikra* · twenty-seven chapters · Book iii of lxvi
+k: Where we are
+Still at the mountain, and nothing happens. People give up on this book, and it's also the most important one in the collection for understanding how a religion actually governs, because nearly all of it is administration: who may touch what, who may enter where, what makes a body unclean and what it costs to be restored.
+k: What happens
+Sacrificial procedure. Two priests killed for offering fire they weren't commanded to offer. Dietary law. Childbirth and menstruation as states requiring separation. A day of atonement, prohibition lists, festival calendars, and at the end, startlingly, the jubilee. Every fiftieth year, land goes back to the families who lost it and Israelites sold into debt service go free.
+k: Who matters
+Aaron · Nadab and Abihu · the anonymous priesthood · the goat sent into the wilderness
+k: What it wrestles with
+Holiness as separation, and the enormous machinery it takes to keep it up. Underneath the procedure sits a question the Empire has to answer. Is a body a temple to be guarded, or a liability to be managed?
+q: Proclaim liberty throughout the land to all its inhabitants. | LEV 25.10
+prompt: Notes on the text | rest
+side:
+chips: OT, START: RITUAL
+k: Read first
+stext: Ch. 10 · 12 · 16 · 19 · 25
+corr: The old page had the jubilee cancelling debts. Leviticus 25 returns land and frees Israelites in debt service. Debt release every seventh year is Deuteronomy 15.
+marg
+see: Deep dive III, Leviticus; Deuteronomy, this section.
+/end
+
+@page rh="LEVITICUS · III · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Leviticus, for the novel
+cols:
+k: What it gives TKC
+The whole vocabulary of ritual purity a surveillance theocracy runs on: clean and unclean, permitted and withheld, the body as a jurisdiction. Every ceremony, inspection and enclosure in Dominion can be sourced here.
+||
+kp: What Dominion would do
+POSSIBLE: Enforce the purity codes literally and treat the jubilee as symbolic. Land return and release from debt service are among the most economically dangerous laws in scripture, and an empire built on inheritance quietly reclassifies them as poetry.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · TORAH · IV"
+# Numbers
+small: *Bemidbar* · thirty-six chapters · Book iv of lxvi
+k: Where we are
+In the desert, and it's going badly. The Hebrew name means "in the wilderness," and the English name comes from the two censuses that bracket the book. Both titles are honest. It's a book about counting a population and about that population falling apart while it waits.
+k: What happens
+A census, and complaint after complaint about food, leadership and the whole project. Scouts come back terrified and the people are sentenced to forty years of wandering. Miriam and Aaron challenge Moses, and Miriam alone is struck with a skin disease. A rebellion is swallowed by the ground. Five daughters petition to inherit their father's land and win.
+k: Who matters
+Miriam · Aaron · Korah · Caleb · Joshua · Balaam · the daughters of Zelophehad
+k: What it wrestles with
+Legitimate authority and the cost of questioning it. Rebellions are punished spectacularly, and in the same book five women bring a legal challenge to inheritance law and win, with God ruling for them. Chapter 36 then requires them to marry inside their tribe so the land stays put. The text can't decide whether dissent is faithlessness or petition, and neither can any empire.
+q: The daughters of Zelophehad are right. | NUM 27.7
+prompt: Notes on the text | rest
+side:
+chips: OT, START: AUTHORITY
+k: Read first
+stext: Ch. 12 · 13–14 · 16 · 22 · 27 · 36
+marg
+see: Focused study F1, Numbers; Miriam, Part II.
+/end
+
+@page rh="NUMBERS · IV · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Numbers, for the novel
+cols:
+k: What it gives TKC
+A census as an instrument of control, and the one precedent in the Torah for women changing the law by asking. Also the psychology of a generation that won't live to see the promise, which suits anyone in Dominion serving a future they've been told isn't theirs.
+||
+kp: What Dominion would do
+POSSIBLE: Preach Korah every year and Zelophehad never. Rebellion swallowed by the earth is an excellent lesson for a provincial congregation. A successful female petition to amend inheritance law doesn't get printed in the schoolbook.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · TORAH · V"
+# Deuteronomy
+small: *Devarim* · thirty-four chapters · Book v of lxvi
+k: Where we are
+On the border, listening to a farewell address. The book is framed as Moses' speeches to a generation that didn't witness the escape, which makes it the collection's first act of national memory management. Here's what happened to us, here's what it means, and here's what you owe.
+k: What happens
+The law is restated for a settled farming people, and blessings and curses are laid out as a conditional contract. Obey and the land yields. Disobey and it's taken. Laws limiting kings, protecting immigrants and releasing debts every seventh year sit beside laws of terrifying severity. It ends with a leader dying in sight of a country he may not enter.
+k: Who matters
+Moses · Joshua · the unnamed generation being addressed
+k: What it wrestles with
+The retribution formula, in which righteousness produces prosperity and suffering implies sin. It's some of the most quotable theology in scripture and the most politically useful, because it makes wealth a certificate of virtue and poverty a confession. INTERPRETATION: Job and several prophets read as answers to it.
+q: He must not acquire many horses for himself… nor acquire many wives… nor silver and gold in great quantity. | ON KINGS · DEUT 17.16–17
+prompt: Notes on the text | rest
+side:
+chips: OT, START: DOMINION
+k: Read first
+stext: Ch. 6 · 15 · 17 · 22 · 28 · 30 · 34
+marg
+see: Deep dive IV, Deuteronomy; Job, this section.
+/end
+
+@page rh="DEUTERONOMY · V · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Deuteronomy, for the novel
+cols:
+k: What it gives TKC
+Dominion's founding logic, ready-made: a covenant contract in which national obedience produces national survival. Also the buried law limiting what a king may accumulate, a passage that indicts the Emperor in a single sentence.
+||
+kp: What Dominion would do
+POSSIBLE: Make this the spine of state theology. Blessing for compliance, catastrophe for dissent, and every hardship in the provinces explained as somebody's hidden disobedience. The debt-release and immigrant laws stay in the canon and out of the lectionary.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · HISTORY · VI"
+# Joshua
+small: *Yehoshua* · twenty-four chapters · Book vi of lxvi
+note: Conquest, the destruction of cities and the execution of a family.
+k: Where we are
+Crossing into the land, with military force. A promise becomes a campaign. It's the hardest book in the collection to read honestly, because what it describes is the taking of inhabited cities, and it describes it as obedience.
+k: What happens
+Two spies are hidden in Jericho by Rahab, a prostitute, who negotiates her household's survival in exchange. A wall falls. One man keeps plunder, and he and his whole family are executed for it. Campaign follows campaign, the land is divided by lot, and the book closes with a public assembly where the people have to choose formally whose god they'll serve.
+k: Who matters
+Joshua · Rahab · Achan · Caleb · the Gibeonites, who survive by lying well
+k: What it wrestles with
+Whether divine promise can license atrocity, and whether belonging is blood or allegiance. Its own answer is inconsistent. The foreigners who talk their way in are kept.
+q: Choose this day whom you will serve. | JOSH 24.15
+prompt: Notes on the text | rest
+side:
+chips: OT, START: CONQUEST
+k: Read first
+stext: Ch. 2 · 6 · 7 · 9 · 24
+corr: The old page put Rahab in the royal genealogy as if Joshua said so. Joshua doesn't. Matthew's genealogy does (Matt 1.5).
+marg
+see: Rahab, Part II; Divine violence, Bible 101 IX.
+/end
+
+@page rh="JOSHUA · VI · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Joshua, for the novel
+cols:
+k: What it gives TKC
+Rahab, entirely. A woman with no standing reads the political situation faster than her whole city and trades information for her family's survival. Matthew later writes her into the line of David (Matt 1.5).
+||
+kp: What Dominion would do
+POSSIBLE: Quote it at every expansion, and use Achan as the case for collective punishment. One household endangers the nation, so surveillance is mercy.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · HISTORY · VII"
+# Judges
+small: *Shoftim* · twenty-one chapters · Book vii of lxvi
+note: Sexual violence, human sacrifice and mass abduction, ch. 11 and 19–21.
+k: Where we are
+In the land, with no central government, and it's a catastrophe. The book runs a cycle. The people go wrong, a foreign power oppresses them, a temporary leader rises and there's peace, and it all starts again. Each turn is uglier than the last.
+k: What happens
+A woman judges Israel and summons the general who wins her war. Another woman drives a tent peg through an enemy general's skull. A man sacrifices his daughter to keep a vow. A strongman is undone by his appetites. It ends in gang rape, civil war and the mass abduction of women to repopulate the losing tribe.
+k: Who matters
+Deborah · Barak · Jael · Gideon · Jephthah and his daughter · Samson · Delilah · the unnamed woman of ch. 19
+k: What it wrestles with
+Whether the absence of a king is freedom or collapse. INTERPRETATION: It's arguing for monarchy, and it argues by showing what happens to women when no one's in charge, which is a very specific and very political way to make a case for order.
+q: In those days there was no king in Israel. All the people did what was right in their own eyes. | JUDG 21.25
+prompt: Notes on the text | rest
+side:
+chips: OT, START: DOMINION
+k: Read first
+stext: Ch. 4–5 · 11 · 16 · 19–21
+marg
+see: Deborah, Part II; Power and kingship, Part IV.
+/end
+
+@page rh="JUDGES · VII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Judges, for the novel
+cols:
+k: What it gives TKC
+Deborah, a woman with public authority nobody in the book questions, whom no empire can quite explain away. And the woman of chapter 19, the strongest argument in scripture that the state's protection was never the point.
+||
+kp: What Dominion would do
+POSSIBLE: Use the closing verse as a founding slogan, with chaos as what happens without a divinely ordered ruler. Deborah becomes an emergency exception and Delilah becomes the lesson about female influence.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · HISTORY · VIII"
+# Ruth
+small: four chapters · Book viii of lxvi
+k: Where we are
+Set in the time of the judges, deliberately, and reading like a rebuttal. Four quiet chapters about two widows and a harvest, placed right after the most violent book in the collection, arguing that survival is arranged by ordinary loyalty more than by warlords.
+k: What happens
+A famine drives a family abroad, and the men all die. A foreign daughter-in-law refuses to leave her mother-in-law and goes home with her to a town where they have no income and no standing. She gleans in a field and is noticed by its owner. On her mother-in-law's coaching she goes to him at night on the threshing floor and asks him to spread his cloak over her, the idiom for marriage. He does. Their great-grandson is David.
+k: Who matters
+Ruth · Naomi · Boaz · the nearer kinsman who declines
+k: What it wrestles with
+Who counts as one of us. Ruth is a Moabite, from exactly the nation Deuteronomy 23 bars from the assembly, and she's written into the royal line on purpose. INTERPRETATION: The book is a quiet act of political dissent about immigration and belonging.
+q: Where you go I will go. Your people shall be my people. | RUTH 1.16
+prompt: Notes on the text | rest
+side:
+chips: OT, START: CHARACTER
+k: Read first
+stext: All four chapters. It's short.
+marg
+see: Ruth, Part II; Ezra, focused study F5.
+/end
+
+@page rh="RUTH · VIII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Ruth, for the novel
+cols:
+k: What it gives TKC
+The most famous line of devotion in scripture is spoken by a woman to another woman, and neither to a husband nor to God. That single fact will do more for the relationship writing than any romance in the collection.
+||
+kp: What Dominion would do
+POSSIBLE: Read it at every wedding, with the vow reassigned to a husband and the threshing floor softened into modesty. A foreign woman who assimilates completely is the Empire's favorite kind of immigrant.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · HISTORY · IX–X"
+# 1 and 2 Samuel
+small: fifty-five chapters · Books ix–x of lxvi
+note: Sexual violence and murder, 2 Sam 11 and 13.
+k: Where we are
+At the invention of the monarchy, and uneasy about it from the first page. The people demand a king. The prophet warns them exactly what a king will take, their sons, their daughters and a tenth of their grain and flocks, and anoints one anyway.
+k: What happens
+A woman who couldn't conceive gives her son to the sanctuary, and her song becomes the template for every reversal-of-power hymn after it. Saul is chosen, comes apart and dies. David rises, takes another man's wife and has the husband killed to cover it. A prophet walks into the palace and says so. The rest is a family destroying itself.
+k: Who matters
+Hannah · Samuel · Saul · Michal · David · Jonathan · Abigail · Bathsheba · Nathan · Tamar · Amnon · Absalom
+k: What it wrestles with
+Whether a chosen king can be held to account. The astonishing thing is that the book keeps David's crimes in. CONTESTED: Readers divide on whether Bathsheba consented or was taken by a king she couldn't refuse. The murder of Uriah is in the text plainly, and so is Amnon's rape of Tamar. Every empire descended from this literature has to decide whether to keep that page.
+q: You are the man. | NATHAN TO THE KING · 2 SAM 12.7
+prompt: Notes on the text | rest
+side:
+chips: OT, START: DOMINION
+k: Read first
+stext: 1 Sam 1–2 · 8 · 16–18 · 25 · 2 Sam 6 · 11–12 · 13
+marg
+see: Bathsheba and Tamar, Part II; Prophecy and who gets believed, Part IV.
+/end
+
+@page rh="1 AND 2 SAMUEL · IX–X · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# 1 and 2 Samuel, for the novel
+cols:
+k: What it gives TKC
+The anatomy of the court: anointing, succession, a prophet who can indict a king and survive, and Tamar, a princess assaulted inside the palace whose case is buried to protect the dynasty.
+||
+kp: What Dominion would do
+POSSIBLE: Keep the anointing and the giant, and reframe Bathsheba as a temptation more than a crime. Nathan's confrontation becomes a story about private repentance in place of public accountability.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · HISTORY · XI–XII"
+# 1 and 2 Kings
+small: forty-seven chapters · Books xi–xii of lxvi
+k: Where we are
+At the height of the state and all the way down. The book holds the temple's construction and its destruction. INFERENCE: In its final form it was finished in exile, by people explaining how they lost everything. Its last scene is a captive king in Babylon.
+k: What happens
+Solomon builds the temple with conscripted labor, and after his death the kingdom splits over that grievance. A catalogue of kings follows, each rated in a sentence, broken up by prophets who confront them. Elijah takes on a royal couple who seize a vineyard by judicial murder. A forgotten scroll is found in the temple and sets off a purge. Then Assyria, Babylon and the temple burned.
+k: Who matters
+Solomon · the queen of Sheba · Elijah · Ahab · Jezebel · Naboth · Elisha · Athaliah · Huldah · Josiah · Nebuchadnezzar
+k: What it wrestles with
+Why the state fell, answered theologically and not militarily. The kings were unfaithful. It's a convenient explanation and a dangerous one, because every disaster becomes somebody's insufficient devotion.
+q: Have you killed, and also taken possession? | ELIJAH TO AHAB · 1 KGS 21.19
+prompt: Notes on the text | rest
+side:
+chips: OT, START: EMPIRE
+k: Read first
+stext: 1 Kgs 3 · 5 · 12 · 18 · 21 · 2 Kgs 11 · 22–23 · 25
+small: The biblical prophet Huldah has no connection to the Prelate. The Prelate's working name is Aurelia (POSSIBLE, FR 33).
+marg
+see: Jezebel and Huldah, Part II; Empires of the Bible, Part IV.
+/end
+
+@page rh="1 AND 2 KINGS · XI–XII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# 1 and 2 Kings, for the novel
+cols:
+k: What it gives TKC
+Naboth's vineyard, which shows how a state takes what it wants and keeps the paperwork clean. Plus Huldah, the prophet who authenticates a found scroll for a king, and Athaliah, a queen whose reign was written up as usurpation.
+||
+kp: What Dominion would do
+POSSIBLE: Preach the temple and the reforming king and skip the forced labor that built it. Jezebel becomes the standing image of a woman with political power, which is why her name survives as an insult and Naboth's doesn't.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@page rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · THE OFFICIAL RECORD · XIII–XVI" m="1 CHR 1–9; 1 CHR 3.5; EZRA 9–10; NEH 5; JAPHET, I & II CHRONICLES"
+# Chronicles · Ezra · Nehemiah
+lede: These three share a page because they do one job. They're the authorized version, written after the exile by and for the restored establishment, retelling the national story with its failures managed. Here's what state-sponsored scripture looks like from inside.
+rec:
+1 and 2 Chronicles · sixty-five chapters | The same monarchy retold with the scandals removed. David's affair and Uriah's murder are gone, and Bathsheba stays only as a name in a list of Solomon's mother. Absalom's rebellion is gone. Nine chapters of genealogy open the book, because lineage is the argument: this priesthood, this line, this temple, legitimately. Where Kings explains a catastrophe, Chronicles builds a credential. **For TKC:** Dominion's own historiography. Two accounts of the same reign, one of them cleaned, and a character who finds both.
+Ezra · ten chapters | A return permitted under imperial license, a rebuilt temple and a purity crisis in which the community is pressed to send away its foreign wives and their children. One of the coldest passages in scripture, seven books after Ruth, which says the opposite. **For TKC:** ethnic purity legislated as obedience, with the paperwork of restoration.
+Nehemiah · thirteen chapters | A cupbearer to a foreign king gets leave to rebuild his city's walls, and it reads like a project memoir: opposition, logistics, night inspections, armed builders. In chapter 5 the poor are pledging their children against debt, and he makes the wealthy give back what they took. **For TKC:** walls, gates, registers and a reformer aimed at his own class.
+cols:
+kp: What Dominion would do with all three
+POSSIBLE: Make Chronicles the standard history and let Kings go quietly out of print. Cite Ezra whenever purity needs enforcing and Nehemiah whenever a wall needs building, and never read Nehemiah 5 aloud.
+||
+contested: Ezra's divorces
+Whether the mass divorce was survival for a tiny community or ethnic exclusion with a liturgy is argued in good faith both ways. The Empire has picked one.
+/end
+/end
+corr: The old page said Bathsheba is gone from Chronicles. Her story is gone. Her name stays, as "Bath-shua" in 1 Chr 3.5. The old page also put Ezra four books from Ruth. It's seven.
+prompt: Questions this raises about TKC | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · HISTORY · XVII"
+# Esther
+small: ten chapters · Book xvii of lxvi
+k: Where we are
+Inside the palace of a foreign empire, entirely. There's no temple, no prophet and, in the Hebrew text, no mention of God at all. It's the most useful book here for writing a woman surviving a court.
+k: What happens
+A queen refuses to be displayed and is removed. A search across the empire gathers young women into the palace for a year of beauty treatments. An orphan, told by her cousin to hide her people, becomes queen. A minister engineers a genocide. She risks an unsummoned approach, works the king through two banquets, and the minister hangs on the gallows he built. The king's decree can't be revoked, so a second decree lets her people defend themselves.
+k: Who matters
+Vashti · Esther · Mordecai · Haman · the king, whom everyone manipulates
+k: What it wrestles with
+How to act with no power, no God on the page and no guarantee. The book's ethics are improvised, concealment, timing, flattery and hospitality as strategy, and it never once says whether that's admirable.
+q: If I perish, I perish. | ESTH 4.16
+prompt: Notes on the text | rest
+side:
+chips: OT, START: CHARACTER
+k: Read first
+stext: Ch. 1 · 2 · 4 · 7 · 8. Read chapter 1 twice.
+k: Echoes
+stext: Eden · Celeste · Lyris
+marg
+see: Esther and Vashti, Part II.
+/end
+
+@page rh="ESTHER · XVII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Esther, for the novel
+cols:
+k: What it gives TKC
+The candidate system, nearly wholesale: a state selection, a year of preparation, a girl told to hide what she is. And Vashti, who says no in chapter one and is erased, which makes the whole plot possible.
+||
+kp: What Dominion would do
+POSSIBLE: Canonize her as the patient wife, proof that a woman's power is beauty, obedience and correct timing. Vashti is preached as the warning, and the year of preparation is presented as honor and never as processing.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · WISDOM · XVIII"
+# Job
+small: forty-two chapters · Book xviii of lxvi
+k: Where we are
+Nowhere in particular, on purpose. Uz isn't Israel, and there's no temple and no law. It's a placeless story built to test one idea to destruction, the idea that suffering is earned. INTERPRETATION: It reads as an argument with Deuteronomy.
+k: What happens
+A blameless man loses everything as the subject of a wager in heaven he never learns about. Three friends spend round after round of speeches, most of the book, explaining with impeccable orthodoxy that he must have deserved it. He refuses to agree and accuses God to God's face. God answers from a whirlwind with questions, and afterward tells the friends they were wrong and Job was right.
+k: Who matters
+Job · his wife, who has one devastating line · Eliphaz, Bildad and Zophar · Elihu · the voice from the whirlwind
+k: What it wrestles with
+Whether God is fair, and whether piety that refuses to lie about pain counts as faith. The verdict is startling. The man who accused God is commended, and the men who defended God with correct doctrine are rebuked (Job 42.7).
+q: My lips will not speak falsehood. | JOB 27.4
+prompt: Notes on the text | rest
+side:
+chips: OT, CONTESTED
+k: Read first
+stext: Ch. 1–3 · 19 · 38–42
+marg
+see: Deuteronomy, this section; Ecclesiastes, focused study F2.
+/end
+
+@page rh="JOB · XVIII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Job, for the novel
+cols:
+k: What it gives TKC
+Authority for the character who refuses the official explanation of her own suffering, and the canon's own proof that the pious answer can be the wrong one.
+||
+kp: What Dominion would do
+POSSIBLE: Teach the first two chapters and the last. Patient endurance and restored fortunes preach well. A man winning an argument with God doesn't.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · POETRY · XIX"
+# Psalms
+small: one hundred fifty psalms in five books · Book xix of lxvi
+k: Where we are
+In public worship, over centuries. It's a hymnbook and a liturgy assembled from many hands, and among the most quoted books in the collection, which makes it one of the most fought over.
+k: What happens
+Every emotion a religion will admit to, in a set of fixed forms: praise, thanksgiving, royal coronation songs and, in the largest group, lament, where the speaker accuses God of absence and demands an answer. Some psalms curse enemies in language no state would print. One asks how long God intends to hide. Psalm 88 ends in darkness with no answer at all.
+k: Who matters
+No characters. The speaker is a voice, sometimes a king, sometimes a fugitive, sometimes a congregation, often a person alone at night.
+k: What it wrestles with
+Whether God can be addressed honestly. The remarkable thing is that complaint is a liturgical form here. The tradition built official language for accusing its own God, and most institutions afterward stopped using it.
+q: How long will you hide your face from me? | PS 13.1
+prompt: Notes on the text | rest
+side:
+chips: OT, START: LITURGY
+k: Read first
+stext: Ps 13 · 22 · 23 · 51 · 88 · 137 · 139 · 146
+marg
+see: The prayer pages, Part III.
+/end
+
+@page rh="PSALMS · XIX · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Psalms, for the novel
+cols:
+k: What it gives TKC
+A liturgy bank, and the lament form, which gives a character a sanctioned way to say the unsayable in public. A forbidden psalm is a very small, very dangerous object.
+||
+kp: What Dominion would do
+POSSIBLE: Keep the praise and the royal psalms and retire the laments to a clergy-only volume. An empire can't hold mass worship on a text that teaches the congregation to ask where God has gone.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@page rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · THE THREE ARGUMENTS · XX–XXII" m="PROV 8; PROV 31.10–31; ECCL 1–3; ECCL 9.7–10; SONG 8.6; MISHNAH YADAYIM 3.5"
+# Proverbs · Ecclesiastes · Song of Songs
+lede: Three books read against each other. Life is orderly. Life is vapor. And the third, which ignores both and looks at a body.
+rec:
+Proverbs · thirty-one chapters | Instruction for young men entering public life: work hard, hold your tongue, avoid the wrong woman. Wisdom herself is a woman who shouts in the streets and was present at creation (Prov 8), the boldest female figure in the Old Testament and rarely preached as one. It closes with a formidable woman running an estate, usually quoted at wives as a domestic standard. **For TKC:** the exact register of Dominion's advice literature, and the awkward fact that its own ideal woman is a businesswoman.
+Ecclesiastes · twelve chapters | A man with unlimited resources tests every route to meaning and reports that all of it is vapor, that the wise and the fool meet the same end and that nobody will remember you. Its counsel is small. Eat your bread, love someone, the day is short. **For TKC:** the voice of someone inside the palace who has stopped believing the palace means anything. Devastating in a courtier's mouth.
+Song of Songs · eight chapters | Erotic poetry, unembarrassed, with no mention of marriage, children or duty, and God named at most once, in a disputed word in 8.6. The woman speaks most of the lines, takes the initiative and is never rebuked for it. Centuries of allegorical reading exist mainly to make it respectable. **For TKC:** desire with scriptural standing, and a woman's voice as the loudest in the book. The Empire's most awkward inheritance.
+cols:
+kp: What Dominion would do with all three
+POSSIBLE: Teach Proverbs as law, allegorize the Song until the bodies disappear, and leave Ecclesiastes out of the provincial edition.
+||
+contested: What the Song is
+Whether it's human love poetry or an allegory of divine love has been argued for two thousand years. Which one Dominion teaches decides what the characters are allowed to want.
+/end
+/end
+prompt: Questions this raises about TKC | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · THE PROPHETS · BEFORE YOU READ ANY OF THEM"
+# How prophecy works
+drop: A prophet in this collection is less a fortune teller than someone who stands in public and tells a government what it's doing, in the name of a God the government also claims. Most of the job is that, and it explains why so many of them are run out of town, imprisoned or killed. Very little in these seventeen books is about the distant future. Nearly all of it is about the harvest, the courts, the treasury, the treaty and who's being crushed this season.
+The form is consistent. There's an accusation naming a specific injustice, a verdict, and very often a reversal, the promise that something will be rebuilt after the collapse. Empires like the third part and get nervous about the first. A state religion teaches the prophets as comfort literature and hopes nobody reads the accusations closely enough to notice they're itemized: unjust weights, seized land, bribed judges, unpaid workers, widows without recourse and refugees turned away.
+Two more things. The prophets attack worship itself, viciously, when it sits alongside exploitation. The festivals are hated, the offerings refused and the singing called noise. It's some of the most anti-clerical literature in existence, and it's in the canon. False prophecy is a live theme too, and the test isn't only accuracy. INTERPRETATION: The false prophet in these books is usually the one who tells power what it wants to hear (Jer 23, 28).
+q: I hate, I despise your festivals… Take away from me the noise of your songs… But let justice roll down like waters. | AMOS 5.21–24
+empire: What Dominion does with them
+POSSIBLE: Reads the consolation passages at state occasions and treats the accusations as history, a complaint against ancient kings long settled. The office of prophet is folded into the priesthood, so anyone claiming it independently is unlicensed by definition.
+/end
+side:
+chips: OT, PROPHETS
+k: The seventeen
+stext: Isaiah · Jeremiah · Lamentations · Ezekiel · Daniel · and the Twelve, Hosea through Malachi
+k: What this gives TKC
+stext: A tradition of sanctioned public speech against the state, sitting inside the Empire's own scripture. A dissident doesn't need a new ideology. She needs a lectionary and the nerve to read the unabridged version aloud.
+marg
+see: Focused studies F3, Ezekiel, and F7, the Twelve.
+/end
+
+@page rh="THE SIXTY-SIX BOOKS · THE PROPHETS · YOUR PAGE" m="YOURS; PROPHECY"
+# Who in the novel is a prophet
+prompt: Who in my novel is a prophet, and who decides | 9
+prompt: Which accusations from the prophets would land hardest in Dominion, word for word | 9
+prompt: What happens to someone who reads one of them aloud | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · THE PROPHETS · MAJOR · XXIII"
+# Isaiah
+small: sixty-six chapters · Book xxiii of lxvi
+k: Where we are
+Across three crises and, by the majority scholarly view, at least three sets of hands: a kingdom under Assyrian threat (ch. 1–39), the exile (40–55) and the disappointing return (56–66). One scroll, three eras, and the seams show. CONTESTED: Traditional readers keep the whole book with the eighth-century prophet.
+k: What happens
+It opens by telling a devout nation God is sick of its worship because its hands are full of blood. After that come judgment, a throne-room vision and the great reversals: swords into plowshares, a child ruler, a banquet for all peoples. Later a servant appears who is despised, silent and destroyed on other people's behalf. It ends with new heavens and a new earth, and a promise aimed squarely at eunuchs and foreigners (ch. 56).
+k: Who matters
+Isaiah · Ahaz · Hezekiah · Cyrus, a foreign king called God's anointed (45.1) · the suffering servant
+k: What it wrestles with
+Whether God's people are the point or the instrument. It keeps widening the circle, to the nations, to the excluded, to a foreign emperor, and every widening rebukes somebody's purity project.
+q: Your hands are full of blood. | ISA 1.15
+prompt: Notes on the text | rest
+side:
+chips: OT, PROPHET
+k: Read first
+stext: Ch. 1 · 6 · 11 · 40 · 53 · 56 · 58
+marg
+see: Jesus and the kingdom, Part III.
+/end
+
+@page rh="ISAIAH · XXIII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Isaiah, for the novel
+cols:
+k: What it gives TKC
+The Empire's grandest liturgical language and its sharpest indictment in one scroll. Also the servant, authority through humiliation, the one model of power Dominion can't use.
+||
+kp: What Dominion would do
+POSSIBLE: Quote the coming king constantly and never read chapter one aloud. The promise to eunuchs and foreigners gets footnoted as future and spiritual.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@page rh="THE SIXTY-SIX BOOKS · THE PROPHETS · MAJOR · XXIV–XXV" m="JER 20; JER 26; JER 32; JER 36; JER 38; LAM 1–5; LAM 3.22–23"
+# Jeremiah · Lamentations
+lede: The collapse, and the sound a city makes afterward.
+note: Siege famine and the deaths of children, Lamentations 2 and 4.
+rec:
+Jeremiah · fifty-two chapters | Forty years of telling a capital city it's going to fall, and being hated for it. He's beaten and put in the stocks (ch. 20), put on trial for his life (ch. 26), lowered into a muddy cistern (ch. 38) and accused of weakening the soldiers' morale, all by his own government, while the official prophets promise the city can't be taken. He's right. It falls. The king cuts his scroll apart column by column as it's read and burns it, so he dictates it again (ch. 36). His complaints to God are bitter enough to embarrass. He accuses God of deceiving him and curses the day he was born. In the middle of the siege he buys a field, on the record, as a bet there'll be a country again (ch. 32). **For TKC:** the licensed prophets against the one tried for treason. Also the burned scroll, and the fact that he simply wrote it again.
+Lamentations · five chapters | Five poems over the ruins of the city. The first four are alphabetical acrostics, grief given the strictest possible structure because structure is all that's left, and the fifth keeps the twenty-two lines without the alphabet. It describes famine, mothers and children and the silence of God without excusing any of it, and it doesn't resolve. One passage in the middle says mercy is new every morning, and the book doesn't pretend that settles anything. **For TKC:** the register for the worst chapter. Grief as a disciplined public form, and a text the Empire can't ban because it's scripture and can't use because it blames the leadership.
+cols:
+kp: What Dominion would do
+POSSIBLE: Teach Jeremiah as a warning about national sin, never about state censorship, and read only the mercy verse from Lamentations, on one fixed day of the year.
+||
+contested: Punishment or geography
+Whether the fall was punishment or what happens to small states between empires. Jeremiah says the first. The events also support the second.
+/end
+/end
+prompt: Questions this raises about TKC | fill
+
+@page rh="THE SIXTY-SIX BOOKS · THE PROPHETS · IN EXILE · XXVI–XXVII" m="EZEK 4–5; EZEK 10–11; EZEK 18; EZEK 24; EZEK 34; EZEK 37; DAN 1–6; DAN 7–12; 1 MACC 1"
+# Ezekiel · Daniel
+lede: Both written from inside somebody else's empire.
+rec:
+Ezekiel · forty-eight chapters | A deported priest with no temple to serve, receiving visions of extravagant strangeness: wheels full of eyes, the glory of God rising out of the temple and leaving the city eastward (ch. 10–11), a valley of dry bones standing up as an army (ch. 37). He performs his messages more than he speaks them, lying on one side for months, baking bread over dung, shaving his head. When his wife dies he's told not to mourn in public, as a sign. His indictment of the shepherds of Israel (ch. 34) is one of the sharpest attacks on a ruling class in the collection. You fed yourselves, you clothed yourselves with the wool, and you didn't seek the lost. He also insists a child doesn't carry a parent's guilt (ch. 18), which cuts straight against collective punishment. **For TKC:** INTERPRETATION: the mobile God. If the glory can leave the temple and appear to the deported by a foreign river, no state can hold it by holding the building.
+Daniel · twelve chapters | Half court stories, half apocalypse, and the whole book is about keeping your integrity inside a regime that owns your career. Young captives are trained for imperial service and renamed. They negotiate over food, refuse to bow to a statue, survive a furnace and read the dreams the empire's own experts can't. A king goes mad, and another sees writing appear on his banquet wall and is dead that night. The visions in the second half show successive empires as beasts. INFERENCE: Most scholars date them to the persecution under Antiochus IV around 167 BCE, long after the story's setting, which is how coded resistance literature works. **For TKC:** the manual for a character inside the Ministry. Serve competently, refuse at one precise point, and let the refusal be public.
+cols:
+kp: What Dominion would do
+POSSIBLE: Teach Daniel as a story about personal purity, diet, prayer discipline and courage under trial, and never as a story about refusing to bow to a state image.
+||
+k: What these give TKC
+Ezekiel's shepherds as an indictment of the clergy, and his rule that guilt isn't inherited, the passage that takes collective punishment apart.
+/end
+prompt: Questions this raises about TKC | fill
+
+@page rh="THE SIXTY-SIX BOOKS · THE PROPHETS · THE TWELVE · XXVIII–XXXII" m="HOS 1–3; JOEL 2.28–29; AMOS 2.6; AMOS 7.10–15; OBAD 11–14; JONAH 4"
+# The Twelve
+lede: Hosea through Jonah. Short, furious and mostly about money. The Hebrew Bible counts all twelve as a single book.
+tabrl:
+| Book | What it is | What it gives TKC |
+| Hosea · 14 ch. | A prophet's marriage staged as national metaphor. Infidelity, and a God who keeps taking the nation back. Tender and disturbing in equal measure. | Covenant as marriage, the theology behind Dominion's whole language of wifely duty. |
+| Joel · 3 ch. | A locust plague read as the day of the Lord, ending with the spirit poured out on everyone, sons and daughters, old and young, male and female slaves. | Prophecy for everyone. If daughters prophesy, the Ministry's monopoly is a scriptural error. |
+| Amos · 9 ch. | A herdsman from Judah goes north and denounces a prosperous kingdom for selling the needy for a pair of sandals. The royal priest tells him to go home. | Some of the most quotable indictment of a comfortable religious state in existence. |
+| Obadiah · 1 ch. | One chapter aimed at a neighboring nation for standing by and profiting while a city was sacked. | Complicity as its own crime. The bystander province. |
+| Jonah · 4 ch. | A satire. A prophet runs from an order to preach to the enemy capital, is swallowed, obeys, succeeds, and sulks because God spared them. | Mercy for the enemy, and a believer who finds it unbearable. |
+prompt: Notes | fill
+
+@page rh="THE SIXTY-SIX BOOKS · THE PROPHETS · THE TWELVE · XXXIII–XXXIX" m="MIC 3; MIC 6.8; HAB 1–3; ZEPH 1.8; HAG 1.4; ZECH 3; ZECH 9.9; MAL 1–2; MAL 4.5–6"
+# The Twelve, continued
+lede: Micah through Malachi. The Old Testament in Christian order ends by auditing its own clergy.
+tabrl:
+| Book | What it is | What it gives TKC |
+| Micah · 7 ch. | Judgment on rulers who eat their own people, and the collection's clearest summary of the whole demand. Do justice, love kindness, walk humbly. | Three phrases that fit on a wall, and indict the wall's owner. |
+| Nahum · 3 ch. | The fall of an imperial capital, described with something close to relish. | What the provinces sing when the center burns. |
+| Habakkuk · 3 ch. | A prophet argues with God about why injustice is permitted, gets an unsatisfying answer and decides to trust anyway. | Faith as an argument you lose and stay in. |
+| Zephaniah · 3 ch. | A total judgment on the ruling class, with the officials and the king's sons named first and a humble remnant left over. | The purge sermon the Ministry would love, aimed at itself. |
+| Haggai · 2 ch. | Rebuild the temple, said to people living in paneled houses while the site lies in ruins. | State religion as a construction project. |
+| Zechariah · 14 ch. | Night visions, a high priest re-robed in a heavenly courtroom, and a king who comes on a donkey and not a warhorse. | Ceremony as legitimation, and power that refuses the cavalry. |
+| Malachi · 4 ch. | An audit of the priesthood: blemished offerings, withheld tithes, men abandoning the wives of their youth. Its closing lines promise Elijah before the day of the Lord. | Corrupt priests, on the record, in the Empire's own book. |
+corr: The old page said the last word of the Old Testament is an accusation against clergy. The audit is Malachi 1–2. The last verses (4.5–6) promise Elijah and warn of a curse. In the Hebrew order, the Bible ends with Cyrus's decree in 2 Chronicles.
+prompt: Which of the Twelve is banned in Dominion, and why | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · THE GOSPELS · XL–XLIII"
+# Four accounts
+drop: There are four of these, and they don't match, which is the most useful thing about them. The differences are four communities, decades apart, deciding what mattered about one life. Most people who quote the gospels are quoting a blend of all four that exists in no manuscript, and untangling the blend is the same act of attention your characters will have to perform on Dominion's teaching.
+rec:
+Mark · earliest, shortest | Urgent and bleak. No birth story. The disciples never quite understand him, his family thinks he's out of his mind, and he keeps telling people to say nothing. In the earliest manuscripts it ends at 16.8, with women running from an empty tomb, afraid, telling no one. Read this one first.
+Matthew · the teacher | Argues that this is the fulfillment of the law, so it's built in five great blocks of teaching and cites scripture constantly. Its genealogy includes four women besides Mary, Tamar, Rahab, Ruth and "the wife of Uriah," on purpose. Holds the Sermon on the Mount, the Lord's Prayer and a whole chapter denouncing religious authorities by title (ch. 23).
+Luke · the reversal | Keeps women, foreigners and the poor in the frame. It opens with a young woman singing that the powerful will be pulled from their thrones and the hungry filled, and it's the only gospel that names women paying for the whole operation (8.1–3). Its parables are the most economically pointed in scripture.
+John · theology at altitude | Long discourses, cosmic language and seven signs. It gives one of the longest conversations in the gospels to a foreign woman at a well, has Martha make the central confession of faith (11.27), and makes Mary Magdalene the first person the risen Jesus speaks to, sent to tell the men.
+side:
+chips: NT, GOSPELS
+k: What this gives TKC
+stext: A character who finds two accounts that disagree. The crisis isn't faith. It's about who did the editing, which is far more dangerous.
+corr: The old page called Mary a pregnant teenager. Luke never gives her age. It's an inference from ancient marriage customs.
+marg
+see: The Gospel Grid, Part III.
+/end
+
+@page rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · THE GOSPELS · YOUR PAGE" m="YOURS; GOSPELS"
+# Which gospel Dominion preaches
+empire: What Dominion would do
+POSSIBLE: Publish one harmonized life of Christ and retire the four. A single official account can't be cross-examined, and the women at the tomb can be edited into a footnote.
+/end
+prompt: Which gospel does Dominion preach from, and which does it leave on the shelf | 7
+prompt: One scene the four tell differently, and what each version protects | 7
+prompt: Who in the novel has read all four | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · THE MOVEMENT · XLIV"
+# Acts
+small: twenty-eight chapters · Book xliv of lxvi
+k: Where we are
+An unlicensed movement spreading across the Roman world with no buildings, no budget and no legal standing, meeting mostly in homes, borrowed rooms and courtrooms.
+k: What happens
+A spirit arrives and everyone hears in their own language. The first community pools its property. A couple who lie about money fall dead. A persecutor is converted on a road. Then the great fight over whether outsiders have to adopt the law to belong, settled by a meeting in Jerusalem (ch. 15). Again and again the meeting place is a woman's house, Mary's in Jerusalem (12.12) and Lydia's in Philippi (16.15, 40).
+k: Who matters
+Peter · Stephen · Philip · Paul · Tabitha · Lydia · Priscilla · the Ethiopian official · Gamaliel
+k: What it wrestles with
+Who's allowed in, and who decides. Every widening of the boundary is resisted first by insiders and accepted after somebody tells a story about what they saw.
+q: All who believed were together and had all things in common. | ACTS 2.44
+prompt: Notes on the text | rest
+side:
+chips: NT, START: RESISTANCE
+k: Read first
+stext: Ch. 2 · 4–5 · 8 · 12 · 15 · 16
+marg
+see: Lydia, Part II; Religious institutions, Part IV.
+/end
+
+@page rh="ACTS · XLIV · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Acts, for the novel
+cols:
+k: What it gives TKC
+A working model for an underground network: house meetings, women as hosts and patrons, decisions reached by argument and a shared purse. Everything the resistance needs, sourced from scripture.
+||
+kp: What Dominion would do
+POSSIBLE: Read it as the founding of the institution and drop the story of an unlicensed movement. The shared property becomes a temporary emergency measure, and the women's houses become hospitality.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · THE LETTERS · XLV–LXV"
+# How to read a letter
+drop: Twenty-one of the twenty-seven books in this half are letters, and almost every doctrine an empire has built on them depends on forgetting it. They're one side of a correspondence, written to a named group in a specific mess, and reading them is like finding a single reply in someone's desk drawer without the original complaint.
+So the discipline is simple. Before pulling out any rule, ask what problem the writer is answering, whether the instruction goes to a whole community, one household or one troublemaker, and whether the same author says something different elsewhere. He often does. The man who tells one congregation women should be silent greets women leading congregations in another letter, calls Phoebe a deacon (Rom 16.1) and names Junia among the apostles (Rom 16.7).
+k: The four big ones
+**Romans**, the long argument about who belongs and on what basis. INFERENCE: Phoebe carried it to Rome and would have been the one to answer questions about it. **1 Corinthians**, a congregation tearing itself apart over status, food and sex, with the love chapter nobody reads in context. **Galatians**, furious, about whether outsiders must assimilate to belong. **Ephesians**, where a household code sits directly under the line about mutual submission (5.21).
+k: The rest
+**Philippians**, written from prison, unreasonably joyful, with a hymn about power given up. **Colossians** and **1–2 Thessalonians**, practical and watching for the end. **Philemon**, a private note about an enslaved man and one of the most argued-over pages in the abolition debate. **1–2 Timothy and Titus**, church management: who may teach, who may be appointed, how widows are enrolled. **Hebrews**, a long sermon arguing the old sacrificial system is finished. **James**, brutally direct about the rich and favoritism in the assembly. **1–2 Peter, 1–3 John and Jude**, staying faithful while powerless, with warnings about teachers in it for the money.
+side:
+chips: NT, LETTERS
+contested: Two live arguments
+Whether the household codes are timeless order or first-century accommodation. And whether 1 Cor 14.34–35 is original, since some manuscripts place it after verse 40. Junia's name and title have been fought over too.
+/end
+k: A pattern worth noticing
+stext: INTERPRETATION: The letters scholars most doubt are Paul's, the Pastorals above all, are the ones most concerned with hierarchy.
+kp: What Dominion would do
+stext: POSSIBLE: Teach the letters as legislation, print them without their addressees, and never mention who carried them.
+see: Module ix, The household verse; Part IV.
+/end
+
+@page rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · THE LETTERS · YOUR PAGE" m="YOURS; LETTERS"
+# One letter, both sides
+prompt: Pick one instruction Dominion enforces. What problem was the letter answering | 9
+prompt: Write the missing letter, the one the congregation sent first | fill
+
+@essay rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · APOCALYPTIC · LXVI"
+# Revelation
+small: twenty-two chapters · Book lxvi of lxvi
+k: Where we are
+On the island of Patmos, "because of the word of God" (1.9), writing to seven congregations under pressure from an empire whose emperors were worshiped as gods. INFERENCE: Tradition says he was exiled there. Either way it's dissident literature, written in code.
+k: What happens
+Seven letters assessing seven churches, several of them harshly. Then visions: a slaughtered lamb on the throne, seals and trumpets and bowls, a beast whose authority comes from a dragon, a mark required to buy and sell, and a gorgeously dressed city called a prostitute whose fall is mourned by merchants because their trade is ruined. It ends with that city replaced by a new one whose gates never close.
+k: Who matters
+John of Patmos · the lamb · the dragon and the beast · the woman clothed with the sun · the merchants, who are the ones who weep
+k: What it wrestles with
+Whether empires end. Its answer is that they do, that their economy gives them away, and that the throne belongs to something that was killed and not to something that kills.
+q: Come out of her, my people. | REV 18.4
+prompt: Notes on the text | rest
+side:
+chips: NT, START: DOMINION
+k: Read first
+stext: Ch. 2–3 · 5 · 12–13 · 17–18 · 21
+marg
+see: The shape of the New Testament, Revelation, module v.
+/end
+
+@page rh="REVELATION · LXVI · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
+# Revelation, for the novel
+cols:
+k: What it gives TKC
+A whole visual and rhetorical vocabulary: marks, seals, thrones, beasts, a bride, a prostitute, gates that never close. And the political core, an empire's fall told through the grief of its merchants.
+||
+kp: What Dominion would do
+POSSIBLE: Move the whole thing to the distant future and appoint itself the interpreter. If the beast is always still coming, it can never be the government in the room.
+/end
+prompt: Questions this raises about TKC | 8
+prompt: Where this book is already in the manuscript, or should be | fill

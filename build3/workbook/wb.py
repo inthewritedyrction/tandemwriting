@@ -188,8 +188,9 @@ class Block:
                 n = n if n else '4'
                 mnum = re.match(r'^(\d+) · (.*)$', t)
                 label = f'<span class="n">{mnum.group(1)} ·</span> {inline(mnum.group(2))}' if mnum else inline(t)
-                if n.strip() == 'fill':
-                    out.append(f'<div class="prompt fill"><div class="k">{label}</div><div class="lines"></div></div>')
+                if n.strip() in ('fill', 'rest'):
+                    extra = ' rest' if n.strip() == 'rest' else ''
+                    out.append(f'<div class="prompt fill{extra}"><div class="k">{label}</div><div class="lines"></div></div>')
                 else:
                     out.append(f'<div class="prompt"><div class="k">{label}</div><div class="lines">' + '<i></i>' * int(n) + '</div></div>')
             elif key == 'lines':
@@ -246,6 +247,19 @@ def render_side(lines):
             out.append('<div class="k pink">MARGINALIA</div><div class="fill"><div class="lines"></div></div>')
         elif key == 'see':
             out.append(f'<div class="see"><span class="orn">✥</span> <em>See also:</em> {inline(val)}</div>')
+        else:
+            # any ordinary block (corr:, small:, contested: ... /end) renders as in the main column
+            chunk = [lines[i - 1]]
+            if re.match(r'^(box|boxthin|empire|contested):', s):
+                depth = 1
+                while i < len(lines) and depth:
+                    t = lines[i].strip()
+                    if re.match(r'^(box|boxthin|empire|contested|cols):', t):
+                        depth += 1
+                    elif t == '/end':
+                        depth -= 1
+                    chunk.append(lines[i]); i += 1
+            out.append(Block(chunk).render())
     return ''.join(out)
 
 

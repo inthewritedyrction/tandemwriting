@@ -186,3 +186,5 @@ tr:last-child td { border-bottom: 0; }
 .status { display: flex; gap: 14pt; align-items: flex-end; border-top: 2pt solid var(--pink); padding-top: 7pt; margin-top: 10pt; font-family: 'Jost'; font-weight: 600; font-size: 7.2pt; letter-spacing: 0.18em; }
 .status .ck::before { content: ''; display: inline-block; width: 8pt; height: 8pt; border: 0.9pt solid var(--ink); margin-right: 5pt; vertical-align: -1pt; }
 .status .f { flex: 1; border-bottom: 0.6pt solid var(--rule); padding-bottom: 12pt; }
+.side .corr, .side .contested, .side .small { font-size: 9.8pt; line-height: 1.38; margin-bottom: 10pt; }
+.page .main > .small:first-of-type { margin-top: -6pt; }
