@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="design_doc_mode" content="canvas">
+<meta name="omelette-owns-print" content="letter">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: #2A2E33; }
+  a { color: #3E4C63; text-decoration: none; border-bottom: 1px solid currentColor; }
+  a:hover { color: #5D6660; }
+  @page { size: 8.5in 11in; margin: 0; }
+  @media print {
+    body { background: #fff; }
+    section { display: block !important; padding: 0 !important; gap: 0 !important;
+      position: static !important; inset: auto !important; transform: none !important; }
+    section > div:not([data-print-page]) { display: none !important; }
+    [data-print-page] { width: 8.5in !important; height: 11in !important; margin: 0 !important;
+      break-after: page; page-break-after: always; break-inside: avoid; overflow: hidden;
+      -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    [data-print-page]:last-of-type { break-after: auto; page-break-after: auto; }
+  }
+</style>
+</helmet>
+
+<section style="display: flex; flex-direction: column; align-items: flex-start; gap: 40px; padding: 64px; font-family: 'Jost', sans-serif;">
+
+  <div style="display: flex; align-items: baseline; gap: 14px; color: #E4E4DE; flex-wrap: wrap;">
+    <span style="font-size: 12px; letter-spacing: 0.16em; background: #8A8F98; color: #1F2328; padding: 4px 9px; white-space: nowrap;">BACK MATTER</span>
+    <span style="font-family: 'Cinzel', serif; font-size: 32px; font-weight: 600; letter-spacing: 0.06em;">Sources &amp; Editions</span>
+    <span style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 15px; opacity: 0.7;">three pages · full citations, keyed to the compressed forms in the source margins</span>
+  </div>
+
+  <!-- ===== S01 · RECTO · HOW THE SOURCING WORKS ===== -->
+  <div data-print-page data-screen-label="S01" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">BACK MATTER &nbsp;·&nbsp; SOURCES AND EDITIONS &nbsp;·&nbsp; 1 OF 3</div>
+    <div style="display: grid; grid-template-columns: 1fr 0.72in; gap: 16px; flex: 1; min-height: 0; padding-top: 22px;">
+      <div style="display: flex; flex-direction: column; gap: 12px; min-height: 0;">
+        <div>
+          <div style="font-family: 'Cinzel', serif; font-size: 40px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.05;">WHERE ALL OF THIS<br>CAME FROM</div>
+          <div style="height: 3px; background: #3E4C63; margin: 12px 0;"></div>
+          <p style="margin: 0; font-family: 'EB Garamond', serif; font-style: italic; font-size: 15.5px; line-height: 1.44;">Every page of this companion carries a narrow source margin on its outer edge, printed in compressed form &mdash; author, short title. Those compressed forms are keyed to the full citations on the next two pages. Nothing in the margins is a citation; it is a pointer to one.</p>
+        </div>
+        <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328;">
+          <div style="display: grid; grid-template-columns: 1.15in 1fr; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.34;"><div style="padding: 7px 10px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #3E4C63;">[C] CONFIRMED</div><div style="padding: 7px 10px;">The text says this, or the manuscript evidence shows it. You can check it in any study Bible with a critical apparatus.</div></div>
+          <div style="display: grid; grid-template-columns: 1.15in 1fr; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.34;"><div style="padding: 7px 10px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #3E4C63;">[R] ARGUED</div><div style="padding: 7px 10px;">Responsible scholars disagree. The companion prints the dispute and the strongest case on each side, and does not print a verdict.</div></div>
+          <div style="display: grid; grid-template-columns: 1.15in 1fr; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.34;"><div style="padding: 7px 10px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #3E4C63;">[P] POSSIBLE</div><div style="padding: 7px 10px;">A TKC construction &mdash; something about Dominion, the Sanctum, or the manuscript, not a claim about scripture. Test it against the manuscript before use.</div></div>
+          <div style="display: grid; grid-template-columns: 1.15in 1fr; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.34;"><div style="padding: 7px 10px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #3E4C63;">[CANON]</div><div style="padding: 7px 10px;">A Possible that has been ruled on and promoted. Fixed for the manuscript until you rule otherwise.</div></div>
+        </div>
+        <div style="border: 1px solid #3E4C63; padding: 11px 14px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 4px;">ON THE SECONDARY LITERATURE</div>
+          <p style="margin: 0; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.36;">The works below are standard reference points, not an endorsement of any one position. Where two of them disagree &mdash; and several do, sharply &mdash; the companion prints the disagreement rather than picking. Several are technical commentaries that assume Hebrew or Greek; you do not need them to use this book. They are listed so that any claim in it can be traced.</p>
+        </div>
+        <div style="flex: 1; min-height: 0; display: flex; flex-direction: column;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 4px;">TRANSLATIONS I AM WORKING FROM &mdash; RECORD THEM ONCE, HERE</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328;">
+            <div style="display: grid; grid-template-columns: 1.5in 1fr 1.15in; background: #E7E6E0; border-bottom: 1px solid #1F2328; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.14em; color: #5D6660;"><div style="padding: 5px 9px; border-right: 1px solid #D6D5CD;">TRANSLATION</div><div style="padding: 5px 9px; border-right: 1px solid #D6D5CD;">EDITION / PRINTING</div><div style="padding: 5px 9px;">USED FOR</div></div>
+            <div style="display: grid; grid-template-columns: 1.5in 1fr 1.15in; border-bottom: 1px solid #E3E2DA;"><div style="height: 30px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.5in 1fr 1.15in; border-bottom: 1px solid #E3E2DA;"><div style="height: 30px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.5in 1fr 1.15in; border-bottom: 1px solid #E3E2DA;"><div style="height: 30px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.5in 1fr 1.15in;"><div style="height: 30px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+          </div>
+          <p style="margin: 8px 0 0; font-family: 'EB Garamond', serif; font-size: 12px; line-height: 1.36; color: #5D6660;">The companion deliberately does not standardize on one English translation. Where a rendering is doing interpretive work, the page says so and tells you to compare.</p>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #E3E2DA; padding-left: 10px; display: flex; flex-direction: column; gap: 14px; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98; line-height: 1.8;">
+        <div style="font-size: 8px; letter-spacing: 0.16em; line-height: 1.7;">SOURCE<br>MARGIN</div>
+        <div>BACK<br>MATTER</div>
+        <div>KEYED TO<br>ALL PARTS</div>
+        <div>SEE ALSO<br>PROOFING<br>GATES</div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 12px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>S01</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+
+  <!-- ===== S02 · VERSO · HEBREW BIBLE ===== -->
+  <div data-print-page data-screen-label="S02" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 112px 54px 62px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">SOURCES AND EDITIONS &nbsp;·&nbsp; 2 OF 3 · HEBREW BIBLE</div>
+    <div style="display: grid; grid-template-columns: 0.72in 1fr; gap: 16px; flex: 1; min-height: 0; padding-top: 20px;">
+      <div style="border-right: 1px solid #E3E2DA; padding-right: 10px; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98; line-height: 1.9;">
+        <div>PART I</div><div style="height: 30px;"></div><div>DOSSIERS<br>I&ndash;IV</div><div style="height: 30px;"></div><div>FOCUSED<br>STUDIES</div><div style="height: 30px;"></div><div>PART II</div>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 10px; min-height: 0;">
+        <div>
+          <div style="font-family: 'Cinzel', serif; font-size: 30px; font-weight: 600; letter-spacing: 0.04em;">TEXTS AND COMMENTARIES</div>
+          <div style="height: 1px; background: #3E4C63; margin: 8px 0;"></div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">PRIMARY TEXT EDITIONS</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 12px; line-height: 1.34;">
+            <div style="display: grid; grid-template-columns: 0.85in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">MT</div><div style="padding: 6px 9px;"><em>Biblia Hebraica Stuttgartensia.</em> Stuttgart: Deutsche Bibelgesellschaft. The standard printed Masoretic text; cite the printing you use.</div></div>
+            <div style="display: grid; grid-template-columns: 0.85in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">LXX</div><div style="padding: 6px 9px;">Rahlfs&ndash;Hanhart, <em>Septuaginta.</em> Deutsche Bibelgesellschaft. The Greek translation of the Hebrew scriptures; consulted where it differs from MT.</div></div>
+            <div style="display: grid; grid-template-columns: 0.85in 1fr;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">DSS</div><div style="padding: 6px 9px;">Dead Sea Scroll manuscripts cited by siglum, e.g. 4QDeut. Consulted only where a scroll reading is materially different.</div></div>
+          </div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">LEXICA</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 12px; line-height: 1.34;">
+            <div style="display: grid; grid-template-columns: 0.85in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">BDB</div><div style="padding: 6px 9px;">Brown, Driver and Briggs, <em>A Hebrew and English Lexicon of the Old Testament.</em> Oxford: Clarendon, 1906. Old, free, and still the one most readers can actually get to.</div></div>
+            <div style="display: grid; grid-template-columns: 0.85in 1fr;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">HALOT</div><div style="padding: 6px 9px;">Koehler and Baumgartner, <em>The Hebrew and Aramaic Lexicon of the Old Testament.</em> Leiden: Brill. The current scholarly standard; use it over BDB where the two conflict.</div></div>
+          </div>
+        </div>
+        <div style="flex: 1; min-height: 0; display: flex; flex-direction: column;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">SECONDARY LITERATURE CITED IN THE MARGINS</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 11.5px; line-height: 1.32;">
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">MILGROM</div><div style="padding: 6px 9px;">Jacob Milgrom, <em>Leviticus.</em> Anchor Bible 3, 3A, 3B. New York: Doubleday, 1991&ndash;2001. Three volumes; the standard technical commentary. Margin notes name the volume by chapter range.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">KLAWANS</div><div style="padding: 6px 9px;">Jonathan Klawans, <em>Impurity and Sin in Ancient Judaism.</em> Oxford University Press, 2000. The distinction between ritual and moral impurity that Dossier III leans on.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">DOUGLAS</div><div style="padding: 6px 9px;">Mary Douglas, <em>Purity and Danger.</em> London: Routledge, 1966. Structural reading of the dietary law; she revised her own position later, and the companion says so.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">OLYAN</div><div style="padding: 6px 9px;">Saul M. Olyan, <em>Disability in the Hebrew Bible.</em> Cambridge University Press, 2008. Behind the blemish material on LV11.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">BERGSMA</div><div style="padding: 6px 9px;">John Sietze Bergsma, <em>The Jubilee from Leviticus to Qumran.</em> Leiden: Brill, 2007. The afterlife of Leviticus 25.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">WEINFELD</div><div style="padding: 6px 9px;">Moshe Weinfeld, <em>Deuteronomy 1&ndash;11.</em> Anchor Bible 5. Doubleday, 1991; and <em>Deuteronomy and the Deuteronomic School.</em> Oxford: Clarendon, 1972. The treaty-form comparison in Dossier IV.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">LEVINSON</div><div style="padding: 6px 9px;">Bernard M. Levinson, <em>Deuteronomy and the Hermeneutics of Legal Innovation.</em> Oxford University Press, 1997. How Deuteronomy rewrites earlier law while claiming to preserve it.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">GOLDENBERG</div><div style="padding: 6px 9px;">David M. Goldenberg, <em>The Curse of Ham: Race and Slavery in Early Judaism, Christianity, and Islam.</em> Princeton University Press, 2003. The reception history behind Genesis 9.</div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 12px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>S02</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== S03 · RECTO · NEW TESTAMENT AND COMPARATIVE ===== -->
+  <div data-print-page data-screen-label="S03" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">SOURCES AND EDITIONS &nbsp;·&nbsp; 3 OF 3 · NEW TESTAMENT AND COMPARATIVE</div>
+    <div style="display: grid; grid-template-columns: 1fr 0.72in; gap: 16px; flex: 1; min-height: 0; padding-top: 20px;">
+      <div style="display: flex; flex-direction: column; gap: 10px; min-height: 0;">
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">GREEK NEW TESTAMENT</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 12px; line-height: 1.34;">
+            <div style="display: grid; grid-template-columns: 0.85in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">NA28</div><div style="padding: 6px 9px;"><em>Novum Testamentum Graece,</em> 28th revised edition. Deutsche Bibelgesellschaft, 2012. Where the companion says a reading is absent from the oldest manuscripts, this is the apparatus it means.</div></div>
+            <div style="display: grid; grid-template-columns: 0.85in 1fr;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">UBS5</div><div style="padding: 6px 9px;"><em>The Greek New Testament,</em> 5th revised edition. United Bible Societies, 2014. Same text as NA28 with a reader-facing apparatus.</div></div>
+          </div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">SECONDARY LITERATURE &mdash; PARTS III AND IV</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 11.5px; line-height: 1.32;">
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">SANDERS</div><div style="padding: 6px 9px;">E. P. Sanders, <em>The Historical Figure of Jesus.</em> London: Penguin, 1993. A restrained account of what the sources can and cannot establish.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">EHRMAN</div><div style="padding: 6px 9px;">Bart D. Ehrman, <em>The New Testament: A Historical Introduction to the Early Christian Writings.</em> Oxford University Press. Revised frequently &mdash; record the edition you own, since page references move.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">GOODACRE</div><div style="padding: 6px 9px;">Mark Goodacre, <em>The Case Against Q.</em> Harrisburg: Trinity Press International, 2002. The minority source proposal set out on G03; cited so the majority view is not the only one on the page.</div></div>
+          </div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">COMPARATIVE ANCIENT TEXTS</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 11.5px; line-height: 1.32;">
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">COS</div><div style="padding: 6px 9px;">William W. Hallo and K. Lawson Younger, eds., <em>The Context of Scripture.</em> Leiden: Brill, 1997&ndash;2002. Source for the flood parallels, the Mesha inscription, and the law-code comparisons.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr; border-bottom: 1px solid #E3E2DA;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">SAA 2</div><div style="padding: 6px 9px;">Simo Parpola and Kazuko Watanabe, <em>Neo-Assyrian Treaties and Loyalty Oaths.</em> Helsinki University Press, 1988. The succession-treaty curse list compared with Deuteronomy 28.</div></div>
+            <div style="display: grid; grid-template-columns: 1.1in 1fr;"><div style="padding: 6px 9px; border-right: 1px solid #D6D5CD; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">GILGAMESH</div><div style="padding: 6px 9px;">Cited from COS or from a standard translation of your choosing. Any recent scholarly edition will serve for the comparison the companion actually makes.</div></div>
+          </div>
+        </div>
+        <div style="flex: 1; min-height: 0; display: flex; flex-direction: column;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 4px;">EDITIONS I ACTUALLY OWN &mdash; FILL THIS IN AS YOU ACQUIRE THEM</div>
+          <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328;">
+            <div style="display: grid; grid-template-columns: 1.6in 1fr 0.9in; background: #E7E6E0; border-bottom: 1px solid #1F2328; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.14em; color: #5D6660;"><div style="padding: 5px 9px; border-right: 1px solid #D6D5CD;">WORK</div><div style="padding: 5px 9px; border-right: 1px solid #D6D5CD;">EDITION AND YEAR</div><div style="padding: 5px 9px;">CHECKED</div></div>
+            <div style="display: grid; grid-template-columns: 1.6in 1fr 0.9in; border-bottom: 1px solid #E3E2DA;"><div style="height: 28px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.6in 1fr 0.9in; border-bottom: 1px solid #E3E2DA;"><div style="height: 28px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.6in 1fr 0.9in; border-bottom: 1px solid #E3E2DA;"><div style="height: 28px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.6in 1fr 0.9in; border-bottom: 1px solid #E3E2DA;"><div style="height: 28px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+            <div style="display: grid; grid-template-columns: 1.6in 1fr 0.9in;"><div style="height: 28px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+          </div>
+        </div>
+        <div style="border: 1px solid #3E4C63; padding: 10px 13px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 4px;">WHAT IS STILL OUTSTANDING</div>
+          <p style="margin: 0; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.36;">Page-level references. This list identifies the works behind each claim; it does not yet give a page for every one. Adding those is a proofing task, and every dossier&rsquo;s proofing gate carries it as outstanding until it is done.</p>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #E3E2DA; padding-left: 10px; display: flex; flex-direction: column; gap: 14px; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98; line-height: 1.8;">
+        <div style="font-size: 8px; letter-spacing: 0.16em; line-height: 1.7;">SOURCE<br>MARGIN</div>
+        <div>PART III</div>
+        <div>PART IV</div>
+        <div>GOSPEL<br>GRID G0</div>
+        <div>SEE ALSO<br>PROOFING<br>GATES</div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 12px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>S03</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+</section>
+</x-dc>
+</body>
+</html>

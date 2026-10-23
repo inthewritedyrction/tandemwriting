@@ -1,0 +1,165 @@
+@opener id="leah" rh="THE PARISH HOUSEHOLD · LEAH · PORTRAIT" m="TKC: MEN · TL · DR3 · FR 11 · FR 14 · RULING; VOL. I · {v1:sorted} · {v1:arrangement}"
+plate: frame | PORTRAIT · LEAH OSEI · TWENTY · COMMONWIFE
+/end
+tk: PART I · DOSSIER 5 · ◈
+big: Leah
+lede: She believes in Eden completely. She has always believed in Eden completely. She just needs Eden to come home (MEN).
+calls:
+k: On the record
+Leah Osei, twenty, Eden's younger sister. A Commonwife for almost two years, with no pregnancy, under the eye of the Vowed officer who runs the quarterly household assessment (MEN). She sat for an assessment (DECIDED).
+||
+k: Still open
+Her husband's name, her Binding name, what Home Instruction is, and what she does when the Broadcast turns on her sister.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · THE RECORD" m="TKC: MEN · DR3 · DOM · RULING; VOL. I · {v1:sorted} · {v1:binding} · {v1:arrangement}"
+# The quarterly file
+note: Pressure to conceive, and a household assessed on it.
+plate: doc
+dh: Household Assessment | TEMPLE · AUREM · QUARTERLY
+dsub: COMMONWIFE HOUSEHOLD · CONDUCTED BY THE ASSIGNED VOWED OFFICER
+df: Commonwife | OSEI, Leah · Bound c. 2102
+df: Husband | common man · service sector · ____________
+df: Covenant timeline | two years · no conception recorded
+df: Officer's remark | informal · not yet filed (MEN)
+df: Husband's remark | the same, less carefully (MEN)
+df: Assessment, at eighteen | sat · Home Instruction offered the following year (DR3)
+stamp: UNDER REVIEW
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Leah Osei | The Registry, before her Binding | _ |
+| Her Binding name | The Registry now (Vol. I, {v1:binding}) | _ |
+| _ | _ | _ |
+small: CONFLICT: The timeline has her already "living under Temple review." Men in the Empire has the officer making informal comments and no formal note yet. INFERENCE: The review is coming, and it hasn't been filed.
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · THE YEARS" m="TKC: MEN · TL · FR 5 · FR 11 · FR 14 · RULING"
+# Her years against the Empire's
+tabrl:
+| Year | Age | Her life | Source |
+| 2084 | 0 | Born, the year Thomas leaves | INFERENCE, FR 3 |
+| 2090 | 6 | Watches her mother pack. Comes to Celeste's house with Zion and Solomon. | FR 5, FR 11 |
+| 2090–91 | 6–7 | "She's coming back," for about a year | FR 12 |
+| 2102 | 18 | Sits for an assessment. Bound as a Commonwife to a man in the service sector. | DECIDED, MEN |
+| 2104 | 20 | Two years without a pregnancy. Twice a week at Celeste's kitchen table. Watches Eden on the boards every evening. | MEN |
+small: SUPERSEDED: "Eden's older sister" (TL). DECIDED: Leah is younger than Eden.
+prompt: The day of her Binding, and whether anyone performed the Salt Ceremony for her | fill
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · STANDING" m="TKC: MEN · DR3; VOL. I · {v1:sorted} · {v1:arrangement} · {v1:household}"
+# The clerk's version and the true one
+rec:
+On the ledger | A Commonwife, two years Bound, with the child quota pressure starting (MEN).
+Her husband | A common man in Aurelia's service sector, "not cruel, not kind, simply present," who got a wife because the system said he was eligible and she was available. He expects what the Empire told him he could expect (MEN).
+Her two days | She comes to Celeste's twice a week under cover of helping with Solomon. She does help, and it's also the only two days she can breathe. She and Zion sit at the table and don't talk about what they can't talk about (MEN).
+The evenings | She watches Eden's score move on the kitchen screen. When the Broadcast narrative shifts in Phase Three, something in her that's been quiet for two years goes very still and then very loud, and she doesn't let anyone in the house see (MEN).
+Home Instruction | At her assessment Bell offered to nominate her for Home Instruction the following year, as a consolation (DR3). OPEN QUESTION: What is it?
+prompt: What her own house looks like, and what she does there on the other five days | fill
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: MEN · DR3 · FR 14; VOL. I · {v1:teaches} · {v1:arrangement}"
+# What she believes
+rec:
+What she believes | She believes in Eden completely (MEN). INFERENCE: Her faith is in a person before it's in a doctrine.
+Who taught her | Celeste, from the age of six. Before that, Miriam, and Leah remembers her mother's leaving as a decision (FR 14).
+What she defends | Miriam, to the others (FR 14). INTERPRETATION: She's the angriest and the most loyal, and those come from the same place.
+What she has no words for | Being unready, because the Empire hasn't built a way to say it (MEN).
+empire: What the Temple teaches about a woman like her
+A Commonwife who doesn't conceive on the Covenant timeline is a household problem with a quarterly visit (MEN). POSSIBLE: The Temple preaches "be fruitful, and multiply" (Gen 1.28) and 1 Timothy 2.15, "she shall be saved in childbearing," and reads Michal's "no child unto the day of her death" (2 Sam 6.23) as a sentence passed on a woman who despised her husband.
+/end
+prompt: What she prays for, and whether she wants it answered | fill
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 29–30; GEN 29.32; GEN 30.1; 1 SAM 1; ISA 54.1; ISA 56.3–5; LUKE 11.27–28; PS 113.9"
+# The text
+rec:
+Her name | Leah, Jacob's first wife, given to him by trickery, "tender eyed," and unloved. She bears six sons and a daughter, and names her first son saying "now therefore my husband will love me" (Gen 29.32).
+Where it breaks | The biblical Leah is the fertile wife. Leah Osei carries the name of the woman with children and lives the story of the sister without them. Rachel says "Give me children, or else I die" (Gen 30.1).
+Hannah · 1 Samuel 1 | POSSIBLE: Provoked for years, praying with her lips moving and no sound, and taken for drunk by the priest. **Where it breaks:** Hannah's husband asks "am not I better to thee than ten sons?" Leah's husband makes the officer's comment, less carefully (MEN).
+tab:
+| She'd quote | Never read to her in the Temple |
+| Genesis 29.32, if she ever let herself say it | Isaiah 54.1, "Sing, O barren, thou that didst not bear" |
+| _ | Isaiah 56.4–5, promised to eunuchs who'd have no children: "a name better than of sons and of daughters" |
+| _ | Luke 11.27–28, "Blessed is the womb that bare thee… Yea rather, blessed are they that hear the word of God, and keep it" |
+small: The Temple likes Psalm 113.9, "He maketh the barren woman to keep house, and to be a joyful mother of children."
+box: Volume One
+Genesis, the women, 252. Hannah, Abigail and Michal, 380. The Binding, 510. Commonwives and the Covenant timeline, 512. Being sorted, and Leah's assessment, 508.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · BODY AND FEAR" m="TKC: MEN · DOM"
+# Body and fear
+note: Reproductive pressure.
+rec:
+What the record shows | Two years watched for a pregnancy (MEN). Two days a week she can breathe (MEN).
+What she does with it | She doesn't let anyone in Celeste's house see what the Broadcast does to her (MEN).
+What she's afraid will happen | INFERENCE: A formal note, then Temple review, then whatever's past it (Vol. I, {v1:household-q}).
+prompt: What she's afraid is true, as opposed to what she fears will happen | fill
+prompt: What her body does at the kitchen table that Zion has learned to read | fill
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · BELIEF ARC" m="TKC: MEN · FR 14; YOURS"
+# Belief arc
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · At six | Her mother decided to go (FR 14) | _ | _ |
+| II · Bound | INFERENCE: The Binding is survivable if she can still get to the kitchen | The quota pressure starts (MEN) | _ |
+| III · Phase Three | Eden will come home | The Broadcast's narrative turns on Eden (MEN) | _ |
+| IV · On the last page | _ | _ | _ |
+prompt: What she does on the night the narrative shifts, after she leaves Celeste's house | fill
+prompt: Who she tells, if anyone | 4
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · POWER AND PEOPLE" m="TKC: MEN · DR3 · FR 11 · FR 14"
+# Names, not roles
+tabrl:
+| Person | What passes between them | Leverage |
+| Eden | Complete belief (MEN) | _ |
+| Zion | The table, and everything they don't say at it (MEN) | _ |
+| Celeste | The only place she still feels like herself (MEN) | _ |
+| Her husband | What the Empire told him to expect (MEN) | His, and the officer's |
+| The Vowed officer | A quarterly visit and an informal comment (MEN) | Hers |
+| Miriam | Watched her pack. Defends her. (FR 11, 14) | _ |
+| Bell | A consolation nomination (DR3) | _ |
+prompt: Her husband's name, his work, and one thing he does that surprises her | fill
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · VOICE AND CONTRADICTION" m="TKC: MEN · FR 14; WRITING"
+# Voice and contradiction
+rec:
+The contradiction | INFERENCE: She's the angriest at Miriam and the one who defends her (FR 14). She's furious about a decision and lives inside one she didn't make.
+What it costs | _
+prompt: Lines only Leah would say | fill
+prompt: What she says to Miriam's defense when Zion goes quiet | 4
+
+@essay rh="THE PARISH HOUSEHOLD · LEAH · THE MACHINERY AROUND HER"
+# The machinery around her
+drop: Leah lives inside the system the Trials sit on top of. A Commonwife is a registration status (FR 1), assessed quarterly in Aurem by a Vowed officer who notices when two years pass without a pregnancy (MEN). Her husband was given a wife and told what to expect, and the Empire built no way for her to say she isn't ready (MEN).
+Above her, Aurem itself made marriage look like the highest honor a woman can get, on purpose (DOM). Behind her is a mother who lived the same registration and was moved to another man's house when her husband left (FR 0). In front of her, every evening at seven, is her sister's score (TR).
+side:
+chips: MEN, DOM, FR 0–1
+k: The clock
+stext: Two years and counting. What happens after Temple review is still yours to decide (Vol. I, {v1:household-q}).
+marg
+see: Vol. I, Commonwives, 512.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · LEAH AND ZION · BOTH SIDES" m="TKC: MEN"
+# Leah and Zion
+They sit at Celeste's table and don't talk about the things they can't talk about, and the not-talking is its own communication (MEN). He misses her in a way he has no words for and carries it as anger (MEN).
+cols:
+prompt: What Leah isn't saying | 8
+||
+prompt: What Zion isn't saying | 8
+/end
+prompt: The one evening it breaks, and what gets said | fill
+
+@page rh="THE PARISH HOUSEHOLD · LEAH · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE PARISH HOUSEHOLD · LEAH · NOTES" m="NOTES" prompt="Anything Leah's dossier started and didn't finish"

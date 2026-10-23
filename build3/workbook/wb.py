@@ -33,8 +33,33 @@ TAG = (r'(?:TL|TR|TR-orig|DOM|MEN|CR|DR3|AM|Ruling|WR(?: \d+(?:–\d+)?)?|'
        r'FR(?: \d+(?:–\d+)?(?:, \d+(?:–\d+)?)*)?|FR, closing note)')
 
 
+def v1_folios():
+    """Volume Two cites Volume One as {v1:key}. workbook/v1_refs.json maps each key to a Volume One
+    running head, and the folio comes from Volume One's last build, so the citations follow its pagination."""
+    if VOL == '1':
+        return {}
+    v1 = (OUT / 'workbook.html').read_text()
+    first = {}
+    for n, body in enumerate(re.findall(r'<section class="page[^"]*">(.*?)</section>', v1, re.S), start=1):
+        m = re.search(r'<div class="rh">(.*?)</div>', body)
+        if m:
+            first.setdefault(html.unescape(re.sub(r'<[^>]+>', '', m.group(1))), n)
+    keys = json.loads((HERE / 'v1_refs.json').read_text())
+    return {k: first[v] for k, v in keys.items() if v in first}
+
+
+V1 = v1_folios()
+
+
+def v1_ref(m):
+    if m.group(1) not in V1:
+        raise SystemExit(f'unknown Volume One reference {{v1:{m.group(1)}}}')
+    return str(V1[m.group(1)])
+
+
 def inline(s):
     s = html.escape(s, quote=False)
+    s = re.sub(r'\{v1:([\w-]+)\}', v1_ref, s)
     s = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s)
     s = re.sub(r'(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])', r'<em>\1</em>', s)
     lab = '|'.join(re.escape(l) for l in LABELS)

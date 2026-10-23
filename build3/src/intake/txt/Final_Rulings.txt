@@ -1,0 +1,67 @@
+FINAL RULINGS (FR 0-44). Where this disagrees with anything earlier, this wins.
+Kinds: C from canon, P inference approved, A Dany's ruling.
+
+
+== The arithmetic item 
+FR 0 [A] Solomon's paternity: Solomon has a different biological father: the man whose household Miriam was reassigned to after Thomas left in 2084. Solomon stays sixteen, the 2090 departure stands, and he kept the Osei name. Zion is unaffected — conceived before Thomas left, born after, no memory of him.  NOTE: Deferred, not flagged: how the reassignment worked, why the Osei name held, what the relationship meant to Miriam.
+
+== Group 1 · Miriam, Thomas, and the children eighteen items
+FR 1 [C] Registered Binding: Yes. Commonwife is a registration status, not a description.
+FR 2 [A] Moving the children: “Thomas's children” means Eden, Leah, and Zion only. Celeste's reclassification still absorbs all four as her dependents.
+FR 3 [A] Thomas in 2090: Alive and voluntarily absent. He left in 2084 for another Dominion, another woman, another life. Not removed, not imprisoned, not secretly killed. The Empire's record that he relocated was accurate; it just did not include his reasons.  NOTE: Sometimes the paperwork is correct and a man simply leaves. No expansion of Thomas's later life this pass.
+FR 4 [A] Placement timing: Eden entered Celeste's household in 2085, after Thomas had already gone, and stayed. Leah, Zion, and Solomon remained with Miriam until 2090.
+FR 5 [A] Waves: Two. Eden alone in 2085; Leah, Zion, and Solomon together in 2090. Eden grew up as Celeste's child; the younger three remember arriving into a house already running.
+FR 6 [A] Children on the search: No. She left all four with Celeste and went alone. Whether each child forgives her is not decided here — they may land differently, and that belongs to character development.
+FR 7 [P] Smuggled back: No. They were never in her father's household. She found him after they were placed.
+FR 8 [A] Permanent or temporary: Miriam may have fully meant to come back. Celeste heard the instability under the promise. Miriam did not leave indifferent; she made a promise she eventually failed to keep.
+FR 9 [A] What she was protecting them from: The household she had been reassigned to after Thomas abandoned her, and the instability of dragging four children on a search. She had not found her father yet and could not have named him as the threat.  NOTE: Whether she was also protecting them from herself stays open for her later development.
+FR 10 [C] Four grandchildren absorbed: The reclassification made the household expensive to unmake, and the dependents entered before anyone audited the arithmetic.
+FR 11 [P] What each child witnessed: Leah watched her pack. Eden was told to take Zion outside. Zion remembers being outside. Solomon was two.
+FR 12 [P] What they were told: “She's coming back.” It held about a year, then stopped being said, and was never replaced with anything.
+FR 13 [P] Eden and Zion: Eden remembers being given a task, and has spent fourteen years understanding that the task was to be removed from the room. Zion remembers the yard and has never mentioned it.
+FR 14 [P] Leah: She remembers a decision rather than a disappearance — which is why she is angriest, and why she defends Miriam to the others.
+FR 15 [P] Fourteen years: Being unreachable was not selective. No version existed where she was hidden from him and available to them.
+FR 16 [A] Intercepted contact: One attempt in 2094, intercepted before it reached Celeste. Celeste never knew the letter existed and has no proof Miriam survived. Who intercepted it stays open.
+FR 17 [P] Her father's household: He had been Crownward-resident and close to the Vanes the whole time, and surviving an unregistered ceremony was not an oversight. He was useful to somebody. Her children would be too.
+FR 18 [P] The return, and what her father knows: Conviction, no expectation of being believed; she returns because the arrangement that kept her unreachable ended. Her father knows there are children but not how many or their names, and learned about Eden the day the Trial went public.  NOTE: He is the only person watching who understands what he is looking at. Book two.
+
+== Group 2 · The Trials ten items
+FR 19 [C] The other eleven: Married down the elite ladder as designated. All thirty-nine Trials place Anointed wives; the Crown contest is a layer on top. Nobody goes home unassigned.
+FR 20 [C] The ranked winner: He may choose any of the twelve. “Without deviation” is a record, not a rule.
+FR 21 [P] What winning means: Being the choice that costs the Crown nothing. The rankings tell the Heir which selection is free. Deviation is permitted and expensive, and no Heir has paid.
+FR 22 [P] If he refuses: The recommendation stands by default once the Declaration window closes. Refusal is abstention, not resistance, and produces the same outcome as compliance.
+FR 23 [A] Quiet downgrade: Impossible once announced. Cancellation or downgrade requires a public dynastic emergency — the Crown Heir's death or incapacity, or the Emperor's death forcing an immediate transition. A candidate's death, including Petra's, does not downgrade the Trial.
+FR 24 [P] When a candidate dies: Status restored to the family, no compensation, no punishment. The designation is returned as though never made.
+FR 25 [P] Rejected candidates: Married down as designated. The rejection follows them — not in the record, in the room.
+FR 26 [A] “Six Trials. Twelve girls.”: Twelve Dominions, one Covenant Daughter each: twelve candidates per Trial. Hannah's twelve girls are her whole career across multiple Houses and posts — six through her Aurem Trials, six through earlier assignments.  NOTE: Supersedes: no two candidates per Dominion, no change to the number of Dominions.
+FR 27 [A] Naomi's entry: Eligibility is not entry. Hannah can submit her name but is not the only one who can; Naomi may self-nominate once eligible, as Eden did. Hannah's decision matters through influence, not legal control.
+FR 28 [P] The elite husbands: Chosen by the oversight committee, ranked by standing rather than performance. A man cannot reject the woman assigned to him; he can decline the assignment, which removes him from the ladder. It has happened twice.
+
+== Group 3 · Hannah and Naomi six items
+FR 29 [P] What decides Naomi: If Eden wins, Hannah enters her — winning proves the ladder is climbable. If Eden dies or is publicly rejected, Hannah gets her out, and the only exit is a designation lower than the Trials reach.
+FR 30 [P] Does Naomi know about 2085: No. She knows her mother was Vowed and is now House Mother. The cancelled cohort is what Hannah has never said out loud.
+FR 31 [A] Naomi's father: An elite-ladder Binding below Crown level, still living, no longer in Hannah's household. His status does not govern her eligibility — the Empire classifies through household registration. Naomi's eligibility comes through Hannah's household and standing.  NOTE: Why he left the household stays open.
+FR 32 [C] Mixed-child classification: By household registration. Not parentage, not appearance. A Dominions-level system rule, not a character note.
+FR 33 [A] The two Naomis: Hannah's daughter keeps the name. The Prelate gets renamed. “Nomi” is rejected as too close. The Prelate's institutional role is unchanged; only the name is replaced, consistently.  NOTE: The new name can wait without blocking the build.
+FR 34 [A] The 2085 cohort: The twelve know one another from being assembled, prepared, and measured against each other before cancellation. Afterward they were sent home with designations intact and no placements — not distributed into elite households. They are scattered through their home Dominions and their later lives.  NOTE: The shared history makes a network possible. It does not activate before book two.
+
+== Group 4 · The Vanes and the documents ten items
+FR 35 [P] The tree: Dorian's removed parent is Elias's child and Crest's elder sibling. Dorian is the rightful successor's son; Crest's claim came through survivorship, not birth order. Azrael and Judah descend from Dorian.
+FR 36 [P] Year of removal: 2061, Dorian a child. Fills the logged 2061–2062 gap.
+FR 37 [P] Crest: Aware, not acting. He neither arranged it nor prevented it, and spent twenty-four years on a throne he knew the shape of.
+FR 38 [P] Why Dorian was spared: A child's claim is a claim you can supervise. Removing him needed a public reason; raising him inside the house needed none.
+FR 39 [A] Succession: Passed to Crest after the elder sibling's removal, then to Dorian after Crest's death, by survivorship and the absence of another recognized claimant. The 2085 Covenant Trial was cancelled because Crest died mid-cycle and Dorian's accession created an Imperial transition — not for want of a succession contest.  NOTE: The skipped 2085 Trial stands, and so does the arithmetic making 2104 the Thirty-Ninth.
+FR 40 [P] Who preserved the documents: Crest. The one thing he did. Neither destroyed nor used, left where the east wing archive would eventually be inventoried.
+FR 41 [C] How Azrael found them: The Crown advisory access period put him in the archive legitimately. Left in 2085, unmoved for thirteen years, because nobody was looking.
+FR 42 [P] Who removed them: Dorian, the week Azrael was declared dead. He said put it back and then took it himself.
+FR 43 [P] Why put it back: A document Azrael has read and returned is a document Dorian controls. Destroying it would have told Azrael it mattered.
+FR 44 [P] Did Dorian know it named Elias: Yes, since 2061. The only thing he has ever been certain of.
+
+SWEEPS
+1. Thomas is abandonment, not removal: every page framing 2084 as an Empire disappearance needs rewording. It also trades a conspiracy for something more ordinary and worse.
+2. Celeste no longer knows Miriam is alive: this reverses an earlier round-four ruling. Her dossier and the Eden material both carry “she knows and hid it,” and that comes out. Her silence becomes grief plus no information, which is a different character.
+3. Eden placed 2085, alone: she is Celeste's child in a way the other three are not, and she is the one who volunteered.
+4. Twelve Dominions, one girl each: House Aurem staffing drops to one per Trial, and Hannah's twelve becomes a career count, which ages her in the work.
+5. Petra's death costs the Trial nothing: structurally it changes no schedule and no designation, which is the point of it.
+
+Working name for the Prelate: Prelate Aurelia, marked Possible.

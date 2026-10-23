@@ -1,0 +1,110 @@
+ 
+ BACK MATTER 
+ Sources & Editions 
+ three pages · full citations, keyed to the compressed forms in the source margins 
+## ===== S01 · RECTO · HOW THE SOURCING WORKS =====
+ BACK MATTER  ·  SOURCES AND EDITIONS  ·  1 OF 3
+ WHERE ALL OF THIS
+CAME FROM
+ Every page of this companion carries a narrow source margin on its outer edge, printed in compressed form — author, short title. Those compressed forms are keyed to the full citations on the next two pages. Nothing in the margins is a citation; it is a pointer to one.
+ [C] CONFIRMED
+ The text says this, or the manuscript evidence shows it. You can check it in any study Bible with a critical apparatus.
+ [R] ARGUED
+ Responsible scholars disagree. The companion prints the dispute and the strongest case on each side, and does not print a verdict.
+ [P] POSSIBLE
+ A TKC construction — something about Dominion, the Sanctum, or the manuscript, not a claim about scripture. Test it against the manuscript before use.
+ [CANON]
+ A Possible that has been ruled on and promoted. Fixed for the manuscript until you rule otherwise.
+ ON THE SECONDARY LITERATURE
+ The works below are standard reference points, not an endorsement of any one position. Where two of them disagree — and several do, sharply — the companion prints the disagreement rather than picking. Several are technical commentaries that assume Hebrew or Greek; you do not need them to use this book. They are listed so that any claim in it can be traced.
+ TRANSLATIONS I AM WORKING FROM — RECORD THEM ONCE, HERE
+ TRANSLATION
+ EDITION / PRINTING
+ USED FOR
+ The companion deliberately does not standardize on one English translation. Where a rendering is doing interpretive work, the page says so and tells you to compare.
+ SOURCE
+MARGIN
+ BACK
+MATTER
+ KEYED TO
+ALL PARTS
+ SEE ALSO
+PROOFING
+GATES
+ S01 
+## ===== S02 · VERSO · HEBREW BIBLE =====
+ SOURCES AND EDITIONS  ·  2 OF 3 · HEBREW BIBLE
+ PART I
+ DOSSIERS
+I–IV
+ FOCUSED
+STUDIES
+ PART II
+ TEXTS AND COMMENTARIES
+ PRIMARY TEXT EDITIONS
+ MT
+ Biblia Hebraica Stuttgartensia. Stuttgart: Deutsche Bibelgesellschaft. The standard printed Masoretic text; cite the printing you use.
+ LXX
+ Rahlfs–Hanhart, Septuaginta. Deutsche Bibelgesellschaft. The Greek translation of the Hebrew scriptures; consulted where it differs from MT.
+ DSS
+ Dead Sea Scroll manuscripts cited by siglum, e.g. 4QDeut. Consulted only where a scroll reading is materially different.
+ LEXICA
+ BDB
+ Brown, Driver and Briggs, A Hebrew and English Lexicon of the Old Testament. Oxford: Clarendon, 1906. Old, free, and still the one most readers can actually get to.
+ HALOT
+ Koehler and Baumgartner, The Hebrew and Aramaic Lexicon of the Old Testament. Leiden: Brill. The current scholarly standard; use it over BDB where the two conflict.
+ SECONDARY LITERATURE CITED IN THE MARGINS
+ MILGROM
+ Jacob Milgrom, Leviticus. Anchor Bible 3, 3A, 3B. New York: Doubleday, 1991–2001. Three volumes; the standard technical commentary. Margin notes name the volume by chapter range.
+ KLAWANS
+ Jonathan Klawans, Impurity and Sin in Ancient Judaism. Oxford University Press, 2000. The distinction between ritual and moral impurity that Dossier III leans on.
+ DOUGLAS
+ Mary Douglas, Purity and Danger. London: Routledge, 1966. Structural reading of the dietary law; she revised her own position later, and the companion says so.
+ OLYAN
+ Saul M. Olyan, Disability in the Hebrew Bible. Cambridge University Press, 2008. Behind the blemish material on LV11.
+ BERGSMA
+ John Sietze Bergsma, The Jubilee from Leviticus to Qumran. Leiden: Brill, 2007. The afterlife of Leviticus 25.
+ WEINFELD
+ Moshe Weinfeld, Deuteronomy 1–11. Anchor Bible 5. Doubleday, 1991; and Deuteronomy and the Deuteronomic School. Oxford: Clarendon, 1972. The treaty-form comparison in Dossier IV.
+ LEVINSON
+ Bernard M. Levinson, Deuteronomy and the Hermeneutics of Legal Innovation. Oxford University Press, 1997. How Deuteronomy rewrites earlier law while claiming to preserve it.
+ GOLDENBERG
+ David M. Goldenberg, The Curse of Ham: Race and Slavery in Early Judaism, Christianity, and Islam. Princeton University Press, 2003. The reception history behind Genesis 9.
+ S02 
+## ===== S03 · RECTO · NEW TESTAMENT AND COMPARATIVE =====
+ SOURCES AND EDITIONS  ·  3 OF 3 · NEW TESTAMENT AND COMPARATIVE
+ GREEK NEW TESTAMENT
+ NA28
+ Novum Testamentum Graece, 28th revised edition. Deutsche Bibelgesellschaft, 2012. Where the companion says a reading is absent from the oldest manuscripts, this is the apparatus it means.
+ UBS5
+ The Greek New Testament, 5th revised edition. United Bible Societies, 2014. Same text as NA28 with a reader-facing apparatus.
+ SECONDARY LITERATURE — PARTS III AND IV
+ SANDERS
+ E. P. Sanders, The Historical Figure of Jesus. London: Penguin, 1993. A restrained account of what the sources can and cannot establish.
+ EHRMAN
+ Bart D. Ehrman, The New Testament: A Historical Introduction to the Early Christian Writings. Oxford University Press. Revised frequently — record the edition you own, since page references move.
+ GOODACRE
+ Mark Goodacre, The Case Against Q. Harrisburg: Trinity Press International, 2002. The minority source proposal set out on G03; cited so the majority view is not the only one on the page.
+ COMPARATIVE ANCIENT TEXTS
+ COS
+ William W. Hallo and K. Lawson Younger, eds., The Context of Scripture. Leiden: Brill, 1997–2002. Source for the flood parallels, the Mesha inscription, and the law-code comparisons.
+ SAA 2
+ Simo Parpola and Kazuko Watanabe, Neo-Assyrian Treaties and Loyalty Oaths. Helsinki University Press, 1988. The succession-treaty curse list compared with Deuteronomy 28.
+ GILGAMESH
+ Cited from COS or from a standard translation of your choosing. Any recent scholarly edition will serve for the comparison the companion actually makes.
+ EDITIONS I ACTUALLY OWN — FILL THIS IN AS YOU ACQUIRE THEM
+ WORK
+ EDITION AND YEAR
+ CHECKED
+ WHAT IS STILL OUTSTANDING
+ Page-level references. This list identifies the works behind each claim; it does not yet give a page for every one. Adding those is a proofing task, and every dossier’s proofing gate carries it as outstanding until it is done.
+ SOURCE
+MARGIN
+ PART III
+ PART IV
+ GOSPEL
+GRID G0
+ SEE ALSO
+PROOFING
+GATES
+ S03 

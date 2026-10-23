@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<meta name="design_doc_mode" content="canvas">
+<meta name="omelette-owns-print" content="letter">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="./image-slot.js"></script>
+<style>
+  body { margin: 0; background: #2A2E33; }
+  a { color: #3E4C63; text-decoration: none; border-bottom: 1px solid currentColor; }
+  a:hover { color: #5D6660; }
+  @page { size: 8.5in 11in; margin: 0; }
+  @media print {
+    body { background: #fff; }
+    section { display: block !important; padding: 0 !important; gap: 0 !important; }
+    section > div:not([data-print-page]) { display: none !important; }
+    [data-print-page] { width: 8.5in !important; height: 11in !important; margin: 0 !important;
+      break-after: page; page-break-after: always; break-inside: avoid; overflow: hidden;
+      -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    [data-print-page]:last-of-type { break-after: auto; page-break-after: auto; }
+  }
+</style>
+</helmet>
+
+<section style="display: flex; flex-direction: column; align-items: flex-start; gap: 40px; padding: 64px; font-family: 'Jost', sans-serif;">
+
+  <div style="display: flex; align-items: baseline; gap: 14px; color: #E4E4DE;">
+    <span style="font-family: 'Jost', sans-serif; font-size: 12px; letter-spacing: 0.16em; background: #8A8F98; color: #1F2328; padding: 4px 9px;">VOL. II</span>
+    <span style="font-family: 'Cinzel', serif; font-size: 32px; font-weight: 600; letter-spacing: 0.06em;">Part VII · The Characters — Eden</span>
+    <span style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 15px; opacity: 0.7;">folios 248–267 · portrait, ten record pages, seven working pages</span>
+  </div>
+
+  <!-- ===== 248 · PART VII DIVIDER ===== -->
+  <div data-print-page data-screen-label="248" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 96px 90px 72px 118px; display: flex; flex-direction: column; justify-content: space-between; text-align: center;">
+    <div>
+      <div style="height: 10px; background: #8A8F98;"></div>
+      <div style="height: 1px; background: #8A8F98; margin-top: 4px;"></div>
+      <div style="font-family: 'Jost', sans-serif; font-size: 11px; letter-spacing: 0.4em; margin-top: 32px; color: #3E4C63;">THY KINGDOM COME · STORY + SCRIPTURE COMPANION</div>
+    </div>
+    <div>
+      <div style="font-family: 'Cinzel', serif; font-size: 130px; color: #8A8F98; line-height: 1;">VII</div>
+      <div style="font-family: 'Jost', sans-serif; font-size: 13px; letter-spacing: 0.42em; margin: 10px 0 26px;">PART SEVEN &nbsp;·&nbsp; ◈</div>
+      <div style="font-family: 'Cinzel', serif; font-size: 44px; font-weight: 600; letter-spacing: 0.06em; line-height: 1.35;">THE<br>CHARACTERS</div>
+      <div style="display: flex; align-items: center; gap: 16px; justify-content: center; margin: 30px 0;"><span style="height: 1px; width: 90px; background: #3E4C63;"></span><span style="color: #3E4C63; font-size: 16px;">◈</span><span style="height: 1px; width: 90px; background: #3E4C63;"></span></div>
+      <p style="margin: 0 auto; max-width: 452px; font-family: 'EB Garamond', serif; font-style: italic; font-size: 19px; line-height: 1.58;">A doctrine is only interesting when it is standing inside somebody. Sixteen people, sized to how much of them there is: seven at full length — seventeen pages each — the rest at eight, and Abigail at six. Everything the files already know is printed. Start with the name, because the Empire named most of them.</p>
+    </div>
+    <div>
+      <div style="font-family: 'EB Garamond', serif; font-size: 15px; line-height: 2; max-width: 420px; margin: 0 auto; text-align: left;">
+        <div style="display: flex; justify-content: space-between;"><span>How a dossier works</span><span>249</span></div>
+        <div style="display: flex; justify-content: space-between; font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63; margin-top: 14px;"><span>I &nbsp;·&nbsp; THE PARISH HOUSE</span><span>250</span></div>
+        <div style="font-family: 'EB Garamond', serif; font-size: 14.5px; color: #5D6660; line-height: 1.7;">Eden 250 &nbsp;·&nbsp; Celeste 268 &nbsp;·&nbsp; Leah 286 &nbsp;·&nbsp; Miriam 304</div>
+        <div style="display: flex; justify-content: space-between; font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63; margin-top: 10px;"><span>II &nbsp;·&nbsp; THE HOUSE OF VANE</span><span>313</span></div>
+        <div style="font-family: 'EB Garamond', serif; font-size: 14.5px; color: #5D6660; line-height: 1.7;">Judah 313 &nbsp;·&nbsp; Dorian 331 &nbsp;·&nbsp; Lyris 349 &nbsp;·&nbsp; Azrael 367</div>
+        <div style="display: flex; justify-content: space-between; font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63; margin-top: 10px;"><span>III &nbsp;·&nbsp; THE COVENANT DAUGHTERS</span><span>385</span></div>
+        <div style="font-family: 'EB Garamond', serif; font-size: 14.5px; color: #5D6660; line-height: 1.7;">Corinne 385 &nbsp;·&nbsp; Zara 394 &nbsp;·&nbsp; Petra 403 &nbsp;·&nbsp; Sera 412 &nbsp;·&nbsp; Delphine 421</div>
+        <div style="display: flex; justify-content: space-between; font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63; margin-top: 10px;"><span>IV &nbsp;·&nbsp; HOUSE AUREM</span><span>430</span></div>
+        <div style="font-family: 'EB Garamond', serif; font-size: 14.5px; color: #5D6660; line-height: 1.7;">Hannah 430 &nbsp;·&nbsp; Abigail 439</div>
+      </div>
+      <div style="height: 1px; background: #8A8F98; margin-top: 28px;"></div>
+    </div>
+  </div>
+
+  <!-- ===== 249 · HOW A DOSSIER WORKS ===== -->
+  <div data-print-page data-screen-label="249" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">THE CHARACTERS &nbsp;·&nbsp; HOW A DOSSIER WORKS</div>
+    <div style="padding: 22px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 36px; font-weight: 600; letter-spacing: 0.05em;">HOW A DOSSIER WORKS</div>
+      <div style="height: 1px; background: #3E4C63; margin: 12px 0 12px;"></div>
+    </div>
+    <div style="font-family: 'EB Garamond', serif; font-size: 15px; line-height: 1.44; max-width: 630px;">
+      <p style="margin: 0 0 9px;">Every dossier opens with a portrait page, then runs in the same order, so you can read across sixteen people and see where the Empire holds and where it is already coming apart. The first nine pages settle who she is on the record. The last seven are where you write. Fill them out of order if you like. A blank line is not a failure; it is a question the manuscript has not answered yet.</p>
+      <p style="margin: 0;">Three conventions. Anything your files already establish is <strong>printed</strong>, with a small tag naming the source: <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.12em; color: #8A8F98;">TL</span> timeline, <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.12em; color: #8A8F98;">TR</span> trials, <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.12em; color: #8A8F98;">DR3</span> draft three, <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.12em; color: #8A8F98;">DOM</span> dominions, <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.12em; color: #8A8F98;">MEN</span> the men. Anything reasoned rather than recorded carries <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.12em; color: #8A8F98;">INFERRED</span> — cross it out and write over it, that is what it is there for. Ruled space means nobody has decided yet, including me.</p>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0 26px; margin-top: 16px; font-family: 'EB Garamond', serif; font-size: 14px;">
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #1F2328;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">1</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">NAME &amp; BIRTH</strong><br>Name of record, its meaning and root, who chose it, every alias, and the vitals.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #1F2328;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">2</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">STANDING</strong><br>House, office, what a clerk would file her as, and what she actually does all day.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">3</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">CREED</strong><br>What she can recite, what she trusts when frightened, what she'd be arrested for.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">4</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">MIRRORS</strong><br>Three biblical doubles from Volume One — and where each parallel breaks.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">5</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">BODY &amp; FEAR</strong><br>What the doctrine costs her physically. What she is afraid is actually true.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">6</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">BELIEF ARC</strong><br>Four stages: what she believes, what cracks it, what she does about it.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">7</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">POWER &amp; PEOPLE</strong><br>Who she needs, who she can ruin, who can ruin her, who she prays for.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">8</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">VOICE</strong><br>Lines only she would say, and the words she will not use. Ruled and blank.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA; border-bottom: 1px solid #1F2328;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">9</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">CONTRADICTION</strong><br>The thing she believes and violates. The cost. The scene where it lands.</span></div>
+      <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; padding: 8px 0; border-top: 1px solid #E3E2DA; border-bottom: 1px solid #1F2328;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">10</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">THE MACHINERY</strong><br>Every system pressing on her, on one page, so you never stop drafting to look.</span></div>
+    </div>
+    <div style="display: grid; grid-template-columns: 26px 1fr; gap: 11px; align-items: baseline; margin-top: 12px; padding: 8px 0; border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="font-family: 'Cinzel', serif; color: #3E4C63;">11<span style="color: #8A8F98;">–</span>16</span><span><strong style="font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.16em;">THE WORKING PAGES</strong><br>Excavation of the scene that made her · ten minutes of her at home with no plot in it · one relationship written from both sides · the scene lab, where a belief meets someone who wants something else · and the spread: what she already does on the page, and where it repeats, costs more, or reverses. Photocopy any of these before filling them; second and third drafts are expected.</span></div>
+    <div style="border-left: 3px solid #3E4C63; padding-left: 14px; margin-top: 18px;">
+      <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 4px;">THE ONE RULE</div>
+      <p style="margin: 0; font-family: 'EB Garamond', serif; font-size: 15px; line-height: 1.44; max-width: 600px;">No character gets a belief she has never paid for. If you write a conviction onto the creed page, the contradiction page has to name what it cost her — or the conviction is decoration.</p>
+    </div>
+    <div style="flex: 1;"></div>
+    <div style="border-top: 1px solid #D6D5CD; padding-top: 10px; text-align: center;">
+      <p style="margin: 0; font-family: 'EB Garamond', serif; font-style: italic; font-size: 16px; line-height: 1.4;">"Write the version she would deny under oath. That one is usually the true one."</p>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 12px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>249</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 250 · EDEN · PORTRAIT ===== -->
+  <div data-print-page data-screen-label="250" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">I &nbsp;·&nbsp; THE PARISH HOUSE &nbsp;·&nbsp; AURELIA, DOMINION OF AUREM</div>
+    <div style="display: flex; flex-direction: column; flex: 1; min-height: 0; padding-top: 26px;">
+      <div style="flex: 1; min-height: 0; position: relative;">
+        <image-slot id="p7-eden-portrait" shape="rect" placeholder="Eden — portrait, reference, or Canva art"></image-slot>
+      </div>
+      <div style="display: flex; align-items: flex-end; justify-content: space-between; padding-top: 18px;">
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.3em; color: #8A8F98;">DOSSIER I &nbsp;·&nbsp; ◈</div>
+          <div style="font-family: 'Cinzel', serif; font-size: 66px; font-weight: 600; letter-spacing: 0.08em; line-height: 1.04;">EDEN</div>
+        </div>
+        <div style="text-align: right; font-family: 'EB Garamond', serif; font-size: 14px; color: #5D6660; line-height: 1.5;">Eden Selah Osei &nbsp;·&nbsp; 21<br>Covenant Daughter of Aurem, 39th Trial<br>Self-nominated. Sector Seven. First.</div>
+      </div>
+      <div style="height: 3px; background: #3E4C63; margin: 12px 0 12px;"></div>
+      <p style="margin: 0; font-family: 'EB Garamond', serif; font-style: italic; font-size: 17px; line-height: 1.46; max-width: 600px;">Raised by her grandmother in the outer districts, on a faith assembled at a kitchen table and a fury nobody registered. Seventeen pages follow. The first ten are the record. The last seven are yours.</p>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 12px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>250</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 251 · EDEN · 1 NAME & BIRTH ===== -->
+  <div data-print-page data-screen-label="251" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 1 OF 17 · NAME &amp; BIRTH</div>
+    <div style="display: flex; align-items: flex-end; justify-content: space-between; padding: 20px 0 0;">
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.3em; color: #8A8F98;">DOSSIER I &nbsp;·&nbsp; ◈</div>
+        <div style="font-family: 'Cinzel', serif; font-size: 62px; font-weight: 600; letter-spacing: 0.08em; line-height: 1.05;">EDEN</div>
+      </div>
+      <div style="text-align: right; font-family: 'EB Garamond', serif; font-style: italic; font-size: 14px; color: #5D6660; line-height: 1.5;">The name is the first doctrine<br>anyone ever applied to her.</div>
+    </div>
+    <div style="height: 3px; background: #3E4C63; margin: 12px 0 10px;"></div>
+    <p style="margin: 0 0 10px; font-family: 'EB Garamond', serif; font-size: 14px; line-height: 1.38; max-width: 640px;">Everything already decided is printed here in ink, with the file it came from tagged beside it. The ruled space is what the manuscript has not answered yet — don't copy canon back onto those lines, only write what is still missing. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span> timeline &nbsp;<span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TR</span> trials &nbsp;<span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">DR3</span> draft three</p>
+    <div style="display: flex; flex-direction: column; gap: 10px; flex: 1; min-height: 0;">
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">FULL NAME OF RECORD — AS THE MINISTRY WRITES IT</div>
+        <div style="display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid #1F2328; padding: 4px 0 7px;">
+          <span style="font-family: 'Cinzel', serif; font-size: 25px; font-weight: 600; letter-spacing: 0.05em;">EDEN SELAH OSEI</span>
+          <span style="font-family: 'EB Garamond', serif; font-size: 13px; color: #5D6660;">OSEI, EDEN S. · Aurem · Sector Seven · outer districts <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></span>
+        </div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">GIVEN NAME — MEANING &amp; ROOT</div>
+          <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36; border-bottom: 1px solid #E3E2DA; padding-bottom: 5px;"><strong>Eden</strong> — the garden; the first place a woman was blamed for wanting to know something. <strong>Selah</strong> — from Miriam. It means <em>pause</em>. Book of Psalms. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></p>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">HOUSE / FAMILY NAME — MEANING &amp; ROOT</div>
+          <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36; border-bottom: 1px solid #E3E2DA; padding-bottom: 5px;"><strong>Osei</strong> — from Thomas Osei, common laborer, Aurelia service sector. Gone when she was one. The relocation on the record was accurate; what it omitted was that he chose it. The name outlasted the man. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></p>
+        </div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHO CHOSE IT, AND WHAT THEY MEANT BY IT</div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36; border-bottom: 1px solid #E3E2DA; padding-bottom: 5px;">Miriam gave the Selah — a rest in the music, a held breath, from a woman who was already four years into a marriage that was unmaking her. Celeste was in the room for the birth and knew, in grandmother knowledge and not prophecy, that this one was different. She later gave Eden a second name kept entirely inside the house: the kind of name that lives where the Empire cannot reach. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></p>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE HOUSE NAME — STILL UNWRITTEN. DECIDE IT HERE, AND WHAT CELESTE SAID WHEN SHE GAVE IT</div>
+        <div style="height: 64px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63; margin-bottom: 5px;">EVERY NAME SHE ANSWERS TO <span style="color: #8A8F98; letter-spacing: 0.12em; font-size: 8.5px;">TL · TR — LAST ROW IS YOURS</span></div>
+        <div style="border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328;">
+          <div style="display: grid; grid-template-columns: 1.6in 1.5in 1fr; background: #E7E6E0; border-bottom: 1px solid #1F2328; font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.16em; color: #5D6660;">
+            <div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">NAME / TITLE</div>
+            <div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">WHO USES IT</div>
+            <div style="padding: 5px 10px;">WHAT IT DOES TO HER</div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1.6in 1.5in 1fr; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.3;"><div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">Eden Selah Osei</div><div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">The Ministry, on paper</div><div style="padding: 5px 10px;">A file that is already open before she speaks</div></div>
+          <div style="display: grid; grid-template-columns: 1.6in 1.5in 1fr; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.3;"><div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">Covenant Daughter of Aurem</div><div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">The Broadcast; the Boulevard boards</div><div style="padding: 5px 10px;">A Dominion of millions standing behind her name</div></div>
+          <div style="display: grid; grid-template-columns: 1.6in 1.5in 1fr; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.3;"><div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">Eden</div><div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">Celeste, at the stove</div><div style="padding: 5px 10px;">The only room where she is not being scored</div></div>
+          <div style="display: grid; grid-template-columns: 1.6in 1.5in 1fr;"><div style="height: 27px; border-right: 1px solid #D6D5CD;"></div><div style="border-right: 1px solid #D6D5CD;"></div><div></div></div>
+        </div>
+      </div>
+      <div style="flex: 1; min-height: 0;"></div>
+      <div style="border-left: 3px solid #3E4C63; padding-left: 13px;">
+        <p style="margin: 0; font-family: 'EB Garamond', serif; font-style: italic; font-size: 13.5px; line-height: 1.42; color: #5D6660;">Her birth, her years and what the Empire was doing while she had them are on the facing page.</p>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 9px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>251</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 252 · EDEN · 2 BIRTH & THE YEARS ===== -->
+  <div data-print-page data-screen-label="252" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 2 OF 17 · BIRTH &amp; THE YEARS</div>
+    <div style="padding: 22px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 36px; font-weight: 600; letter-spacing: 0.05em; line-height: 1.06;">BIRTH &amp; THE YEARS</div>
+      <div style="height: 1px; background: #3E4C63; margin: 12px 0 12px;"></div>
+      <p style="margin: 0 0 4px; font-family: 'EB Garamond', serif; font-size: 14px; line-height: 1.42; max-width: 620px;">A birthday on a feast day is a plot. A birth year on a war is a childhood. Both of hers are printed; the rite her birthday falls on is not decided yet, and that one is worth an hour of thought before you fill it.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 22px; flex: 1; min-height: 0; padding-top: 6px;">
+      <div style="display: grid; grid-template-columns: 1.5fr 1.5fr 1fr; gap: 18px;">
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">DATE OF BIRTH</div>
+          <div style="border-bottom: 1px solid #E3E2DA; padding: 5px 0 6px; font-family: 'EB Garamond', serif; font-size: 14px;">2083 <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">PLACE OF BIRTH</div>
+          <div style="border-bottom: 1px solid #E3E2DA; padding: 5px 0 6px; font-family: 'EB Garamond', serif; font-size: 14px;">Aurelia, Dominion of Aurem — Celeste present <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">HOUR / SEASON</div>
+          <div style="height: 34px; border-bottom: 1px solid #E3E2DA;"></div>
+        </div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHAT FEAST OR RITE HER BIRTHDAY FALLS ON</div>
+          <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHAT THE EMPIRE WAS DOING THAT YEAR</div>
+          <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.34; border-bottom: 1px solid #E3E2DA; padding-bottom: 5px;">Crest Vane still on the throne, two years from death. Commonwife quotas in force. The Ungoverned formally criminal. The Trials nineteen cycles deep and no longer rough. Miriam one year into Thomas Osei. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></p>
+        </div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr 1.4fr; gap: 18px;">
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">AGE AT CHAPTER ONE</div>
+          <div style="border-bottom: 1px solid #E3E2DA; padding: 3px 0 5px; font-family: 'EB Garamond', serif; font-size: 14px;">21 — 2104 <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL</span></div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">AGE AT THE LAST PAGE</div>
+          <div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div>
+        </div>
+        <div>
+          <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">IF SHE DIES — WHEN, AND WHO RECORDS IT</div>
+          <div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div>
+        </div>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE THREE YEARS SHE WOULD NAME IF ASKED WHEN HER LIFE CHANGED — AND WHAT SHE WAS DOING IN EACH</div>
+        <div style="flex: 1; min-height: 0; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE NAME SHE WOULD CHOOSE FOR HERSELF, IF NAMING WERE PERMITTED</div>
+        <div style="flex: 1; min-height: 0; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 8px; margin-top: 10px;">
+      <div style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 12.5px; color: #5D6660;">↩ Vol. I: Hagar p. 065 · Esther p. 072 · Naming &amp; blessing p. 011</div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 22px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 22px; border-bottom: 1px solid #E3E2DA;"></div></div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>252</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 253 · EDEN · 2 STANDING ===== -->
+  <div data-print-page data-screen-label="253" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 3 OF 17 · STANDING</div>
+    <div style="display: grid; grid-template-columns: 1fr 1.9in; gap: 28px; flex: 1; padding-top: 20px; min-height: 0;">
+      <div style="display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em; line-height: 1.05;">STANDING</div>
+        <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+        <p style="margin: 0 0 12px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42;">Two answers to every question on this page: the one on the Ministry's ledger, and the true one. Write the clerk's sentence first — flat, bureaucratic, unkind. Then write the day she actually lives. The distance between them is her whole situation, and you will use it in every scene she stands in.</p>
+        <div style="display: flex; flex-direction: column; gap: 13px; flex: 1; min-height: 0;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">HOUSE, PROVINCE, BLOOD — AND WHICH OF THE THREE SHE WOULD TRADE AWAY</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">HER OFFICIAL FUNCTION IN DOMINION — THE SENTENCE A CLERK WOULD WRITE</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHAT SHE ACTUALLY DOES ALL DAY — HOURS, ROOMS, HANDS</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE FIRST THING SHE LEARNED ABOUT GOD, AND WHO TAUGHT HER</div>
+            <div style="flex: 1; min-height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 8px; margin-top: 10px;">
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #D6D5CD; padding-left: 16px; display: flex; flex-direction: column;">
+        <div style="border: 1px solid #5D6660; padding: 8px 10px; margin-bottom: 12px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #5D6660; margin-bottom: 5px;">↩ FROM VOLUME ONE</div>
+          <div style="font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.55;">Hagar, p. 065<br>Esther, p. 072<br>Women of the text, p. 064<br>Who says what it means, p. 120</div>
+        </div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.22em; color: #3E4C63;">MARGINALIA</div>
+        <div style="flex: 1; margin-top: 8px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 30px, #E3E2DA 30px, #E3E2DA 31px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>253</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 254 · EDEN · 3 CREED ===== -->
+  <div data-print-page data-screen-label="254" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 4 OF 17 · CREED</div>
+    <div style="display: grid; grid-template-columns: 1fr 1.9in; gap: 28px; flex: 1; padding-top: 20px; min-height: 0;">
+      <div style="display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em; line-height: 1.05;">WHAT EDEN BELIEVES</div>
+        <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+        <p style="margin: 0 0 11px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42;">Three layers, and they are not supposed to agree. The recited answer is what Dominion put in her mouth. The trusted one is what she reaches for at three in the morning. The third is treason. If all three come out the same, she is not a character yet — she is a position.</p>
+        <div style="display: flex; flex-direction: column; gap: 12px; flex: 1; min-height: 0;">
+          <div style="border: 1px solid #1F2328;">
+            <div style="background: #E7E6E0; border-bottom: 1px solid #1F2328; padding: 6px 12px; font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">▣ WHAT SHE CAN RECITE — THE CATECHISM ANSWER</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="border: 1px solid #1F2328;">
+            <div style="background: #E7E6E0; border-bottom: 1px solid #1F2328; padding: 6px 12px; font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">✥ WHAT SHE ACTUALLY TRUSTS WHEN SHE IS FRIGHTENED</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="border: 1px dashed #1F2328; display: flex; flex-direction: column; flex: 1; min-height: 0;">
+            <div style="border-bottom: 1px dashed #1F2328; padding: 6px 12px; font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">⌖ WHAT SHE WOULD BE ARRESTED FOR SAYING</div>
+            <div style="flex: 1; min-height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18px;">
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">HOW SHE PRAYS — WORDS, POSTURE, WHERE</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHAT SHE HAS STOPPED ASKING FOR</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 8px; margin-top: 10px;">
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #D6D5CD; padding-left: 16px; display: flex; flex-direction: column;">
+        <div style="border: 1px solid #5D6660; padding: 8px 10px; margin-bottom: 12px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #5D6660; margin-bottom: 5px;">↩ FROM VOLUME ONE</div>
+          <div style="font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.55;">The Lord's Prayer, p. 104<br>Psalms &amp; lament, p. 025<br>Faith &amp; doubt, p. 008<br>Official vs. lived, II p. 232</div>
+        </div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">PROMPTS</div>
+        <div style="font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.5; color: #5D6660; margin-bottom: 12px;">What does she say over a sick child? What do her hands do during a rite she does not believe? Which line of the creed does she go quiet on?</div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.22em; color: #3E4C63;">MARGINALIA</div>
+        <div style="flex: 1; margin-top: 8px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 30px, #E3E2DA 30px, #E3E2DA 31px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>254</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 255 · EDEN · 4 MIRRORS ===== -->
+  <div data-print-page data-screen-label="255" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 5 OF 17 · BIBLICAL MIRRORS</div>
+    <div style="padding: 20px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em;">BIBLICAL MIRRORS</div>
+      <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+      <p style="margin: 0 0 13px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42; max-width: 640px;">Pick three figures from Volume One and give each one folio number, so you can go back and argue with yourself later. The echo is the easy half. The break is the work: the exact place your character refuses to do what the biblical woman did. That refusal is the reason she is worth a novel and not a sermon illustration.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 16px; flex: 1; min-height: 0;">
+      <div style="border-top: 1px solid #1F2328; padding-top: 8px;">
+        <div style="display: grid; grid-template-columns: 1.9in 1fr; gap: 20px; align-items: end;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #8A8F98;">MIRROR I &nbsp;·&nbsp; FIGURE &amp; FOLIO</div>
+            <div style="height: 30px; border-bottom: 1px solid #1F2328;"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE ECHO — WHAT THEY SHARE</div>
+            <div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 10px;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHERE THE PARALLEL BREAKS</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE SCENE THAT MAKES THE ECHO VISIBLE</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+        </div>
+      </div>
+      <div style="border-top: 1px solid #1F2328; padding-top: 8px;">
+        <div style="display: grid; grid-template-columns: 1.9in 1fr; gap: 20px; align-items: end;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #8A8F98;">MIRROR II &nbsp;·&nbsp; FIGURE &amp; FOLIO</div>
+            <div style="height: 30px; border-bottom: 1px solid #1F2328;"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE ECHO — WHAT THEY SHARE</div>
+            <div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 10px;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHERE THE PARALLEL BREAKS</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE SCENE THAT MAKES THE ECHO VISIBLE</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+        </div>
+      </div>
+      <div style="border-top: 1px solid #1F2328; padding-top: 8px;">
+        <div style="display: grid; grid-template-columns: 1.9in 1fr; gap: 20px; align-items: end;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #8A8F98;">MIRROR III &nbsp;·&nbsp; FIGURE &amp; FOLIO</div>
+            <div style="height: 30px; border-bottom: 1px solid #1F2328;"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE ECHO — WHAT THEY SHARE</div>
+            <div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 10px;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHERE THE PARALLEL BREAKS</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE SCENE THAT MAKES THE ECHO VISIBLE</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+        </div>
+      </div>
+      <div style="border: 1px dashed #1F2328; padding: 8px 14px 10px; flex: 1; display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE MIRROR SHE WOULD REJECT — WHICH FIGURE PEOPLE COMPARE HER TO, AND WHY SHE HATES IT</div>
+        <div style="flex: 1; min-height: 64px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>255</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 256 · EDEN · 5 BODY & FEAR ===== -->
+  <div data-print-page data-screen-label="256" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 6 OF 17 · BODY &amp; FEAR</div>
+    <div style="display: grid; grid-template-columns: 1fr 1.9in; gap: 28px; flex: 1; padding-top: 20px; min-height: 0;">
+      <div style="display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em; line-height: 1.05;">BODY &amp; FEAR</div>
+        <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+        <p style="margin: 0 0 11px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42;">Doctrine is enforced on bodies long before it is argued in rooms. Be specific and be unsentimental: what has it cost her to be obedient this long. And note the difference between what she fears will happen and what she fears is <em>true</em> — the second one is the engine of the book.</p>
+        <div style="display: flex; flex-direction: column; gap: 13px; flex: 1; min-height: 0;">
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHAT DOMINION'S TEACHING HAS COST HER BODY — MARKS, HUNGER, LABOUR, BIRTHS</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18px;">
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHAT HER BODY DOES WHEN SHE LIES</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHAT IT DOES WHEN SHE IS BELIEVED</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+          </div>
+          <div style="border-left: 3px solid #3E4C63; padding-left: 12px;">
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHAT SHE IS AFRAID IS TRUE — NOT WHAT SHE FEARS WILL HAPPEN</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHAT SHE WOULD DO IF SHE KNEW IT WAS TRUE, AND HAD ONE NIGHT TO ACT</div>
+            <div style="flex: 1; min-height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 8px; margin-top: 10px;">
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #D6D5CD; padding-left: 16px; display: flex; flex-direction: column;">
+        <div style="border: 1px solid #5D6660; padding: 8px 10px; margin-bottom: 12px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #5D6660; margin-bottom: 5px;">↩ FROM VOLUME ONE</div>
+          <div style="font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.55;">Jesus &amp; bodies, p. 100<br>Purity &amp; the law, p. 014<br>Bathsheba, p. 070<br>Job &amp; suffering, p. 024</div>
+        </div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.22em; color: #3E4C63;">MARGINALIA</div>
+        <div style="flex: 1; margin-top: 8px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 30px, #E3E2DA 30px, #E3E2DA 31px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>256</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 257 · EDEN · 6 BELIEF ARC ===== -->
+  <div data-print-page data-screen-label="257" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 7 OF 17 · BELIEF ARC</div>
+    <div style="padding: 20px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em;">BELIEF ARC</div>
+      <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+      <p style="margin: 0 0 12px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42; max-width: 640px;">Faith rarely dies in one scene; it gets renegotiated four or five times and then one morning she notices. Work the stations in order, and put a chapter number in the last column every time — a station without a chapter is an intention, not a plot. Losing a belief is an event: something must happen, and she must do something about it.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; flex: 1; min-height: 0; border-top: 1px solid #1F2328;">
+      <div style="display: grid; grid-template-columns: 1.15in 1fr 1fr 0.7in; background: #E7E6E0; border-bottom: 1px solid #1F2328; font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.16em; color: #5D6660;">
+        <div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">STATION</div>
+        <div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">WHAT SHE BELIEVES HERE</div>
+        <div style="padding: 5px 10px; border-right: 1px solid #D6D5CD;">WHAT CRACKS IT / WHAT SHE DOES</div>
+        <div style="padding: 5px 10px;">CH.</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1.15in 1fr 1fr 0.7in; border-bottom: 1px solid #1F2328; flex: 1; min-height: 0;">
+        <div style="padding: 8px 10px; border-right: 1px solid #D6D5CD; font-family: 'Cinzel', serif; font-size: 14px; color: #3E4C63;">I<div style="font-family: 'EB Garamond', serif; font-size: 13px; color: #5D6660; margin-top: 2px;">Inherited</div></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div></div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1.15in 1fr 1fr 0.7in; border-bottom: 1px solid #1F2328; flex: 1; min-height: 0;">
+        <div style="padding: 8px 10px; border-right: 1px solid #D6D5CD; font-family: 'Cinzel', serif; font-size: 14px; color: #3E4C63;">II<div style="font-family: 'EB Garamond', serif; font-size: 13px; color: #5D6660; margin-top: 2px;">First crack</div></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div></div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1.15in 1fr 1fr 0.7in; border-bottom: 1px solid #1F2328; flex: 1; min-height: 0;">
+        <div style="padding: 8px 10px; border-right: 1px solid #D6D5CD; font-family: 'Cinzel', serif; font-size: 14px; color: #3E4C63;">III<div style="font-family: 'EB Garamond', serif; font-size: 13px; color: #5D6660; margin-top: 2px;">Collapse</div></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div></div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1.15in 1fr 1fr 0.7in; border-bottom: 1px solid #1F2328; flex: 1; min-height: 0;">
+        <div style="padding: 8px 10px; border-right: 1px solid #D6D5CD; font-family: 'Cinzel', serif; font-size: 14px; color: #3E4C63;">IV<div style="font-family: 'EB Garamond', serif; font-size: 13px; color: #5D6660; margin-top: 2px;">What replaces it</div></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div style="border-right: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+        <div></div>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 14px;">
+      <div style="border-left: 3px solid #3E4C63; padding-left: 12px;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">THE LAST THING SHE LETS GO OF</div>
+        <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div style="border-left: 1px solid #5D6660; padding-left: 12px;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #5D6660;">WHO NOTICES SHE HAS CHANGED, AND WHEN</div>
+        <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>257</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 258 · EDEN · 7 POWER & PEOPLE ===== -->
+  <div data-print-page data-screen-label="258" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 8 OF 17 · POWER &amp; PEOPLE</div>
+    <div style="display: grid; grid-template-columns: 1fr 1.9in; gap: 28px; flex: 1; padding-top: 20px; min-height: 0;">
+      <div style="display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em; line-height: 1.05;">POWER &amp; PEOPLE</div>
+        <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+        <p style="margin: 0 0 11px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42;">Names on this page, not roles. "Her handmaid" is not an answer; a woman with a name and a grudge is. Every box here is leverage — who holds it over her, what she holds over someone else — and leverage is what turns belief into scenes.</p>
+        <div style="display: flex; flex-direction: column; gap: 13px; flex: 1; min-height: 0;">
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18px;">
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHO SHE NEEDS AND CANNOT SAY SO</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHO SHE COULD RUIN TOMORROW</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18px;">
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHO CAN RUIN HER, AND WITH WHAT</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHO SHE HAS ALREADY BETRAYED</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+          </div>
+          <div>
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">WHO SHE PRAYS FOR BY NAME, AND WHAT SHE ASKS FOR THEM</div>
+            <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+            <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">THE ONE PERSON WHO KNOWS WHAT SHE ACTUALLY BELIEVES — AND HOW THEY FOUND OUT</div>
+            <div style="flex: 1; min-height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 8px; margin-top: 10px;">
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #D6D5CD; padding-left: 16px; display: flex; flex-direction: column;">
+        <div style="border: 1px solid #5D6660; padding: 8px 10px; margin-bottom: 12px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #5D6660; margin-bottom: 5px;">↩ FROM VOLUME ONE</div>
+          <div style="font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.55;">Ruth &amp; Naomi, p. 069<br>David &amp; Jonathan, p. 084<br>Judas, p. 094<br>Jesus &amp; power, p. 097</div>
+        </div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.22em; color: #3E4C63;">MARGINALIA</div>
+        <div style="flex: 1; margin-top: 8px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 30px, #E3E2DA 30px, #E3E2DA 31px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>258</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 259 · EDEN · 8 VOICE ===== -->
+  <div data-print-page data-screen-label="259" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 9 OF 17 · VOICE</div>
+    <div style="padding: 20px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em;">VOICE</div>
+      <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+      <p style="margin: 0 0 14px; font-family: 'EB Garamond', serif; font-size: 15px; line-height: 1.44; max-width: 620px;">Don't describe how she talks. Write her talking. Fill the long block with lines you would actually put in the manuscript — her rhythm, her volume, her theology underneath them. Then fence her in with the two columns beneath: the words she reaches for, and the words she has never once said aloud.</p>
+    </div>
+    <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+      <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63; margin-bottom: 4px;">LINES ONLY EDEN WOULD SAY</div>
+      <div style="flex: 1; min-height: 288px; border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 14px;">
+      <div style="border-left: 3px solid #3E4C63; padding-left: 12px;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">HER WORDS — WHAT SHE REACHES FOR</div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div style="border-left: 1px solid #5D6660; padding-left: 12px;">
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #5D6660;">WORDS SHE WILL NOT USE, AND WHY</div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 22px; margin-top: 12px;">
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">HOW SHE SPEAKS TO POWER</div>
+        <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #5D6660;">HOW SHE SPEAKS WITH NO RANK IN THE ROOM</div>
+        <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>259</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 260 · EDEN · 9 CONTRADICTION ===== -->
+  <div data-print-page data-screen-label="260" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 62px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 10 OF 17 · CONTRADICTION</div>
+    <div style="display: grid; grid-template-columns: 1fr 1.9in; gap: 28px; flex: 1; padding-top: 20px; min-height: 0;">
+      <div style="display: flex; flex-direction: column; min-height: 0;">
+        <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.05em; line-height: 1.05;">THE CONTRADICTION</div>
+        <div style="height: 1px; background: #3E4C63; margin: 10px 0 10px;"></div>
+        <p style="margin: 0 0 12px; font-family: 'EB Garamond', serif; font-size: 14.5px; line-height: 1.42;">This is the page the other eight were building toward. Everyone believable holds something they also break. Name hers plainly — then make her pay for it on the page, with a chapter number rather than a feeling.</p>
+        <div style="display: flex; flex-direction: column; gap: 13px; flex: 1; min-height: 0;">
+          <div style="border: 1px solid #1F2328;">
+            <div style="background: #E7E6E0; border-bottom: 1px solid #1F2328; padding: 6px 12px; font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">▣ WHAT SHE BELIEVES AND ALSO VIOLATES</div>
+            <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18px;">
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">HOW SHE JUSTIFIES IT TO HERSELF</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+            <div>
+              <div style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #5D6660;">WHO PAYS FOR THE JUSTIFICATION</div>
+              <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+            </div>
+          </div>
+          <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+              <span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.22em; color: #3E4C63;">THE SCENE WHERE IT LANDS — WHAT HAPPENS, WHO SEES IT</span>
+              <span style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.16em; color: #5D6660;">CH. ________</span>
+            </div>
+            <div style="flex: 1; min-height: 160px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px); border-top: 1px solid #D6D5CD;"></div>
+          </div>
+        </div>
+        <div style="display: grid; grid-template-columns: 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 8px; margin-top: 10px;">
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+          <div><div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 24px; border-bottom: 1px solid #E3E2DA;"></div></div>
+        </div>
+      </div>
+      <div style="border-left: 1px solid #D6D5CD; padding-left: 16px; display: flex; flex-direction: column;">
+        <div style="border: 1px solid #5D6660; padding: 8px 10px; margin-bottom: 12px;">
+          <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #5D6660; margin-bottom: 5px;">↩ FROM VOLUME ONE</div>
+          <div style="font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.55;">David, p. 082<br>Peter's denial, p. 092<br>Paul, p. 096<br>Mercy &amp; justice, p. 102</div>
+        </div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 5px;">BEFORE YOU CLOSE THE DOSSIER</div>
+        <div style="font-family: 'EB Garamond', serif; font-size: 12.5px; line-height: 1.5; color: #5D6660; margin-bottom: 12px;">Turn back to her creed page. If nothing she believes there costs her anything here, one of the two pages is lying to you.</div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.22em; color: #3E4C63;">MARGINALIA</div>
+        <div style="flex: 1; margin-top: 8px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 30px, #E3E2DA 30px, #E3E2DA 31px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 10px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>260</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 261 · EDEN · 11 OF 17 · THE MACHINERY AROUND HER ===== -->
+  <div data-print-page data-screen-label="261" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 11 OF 17 · THE MACHINERY AROUND HER</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 31px; font-weight: 600; letter-spacing: 0.04em; line-height: 1.1;">THE MACHINERY AROUND HER</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 9px;"></div>
+      <p style="margin: 0 0 11px; font-family: 'EB Garamond', serif; font-size: 14px; line-height: 1.4;">Six systems are pressing on Eden before she says a word in Chapter One. You built all six; this page holds them together so you never have to stop drafting to go and look. Nothing here asks you to write — the next four pages do. Read it, then turn the page while it is still loud.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 7px; flex: 1; min-height: 0;">
+      <div style="border-top: 1px solid #1F2328; padding-top: 6px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">THE DESIGNATION, AND THE FLAG</span><span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TL · DOM</span></div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.4;">At eighteen every Aurem girl is assessed by a Vowed officer and sorted — Unbound track or elevated track — before she has a say in it. Eden scored the highest in the Dominion's history and was flagged the same day: <em>Exceptional intellect. Monitor closely.</em> <strong>Pressure:</strong> she has been watched by name for three years. Every room she enters, she enters as a file that is already open.</p>
+      </div>
+      <div style="border-top: 1px solid #E3E2DA; padding-top: 6px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">SELF-NOMINATION — SIX MONTHS AND TEN DOLLARS</span><span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TR · DR3</span></div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.4;">The clause is real and the process is built to exhaust anyone without institutional backing. She asked Minister Bell to sponsor her first; he asked about her father, asked whether her mother was properly Bound, and prayed that God would close every door not intended for her. She found the clause in small print, paid the fee while the clerk inspected both sides of every bill, and filed six months of paperwork at Celeste's kitchen table. <strong>Pressure:</strong> the Empire will read her ambition as pride the moment it stops being useful.</p>
+      </div>
+      <div style="border-top: 1px solid #E3E2DA; padding-top: 6px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">THE SALT CEREMONY, AND CELESTE'S THEOLOGY</span><span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">DOM · TR</span></div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.4;">The night before a Binding, an Aurem grandmother washes the bride's hands in salt water and tells her the truth about marriage: what to hold, what to hide, what not to hand over just because somebody asks. The Empire does not know the ceremony exists. Celeste performed it for Miriam. It did not save her; it gave her something to hold. <strong>Pressure:</strong> Eden's faith was formed at a kitchen table by a woman who teaches that power is survivable if you keep part of yourself unregistered — and Eden intends to test that at Imperial scale.</p>
+      </div>
+      <div style="border-top: 1px solid #E3E2DA; padding-top: 6px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">SOLOMON, AND THE DOOR THAT ONLY OPENS ONCE</span><span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">MEN</span></div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.4;">When a common boy's scores come back exceptional, a Crown education officer appears within three months with a scholarship the family may decline — and declining routes him to the worst labor assignments for life. Accepting transfers his autonomy permanently. Solomon's theological reasoning is extraordinary; two informal notes are already filed. Celeste is coaching him on how much of himself to show. <strong>Pressure:</strong> Eden nominated herself partly to be standing somewhere useful before that officer knocks. She does not know about the notes.</p>
+      </div>
+      <div style="border-top: 1px solid #E3E2DA; padding-top: 6px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">LEAH, UNDER THE QUOTA</span><span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">MEN · TL</span></div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.4;">Nearly two years a Commonwife with no pregnancy. The Vowed officer who runs the quarterly household assessment has made an informal comment; the husband has made the same one less carefully. Leah comes to Celeste's kitchen twice a week under cover of helping with Solomon, and watches Eden's Covenant Score move on the Sovereign Boulevard screens every evening. <strong>Pressure:</strong> Eden's win is the only exit anyone in that family can see, and Leah is the reason the clock is running.</p>
+      </div>
+      <div style="border-top: 1px solid #E3E2DA; border-bottom: 1px solid #1F2328; padding: 6px 0 8px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">THE EVE PROBLEM</span><span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">TR</span></div>
+        <p style="margin: 3px 0 0; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.4;">The Broadcast holds forty percent of the Covenant Score and assigns an antagonist narrative to whichever candidate most threatens a comfortable outcome. Internally they call it the Eve problem: when a woman's intelligence becomes the story instead of her compliance. It does not accuse. It implies. It has worked every previous cycle. <strong>Pressure:</strong> the thing that got Eden to the Crownward is the thing they will use to take it back.</p>
+      </div>
+      <div style="flex: 1; min-height: 0;"></div>
+      <div style="border-left: 3px solid #3E4C63; padding-left: 12px;">
+        <p style="margin: 0; font-family: 'EB Garamond', serif; font-style: italic; font-size: 13.5px; line-height: 1.4; color: #5D6660;">Do not answer anything here. The next pages will ask you for one thing at a time and give you the room to be wrong twice before you are right.</p>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 8px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>261</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 262 · EDEN · 12 OF 17 · EXCAVATION ===== -->
+  <div data-print-page data-screen-label="262" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 12 OF 17 · EXCAVATION</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 31px; font-weight: 600; letter-spacing: 0.04em;">WHAT BELL TOOK FROM HER</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 8px;"></div>
+      <p style="margin: 0 0 10px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.38;">She went to a man who had eaten Celeste's sweet potato pie for thirty-four years and asked him to sponsor her. He kept her waiting while he signed Binding certificates. He did not ask about her grades. He asked whether her father was dead, and whether her mother was properly Bound when Eden was born. Then he offered Leah a Home Instruction nomination and prayed that God would close every door not intended for her. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">DR3</span> Everything she does afterward — the clause, the ten dollars, the red card — happens on the other side of that room.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 11px; flex: 1; min-height: 0;">
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">1 · WALKING IN</div>
+        <p style="margin: 1px 0 3px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.36;">What did she genuinely believe, that morning, about how merit, faith and opportunity fit together? Not what she hoped — what she thought was <em>true about how the world works</em>.</p>
+        <div style="height: 192px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">2 · THE QUESTION ABOUT HER FATHER</div>
+        <p style="margin: 1px 0 3px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.36;">He asked about a man who left when she was one instead of a mind that has never been beaten. What exactly changes in her while he is talking — and what does she do with her face?</p>
+        <div style="height: 192px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">3 · WHAT SURVIVES THE MEETING ANYWAY</div>
+        <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">WHERE THIS SHOWS UP LATER — SCENE, AND WHAT SHE DOES DIFFERENTLY</span>
+          <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ________</span>
+        </div>
+        <div style="flex: 1; min-height: 56px; border-top: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 8px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>262</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 263 · EDEN · 13 OF 17 · FREEWRITE ===== -->
+  <div data-print-page data-screen-label="263" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 13 OF 17 · FREEWRITE</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 34px; font-weight: 600; letter-spacing: 0.04em;">WRITE HER AT HOME</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 8px;"></div>
+      <p style="margin: 0 0 8px; font-family: 'EB Garamond', serif; font-size: 14px; line-height: 1.4;">Ten minutes of Eden doing something completely ordinary in Celeste's house before any of it starts. No Empire explanation. No exposition. Nobody assessing her. She has been graded since she was eighteen and there is a version of her that only that kitchen has met — write that one.</p>
+      <p style="margin: 0 0 8px; font-family: 'EB Garamond', serif; font-style: italic; font-size: 13px; line-height: 1.38; color: #5D6660;">If you stall, reach for one of these and keep going: where she sits and what is wrong with that chair · what she does with her hair · what she eats when nobody is watching what she eats · the chore she hates and does anyway · what makes her petty · what makes Zion laugh · what she does with silence · the sound of that house at nine at night.</p>
+    </div>
+    <div style="flex: 1; min-height: 0; border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+    <div style="display: flex; justify-content: space-between; align-items: baseline; padding-top: 6px; font-family: 'EB Garamond', serif; font-style: italic; font-size: 12.5px; color: #5D6660;"><span>Anything here that surprised you is canon now unless you cross it out.</span><span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.16em;">DATE ____________</span></div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 6px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>263</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 264 · EDEN · 14 OF 17 · EDEN & CELESTE ===== -->
+  <div data-print-page data-screen-label="264" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 14 OF 17 · EDEN &amp; CELESTE</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 31px; font-weight: 600; letter-spacing: 0.04em;">EDEN &amp; CELESTE</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 8px;"></div>
+      <p style="margin: 0 0 9px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.38;">Celeste took her at two, raised her on fragments of the old world and a fury she learned to keep quiet, buried three people the old way and intends to be buried that way herself. She performed the Salt Ceremony for Miriam and it did not save her. When Eden paid the ten dollars, Celeste said <em>you paid for the right to be judged by people who already decided what you are</em> — and then cleared a shelf for her study materials by midnight. <span style="font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.12em; color: #8A8F98;">DR3 · TL · DOM</span> Both halves of that woman are true. Eden has only ever been told one of them.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px; flex: 1; min-height: 0;">
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">WHAT EDEN THINKS CELESTE BELIEVES ABOUT GOD, THE EMPIRE, AND HER</div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">WHAT CELESTE ACTUALLY BELIEVES — INCLUDING THE PART SHE HAS NEVER SAID ALOUD</div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #5D6660;">WHERE EDEN HAS MISUNDERSTOOD HER — AND WHAT THAT MISREADING COSTS</div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">THE THING EDEN HAS NEVER ASKED HER, AND WHY SHE HASN'T</div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">THE SCENE WHERE SHE FINALLY DOES — WHO IS IN THE ROOM, AND WHAT IS COOKING</span>
+          <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ________</span>
+        </div>
+        <div style="flex: 1; min-height: 56px; border-top: 1px solid #D6D5CD; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 8px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>264</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 265 · EDEN · 15 OF 17 · SCENE LAB ===== -->
+  <div data-print-page data-screen-label="265" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 15 OF 17 · SCENE LAB</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 31px; font-weight: 600; letter-spacing: 0.04em;">PUT PRESSURE ON THE BELIEF</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 8px;"></div>
+      <p style="margin: 0 0 9px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.38;">Take one thing Eden believes and build the room that tests it. Fill the eight short lines fast — they are scaffolding, not prose — then rough the scene underneath. A belief that never meets a person who wants something else is a theme, not a story.</p>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 8px 24px;">
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">THE BELIEF, IN HER WORDS</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">WHO IS MOST CAPABLE OF CHALLENGING IT</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">A SETTING SHE CANNOT LEAVE</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #5D6660;">WHO ELSE IS WATCHING, AND FOR WHOM</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">WHAT THE OTHER PERSON WANTS</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">WHAT EDEN WANTS</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">WHAT SHE SAYS</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #5D6660;">WHAT SHE REFUSES TO SAY</div><div style="height: 30px; border-bottom: 1px solid #E3E2DA;"></div></div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 10px;">
+      <div style="border-left: 3px solid #3E4C63; padding-left: 11px;"><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #3E4C63;">WHAT IS DIFFERENT WHEN SHE LEAVES THE ROOM</div><div style="height: 64px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div></div>
+      <div style="border-left: 1px solid #5D6660; padding-left: 11px;"><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #5D6660;">WHAT THE BELIEF LOOKS LIKE AFTERWARD — INTACT, NARROWED, OR GONE</div><div style="height: 64px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div></div>
+    </div>
+    <div style="flex: 1; display: flex; flex-direction: column; min-height: 0; margin-top: 11px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">ROUGH THE SCENE HERE — DIALOGUE ONLY IS FINE</span>
+        <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ________</span>
+      </div>
+      <div style="flex: 1; min-height: 120px; border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 8px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>265</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 266 · EDEN · 16 OF 17 · EVIDENCE ON THE PAGE ===== -->
+  <div data-print-page data-screen-label="266" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 16 OF 17 · EVIDENCE ON THE PAGE</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 31px; font-weight: 600; letter-spacing: 0.04em;">WHAT SHE ALREADY DOES</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 8px;"></div>
+      <p style="margin: 0 0 10px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.38;">Behaviour already dramatised in Draft Three, and what it establishes without you having to explain it. Read this side. Write on the right.</p>
+    </div>
+    <div style="border-top: 1px solid #1F2328;">
+      <div style="display: grid; grid-template-columns: 1fr 1.9in; background: #E7E6E0; border-bottom: 1px solid #1F2328; font-family: 'Jost', sans-serif; font-size: 8.5px; letter-spacing: 0.16em; color: #5D6660;">
+        <div style="padding: 5px 12px 5px 0; border-right: 1px solid #D6D5CD;">ON THE PAGE — DRAFT THREE, CHAPTER ONE</div>
+        <div style="padding: 5px 12px;">WHAT IT ESTABLISHES</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1.9in; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36;">
+        <div style="padding: 7px 12px 8px 0; border-right: 1px solid #D6D5CD;">Toe resting exactly behind the gold tile that separates candidates from everybody else. Asked about it: <em>"They let me through the door. Figured the floor came with it."</em></div>
+        <div style="padding: 7px 12px;">Tests a limit with her body, then answers with the minimum viable sentence.</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1.9in; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36;">
+        <div style="padding: 7px 12px 8px 0; border-right: 1px solid #D6D5CD;">The nail she hammered flat that morning rises through the cardboard and enters her stocking while the board is being read. She stays where she is.</div>
+        <div style="padding: 7px 12px;">Absorbs pain rather than surrender position. The cost stays private.</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1.9in; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36;">
+        <div style="padding: 7px 12px 8px 0; border-right: 1px solid #D6D5CD;">Fear sends her eyes to the bottom of the board first — Domestic Service, Binding, Remedial — before she looks up.</div>
+        <div style="padding: 7px 12px;">Her ambition is defensive before it is aspirational.</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1.9in; border-bottom: 1px solid #E3E2DA; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36;">
+        <div style="padding: 7px 12px 8px 0; border-right: 1px solid #D6D5CD;">Ten dollars of eleven, counted by a clerk who inspects both sides of every bill. She walks home in the same shoes and says nothing until Celeste finds the receipt.</div>
+        <div style="padding: 7px 12px;">Pays in advance, alone, and does not announce the cost.</div>
+      </div>
+      <div style="display: grid; grid-template-columns: 1fr 1.9in; border-bottom: 1px solid #1F2328; font-family: 'EB Garamond', serif; font-size: 13px; line-height: 1.36;">
+        <div style="padding: 7px 12px 8px 0; border-right: 1px solid #D6D5CD;">Notices the lilies, the photographer's tripod moving two feet left, Bell's attention going to the officials instead of to her.</div>
+        <div style="padding: 7px 12px;">Intelligence lives in what she catalogues, not what she declaims.</div>
+      </div>
+    </div>
+    <div style="flex: 1; min-height: 0;"></div>
+    <div style="border: 1px solid #3E4C63; padding: 8px 12px 10px;">
+      <div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #3E4C63; margin-bottom: 3px;">ADD YOUR OWN AS YOU DRAFT</div>
+      <div style="height: 96px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 8px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>266</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+
+  <!-- ===== 267 · EDEN · 17 OF 17 · REPEAT, COMPLICATE, REVERSE ===== -->
+  <div data-print-page data-screen-label="267" style="width: 816px; height: 1056px; background: #F2F1EC; color: #1F2328; box-sizing: border-box; padding: 62px 72px 54px 112px; display: flex; flex-direction: column;">
+    <div style="text-align: center; border-bottom: 1px solid #D6D5CD; padding-bottom: 8px; font-family: 'Jost', sans-serif; font-size: 10.5px; letter-spacing: 0.3em;">EDEN &nbsp;·&nbsp; 17 OF 17 · REPEAT, COMPLICATE, REVERSE</div>
+    <div style="padding: 16px 0 0;">
+      <div style="font-family: 'Cinzel', serif; font-size: 31px; font-weight: 600; letter-spacing: 0.04em;">WHAT YOU DO WITH IT</div>
+      <div style="height: 1px; background: #3E4C63; margin: 9px 0 8px;"></div>
+      <p style="margin: 0 0 10px; font-family: 'EB Garamond', serif; font-size: 13.5px; line-height: 1.38;">A character reads as one continuous person when a gesture comes back changed. Take the behaviours from the facing page and decide, in writing, where each one repeats plainly, where it costs her more, and where she does the opposite — and what has happened to her by then.</p>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 10px; flex: 1; min-height: 0;">
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">REPEAT — WHERE THE SAME MOVE LANDS AGAIN, UNCHANGED</span><span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ______</span></div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">COMPLICATE — WHERE IT COSTS HER MORE THAN IT DID IN AURELIA</span><span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ______</span></div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div>
+        <div style="display: flex; justify-content: space-between; align-items: baseline;"><span style="font-family: 'Jost', sans-serif; font-size: 9.5px; letter-spacing: 0.2em; color: #3E4C63;">REVERSE — WHERE SHE DOES THE OPPOSITE, AND WHAT MADE THAT POSSIBLE</span><span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ______</span></div>
+        <div style="height: 128px; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+      <div style="flex: 1; display: flex; flex-direction: column; min-height: 0;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-family: 'Jost', sans-serif; font-size: 10px; letter-spacing: 0.2em; color: #3E4C63;">THE NEXT SCENE THIS SPREAD JUST TOLD YOU TO WRITE</span>
+          <span style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #5D6660;">CH. ________</span>
+        </div>
+        <div style="flex: 1; min-height: 128px; border-top: 1px solid #1F2328; border-bottom: 1px solid #1F2328; background-image: repeating-linear-gradient(to bottom, transparent 0, transparent 31px, #E3E2DA 31px, #E3E2DA 32px);"></div>
+      </div>
+    </div>
+    <div style="display: grid; grid-template-columns: 1fr 96px; gap: 16px; align-items: end; border-top: 3px solid #3E4C63; padding-top: 7px; margin-top: 9px;">
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #3E4C63;">CANON — DECIDED</div><div style="height: 22px; border-bottom: 1px solid #E3E2DA;"></div></div>
+      <div><div style="font-family: 'Jost', sans-serif; font-size: 9px; letter-spacing: 0.2em; color: #5D6660;">DATE</div><div style="height: 22px; border-bottom: 1px solid #E3E2DA;"></div></div>
+    </div>
+    <div style="display: flex; align-items: center; justify-content: center; gap: 14px; padding-top: 8px; font-family: 'EB Garamond', serif; font-size: 14px;"><span style="height: 1px; width: 40px; background: #8A8F98;"></span><span>267</span><span style="height: 1px; width: 40px; background: #8A8F98;"></span></div>
+  </div>
+</x-dc>
+</body>
+</html>

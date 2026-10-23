@@ -1,0 +1,62 @@
+@opener id="solomon" rh="THE PARISH HOUSEHOLD · SOLOMON · PORTRAIT" m="TKC: MEN · TL · FR 0 · FR 11; VOL. I · {v1:men}"
+plate: frame | PORTRAIT · SOLOMON OSEI · SIXTEEN
+/end
+tk: PART I · DOSSIER 7 · ◈ · SHORT
+big: Solomon
+lede: He's doing exactly what Eden feared he would: excelling in Imperial school in the way that gets boys flagged (MEN).
+calls:
+k: On the record
+Solomon Osei, sixteen. Designation in two years. Extraordinary theological reasoning, governance aptitude in the top percentile of his cohort, and two informal teacher notes already with the Crown education office (MEN). He prays over Eden before she leaves (TL).
+||
+k: Still open
+How he kept the Osei name, what he knows about his father, and what he does when the officer knocks (FR 0).
+/end
+
+@page rh="THE PARISH HOUSEHOLD · SOLOMON · THE RECORD AND THE BOY" m="TKC: MEN · FR 0 · FR 11 · RULING; VOL. I · {v1:men} · {v1:sorted}"
+# The record and the boy
+plate: doc
+dh: Informal Note | CROWN EDUCATION OFFICE · AURELIA
+dsub: FILED BY A TEACHER · NOT AN OFFICIAL FLAG
+df: Student | OSEI, Solomon · sixteen
+df: Theological reasoning | extraordinary
+df: Governance aptitude | top percentile of cohort
+df: Notes on file | two
+df: Becomes a flag | at seventeen, when the pre-Designation assessment begins
+stamp: NOTED
+/end
+rec:
+His father | The man Miriam was reassigned to after Thomas left (FR 0). He was two in 2090 (FR 11). OPEN QUESTION: Why did he keep the Osei name?
+The coaching | Celeste is teaching him exactly how much of himself to show in which rooms, the way Red Earth mothers coach their sons. He understands what she's teaching. He's sixteen, and sometimes he forgets to hide it, and they have the conversation again (MEN).
+The door that opens once | A Crown education officer comes within three months of exceptional scores, with a scholarship to the Imperial Education Track. Declining routes a boy to the worst labor for life. Accepting makes him Crown-adjacent for life (MEN).
+What Eden doesn't know | The notes. She finds out in book two, and it's the moment she understands winning wasn't the end of anything (MEN).
+small: SUPERSEDED: Thirteen (TL). DECIDED: Sixteen.
+
+@page rh="THE PARISH HOUSEHOLD · SOLOMON · FAITH AND SCRIPTURE" m="2 SAM 12.24–25; 1 KGS 3.9; 1 KGS 5.13; 1 KGS 12.4; DAN 1.3–8; 1 SAM 3.10; VOL. I · {v1:b-daniel} · {v1:kingmakers} · {v1:men}"
+# Faith and scripture
+rec:
+What he believes | He prays over his sister before she leaves (TL). INFERENCE: A boy whose theological reasoning is extraordinary has been arguing with the Book of Covenant in his head for years.
+Who taught him | Celeste, and the Imperial school, which is grading him for it (MEN).
+What the Temple teaches about a boy like him | The Track is offered as opportunity and honor (MEN). POSSIBLE: The officer quotes 1 Samuel 3.10, the boy in the temple who answers "thy servant heareth."
+His name | Solomon, born to David and Bathsheba after the household broke, and named Jedidiah, "beloved of the LORD," by Nathan (2 Sam 12.24–25). Offered anything, he asks for "an understanding heart" (1 Kgs 3.9).
+Where it breaks | The biblical Solomon built with conscripted labor, and the north revolted over his "grievous" yoke (1 Kgs 5.13, 12.4). Solomon Osei is the boy the Crown wants to conscript.
+Daniel · Daniel 1 | POSSIBLE: The king orders young men "skilful in all wisdom" brought to the palace and trained for three years. It reads like the Imperial Education Track, in a story set in the sixth century BCE. **Where it breaks:** Daniel "purposed in his heart that he would not defile himself with the portion of the king's meat" (1.8). Solomon hasn't been asked yet.
+small: Volume One: Ezekiel and Daniel, 132. Kingmakers, prophets and priests, with Solomon, 400. Men, labor and the economy, 492.
+prompt: The prayer he prays over Eden, word for word | fill
+
+@page rh="THE PARISH HOUSEHOLD · SOLOMON · PEOPLE AND VOICE" m="TKC: MEN · TL · DR3 · FR 0"
+# Who's protecting him
+tabrl:
+| Person | What passes between them |
+| Celeste | The coaching, again and again (MEN) |
+| Eden | She entered the Trials partly for him, and doesn't know about the notes (MEN) |
+| Zion | Looks after him, and signed his form (MEN, DR3) |
+| His father | _ |
+| His teachers | Two notes (MEN) |
+prompt: The thing he says in class that he shouldn't have | 4
+prompt: Lines only Solomon would say | fill
+
+@page rh="THE PARISH HOUSEHOLD · SOLOMON · WORKING PAGE" m="WRITING"
+# Write the knock
+Ten minutes. The pre-Designation assessment is a year away, and somebody from the Crown education office is at the door early.
+prompt: Write | fill
+status

@@ -1,0 +1,219 @@
+@opener id="celeste" rh="THE PARISH HOUSEHOLD · CELESTE · PORTRAIT" m="TKC: TL · DR3 · DOM · AM; VOL. I · {v1:memory} · {v1:lived} · {v1:household}"
+plate: frame | PORTRAIT · CELESTE PARISH · SIXTY-NINE · DRAW, PASTE OR PIN
+/end
+tk: PART I · DOSSIER 1 · ◈
+big: Celeste
+lede: Everything Eden knows about faith she learned at this woman's kitchen table. Everything she knows about hiding she learned there too, and only one of those was taught on purpose.
+calls:
+k: On the record
+Celeste Parish, sixty-nine. Unbound her whole life. Head of a reclassified household in Aurelia's outer district, and the oldest person in the cast (TL). About nine when they changed the signs.
+||
+k: Still open
+Where she was born, who Miriam's father is to her, the three people she's buried the old way, and the second name she gave Eden.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · THE RECORD" m="TKC: TL · DR3 · FR 2 · FR 10; VOL. I · {v1:forms} · {v1:household}"
+# The Registry card
+plate: doc
+dh: Household Record | REGISTRY · AUREM · H-1
+dsub: AS THE MINISTRY HOLDS IT · RECLASSIFIED 2096
+df: Name of record | PARISH, Celeste
+df: Designation | Unbound · held for life · no Binding on record
+df: Born | c. 2035 (INFERENCE from her age)
+df: Residence | Aurelia, outer district · settled 2071
+df: Household | single-family unit, under her registration
+df: Dependents | Eden, Leah, Zion, Solomon Osei, entered 2085 and 2090
+df: Adult male authority | "deceased" · returned circled · Zion Osei
+stamp: UNBOUND
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Mother Parish | Minister Bell, the Temple | Respect she didn't ask for, from an institution she doesn't trust (DR3) |
+| Grandmama | The children | The only title she earned instead of survived (DR3) |
+| Head of household | The Ministry, since 2096 | Six years of paperwork to be called this on one line (TL) |
+| _ | _ | _ |
+prompt: The name her own mother called her, and the last person alive who uses it | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · THE YEARS" m="TKC: TL · DOM · DR3 · FR 4 · FR 16–17; VOL. I · {v1:timeline} · {v1:memory}"
+# Her years against the Empire's
+tabrl:
+| Year | Age | Her life | The Empire that year |
+| c. 2035 | 0 | Born. Where is open. | Elias wins his Senate seat |
+| 2044 | 9 | Watches her own grandmother cry when the signs change (TL) | The Dominion Act. Atlanta becomes Aurelia. |
+| _ | _ | Her mother taken through a Commonwife marriage (TL) | _ |
+| 2062 | 27 | Miriam born. Raised alone, Unbound (TL). | Crest takes the throne. Quotas go Empire-wide. |
+| 2071 | 36 | Settles in Aurelia for good (TL) | _ |
+| 2082 | 47 | Performs the Salt Ceremony the night before Miriam's Binding (DOM) | _ |
+| 2085 | 50 | Takes Eden, about two (TL, FR 4) | Crest dies. Dorian takes the throne. |
+| 2090 | 55 | Miriam leaves. Three more children arrive. She files. (TL) | _ |
+| 2096 | 61 | Reclassification approved. Three days without speaking. (TL) | _ |
+| 2101 | 66 | Eden's score. She holds still, then goes back to the stove (TL) | _ |
+| 2104 | 69 | The ten dollars, the cleared shelf, the real name of the city (DR3, TL) | The 39th Trial |
+small: INFERENCE: She's about nine in 2044, so born around 2035, and the timeline's "mid thirties" in 2071 agrees.
+prompt: The year she never talks about, and why | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · STANDING" m="TKC: TL · DR3 · DOM; VOL. I · {v1:forms} · {v1:designations} · {v1:household}"
+# The clerk's version and the true one
+rec:
+On the ledger | Unbound, sixty-nine, head of a single-family household in the outer district. Never Bound, so never widowed in law. A woman with no husband, no office and no standing beyond what the reclassification granted her in writing (TL).
+In the widows' row | She sits in the row reserved for widows at Temple, and nobody has ever asked her to move. Minister Bell has known her thirty-four years, eaten her sweet potato pie at harvest suppers, and called every winter when the Temple needed coats repaired. He greets her with both hands out. She looks at their joined hands and answers "Morning," and he keeps smiling (DR3).
+The six-year filing | When Miriam left in 2090 she filed to reclassify the household under her own registration. Approval took six years, because she had to prove the arrangement was permanent, which meant proving her daughter wasn't coming back. She put on her one good blouse, went downtown, and said what she needed to say (TL).
+The authority line | A form for Solomon came demanding an adult male authority. She wrote "deceased" on the line. It came back with the word circled and a request for the next adult male, and Zion, at eighteen, signed. She hadn't wanted him to (DR3).
+INFERENCE | She has no office, no money and no husband, and she may be the most powerful person in her district.
+prompt: What this household lives on, who earns it, and what it doesn't cover | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: DOM · DR3 · TL · AM · FR 16; VOL. I · {v1:teaches} · {v1:lived} · {v1:lived6}"
+# What she believes
+Celeste is the most religious person in the book and the least Imperial (AM). Those don't pull against each other for her, and the pages where a reader feels that are the engine of the Parish house.
+rec:
+What she believes | INFERENCE: Keep part of yourself unregistered. It's what the salt water is for, what the second name is for, and what "morning" is instead of an answer. Faith can survive an institution by not handing it everything.
+Who taught her | OPEN QUESTION: Her grandmother, who cried at the signs (TL), or her mother, who lost her name to a Commonwife marriage? The files don't say who first put scripture in her hands.
+What she can recite | All of it, including the Covenant of Purpose (AM). INFERENCE: Fluency is her camouflage.
+What she trusts when frightened | Her hands. She prays from the moment they leave the house, thumb against her first knuckle, one tap per petition (DR3). When Eden paid the ten dollars she didn't pray about it. She cleared a shelf (DR3).
+What she'd be arrested for | The Salt Ceremony, which the Empire doesn't know exists, and burying the dead the old way (DOM). The real name of the city, said out loud to Eden the night before she leaves (TL).
+empire: What the Temple teaches about a woman like her
+An Unbound woman is "difficult and surveilled" (TL), and every household form asks for a man (DR3). POSSIBLE: The Temple seats her in the widows' row and preaches 1 Timothy 5.5, the "widow indeed" who "trusteth in God, and continueth in supplications and prayers." It honors her and files her in one gesture, without ever saying she was never anyone's widow.
+/end
+small: SUPERSEDED: An earlier round had Celeste knowing Miriam was alive and hiding it. She has no proof Miriam is alive (FR 16), so her silence about her daughter is grief with no information in it.
+prompt: The one piece of Imperial doctrine she half believes, and hates that she does | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · FAITH AND SCRIPTURE · 2 OF 2" m="2 TIM 1.5; RUTH 1–4; 2 SAM 21.8–14; MATT 5.13; PS 137.4; MATT 6.6; ISA 10.1–2; LUKE 18.1–8"
+# The text
+rec:
+Her name | *Celeste* is from the Latin *caelestis*, "heavenly." It has no biblical source. She's the only person in the house without scripture in her name, and the one who taught the others theirs.
+Lois · 2 Timothy 1.5 | POSSIBLE: Paul names Timothy's grandmother: the "unfeigned faith… which dwelt first in thy grandmother Lois." A grandmother's faith passed down a household. **Where it breaks:** Lois's faith is honored by an apostle in writing. Celeste's is kept off every record on purpose.
+Naomi · Ruth 1–4 | POSSIBLE: A woman who's buried what she loved and sends the younger one where the future is. **Where it breaks:** Naomi sends Ruth to a man. Celeste sends Eden toward one and arms her against him in the same sentence (TL).
+Rizpah · 2 Samuel 21 | POSSIBLE: She guards the bodies of her sons on a rock from harvest until rain, until the king buries them properly. Celeste has buried three people the old way (DOM). **Where it breaks:** Rizpah's vigil is public and shames a king. Celeste's is arranged so no king ever hears of it.
+tab:
+| She'd quote | Never read to her in the Temple |
+| "Ye are the salt of the earth" (Matt 5.13), at a Salt Ceremony | Isaiah 10.1–2, woe to those who decree unrighteous decrees "that widows may be their prey" |
+| "How shall we sing the LORD's song in a strange land?" (Ps 137.4) | Luke 18.1–8, the widow who wears down a judge who "feared not God, neither regarded man" |
+| "Pray to thy Father which is in secret" (Matt 6.6) | _ |
+box: Volume One
+Ruth and Naomi, {v1:ruth} and 109. The unnamed, and two widows, 388. The women who ran things, with the widows of Acts 6, 395. Deuteronomy 6, the household is the school, 334. Lived religion and the Salt Ceremony, 498. Faith that isn't performance, 503. Living memory, 467.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · BODY AND FEAR" m="TKC: DR3 · TL · DOM"
+# Body and fear
+Sixty-nine years of holding still in rooms that were assessing her. The manuscript already knows what that looks like.
+rec:
+What the record shows | A cane she didn't need last summer. This year she says people move faster when you carry one, and both reasons are true (DR3). Back straight in the widows' row, gloved hands over the handle. Three days of not speaking after the reclassification cleared (TL).
+What politeness costs | Bell takes her hand and she looks at their joined hands before she answers. The cane shifts against the floor when he says Eden's name (DR3). INTERPRETATION: Her body objects about half a second before her manners arrive, and only Eden can read it.
+The heat | Aurem summer "sits on your back from May through October and expects you to carry it" (DOM). She's carried sixty-nine of them.
+The three burials | She's buried three people the old way and intends to be buried that way herself (DOM).
+What she's afraid is true | INFERENCE: Teaching a girl to keep part of herself unregistered might only be a slower loss. Miriam had the salt water and left anyway. If that's true, she's sent Eden to the Crownward with a hymn instead of armor.
+prompt: What her body does that she has no idea Eden can read | fill
+prompt: The night she was most afraid, and what she did instead of saying so | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · BELIEF ARC" m="TKC: TL · DR3 · FR 16; YOURS"
+# Belief arc
+The first two stations are printed from your files, because she's already lived them. The last two are the book. The oldest person in the house is the one most likely to be asked to change her mind, and she's had the least practice.
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · Before Aurelia | Refusing the Empire's terms is survivable if you're careful. She stays Unbound and moves between Dominions rather than settle where a Binding could find her (TL). | Miriam, raised to refuse everything, takes the first Binding offered at twenty and believes she loves him (TL) | _ |
+| II · After Miriam | INFERENCE: Keep part of yourself unregistered, and teach it earlier and harder. | Eden pays ten dollars to be judged. Celeste names what it bought and clears a shelf by midnight (DR3). | _ |
+| III · In this book | _ | _ | _ |
+| IV · On the last page | _ | _ | _ |
+prompt: Who notices first that she's changed, and what they see | fill
+prompt: The scene where the crack shows, and who's in the kitchen when it does | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · POWER AND PEOPLE" m="TKC: TL · DR3 · MEN · FR 11–17"
+# Who she can move, and who can move her
+tabrl:
+| Person | What passes between them | Leverage |
+| Eden | Everything she knows about faith, and the real name of the city (TL) | Eden's. She left anyway, and Celeste helped her go. |
+| Leah | Comes to the kitchen twice a week under cover of helping with Solomon (MEN) | Leah's husband, and the quarterly assessment |
+| Zion · 18 | Signed the form she didn't want him to sign (DR3). Promised Eden he'd look after her (TL). | The Empire's, through him. He's the man on the form now. |
+| Solomon · 16 | She's coaching him on how much of himself to show (MEN) | A Crown education officer who hasn't knocked yet |
+| Miriam | A name she doesn't speak lightly (TL). No proof she's alive (FR 16). | Miriam's, by being absent |
+| Minister Bell | Thirty-four years, pie and coats, and a sponsorship he wouldn't give (DR3) | His, formally. She has thirty-four years of receipts. |
+| Miriam's father | INFERENCE: The man from the unregistered ceremony that he survived, and "it was not an oversight" (FR 17) | _ |
+prompt: Who in the district owes her, and what she's never called in | fill
+prompt: Who she prays for that nobody would guess | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · VOICE" m="TKC: DR3 · TL"
+# Her voice
+Hers is the most distinct voice in the manuscript: short, dry, flat, and almost never the answer to the question asked. Lines already on the page are printed. Keep the rhythm when you add to them.
+rec:
+On the page | "You need to stop bending that card. You distracting me." Without turning her head (DR3).
+To a minister | "Morning." To a man of thirty-four years who's just said what a joy it is to see her (DR3).
+To the House | "Well. The House calls whom it calls." (DR3)
+Teasing | "You like seeing how close you can get." "To what?" "My cane." (DR3)
+The receipt | "You paid ten dollars for the right to be judged by people who already decided what you are." (DR3)
+Grading | "Passing ain't the same as placing." (DR3)
+The last night | "Remember what I told you about the real name of this city." (TL)
+small: INFERENCE: Four words where six would do. She answers the second question, not the first, says the hard sentence flat and stops, and never raises her voice in a building the Empire owns.
+prompt: Lines only she would say. Write ten, keep three. | fill
+prompt: Words she won't use, and why | 3
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · CONTRADICTION" m="TKC: DR3 · TL · DOM"
+# The contradiction
+Your files contain hers twice, and the cost is on record both times.
+rec:
+What she believes and breaks | INFERENCE: You don't hand the Empire anything it hasn't already taken. She told Eden exactly what the ten dollars bought, and by midnight she'd cleared a shelf for the study materials (DR3). Knowing better, she helped.
+What it cost, the first time | She raised Miriam to refuse everything, and Miriam accepted a Binding at twenty (TL). The Salt Ceremony didn't save her (DOM).
+What it may cost now | She's helped the second one out the door toward the same institution in a better dress. Whatever comes after the Trials, she signed for it too.
+prompt: Why she helped anyway, in her words and not yours | fill
+prompt: The scene where the contradiction lands on her, and the chapter | 4
+
+@essay rh="THE PARISH HOUSEHOLD · CELESTE · THE MACHINERY AROUND HER"
+# The machinery around her
+drop: Five systems press on a sixty-nine-year-old woman with no legal standing, and none of them asks her permission. Read this page, then turn it while it's still loud.
+The authority line comes first. Every form that matters asks for an adult male. She wrote "deceased" and it came back circled (DR3). Her authority is real inside the house and gone at the counter, and the Empire will keep sending her paper that says so.
+Solomon's scores come next. A common boy whose scores come back exceptional gets a visit from a Crown education officer within three months, and refusing the offer routes him to the worst labor for life (MEN). Two informal notes are already filed, and she's coaching him to show less (MEN). Leah sits under the Commonwife timeline, nearly two years Bound with no pregnancy and a Vowed officer making comments (MEN). Celeste can feed her and can't protect her.
+The Temple she attends anyway knows her best and priced her most exactly. Thirty-four years of pie and coats bought her a seat in the widows' row and no sponsorship (DR3). And Aurem itself, the Dominion with the highest Commonwife rate, made marriage look like the highest honor available on purpose (DOM). INTERPRETATION: Staying Unbound in Aurem has never been a private choice. She's been making a public statement for fifty years.
+side:
+chips: DR3, MEN, DOM
+k: Five pressures
+stext: The authority line, Solomon's scores, Leah's timeline, the Temple and Aurem.
+k: What isn't on the list
+stext: Miriam, and every one of the five runs around the hole she left.
+marg
+see: Vol. I, the forms, 490. Men and labor, 492.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · EXCAVATION · THE ONE GOOD BLOUSE" m="TKC: TL; WRITING"
+# The one good blouse
+Anywhere else it would have been called an adoption. Here it took six years, because approval meant proving on paper that her daughter wasn't coming back. She put on her one good blouse, went downtown, said what she needed to say, and didn't speak for three days after it was approved. Eden was in the room when she got home. Celeste held her face in both hands and said nothing (TL).
+prompt: 1 · What she said at the counter. Write the sentence that ends a daughter on paper, and what the clerk did with his pen. | fill
+prompt: 2 · The three days. The house keeps running. Who cooks, who reads her silence, and what a thirteen-year-old Eden decides it means. | fill
+prompt: 3 · Where this shows up later, and what she does differently because of it | 3
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write her alone
+Ten minutes of Celeste in that house with nobody in it. No grandchildren to be steady for, no minister to be polite to, no forms. She's performed composure for fifty years, and there's a version of her only an empty kitchen has met.
+small: If you stall, reach for one: what she does with the cane when nobody can see · the chair she never sits in · what she cooks for herself and whether she eats it · what she says out loud to God when it's only God · the drawer nothing's come out of in fourteen years · what she does with Miriam's name · the sound of the house at nine at night · what she's still angry about from 2044.
+prompt: Write | fill
+small: Anything here that surprised you is canon unless you cross it out. Date it.
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE AND MIRIAM · BOTH SIDES" m="TKC: TL · FR 3 · FR 6–9 · FR 15–18"
+# Celeste and Miriam
+note: A daughter's disappearance and a mother's grief.
+cols:
+k: What Celeste has
+Miriam took the first Binding offered and was unrecognizable within four years (TL). Her registration was deactivated in 2090 with no forwarding Dominion (TL). One promise to come back, then nothing, and no letter ever reached the house (FR 12, 16).
+prompt: What Celeste thinks happened to her daughter | 7
+||
+k: What happened
+After Thomas left, Miriam was reassigned to another man's household (FR 0). She left her children with Celeste to protect them from that household and from the search (FR 6, 9). She went looking for her father, who was close to the Vanes, and being unreachable wasn't something she chose (FR 15, 17).
+prompt: What Miriam would say about her mother's teaching, given the chance | 7
+/end
+prompt: If Miriam comes back, who's in the room, and what's cooking | fill
+
+@page rh="THE PARISH HOUSEHOLD · CELESTE · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+Take one thing Celeste believes and build the room that tests it. Fill the short lines fast. They're scaffolding, not prose. Her beliefs are sixty years old and have never met anyone who could out-argue them, so find that person.
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is listening, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says, four words or fewer | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE PARISH HOUSEHOLD · CELESTE · NOTES" m="NOTES" prompt="Anything Celeste's dossier started and didn't finish"

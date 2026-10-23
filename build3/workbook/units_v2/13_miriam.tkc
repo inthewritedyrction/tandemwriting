@@ -1,0 +1,196 @@
+@opener id="miriam" rh="THE PARISH HOUSEHOLD · MIRIAM · PORTRAIT" m="TKC: TL · DOM · FR 0 · FR 3 · FR 6–9 · FR 15–18; VOL. I · {v1:miriam} · {v1:arrangement}"
+plate: frame | PORTRAIT · MIRIAM OSEI · AS CELESTE LAST SAW HER, OR AS SHE IS NOW
+/end
+tk: PART I · DOSSIER 3 · ◈
+big: Miriam
+lede: She may have fully meant to come back. Celeste heard the instability under the promise. She didn't leave indifferent. She made a promise she eventually failed to keep (FR 8).
+calls:
+k: On the record
+Miriam Osei, born 2062, Bound at twenty to Thomas Osei. Reassigned after he left. Gone from Aurelia since 2090, registration deactivated, no forwarding Dominion logged (TL, FR 0).
+||
+k: Still open
+How reassignment worked, why Solomon kept the Osei name, who intercepted her letter, and what she says when she walks back in (FR 0, FR 16).
+/end
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · THE RECORD" m="TKC: TL · DOM · FR 0 · FR 1; VOL. I · {v1:binding} · {v1:arrangement}; OPEN QUESTION"
+# The file that stopped
+plate: doc
+dh: Binding Registration | REGISTRY · AUREM · 2082
+dsub: CROWN AND TEMPLE COPIES · WITNESSED BY A VOWED OFFICIANT
+df: Name of record | PARISH-OSEI, Miriam (INFERENCE from the Aurem custom)
+df: Born | 2062 · Aurelia
+df: Designation | Commonwife, a registration status (FR 1)
+df: Bound to | Osei, Thomas · service sector
+df: Reassigned | after 2084 · household of ____________ (FR 0)
+df: Children | Eden, Leah, Zion · Solomon (FR 0)
+df: 2090 | deactivated · no forwarding Dominion logged
+stamp: DEACTIVATED
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Miriam | Celeste, never lightly (TL) | _ |
+| What the children call her | Eden, Leah, Zion and Solomon | _ |
+| Commonwife | The Registry | A status, and the thing that let her be moved to another man's house (FR 0–1) |
+| _ | _ | _ |
+small: OPEN QUESTION: Does the hyphenated Binding surname apply only in Aurem, and what did Miriam's name become after reassignment (Vol. I, {v1:binding})?
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · THE YEARS" m="TKC: TL · DOM · FR 0 · FR 3–9 · FR 11 · FR 15–18"
+# Her years against the Empire's
+tabrl:
+| Year | Age | Her life | Source |
+| 2062 | 0 | Born to Celeste, raised alone under Unbound designation, watching her mother work the Empire "with precision and exhaustion" | TL |
+| 2082 | 20 | The Salt Ceremony, then her Binding to Thomas. She believes she loves him, and she does. | TL, DOM |
+| 2083 | 21 | Eden. She gives her the Selah. | TL |
+| 2084 | 22 | Leah. Thomas leaves for another Dominion, another woman, another life. She's reassigned to another man's household. | FR 0, FR 3 |
+| 2085 | 23 | Zion, conceived before Thomas left. Eden goes to Celeste. | FR 0, FR 4 |
+| 2088 | 26 | Solomon, by the man she was reassigned to | FR 0, FR 11 |
+| 2090 | 28 | Leaves all four with Celeste and goes alone, to look for her father | FR 6–7, FR 17 |
+| 2094 | 32 | One letter, intercepted before it reaches Celeste | FR 16 |
+| _ | _ | Finds her father, Crownward-resident and close to the Vanes | FR 7, FR 17 |
+| _ | _ | The arrangement that kept her unreachable ends, and she comes back. OPEN QUESTION: In this book or book two? | FR 18 |
+small: SUPERSEDED: The timeline calls 2084 a disappearance that Celeste "always believed otherwise" about. Thomas left voluntarily, and the record was accurate (FR 3).
+prompt: The year in her father's household she'd never describe to her children | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · STANDING" m="TKC: TL · FR 0 · FR 6–9 · FR 15–17; VOL. I · {v1:arrangement}"
+# The clerk's version and the true one
+note: Abandonment and coerced reassignment.
+rec:
+On the ledger | Commonwife registration quietly deactivated in 2090, no forwarding Dominion logged (TL). Within four years of her Binding she was "unrecognizable to her own mother" (TL).
+In 2084 | Thomas left voluntarily, and she was reassigned to another man's household (FR 0, FR 3). OPEN QUESTION: Who decided it, and what was her status while it happened (Vol. I, {v1:arrangement})?
+What she protected them from | The household she'd been reassigned to, and the instability of dragging four children on a search. She hadn't found her father yet, so she couldn't have named him as the threat (FR 9).
+Unreachable | Being unreachable wasn't selective. No version existed where she was hidden from her father and available to her children (FR 15).
+Her father's house | He'd been Crownward-resident and close to the Vanes the whole time, and surviving an unregistered ceremony wasn't an oversight. He was useful to somebody, and her children would be too (FR 17).
+prompt: What her days were like in the reassigned household, and the moment she decided to go | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TL · DOM · FR 8 · FR 18; VOL. I · {v1:teaches} · {v1:lived} · {v1:arrangement}"
+# What she believes
+rec:
+Who taught her | Celeste, who refused every term the Empire offered and raised her to do the same (TL). The Salt Ceremony the night before her Binding: what to hold, what to hide, what not to hand over (DOM).
+What she believed at twenty | She loved Thomas, and she did (TL). INFERENCE: That love could be a private thing inside a public registration.
+What she gave away | *Selah*, from the Psalms, to her first daughter (TL). INFERENCE: She knew the Psalms well enough to choose from them.
+What she believes now | OPEN QUESTION: The files give her conviction and no expectation of being believed when she returns (FR 18), and nothing about God.
+empire: What the Temple teaches about a woman like her
+A Commonwife is expected to bear children on the Covenant timeline (MEN), and an abandoned one can be moved to another household (FR 0). POSSIBLE: The Temple cites Psalm 68.6, "God setteth the solitary in families," as the warrant for reassignment, and stops before the rest of the verse, "he bringeth out those which are bound with chains." For a mother who leaves, it has Titus 2.4–5, "to love their children… keepers at home."
+/end
+prompt: What Miriam would say to God if she believed he was listening, and what she'd say if she didn't | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · FAITH AND SCRIPTURE · 2 OF 2" m="EXOD 2.1–10; EXOD 15.20–21; NUM 12; NUM 20.1–2; MIC 6.4; RUTH 1.20–21; PS 68.6; ISA 49.15"
+# The text
+rec:
+Her name | Miriam the prophet, the first woman the Torah calls one (Exod 15.20). Mariam in Greek, so every Mary in the New Testament (Vol. I, {v1:miriam}).
+Miriam at the river · Exodus 2 | POSSIBLE: A girl watches from a distance as her brother is placed in the reeds, then arranges for their own mother to nurse him. **Where it breaks:** The biblical Miriam stays near the child she placed. This one placed hers and went out of reach.
+Numbers 12 | POSSIBLE: Struck and put outside the camp for seven days, and the camp doesn't move until she's brought back. **Where it breaks:** Whether anyone in the Empire waits for this one is the question (Vol. I, {v1:miriam}).
+Naomi · Ruth 1.20–21 | POSSIBLE: "I went out full, and the LORD hath brought me home again empty." Call me Mara. **Where it breaks:** Naomi comes home to people who recognize her. Miriam comes home to four children who've each kept a different version of the day she left (FR 11).
+tab:
+| She'd quote | Never read to her |
+| Exodus 15.21, "Sing ye to the LORD," the song her name carries | Micah 6.4, where God names Miriam with Moses and Aaron as the three he sent |
+| Ruth 1.21, coming home empty | Numbers 20.1–2, her death and the next line, "there was no water" |
+| _ | Isaiah 49.15, "Can a woman forget her sucking child… yet will I not forget thee" |
+box: Volume One
+Miriam, 375. Numbers, Miriam and Aaron, 152. The sea, the song and Miriam, 282. Exodus, six women, 272. Ruth and Naomi, {v1:ruth} and 109. Commonwives and reassignment, 512.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · BODY AND FEAR" m="TKC: TL · FR 8–9 · FR 18"
+# Body and fear
+rec:
+What the record shows | Unrecognizable to her own mother within four years of her Binding (TL). Four births in five years (TL, FR 0).
+What she was afraid of | The reassigned household, and dragging four children through a search (FR 9). Whether she was also protecting them from herself stays open for her later development (FR 9).
+How she comes back | With conviction and no expectation of being believed (FR 18).
+prompt: What fourteen years have done to her body, her hands and her voice | fill
+prompt: What she's afraid is true about what she did | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · BELIEF ARC" m="TKC: TL · FR 3 · FR 6–9 · FR 17–18; YOURS"
+# Belief arc
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · At twenty | She loves Thomas, and that's enough to live inside a Binding (TL) | He leaves voluntarily, and she's reassigned (FR 0, FR 3) | _ |
+| II · After Thomas | She has to protect the children from the house she's in (FR 9) | She leaves all four with Celeste and goes looking for her father (FR 6–7) | _ |
+| III · Her father's house | _ | The arrangement that kept her unreachable ends (FR 18) | _ |
+| IV · The return | _ | _ | _ |
+prompt: What she believed about her father before she found him, and after | fill
+prompt: Who notices she's changed when she walks back in, and what they see first | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · POWER AND PEOPLE" m="TKC: TL · FR 0 · FR 3 · FR 11–18"
+# Who she can move, and who can move her
+tabrl:
+| Person | What passes between them | Leverage |
+| Celeste | The Salt Ceremony, and a promise Celeste heard the instability under (DOM, FR 8) | _ |
+| Thomas | A Binding she believed in, and a man who left for another life (TL, FR 3) | _ |
+| The man she was reassigned to | Solomon's father. How it worked and what it meant to her are deferred (FR 0). | _ |
+| Her father | Crownward-resident, close to the Vanes. He knows there are children but not how many or their names, and learned about Eden the day the Trial went public (FR 17–18). | His |
+| Eden | Given a task to get her out of the room (FR 13) | _ |
+| Leah | Watched her pack, and defends her to the others (FR 11, 14) | _ |
+| Whoever stopped the letter | 2094, intercepted before it reached Celeste (FR 16) | _ |
+small: Whether each child forgives her isn't decided, and they may land differently (FR 6).
+prompt: Who intercepted the letter, and what it said | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · VOICE" m="TKC: FR 18; WRITING"
+# Her voice
+Nothing of Miriam's is on the page yet. Her voice is the one you'll build from nothing, and the reader will hear it through four children who each remember it differently.
+prompt: What she sounded like at twenty, in Celeste's kitchen, the night of the Salt Ceremony | 5
+prompt: What she sounds like at forty-two, saying she's come back | 5
+prompt: The words she won't use for the man she was reassigned to | 3
+prompt: Lines only she would say | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · CONTRADICTION" m="TKC: FR 6–9 · FR 15; WRITING"
+# The contradiction
+rec:
+What she believes and breaks | INFERENCE: She left to protect them, and the leaving was the harm (FR 8–9).
+What it cost | A year of "she's coming back," then nothing said and nothing put in its place (FR 12). Leah's anger, and Leah's loyalty (FR 14).
+What the files leave open | Whether she was also protecting them from herself (FR 9).
+prompt: How she justifies it to herself, at forty-two | fill
+prompt: The scene where it lands on her, and who says it to her face | fill
+
+@essay rh="THE PARISH HOUSEHOLD · MIRIAM · THE MACHINERY AROUND HER"
+# The machinery around her
+drop: The Empire never had to remove Miriam. It only had to file her. A Commonwife is a registration status (FR 1), and a status can be moved. When her husband left, the system that had approved her Binding reassigned her to another man's household (FR 0, FR 3).
+There's also the registration itself, deactivated without a forwarding Dominion (TL), so on paper she simply stops. Her father's household sits in the Crownward, close to the Vanes, where a man who survived an unregistered ceremony is useful to somebody (FR 17). Someone stopped her one letter (FR 16). And her return is triggered by something she doesn't control: the arrangement that kept her unreachable ended (FR 18).
+INTERPRETATION: Every piece of her story is somebody else's paperwork, which is why her return has to be the first thing she does on her own authority.
+side:
+chips: FR 0, FR 15–18
+k: Book two
+stext: Her father is the only person watching the Trial who understands what he's looking at (FR 18).
+marg
+see: Vol. I, Commonwives and reassignment, 512.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · EXCAVATION · THE DAY SHE LEFT" m="TKC: FR 8 · FR 11–13; WRITING"
+# The day she left, from her side
+note: A mother leaving her children.
+Leah watched her pack. Eden was told to take Zion outside. Solomon was two (FR 11). She said she was coming back, and she may have meant it (FR 8, FR 12).
+prompt: 1 · What she packed, and what she left on purpose | fill
+prompt: 2 · What she said to Eden when she gave her the task, and what she couldn't say | fill
+prompt: 3 · The last thing she saw of the house | 4
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write her in her father's house
+Ten minutes of Miriam on an ordinary day in her father's household, years after 2090. Nobody explains anything. Somebody's watching, and she knows it.
+small: If you stall: what she's allowed to touch · the window she stands at · what she does on her children's birthdays · what she calls her father to his face · what she writes and doesn't send · the sound of the Crownward at nine at night.
+prompt: Write | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM AND LEAH · BOTH SIDES" m="TKC: FR 11 · FR 14 · MEN"
+# Miriam and Leah
+Leah remembers a decision more than a disappearance, which is why she's the angriest and why she defends Miriam to the others (FR 14). Leah is now a Commonwife herself, under the timeline her mother lived under (MEN).
+cols:
+prompt: What Miriam thinks Leah saw while she packed | 8
+||
+prompt: What Leah actually saw, and what she's told herself since | 8
+/end
+prompt: The first conversation between them when Miriam comes back | fill
+
+@page rh="THE PARISH HOUSEHOLD · MIRIAM · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is listening, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE PARISH HOUSEHOLD · MIRIAM · NOTES" m="NOTES" prompt="Anything Miriam's dossier started and didn't finish"

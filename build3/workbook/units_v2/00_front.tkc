@@ -1,0 +1,169 @@
+@cover
+<div class="t1">THY<br>KINGDOM<br>COME</div>
+<div class="orn">✥</div>
+<div class="s1">VOLUME TWO</div>
+<div class="s2">The People</div>
+<div class="s3">A character and scripture companion for the drafting and revision of the novel. One dossier for everyone who matters in the 39th Trial, with room to find out who they are.</div>
+<div class="s4">DANY · OCTOBER 2026</div>
+
+@divider num="✥" kind="VOLUME TWO" title="Contents" sub="Five parts and the back matter. Each part opens with its own contents, and every dossier opens with a portrait." series="THY KINGDOM COME · VOLUME TWO · THE PEOPLE"
+toc: Front matter · how a dossier works | f2-how
+toc: The cast at a glance | f2-cast
+toc: I · The Parish household | part1
+toc: II · House Aurem | part2
+toc: III · The Covenant Daughters | part3
+toc: IV · The House of Vane | part4
+toc: V · The 39th Trial as story | part5
+toc: The register, the conflicts and the log | back
+
+@essay rh="FRONT MATTER · WHAT THIS VOLUME IS"
+# What this volume is
+drop: Volume One is the world: the scripture the Empire inherited, the history it rewrote, and the institutions, Dominions and Trials it built. This volume is the people who have to live inside all of that. It holds one dossier for every character with weight in the 39th Trial, from the woman at the kitchen table in Aurelia's outer districts to the man on the throne who taught himself never to be surprised.
+A dossier here does what an entry in Volume One's people of the text does. It starts from what the files already say, keeps that separate from what's only inferred, and leaves most of the page ruled for you. The difference is that these people are yours. Nothing in a dossier outranks the manuscript, and where your files disagree with each other the page says so out loud instead of quietly picking a winner.
+Every major character gets a faith and scripture spread. It covers what they believe and who taught it to them, what the Temple teaches about someone like them, the biblical name or story they echo and where the echo breaks, the verses they'd quote and the ones nobody has ever read to them, and the exact pages in Volume One to go back to. The novel's religious line runs between faith the Temple can use and faith that answers to something it doesn't control. Every person in this book stands somewhere on that line, and the faith spread is where you find out where.
+pull: "Belief has a cost and a teacher." Rule IV, from Volume One.
+side:
+k: What it isn't
+stext: It won't replace a cast list or a plot summary, and it won't answer anything for you. Where the files are silent the page is ruled, and the ruled space outranks anything printed near it.
+k: Volume One pages
+stext: Cross-references give the folio in Volume One, so "Vol. I, {v1:hannah}" means page {v1:hannah} of The World Dossier, where Hannah, Abigail and Michal are.
+marg
+see: Volume One, the people of the text, page 369.
+/end
+
+@essay id="f2-how" rh="FRONT MATTER · HOW A DOSSIER WORKS"
+# How a dossier works
+drop: Every dossier opens with a portrait page, a frame for a drawing, a reference image or Canva art, and the person's record underneath it. After that the pages run in the same order for everyone at the same length, so you can read across the cast and see where the Empire holds and where it's already coming apart.
+k: The full dossier, about sixteen pages
+1. The portrait and the record.
+2. The Registry card and every name they answer to.
+3. The years, set against the Empire's calendar.
+4. Standing, the clerk's version and the true one.
+5. Faith and scripture, what they believe and who taught it.
+6. Faith and scripture, the text: the name, the verses, Volume One.
+7. Body and fear, belief arc, power and people, voice and contradiction.
+8. The working pages: the machinery around them, one excavated scene, one ordinary hour, one relationship from both sides, and a scene lab.
+k: The shorter dossiers
+Thomas, Zion, Solomon, the House Aurem staff, Senior Minister Bell and the Prelate get about seven pages each, with the faith spread pressed onto a single page. Each Covenant Daughter gets about eight, with a page tracking her through the three phases.
+side:
+k: The one rule
+stext: No character gets a belief they've never paid for. If the creed page names a conviction, the contradiction page has to name what it cost.
+sbox: Photocopy first | The working pages expect a second and third draft. Copy them before you fill them.
+marg
+see: The labels, on the next page.
+/end
+
+@page rh="FRONT MATTER · LABELS AND SOURCES" m="VOL. I · {v1:reading}–{v1:labels}"
+# Labels and sources
+The page signals are the ones in Volume One. Quoted scripture sits behind a fine rule with its reference underneath. The heavy frame with the pink edge is always the Empire's reading and never the text's. A broken frame marks a real dispute among serious readers. Ruled space is yours.
+tabrl:
+| Label | What it means here |
+| (no label) | Your files say it, with the source tag in parentheses. Scripture and history with a reference are research, as in Volume One. |
+| INTERPRETATION | A reading of a character or a passage, offered as a reading |
+| CONTESTED | A real dispute about scripture among scholars or traditions |
+| INFERENCE | A conclusion drawn from your files that they don't state |
+| POSSIBLE | An idea worth considering, and not canon |
+| OPEN QUESTION | Something only you can decide |
+| CONFLICT | Two of your files disagree |
+| SUPERSEDED | Older material that no longer controls |
+| DECIDED | A call you've made. Canon from here on. |
+tabrl:
+| Tag | Source |
+| FR 0–44 | Final Rulings. These outrank everything. |
+| TL · TR · DOM · MEN · CR | Timeline · Trials · Dominions · Men in the Empire · The Crownward |
+| DR3 · WR · AM | Draft Three (chapter one) · Writing Rules · the old Companion |
+| Ruling | A call you've made in conversation, logged in the back of this volume |
+
+@page id="f2-cast" rh="FRONT MATTER · THE CAST AT A GLANCE · 1 OF 2" m="TKC: TL · TR · MEN · CR · FR 0 · FR 11 · RULING"
+# The cast at a glance
+Ages are at the opening of the 39th Trial, summer 2104.
+tabrl:
+| Name | Who | Age | Dossier |
+| Celeste Parish | Eden's grandmother, Unbound, head of household | 69 | I · full |
+| Eden Selah Osei | Covenant Daughter of Aurem | 21 | I · full |
+| Miriam Osei | Eden's mother, gone since 2090 | 42 | I · full |
+| Thomas Osei | Eden's father, gone since 2084 | _ | I · short |
+| Leah Osei | Eden's younger sister, a Commonwife | 20 | I · full |
+| Zion Osei | Eden's brother, labor track | 18 | I · short |
+| Solomon Osei | Eden's youngest brother | 16 | I · short |
+| Hannah | House Mother, House Aurem | _ | II · full |
+| Naomi | Hannah's daughter, in Vowed education | _ | II · full |
+| Mirielle · Gavin · Abigail | Coordinator · stylist · Debate and Protocol Advisor | _ | II · short |
+| Senior Minister Bell | The Aurelia Temple | _ | II · short |
+small: DECIDED: Zion is eighteen (Ruling) and Solomon is sixteen. Miriam's age follows from her birth in 2062 (TL). The blanks are yours.
+
+@page rh="FRONT MATTER · THE CAST AT A GLANCE · 2 OF 2" m="TKC: TR · TL · CR · RULING · FR 33"
+# The cast at a glance, continued
+tabrl:
+| Name | Who | Age | Dossier |
+| Delphine Fontenot | Gulf · Port Seraphine | 22 | III |
+| Maren Cole | Ardenne · Ashford | 23 | III |
+| Corinne Vale | Meridian · Blessed Shore | 22 | III |
+| Calla Merritt | Vane · Saint Meridian | 21 | III |
+| Nadia Orin | Irongate · Iron Benediction | 20 | III |
+| Ruth Gideon | Heartland · Providence Cross | 22 | III |
+| Delia Cross | Red Earth · Canaan's Gate | 24 | III |
+| Vivienne Hale | Lone · Covenant Basin | 23 | III |
+| Petra Solano | Mountain · Crestfall | 22 | III |
+| Zara Voss | Sable · Sable Reach | 21 | III |
+| Sera Montoya | Pacific · Westhold | 24 | III |
+| Dorian Vane | Emperor since 2085 | 59 | IV · full |
+| Lyris Vane | Empress, from Mountain | 58 | IV · full |
+| Judah Elijah Vane | Crown Heir | 25 | IV · full |
+| Azrael Vane | "Deceased" since 2100 | 27 | IV · full |
+| The Prelate | Head of the Crownward Vowed | 67 | IV · short |
+small: Calla's surname is Merritt (Ruling). The Prelate's working name is Aurelia, which is POSSIBLE, and she's never Huldah or Naomi (FR 33).
+
+@page rh="FRONT MATTER · THE PARISH HOUSEHOLD, DRAWN" m="TKC: TL · FR 0 · FR 3 · FR 4–5 · FR 17 · MEN; OPEN QUESTION"
+# The household, drawn
+<div class="tree">
+<div class="tr"><div class="tn ghost">Miriam's father<br><span>Crownward · close to the Vanes · FR 17</span></div><div class="tn">Celeste Parish<br><span>b. c. 2035 · Unbound · 69</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn">Thomas Osei<br><span>Binding 2082 · left 2084 · FR 3</span></div><div class="tn mark">Miriam Osei<br><span>b. 2062 · left 2090</span></div><div class="tn ghost">The man she was reassigned to<br><span>Solomon's father · FR 0</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn mark">Eden<br><span>b. 2083 · to Celeste 2085</span></div><div class="tn">Leah<br><span>20 · Commonwife</span></div><div class="tn">Zion<br><span>18 · labor track</span></div><div class="tn">Solomon<br><span>16 · b. 2088</span></div></div>
+</div>
+small: Eden went to Celeste alone in 2085. Leah, Zion and Solomon came together in 2090, when Miriam left (FR 4–5). Celeste's reclassification absorbed all four as her dependents (FR 2, 10). INFERENCE: Leah was born in 2084 and Zion in 2085. Zion was conceived before Thomas left and born after (FR 0), which fits eighteen if his birthday falls after chapter one.
+prompt: Who else belongs on this tree: Celeste's mother, her grandmother, Leah's husband, the three Celeste buried | fill
+
+@page rh="FRONT MATTER · THE CANON THIS VOLUME RUNS ON" m="FINAL RULINGS; RULING; DECIDED"
+# The canon this volume runs on
+Every dossier was written against these. Where a file disagrees, the page prints the file's version as SUPERSEDED and moves on.
+tabrl:
+| Ruling | What it fixes |
+| FR 0 | Solomon's father is the man Miriam was reassigned to after Thomas left. Zion is Thomas's. |
+| FR 3 | Thomas left voluntarily in 2084, for another Dominion, another woman, another life. |
+| FR 4–6 | Eden went to Celeste alone in 2085. The younger three came in 2090. Miriam left all four and went alone. |
+| FR 11–16 | What each child saw on the day she left, what they were told, and the 2094 letter nobody received. Celeste has no proof Miriam is alive. |
+| FR 17–18 | Miriam's father, his household, and why she came back |
+| FR 19–25 | What the Trials do with all twelve women, and the rules around the Declaration |
+| FR 26–34 | Hannah's career, Naomi, the 2085 cohort, and the Prelate's name |
+| FR 35–44 | The House of Vane, the removed heir, and the documents |
+| Ruling | Zion is eighteen. Solomon is sixteen. Leah is younger than Eden and sat for an assessment. Dorian is fifty-nine. Calla's surname is Merritt. |
+small: Every ruling is printed in full in the back matter, with the conflicts it settles.
+
+@page rh="FRONT MATTER · HOW THIS VOLUME TALKS TO VOLUME ONE" m="VOL. I · {v1:method} · {v1:cast} · {v1:teaches}–{v1:lived6} · {v1:designations}–{v1:household-q}"
+# Where the faith pages point
+Each faith spread ends with a box of Volume One pages. These are the ones the cast comes back to most.
+tabrl:
+| For | Go to Volume One |
+| A character's biblical name | The names in the cast, {v1:cast}, and echoes, labeled, {v1:echoes} |
+| The women they're compared to | The people of the text, from Eve on {v1:eve} |
+| The men they're compared to | The founders, 397. David, 399. Kingmakers, prophets and priests, 400. |
+| What the Temple teaches | The official religion, 494. The founding texts, 496. |
+| What people actually practice | Lived religion, {v1:lived}–{v1:lived6} |
+| Where a woman sits | The designations, 506. Being sorted, 508. The Binding, 510. |
+| The household on paper | Commonwives and the Arrangement, 512. Four households, 514. |
+| A man's place | Men, labor and the economy, {v1:men} |
+| The prayer the book is named for | The Lord's Prayer, from {v1:prayer} |
+| Passages the Empire uses and buries | Passages put to work, 440. Passages kept quiet, 442. |
+| A character's home | The twelve Dominions, {v1:aurem}–{v1:pacific} |
+prompt: The Volume One page I keep going back to while I draft, and why | fill
+
+@page rh="FRONT MATTER · BEFORE YOU BEGIN" m="YOURS"
+# Before you begin
+Answer these once, in ink, before you open a single dossier. The point is a record of where you started with these people.
+prompt: The character I understand least, and what I'm afraid I'll find | fill
+prompt: The character I'd defend to anyone, and the one I'd never forgive | fill
+prompt: Who in this book believes most honestly, and who believes most usefully | fill
+decided

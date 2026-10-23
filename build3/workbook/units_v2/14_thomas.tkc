@@ -1,0 +1,63 @@
+@opener id="thomas" rh="THE PARISH HOUSEHOLD · THOMAS · PORTRAIT" m="TKC: TL · MEN · DR3 · FR 2–3; VOL. I · {v1:men}"
+plate: frame | PORTRAIT · THOMAS OSEI · AS HE WAS IN 2082
+/end
+tk: PART I · DOSSIER 4 · ◈ · SHORT
+big: Thomas
+lede: Sometimes the paperwork is correct and a man simply leaves (FR 3).
+calls:
+k: On the record
+Thomas Osei, a common laborer in Aurelia's service sector. Bound to Miriam in 2082. Father of Eden, Leah and Zion (FR 2). Left in 2084, voluntarily, for another Dominion, another woman, another life (FR 3).
+||
+k: Ruled out
+He wasn't removed, imprisoned or secretly killed. The Empire's record that he relocated was accurate, and it left out his reasons (FR 3).
+/end
+
+@page rh="THE PARISH HOUSEHOLD · THOMAS · THE RECORD AND THE MAN" m="TKC: TL · MEN · DR3 · FR 3; VOL. I · {v1:forms} · {v1:men}"
+# The record and the man
+plate: doc
+dh: Relocation Authorization | CROWN · LABOR ALLOCATION · 2084
+dsub: MOVEMENT BETWEEN DOMINIONS REQUIRES CROWN AUTHORIZATION
+df: Name | OSEI, Thomas · common designation
+df: Assignment | Aurelia · service sector, maintenance and infrastructure (MEN)
+df: Household of record | Commonwife Miriam · three children
+df: Destination | ____________ Dominion
+df: Reason given | work
+stamp: RELOCATED
+/end
+rec:
+What the record says | He relocated to another Dominion for work (TL). It's accurate (FR 3).
+What it leaves out | Another woman and another life (FR 3).
+INFERENCE | Moving between Dominions needs Crown authorization, "technically available and practically difficult" (MEN). Somebody approved a common man leaving a Commonwife and three children, and the approval is on file.
+The family's version | Celeste wrote "deceased" on a form's authority line (DR3). Bell asked Eden whether her father was dead (DR3). INTERPRETATION: Celeste's word is a verdict, not a fact.
+small: SUPERSEDED: "Thomas Osei Disappears" and "Celeste has always believed otherwise" (TL). Every page framing 2084 as an Empire disappearance is out (FR, sweep 1).
+
+@page rh="THE PARISH HOUSEHOLD · THOMAS · FAITH AND SCRIPTURE" m="JOHN 11.16; JOHN 14.5; JOHN 20.24–29; 1 TIM 5.8; VOL. I · {v1:ntmen} · {v1:cast} · {v1:men}"
+# Faith and scripture
+rec:
+What he believed | OPEN QUESTION: Nothing in the files. He married a woman raised to refuse everything, which says something about one of them.
+What the Temple teaches about a man like him | Common men are told they're free, and the control sits in housing and work (MEN). POSSIBLE: The Temple preaches 1 Timothy 5.8 to common men, that a man who doesn't provide for his own house "hath denied the faith." The Crown still signed his relocation.
+His name | Thomas, one of the twelve, called Didymus, "the twin" (John 11.16). He's the one who says "Let us also go, that we may die with him" (11.16), and "we know not whither thou goest" (14.5).
+Where it breaks | The apostle doubts and comes back to the room, and the story ends with him there (John 20.24–29). Thomas Osei left the room and stayed gone. His son Zion works in the same category of labor and doesn't know it (MEN).
+tab:
+| He'd quote | Nobody ever read him |
+| _ | 1 Timothy 5.8, on providing for his own house |
+| _ | Malachi 2.14, "the wife of thy youth, against whom thou hast dealt treacherously" |
+small: Volume One: the men of the New Testament, 402. The names in the cast, 404. Men, labor and the economy, 492.
+
+@page rh="THE PARISH HOUSEHOLD · THOMAS · PEOPLE AND VOICE" m="TKC: TL · FR 0 · FR 2–3 · FR 13 · MEN"
+# Who he left
+tabrl:
+| Person | What passes between them |
+| Miriam | A Binding she believed in, and a man she did love (TL) |
+| Eden | One year old when he left (TL). Carries his name. |
+| Leah | Born the year he left (INFERENCE) |
+| Zion | Conceived before he left, born after, with no memory of him (FR 0). Works in his category of labor without knowing it (MEN). |
+| The other woman | Another Dominion, another life (FR 3) |
+DECIDED: No expansion of Thomas's later life this pass (FR 3). The page below is for when you want one.
+prompt: What he'd say if one of his children found him | fill
+
+@page rh="THE PARISH HOUSEHOLD · THOMAS · WORKING PAGE" m="WRITING"
+# Write the morning he left
+Ten minutes, from his side or Miriam's. The paperwork's already approved.
+prompt: Write | fill
+status

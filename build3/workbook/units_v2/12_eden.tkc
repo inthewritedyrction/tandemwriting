@@ -1,0 +1,222 @@
+@opener id="eden" rh="THE PARISH HOUSEHOLD · EDEN · PORTRAIT" m="TKC: TL · TR · DR3 · CR · MEN; VOL. I · {v1:elig} · {v1:assess} · {v1:daughters}"
+plate: frame | PORTRAIT · EDEN SELAH OSEI · TWENTY-ONE · COVENANT DAUGHTER OF AUREM
+/end
+tk: PART I · DOSSIER 2 · ◈
+big: Eden
+lede: Raised by her grandmother in the outer districts on a faith assembled at a kitchen table. Self-nominated, first in Aurem, and flagged since she was eighteen.
+calls:
+k: On the record
+Eden Selah Osei, twenty-one. Covenant Daughter of Aurem for the 39th Trial, the first Aurem candidate ever to enter by self-nomination (TL). Placed first in the Regional Assessment. Wins (TR).
+||
+k: Still open
+The house name Celeste gave her, the four words she says to Sera, the three things Lyris tells her, and what she believes on the last page.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · THE RECORD" m="TKC: TL · TR · DR3 · DOM; VOL. I · {v1:sorted} · {v1:elig}"
+# The file that opens before she speaks
+plate: doc
+dh: Designation Record | REGISTRY · AUREM · 2101
+dsub: CROWN ADMINISTRATIVE BUILDING · AURELIA · ASSESSED BY A VOWED OFFICER
+df: Name of record | OSEI, Eden Selah
+df: Born | 2083 · Aurelia
+df: Household | Parish, Celeste · guardian of record since 2085
+df: Score | highest in the Dominion's recorded history
+df: Flag, 2101 | "Exceptional intellect. Monitor closely."
+df: Flag, 2104 | "Selected for Trial. Monitor closely."
+df: Entry | independent submission · ten dollars · red card
+stamp: MONITOR CLOSELY
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Eden Selah Osei | The Ministry, on paper | A file that's already open before she speaks (TL) |
+| Covenant Daughter of Aurem | The Broadcast and the Boulevard boards | A Dominion of millions standing behind one name (TR) |
+| Eden | Celeste, at the stove | The only room where she isn't being scored |
+| The house name | Celeste, inside the house only (TL) | _ |
+prompt: The house name. Write it, and what Celeste said when she gave it. | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · THE YEARS" m="TKC: TL · TR · CR · MEN · FR 4 · FR 11 · RULING; VOL. I · {v1:timeline2}"
+# Her years against the Empire's
+tabrl:
+| Year | Age | Her life | The Empire that year |
+| 2083 | 0 | Born in Aurelia, Celeste present (TL) | Crest's last years. The Trials are nineteen cycles old. |
+| 2084 | 1 | Thomas leaves (FR 3) | _ |
+| 2085 | 2 | Goes to Celeste, alone, and stays (FR 4) | Crest dies. Dorian takes the throne. The Trial is cancelled. |
+| 2090 | 7 | Given a task the day Miriam leaves, to take Zion outside (FR 11) | _ |
+| 2096 | 13 | In the room when Celeste comes home from downtown (TL) | _ |
+| 2100 | 17 | _ | Azrael "dies" |
+| 2101 | 18 | Designation. Highest score in Aurem's history, and flagged that day (TL) | _ |
+| 2101–04 | 18–21 | Studies the Anointed Court wives by name, relationship and preference (CR) | _ |
+| 2104 | 21 | Six months of paperwork. Self-nominates in May. First in the Regional Assessment. (TL) | The 39th Trial |
+small: INFERENCE: Six months of paperwork finished by early May means she started in late 2103, around the time Zion turned eighteen.
+prompt: The three years she'd name if asked when her life changed, and what she was doing in each | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · STANDING" m="TKC: TL · TR · DR3 · CR; VOL. I · {v1:designations} · {v1:sorted} · {v1:elig} · {v1:assess}"
+# The clerk's version and the true one
+rec:
+On the ledger | Covenant Daughter of Aurem, independent submission, outer districts, Sector Seven, first (TL). Selected second by the Governor-Prelate after ranking first. The woman he picked first withdrew the night before departure, for what was called a family health emergency, and it wasn't one (TR).
+At the Assessment | Her toe rests exactly behind the gold tile that separates candidates from everyone else. Asked about it: "They let me through the door. Figured the floor came with it." A nail she'd hammered flat that morning rises through the cardboard into her stocking while the board's read, and she stays where she is. Her eyes go to the bottom of the board first, to Domestic Service, Binding and Remedial, before she looks up (DR3).
+What she studies | The Anointed Court wives, by name, relationship and known preference, for three years (CR). The Arrangement, which Celeste told her about (CR). She can't study Lyris, because Lyris has spent thirty years making sure there's nothing to study (CR).
+Why she entered | For her family, and for the girls in the outer districts who'll watch the boards and need to see her name on them (TR). Partly to be somewhere useful before a Crown education officer reaches Solomon (MEN).
+OPEN QUESTION | Which track did her Designation put her on? Eligibility asks for "Unbound or elevated designation" (TR).
+prompt: What she actually does all day in Aurelia, hours, rooms and hands | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TR · TL · DR3 · DOM; VOL. I · {v1:teaches} · {v1:lived} · {v1:lived6} · {v1:scoring}"
+# What she believes
+rec:
+What she believes | Celeste taught her that how you treat people who can't help you is the truest thing about you, and Eden holds it as faith more than strategy (TR). Her faith is real, and it "required more maintenance" than Maribel Vale's (DR3).
+What she also believes | For women like her, the only road to the kind of power that changes things runs through a man willing to let her stand behind him while she works. Celeste taught her that, the Salt Ceremony teaches it, and the Empire confirms it (TR).
+Who taught her | Celeste, at the kitchen table (TL). Miriam gave her a word from the Psalms and left (TL).
+What she can recite | Enough to post the highest Doctrinal Assessment score in the Trials' history, on the most complex set of questions the Vowed have built in eleven cycles (TR).
+What she'd say in public | Her Testimony, delivered without a handler: a statement of faith in women's intelligence worded so precisely in theological language that flagging it would mean flagging the theology (TR).
+What she'd be arrested for | The house name. The real name of the city (TL).
+empire: What the Temple teaches about a woman like her
+Self-nomination is framed as "exceptional faith," and the process is built to exhaust anyone without backing (TR). When a candidate's intelligence becomes the story instead of her compliance, the Broadcast calls it the Eve problem and runs a narrative that "implies" and never accuses (TR). Bell prayed that God would close every door not intended for her (DR3).
+/end
+prompt: How she prays: the words, the posture, and where | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · FAITH AND SCRIPTURE · 2 OF 2" m="GEN 2–3; PS 46; HAB 3; ESTH 4.14; GEN 38; PROV 31.29; LUKE 1.52; JUDG 4.4; ROM 16.1–7; GEN 3.6"
+# The text
+rec:
+Eden | The garden of Genesis 2–3. CONTESTED: The Hebrew *ʿeden* sounds like "delight," and some scholars connect the name to an older word for a plain or steppe.
+Selah | Seventy-one times in the Psalms and three in Habakkuk. The timeline says it means "pause" (TL), the usual gloss. CONTESTED: Nobody knows what it meant. It's probably a musical or liturgical marker.
+Eve · Genesis 3 | POSSIBLE: The Broadcast's own name for her problem (TR). **Where it breaks:** Eve is never asked what she wanted. Eden is asked constantly, on camera, and graded on the answer (Vol. I, {v1:eve}).
+Esther | POSSIBLE: A young woman taken in a state search, prepared for months, who goes in unsummoned. **Where it breaks:** Esther is taken and told to hide her people. Eden filed the paperwork herself and paid ten dollars to be searched.
+Tamar · Genesis 38 | POSSIBLE: A woman with no standing who collects evidence instead of accusing. **Where it breaks:** Tamar had a law on her side that wasn't being enforced. Eden's law is against her (Vol. I, {v1:echoes}).
+tab:
+| She'd quote | Never read to her in the Temple |
+| Esther 4.14, "for such a time as this," knowing the Empire quotes it too | Judges 4.4, Deborah judging Israel with no emergency offered as an excuse |
+| Luke 1.52, "He hath put down the mighty from their seats" | Romans 16.1–7, Phoebe the deacon and Junia among the apostles |
+| _ | Genesis 3.6, "her husband with her," standing there the whole time |
+small: Proverbs 31.29 was read over her before the scores, in King James wording (DR3).
+box: Volume One
+Eve, 370. Tamar, 373. Esther and the woman of worth, 386. Deborah, 376. Mary's song, 390. The two beginnings, 242. Psalms, 121. The Lord's Prayer, 415. The Covenant Trials, 542.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · BODY AND FEAR" m="TKC: DR3 · TR · TL"
+# Body and fear
+rec:
+What the record shows | The nail through the cardboard into her stocking, and she doesn't move. Ten of her eleven dollars, counted by a clerk who inspects both sides of every bill. She walks home in the same shoes and says nothing until Celeste finds the receipt (DR3).
+How she arrives | She looks at the city before she looks at the cameras, carries her own bag, and walks Sovereign Boulevard slower than the choreography, like a woman who means to walk it (TR). The Broadcast uses forty-seven seconds of it (TR).
+What fear does | Fear sends her eyes to the bottom of the board first (DR3). INTERPRETATION: Her ambition is defensive before it's aspirational.
+What she's afraid is true | INFERENCE: The road through a man is the Empire's design and not a loophole in it. If that's true, using it makes her the Empire's best argument.
+prompt: What her body does when she lies, and what it does when she's believed | fill
+prompt: What she'd do if she knew it was true and had one night to act | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · BELIEF ARC" m="TKC: TR · DR3 · CR · TL; YOURS"
+# Belief arc
+Faith rarely dies in one scene. It gets renegotiated four or five times, and one morning she notices. Put a chapter in the last column every time, because a station without a chapter is an intention and not a plot.
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · Inherited | The truth, delivered correctly, is the most powerful thing a person can offer in a room full of performers (TR) | Bell asks about her father instead of her grades and prays a door shut (DR3) | _ |
+| II · First crack | The process can be beaten by someone who reads the small print | The gap between what she does in the debates and what the scores give her for it is consistent (TR) | _ |
+| III · Collapse | _ | _ | _ |
+| IV · What replaces it | _ | _ | _ |
+small: INFERENCE: The Arrangement is the first thing in the Crownward that gives her hope, because the system has a door in it nobody put on the map (CR). Decide whether that door holds.
+prompt: The last thing she lets go of | fill
+prompt: Who notices she's changed, and when | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · POWER AND PEOPLE" m="TKC: TR · TL · CR · MEN · WR · FR 13"
+# Names, not roles
+note: Endurance violence (Maren).
+tabrl:
+| Person | What passes between them | Leverage |
+| Celeste | Everything she knows about faith (TL) | _ |
+| Solomon | She entered partly to protect him, and doesn't know about the teacher notes (MEN) | _ |
+| Sera Montoya | Four words in a hallway after the Forum, and an ally who's decided two clear-eyed women beat one (TR) | _ |
+| Zara Voss | INTERPRETATION: The name exchange in the middle of the book (Vol. I, {v1:sable}) | _ |
+| Lyris Vane | Eleven minutes at the Anointed Evening. The third thing is a warning that's also instructions (TR). | Lyris's |
+| Judah | Thirty minutes. "Most candidates tell me they feel called." "I know." (TR) | _ |
+| Delia Cross | Votes with her in the Forum and in the Social Policy debate (TL) | _ |
+| Maren Cole | Knocked unconscious on Endurance Day 3 and left behind (TR) | _ |
+| Hannah · Abigail | The House Mother who knows the camera gaps (TL). The advisor who reads her for a living (TL). | _ |
+prompt: The one person who knows what she actually believes, and how they found out | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · VOICE" m="TKC: DR3 · TR · WR 6–10 · WR 33–37"
+# Her voice
+rec:
+On the page | "They let me through the door. Figured the floor came with it." (DR3)
+To the Heir | Asked why she entered, she says she wants access to the kind of power that changes things, plainly, without theology, and watches what he does with it. "Most candidates tell me they feel called." "I know." (TR)
+The rules | Eden narrates only what she knows, sees, hears, suspects or feels in the moment. She notices behavior before meaning, and her silence always does work (WR 6–10). She never "had no answer" (WR).
+With Judah | Attention before desire. She doesn't talk to him in a watched room, and she doesn't understand him early (WR 33–35).
+prompt: Lines only Eden would say | fill
+prompt: The four words she says to Sera in the hallway | 2
+prompt: How she speaks with no rank in the room | 3
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · CONTRADICTION" m="TKC: TR · CR; WRITING"
+# The contradiction
+note: Violence during Endurance.
+rec:
+What she believes and breaks | INFERENCE: How you treat people who can't help you is the truest thing about you (TR). On Endurance Day 3, with Delphine, she knocks Maren unconscious and leaves her in Mountain terrain (TR).
+CONFLICT | The fates table has Delphine extracted with a head injury on Day 1 and helping on Day 3 (TR). One of the two has to move.
+What she wants and uses | She wants to be the woman the city pauses for, and to use the pause (CR). The pause runs through the Empire's own machinery.
+prompt: How she justifies it to herself | fill
+prompt: Who pays for the justification, and the scene where it lands | fill
+
+@essay rh="THE PARISH HOUSEHOLD · EDEN · THE MACHINERY AROUND HER"
+# The machinery around her
+drop: Six systems are pressing on Eden before she says a word in chapter one. You built all six, and this page holds them together so you don't stop drafting to look.
+The Designation flagged her at eighteen, so she's spent three years entering every room as a file that's already open (TL). Self-nomination cost six months and ten dollars, and the Empire will read her ambition as pride the moment it stops being useful (TR, DR3). The Salt Ceremony's theology, survive by keeping part of yourself unregistered, is about to be tested at Imperial scale (DOM).
+Solomon's scores are coming, and she doesn't know about the notes (MEN). Leah is under the Commonwife timeline, and Eden's win is the only exit anyone in the family can see (MEN). The Broadcast holds forty percent of the score and has a name ready for a woman whose intelligence becomes the story (TR). The thing that got her to the Crownward is what they'll use to take it back.
+side:
+chips: TL, TR, MEN
+k: Six pressures
+stext: The flag, the fee, the salt water, Solomon, Leah and the Eve problem.
+marg
+see: Vol. I, scoring and the Eve problem, 555.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · EXCAVATION · WHAT BELL TOOK" m="TKC: DR3; WRITING"
+# What Bell took from her
+She went to a man who'd eaten Celeste's sweet potato pie for thirty-four years and asked him to sponsor her. He kept her waiting while he signed Binding certificates. He didn't ask about her grades. He asked whether her father was dead, and whether her mother was properly Bound when Eden was born. He offered Leah a Home Instruction nomination and prayed that God would close every door not intended for her. Everything after, the clause, the ten dollars and the red card, happens on the other side of that room (DR3).
+prompt: 1 · What she genuinely believed that morning about how merit, faith and opportunity fit together | fill
+prompt: 2 · What changes in her while he asks about her father, and what she does with her face | fill
+prompt: 3 · What survives the meeting anyway, and where it shows up later | 4
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write her at home
+Ten minutes of Eden doing something ordinary in Celeste's house before any of it starts. No Empire, no exposition, nobody assessing her. She's been graded since she was eighteen, and there's a version of her only that kitchen has met.
+small: If you stall: where she sits and what's wrong with that chair · what she does with her hair · what she eats when nobody's watching · the chore she hates and does anyway · what makes her petty · what makes Zion laugh · the sound of the house at nine at night.
+prompt: Write | fill
+small: Anything here that surprised you is canon unless you cross it out. Date it.
+
+@page rh="THE PARISH HOUSEHOLD · EDEN AND CELESTE · BOTH SIDES" m="TKC: DR3 · TL · DOM · FR 4"
+# Eden and Celeste
+Celeste took her at two (FR 4), raised her on fragments of the old world, and performed the Salt Ceremony for Miriam, who left anyway. When Eden paid the ten dollars, Celeste said she'd paid for the right to be judged by people who'd already decided what she was, and cleared a shelf for her study materials by midnight (DR3, TL, DOM). Both halves of that woman are true, and Eden has only ever been told one of them.
+cols:
+prompt: What Eden thinks Celeste believes about God, the Empire and her | 8
+||
+prompt: What Celeste actually believes, including what she's never said | 8
+/end
+prompt: The thing Eden has never asked her, and the scene where she finally does | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · WHAT SHE ALREADY DOES" m="TKC: DR3; WRITING"
+# What she already does
+A character reads as one continuous person when a gesture comes back changed. The left column is already on the page in Draft Three.
+tab:
+| On the page | What it establishes |
+| Her toe exactly behind the gold tile, and the line about the floor | She tests a limit with her body, then answers with the fewest words that work |
+| The nail in her stocking, and she stays put | She'll absorb pain before she gives up position, and keeps the cost private |
+| The bottom of the board first | Her ambition is defensive before it's aspirational |
+| Ten of eleven dollars, and the same shoes home | She pays in advance, alone, and doesn't announce it |
+| The lilies, the tripod moving two feet left, Bell watching the officials | Her intelligence lives in what she catalogs |
+prompt: Repeat. Where the same move lands again unchanged, and the chapter. | 3
+prompt: Complicate. Where it costs more than it did in Aurelia. | 3
+prompt: Reverse. Where she does the opposite, and what made that possible. | fill
+
+@page rh="THE PARISH HOUSEHOLD · EDEN · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+Take one thing Eden believes and build the room that tests it. A belief that never meets someone who wants something else is a theme and not a story.
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="THE PARISH HOUSEHOLD · EDEN · NOTES" m="NOTES" prompt="Anything Eden's dossier started and didn't finish"

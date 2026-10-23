@@ -1,0 +1,63 @@
+@opener id="zion" rh="THE PARISH HOUSEHOLD · ZION · PORTRAIT" m="TKC: MEN · TL · DR3 · FR 0 · FR 13 · RULING; VOL. I · {v1:men}"
+plate: frame | PORTRAIT · ZION OSEI · EIGHTEEN · LABOR TRACK
+/end
+tk: PART I · DOSSIER 6 · ◈ · SHORT
+big: Zion
+lede: He's waiting for Eden to come back and tell him what she found. He doesn't know exactly what he's waiting for. He knows he's waiting (MEN).
+calls:
+k: On the record
+Zion Osei, eighteen (DECIDED). Common designation, labor track, Aurelia assignment, marriage eligible (MEN). Works maintenance and infrastructure. Lives in Celeste's house, signs its forms, and looks after Solomon (MEN, DR3).
+||
+k: Still open
+What the men told him at his Speaking, who he's expected to marry by twenty-one, and whether he ever mentions the yard.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · ZION · THE RECORD AND THE MAN" m="TKC: MEN · DR3 · TL · FR 0 · FR 13 · RULING; VOL. I · {v1:forms} · {v1:men}"
+# The record and the man
+plate: doc
+dh: Covenant Declaration | CROWN OFFICE · AURELIA
+dsub: REGISTERED AT EIGHTEEN · COMMON DESIGNATION
+df: Name | OSEI, Zion
+df: Born | 2085 (INFERENCE) · Thomas's son (FR 2)
+df: Track | labor · Aurelia assignment
+df: Marriage | eligible
+df: Designation scores | strong, not exceptional · not flagged
+df: Household authority | Parish household, from his eighteenth year
+stamp: DECLARED
+/end
+rec:
+The work | Aurelia's service sector, maintenance and infrastructure, the same general category Thomas worked in. He doesn't know that, and nobody's told him (MEN).
+The house | Unmarried common men without independent housing have nowhere else to go (MEN). Past twenty-two it's the labor dormitory (MEN).
+The form | When Solomon's form came back asking for the next adult male, Zion signed. Celeste hadn't wanted him to (DR3).
+The yard | He remembers being outside the day Miriam left and has never mentioned it (FR 13).
+The blessing | His scores were strong but not exceptional, so no Crown education officer came for him. It's the only thing about his Designation Celeste counts as an uncomplicated blessing (MEN).
+small: DECIDED: Zion is eighteen (Ruling). SUPERSEDED: Nineteen (MEN). CONFLICT: Men in the Empire puts his Speaking "two years ago," while Eden "was already watching the trials" and away from Aurelia. At eighteen his Speaking was in 2103, and Eden was home.
+
+@page rh="THE PARISH HOUSEHOLD · ZION · FAITH AND SCRIPTURE" m="PS 137.1; ISA 62.1; ZECH 9.9; 2 THESS 3.10; VOL. I · {v1:cast} · {v1:men} · {v1:lived}"
+# Faith and scripture
+rec:
+What he believes | OPEN QUESTION: The files give his work, his house and his waiting, and nothing about God. INFERENCE: He was raised at the same table as Eden.
+Who taught him | Celeste. And the men of the outer district, the night before his Declaration, each saying one true thing about being a man in Aurelia. No father, no Thomas, no Osei man at all. Celeste sat outside the room and wept, because it shouldn't have been her place and there she was again (MEN).
+What the Temple teaches about a man like him | Service as freedom. The Empire's trick is making common men feel like the system's beneficiaries while using them to enforce it (MEN). POSSIBLE: He hears 2 Thessalonians 3.10, "if any would not work, neither should he eat," at every labor service.
+His name | Zion is a place before it's a person: Jerusalem's hill, and the city addressed as "daughter of Zion" (Zech 9.9). "By the rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion" (Ps 137.1).
+Where it breaks | "For Zion's sake will I not hold my peace" (Isa 62.1). Everyone in scripture speaks for Zion. This Zion doesn't speak, and carries what he misses as anger that comes out sideways (MEN).
+small: Volume One: the names in the cast, 404. Men, labor and the economy, 492. The Speaking, in lived religion, 498.
+prompt: One true thing a man told him at his Speaking | 3
+
+@page rh="THE PARISH HOUSEHOLD · ZION · PEOPLE AND VOICE" m="TKC: MEN · TL · DR3 · FR 13"
+# Who he's looking after
+tabrl:
+| Person | What passes between them |
+| Eden | He promised her he'd look after Celeste (TL). He's waiting for her to come back (MEN). |
+| Celeste | He signed the form she didn't want signed (DR3) |
+| Leah | Missed, with no words for it. The table and what they don't say at it (MEN). |
+| Solomon | He takes care of him (MEN) |
+| Thomas | A man he has no memory of (FR 0), in the same line of work |
+prompt: What makes Zion laugh | 3
+prompt: Lines only Zion would say | fill
+
+@page rh="THE PARISH HOUSEHOLD · ZION · WORKING PAGE" m="WRITING"
+# Write the night of the Speaking
+Ten minutes. The men are in the room, Zion can't speak, and Celeste is on the other side of the door.
+prompt: Write | fill
+status

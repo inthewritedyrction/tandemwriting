@@ -1,0 +1,62 @@
+@part id="part1" num="I" kind="PART ONE · ◈" title="The Parish/Household" sub="One small house in Aurelia's outer district, a grandmother on the authority line in all but name, and four children who arrived in two waves." series="THY KINGDOM COME · VOLUME TWO · THE PEOPLE"
+toc: i · The household as a teaching | p1-intro
+toc: Celeste Parish | celeste
+toc: Eden Selah Osei | eden
+toc: Miriam Osei | miriam
+toc: Thomas Osei | thomas
+toc: Leah Osei | leah
+toc: Zion Osei | zion
+toc: Solomon Osei | solomon
+toc: Working questions for the household | p1-q
+
+@essay id="p1-intro" rh="THE PARISH HOUSEHOLD · HOW TO USE THIS PART"
+# The household as a teaching
+drop: Everything Eden carries into the Crownward was assembled in one house, and most of it at one kitchen table. Celeste taught there. Leah comes back to it twice a week to breathe. Zion signs the forms that come to it, and Solomon is being coached at it on how much of his own mind to show. Miriam left it, and Thomas never lived in it (TL, MEN, FR 4–5).
+The Empire reads this household as a set of failures on paper: an Unbound woman with no husband, a mother whose registration was deactivated, a father who relocated, a daughter under Temple review. Read the same facts from inside the house and they're a faith that has survived an institution by never handing it everything. The dossiers in this part are written from inside the house.
+They're also written after the Final Rulings, which changed this family more than any other. Thomas left voluntarily, and the paperwork that said so was accurate (FR 3). Celeste has no proof Miriam is alive (FR 16). Eden grew up as Celeste's child, and the younger three remember arriving into a house that was already running (FR 5). Solomon's father is someone else (FR 0). Any older page that says otherwise is SUPERSEDED.
+side:
+chips: TL, MEN, FR 0–18
+k: The two waves
+stext: 2085, Eden alone, about two years old. 2090, Leah, Zion and Solomon together, after Miriam left (FR 4–5).
+k: The household on paper
+stext: Unbound, reclassified after six years, with a young man on the authority line (Vol. I, {v1:household}).
+marg
+see: Vol. I, the household on paper, 514. Aurem, 520.
+/end
+
+@page rh="THE PARISH HOUSEHOLD · THE DAY MIRIAM LEFT · 2090" m="TKC: FR 11–15 · TL"
+# The day she left
+note: A mother leaving her children. Nothing graphic.
+Four children were in or near the house when Miriam left in 2090, and each kept a different piece of it. The rulings fix what each one has.
+tabrl:
+| Child | Age then | What they have | Source |
+| Eden | 7 | Being given a task, to take Zion outside. Fourteen years understanding that the task was to get her out of the room. | FR 11, 13 |
+| Leah | 6 | She watched her pack. She remembers a decision more than a disappearance, which is why she's the angriest and why she defends Miriam to the others. | FR 11, 14 |
+| Zion | 4 | The yard. He's never mentioned it. | FR 11, 13 |
+| Solomon | 2 | Nothing he can know is his own | FR 11 |
+rec:
+What they were told | "She's coming back." It held about a year, then stopped being said, and nothing ever replaced it (FR 12).
+Why nobody heard | Being unreachable wasn't selective. No version existed where she was hidden from her father and available to her children (FR 15).
+The letter | One attempt, in 2094, intercepted before it reached Celeste. Celeste never knew it existed. Who intercepted it is still open (FR 16).
+prompt: The first evening the three of them spent in Celeste's house, and who cooked | fill
+
+@page rh="THE PARISH HOUSEHOLD · THE HOUSEHOLD'S YEARS" m="TKC: TL · MEN · FR 0 · FR 3–5 · FR 16 · RULING"
+# The household's years
+tabrl:
+| Year | In the house | Source |
+| c. 2035 | Celeste born. She's about nine in 2044 when the signs change. | TL |
+| 2062 | Miriam born to Celeste, who raises her alone, Unbound | TL |
+| 2071 | Celeste settles in Aurelia for good after years moving between Dominions | TL |
+| 2082 | Miriam, twenty, is Bound to Thomas Osei as a Commonwife | TL, FR 1 |
+| 2083 | Eden born, Celeste present | TL |
+| 2084 | Leah born. Thomas leaves, voluntarily. Miriam reassigned to another man's household. | FR 0, FR 3, INFERENCE |
+| 2085 | Zion born. Eden goes to Celeste, alone. | FR 0, FR 4, INFERENCE |
+| 2088 | Solomon born to the man Miriam was reassigned to | FR 0, FR 11 |
+| 2090 | Miriam leaves. Leah, Zion and Solomon come to Celeste. The reclassification is filed. | TL, FR 5 |
+| 2094 | Miriam's one letter, intercepted | FR 16 |
+| 2096 | The reclassification is approved. Celeste doesn't speak for three days. | TL |
+| 2101 | Eden designates, highest score in Aurem's history, and is flagged | TL |
+| 2102 | Leah Bound, at eighteen | MEN, INFERENCE |
+| 2103 | Zion's Speaking and Covenant Declaration, at eighteen | MEN, Ruling |
+| 2104 | Eden self-nominates, places first, and leaves for the Crownward | TL, TR |
+small: CONFLICT: The timeline has Miriam born "in Aurelia" in 2062 and Celeste settling there in 2071. INFERENCE: Both hold if Celeste was in the city in 2062 without settling.
