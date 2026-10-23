@@ -1,0 +1,148 @@
+@divider id="f7" num="F7" kind="COLLECTIVE FOCUSED STUDY" title="The Twelve" sub="One scroll, twelve arguments, four centuries and three empires" foot="F7 · TWELVE PAGES"
+
+@opener rh="COLLECTIVE FOCUSED STUDY F7 · THE TWELVE" m="SOURCE MARGIN; HOS–MAL; MT · LXX; NOGALSKI, THE BOOK OF THE TWELVE; SWEENEY, THE TWELVE PROPHETS"
+plate: doc
+dh: Register of the Twelve | ONE SCROLL, COUNTED AS ONE BOOK
+dsub: HOSEA THROUGH MALACHI · ENTERED IN THE HEBREW ORDER
+df: Eighth century | Hosea · Amos · Micah · (Jonah, set here)
+df: Seventh century | Nahum · Zephaniah · Habakkuk
+df: Persian period | Haggai · Zechariah · Malachi
+df: Uncertain | Joel · Obadiah
+df: Empires on the horizon | Assyria · Babylon · Persia
+dnote: The printed order isn't the order of writing. Read straight through, the Twelve gives you four centuries out of sequence. POSSIBLE: The Sanctum's lectionary doesn't mention this.
+stamp: OUT OF SEQUENCE
+/end
+tk: COLLECTIVE STUDY F7 · ✥
+big: The Twelve
+lede: Twelve short books copied onto one scroll and counted as one. As a set they cover the rise and fall of two kingdoms under three empires, and no two of them make the same argument.
+calls:
+k: Why collective, and why now
+Twelve separate dossiers would be out of proportion before you've read them. This study introduces the set, keeps each book's setting and argument intact, and leaves the promotions for you to decide.
+||
+k: Content notes
+Page 3 covers Hosea's marriage metaphor, with sexual accusation and violence against a wife. Page 5 covers a poem celebrating a city's destruction. Both are marked on the page.
+/end
+
+@page rh="THE TWELVE · 1 OF 9 · THE COLLECTION ON THE RECORD" m="HOS 1.1; MAL 4.6; MT ORDER · LXX ORDER; NOGALSKI, BOOK OF THE TWELVE; SWEENEY, TWELVE PROPHETS"
+# One book or twelve
+rec:
+The name | In Jewish tradition it's the Twelve, and one book. "Minor prophets" is a later Latin convention about length and not importance. If the word "minor" ever made you skip them, the convention was working.
+One scroll | Twelve books of this size fit on one scroll, and ancient lists count them as one book. CONTESTED: Whether they were also edited as one collection, with deliberate links across the seams, is an active scholarly argument.
+The order varies | The Hebrew and Greek orders differ in the first six books. The sequence you're reading is a choice someone made, and any argument built on the arrangement depends on which arrangement.
+Out of chronology | Amos and Hosea belong to the eighth century. Haggai, Zechariah and Malachi belong to the Persian period after the return.
+Dating | Some books date themselves precisely by reign, some only by internal evidence, and three, Joel, Obadiah and Malachi, are genuinely uncertain. Don't print a date for those three as if it were given.
+box: What the set gives you that the major prophets don't
+INTERPRETATION: Twelve different answers to the same conditions. A prophet who says he isn't a professional prophet, a book that celebrates an empire's fall and a book furious that an empire was spared, a demand for justice and a demand for a building. As a set, the Twelve is the Bible arguing with itself in public.
+/end
+prompt: Which of the Twelve I could name before this page, and which I couldn't | fill
+
+@page rh="THE TWELVE · 2 OF 9 · THE HISTORICAL SPINE" m="2 KGS 14–25; EZRA 1–6; SWEENEY, TWELVE PROPHETS; TKC: TL"
+# Who was in power when
+Prophecy is addressed to a situation. Without the empire on the horizon, every one of these books reads as general scolding. The placements below follow mainstream scholarship, and the three marked uncertain are genuinely open.
+tabrl:
+| Book | Setting | The power in the room |
+| Amos | Northern kingdom, 8th c. | Prosperity before Assyria arrives. A man from Judah speaking in the north. |
+| Hosea | Northern kingdom, 8th c. | Assyrian pressure and collapse inside. The north falls within his horizon. |
+| Micah | Judah, 8th c. | Assyrian campaigns. A voice from the countryside against the capital. |
+| Nahum | Judah, 7th c. | Assyria's capital about to fall, or just fallen. |
+| Zephaniah | Judah, 7th c. | Late Assyrian period. Addressed to Jerusalem's officials and merchants. |
+| Habakkuk | Judah, late 7th c. | Babylon rising and named as the instrument. |
+| Haggai | Judah, Persian period | Dated to the month under a Persian king. Temple rebuilding. |
+| Zechariah | Judah, Persian period | The same moment as Haggai in chapters 1–8. Chapters 9–14 are widely held to be later. |
+| Jonah | Set in the Assyrian era | Set then. Generally thought to be written considerably later, looking back. |
+| Joel | Uncertain | No king named. Placements range widely. Say "uncertain" and mean it. |
+| Obadiah | Uncertain | Most often tied to the aftermath of Jerusalem's fall, on internal evidence. |
+| Malachi | Persian period | A working temple with slack practice. No king named, and the title may be a role ("my messenger") more than a name. |
+prompt: Which era my Empire is in. Rising, peaking, or being named as the instrument | fill
+
+@page rh="THE TWELVE · 3 OF 9 · HOSEA · JOEL · AMOS" m="HOS 1–3; JOEL 2.28–29; ACTS 2.16–21; AMOS 2.6–8; AMOS 7.10–17; WEEMS, BATTERED LOVE; SWEENEY, TWELVE PROPHETS"
+# Hosea · Joel · Amos
+note: The Hosea entry concerns a marriage metaphor built on sexual accusation, public exposure and violence against a wife. It doesn't quote the imagery.
+rec:
+Hosea · north, 8th c. | A prophet told to marry, and three children whose names are the message: Jezreel, a place of slaughter, Lo-ruhamah, "not pitied," and Lo-ammi, "not my people." The book runs the nation's covenant failure through a wife accused of infidelity, with stripping, drought and public shaming as the announced punishment, beside some of the tenderest reconciliation language in scripture. **Study:** the marriage metaphor, Gomer as a person and as a device, the children's names, sexual accusation, gendered violence, and the reversal of the names at the end.
+Joel · setting uncertain | A locust invasion described in military language, a call to communal lament, and a promise of restoration and of the spirit poured out on the whole community. No king is named and no empire identified, which is why the book won't date. The outpouring names sons and daughters, old and young, and a third group translations render as household servants or as enslaved men and women. Check three translations and a lexicon before quoting, because the social claim changes with the choice. **Study:** the locusts, the Day of the LORD, lament as procedure, and Peter's reuse of the passage in Acts 2.
+Amos · speaks in the north, 8th c. | Oracles against the surrounding nations circle inward until they land on Israel. Then a sustained attack on the sale of the poor, the seizure of garments and grain, and worship offered by the people doing it. Confronted at the royal sanctuary by the priest Amaziah and told to go home, he answers that he's a herdsman and a dresser of sycamore figs and that God took him from the flock. CONTESTED: Whether he's denying any connection to the professional prophets, or only that he was trained among them. He's also from Judah speaking in the north, which is a problem of jurisdiction as much as class. **Study:** the nations sequence, the sale of persons for debt, ivory beds, rejected worship, Amaziah, the plumb line and the basket of summer fruit.
+corr: The old companion called Amos "a farmer from the wrong kingdom." He calls himself a herdsman and a worker of sycamore figs, livestock and orchard work, possibly a man of some means. It also said Hosea's God "keeps taking the nation back," which is true of the reconciliation passages and silent about the violence that comes first.
+prompt: Which of these three I want in the manuscript, and in whose mouth | fill
+
+@page rh="THE TWELVE · 4 OF 9 · OBADIAH · JONAH · MICAH" m="OBAD 10–14; PS 137 (COMPARE); JONAH 4; 2 KGS 14.25; MIC 2.1–2; MIC 3.5–11; MIC 6.8; RAABE, OBADIAH (AB)"
+# Obadiah · Jonah · Micah
+rec:
+Obadiah · uncertain · shortest book | One chapter against Edom, a neighboring people condemned for what it did on the day Jerusalem fell: standing aloof, gloating over the disaster, entering the gate and joining the plunder, cutting off fugitives at the crossroads and handing over survivors. Edom isn't shown leading the invasion. It's charged with every item on that list. **Study:** Edom in the family stories and the prophets, bystanding as a named offense, profit from a neighbor's catastrophe, and what the shortest book in the Bible chooses to spend its one chapter on.
+Jonah · set in the Assyrian era | A prophet gets a commission and sails the other way. A storm, sailors who behave better than he does, the fish, a sermon of five Hebrew words, a mass repentance that includes the livestock, and a prophet furious that it worked. It ends on a question about mercy that's never answered. CONTESTED: "Satire" is one major classification and a useful one. Parable, teaching novella and prophetic legend are held seriously too. **Study:** mercy for an enemy empire, nationalism, prophetic refusal, Nineveh as a real capital and a symbol, repentance from the throne down, and the plant, the worm and the unanswered question.
+Micah · Judah, 8th c. | Judgment on both capitals, with a specific economic charge against people who lie awake planning how to take fields and houses, and take them, because they have the power. Rulers who hate justice, judges who take bribes, priests who teach for a price and prophets who cry peace as long as they're fed. In the same book, a ruler from a small town, and the famous line about what's required. **Study:** land seizure, prophets for hire, the threat against Zion, Bethlehem, and the courtroom framing of chapter 6.
+box: Micah isn't one verse
+INTERPRETATION: Reading only 6.8 removes the land seizure, the bought clergy, the threat against the capital, and the fact that the verse answers a question about what an offering can buy. Study the argument it concludes.
+/end
+prompt: A prophet who is angry that mercy was extended. Does Dominion have one? | fill
+
+@page rh="THE TWELVE · 5 OF 9 · NAHUM · HABAKKUK · ZEPHANIAH" m="NAH 3.1–7; HAB 1–2.5; HAB 3; ZEPH 1.7–13; ZEPH 3.11–13; SWEENEY, TWELVE PROPHETS"
+# Nahum · Habakkuk · Zephaniah
+note: The Nahum entry concerns a poem that celebrates a city's destruction and uses sexualized humiliation of a personified capital as part of the celebration. It doesn't quote the imagery.
+rec:
+Nahum · Judah, 7th c. | Three chapters on the fall of Assyria's capital in fast, visual poetry, chariots in the streets, the crack of the whip, bodies heaped up, and a taunt addressed to the city as a woman to be exposed before the nations. **Hold both:** Calling it a provincial revenge song dismisses where it's written from. Assyria deported whole populations, flayed captives and advertised it, and this is the voice of people who were on the receiving end of a terror state watching it end. It's also not innocent. The gendered humiliation is doing real work, and the book's pleasure in the violence isn't incidental. **Study:** Assyrian imperial practice, the poetry of a city's fall, who's allowed to celebrate, and the opening hymn about patience and wrath.
+Habakkuk · Judah, late 7th c. | Built as an argument. The prophet complains that violence goes unanswered. The reply names Babylon as the instrument. The prophet objects that this is worse. The second reply is a set of woes against the plunderer, a line about the righteous living by faithfulness, and an order to write the vision down plainly and wait. It closes with a psalm that chooses trust without claiming anything has improved. **Study:** complaint as a legitimate prophetic form, God's use of an empire, faith or faithfulness and its later reuse, and waiting.
+Zephaniah · Judah, 7th c. | A Day of the LORD announced as near, dark and total, and aimed with unusual precision at officials, the king's sons, traders and people grown so comfortable they assume nothing will happen. A remnant is left, described as humble, people who won't do wrong and won't be afraid. **Study:** the Day of the LORD across the Twelve, the ruling class as named target, complacency as an offense, and who the remnant consists of.
+corr: The old companion said Habakkuk got "an unsatisfying answer." That's a verdict and not a description. The reply doesn't answer the question asked, and the book knows it, which is why it ends in waiting.
+prompt: Who in my world is allowed to celebrate the Fall, and who is told it's unseemly | fill
+
+@page rh="THE TWELVE · 6 OF 9 · HAGGAI · ZECHARIAH · MALACHI" m="HAG 1.2–11; EZRA 5.1–2; ZECH 1–6; ZECH 3; ZECH 9.9; MAL 2.10–16; MAL 3.1; MAL 4.5–6; HUGENBERGER, MARRIAGE AS A COVENANT"
+# Haggai · Zechariah · Malachi
+rec:
+Haggai · Persian period, dated precisely | Four dated messages in a few months, all on one subject. The temple is a ruin while people live in finished, paneled houses. The economics are blunt. You sow much and harvest little, you earn wages to put in a bag with holes, and the shortfall is blamed on the unbuilt house. The work restarts, and Ezra names Haggai and Zechariah as the prophets who got it moving. **Study:** rebuilding under imperial authorization, scarcity and its explanation, the governor and the high priest, and what religious construction costs ordinary households.
+Zechariah · Persian period, and later material | Eight night visions with a messenger who interprets them, horses and riders, a measuring line, a lampstand, a flying scroll, chariots, and a courtroom where the high priest stands in filthy clothes, is accused and is dressed again. Later oracles include a king riding on a donkey and a shepherd sequence the gospel writers draw on heavily. **Study:** how symbolic vision works, the priesthood restored by new clothes, the two olive trees, the donkey-riding king, the pierced one and the struck shepherd, and the gospels' reuse of them, read as reuse.
+Malachi · Persian period | Built as a run of disputes. A claim is made, the audience objects and the objection is answered. The targets are priests offering blemished animals, men who've dealt treacherously with the wives of their youth (a passage on divorce with real textual difficulty), people withholding what's owed, and a general feeling that serving God isn't worth it. It promises a messenger who will refine the priesthood and closes with Elijah, turning the hearts of parents and children to each other.
+corr: The old companion said the last word of the Old Testament is an accusation against clergy. That only works in the Christian order, since Chronicles comes last in the Jewish one, and even there Malachi's closing verses are about Elijah and families. The claim is dropped.
+prompt: A prophet whose message is "finish the building." Whose interests does that serve? | fill
+
+@page rh="THE TWELVE · 7 OF 9 · THE LICENSED PROPHETIC OFFICE" m="MIC 3.5–8; AMOS 5.21–24; HAG 1.4–6; MAL 3.8–10; HAB 2.6–17; TKC: DOM"
+# Which prophets an empire keeps
+INTERPRETATION: The Twelve holds both kinds, prophets who tell an institution to finish its building and prophets who tell it its worship is worthless while it sells the poor. Any empire that licenses a prophetic office is choosing from exactly this range, and the choice is the doctrine.
+tabrl:
+| What the Sanctum circulates | What it keeps in the closed catechism |
+| Haggai. Finish the house, and the shortfall is your fault for not finishing it. | Micah. The people who lie awake planning how to take fields, and take them, because they can. |
+| Malachi. Bring the full tithe into the storehouse. | Malachi. The priests are the first ones charged. |
+| Hosea's reconciliation. The God who takes her back. | Hosea's mechanism. The exposure and shaming that come before the taking back. |
+| Zephaniah's remnant. The humble who are spared. | Zephaniah's target list. Officials, the king's sons and the merchants. |
+| Nahum. The enemy empire falls, because we're the righteous ones. | Habakkuk. The empire God is using is judged for the same violence. |
+| Amos's closing restoration verses. | Everything in Amos before them, and the priest of the royal sanctuary telling him to leave the country. |
+box: The test the Twelve actually offers
+INTERPRETATION: Micah names prophets who cry peace while they're being fed and declare war on anyone who stops feeding them. Applied, that gives a working test more than a moral one. Follow the money and see whose interest the message serves. It works on the Sanctum and on anyone the characters are inclined to trust. It's an interpretive use of Micah, and the text doesn't prescribe it.
+/end
+prompt: The Sanctum's approved prophetic canon. List what's in and what's sealed | fill
+
+@page rh="THE TWELVE · 8 OF 9 · WRITING" m="WRITING; HOS–MAL; TKC: DOM · TL"
+# Build the prophetic office
+Six pages of reference have given you twelve models. This page turns them into Dominion's institution.
+prompt: 1 · How a person becomes a licensed prophet in Dominion, and who revokes it | fill
+prompt: 2 · An unlicensed voice who is right. What happens at the sanctuary door | fill
+prompt: 3 · The Empire's own "Day of the LORD." What it promises and whom it threatens | fill
+prompt: 4 · One oracle, in full, in the Sanctum's voice. The same event from outside it | fill
+
+@page rh="THE TWELVE · 9 OF 9 · CLOSE THE STUDY" m="WRITING; SPREAD CLOSE; QUEUE: F7"
+# Which of the Twelve earns more study
+The audit names seven as likely to need their own focused study later: Hosea, Amos, Jonah, Micah, Habakkuk, Zechariah and Malachi. Read this collective study before deciding. The audit column records its seven, and the mark column is yours. Nothing is promoted from this page.
+tab:
+| Book | Audit | Mark | Why, in one line |
+| Hosea | AUDIT | _ | _ |
+| Joel | _ | _ | _ |
+| Amos | AUDIT | _ | _ |
+| Obadiah | _ | _ | _ |
+| Jonah | AUDIT | _ | _ |
+| Micah | AUDIT | _ | _ |
+| Nahum | _ | _ | _ |
+| Habakkuk | AUDIT | _ | _ |
+| Zephaniah | _ | _ | _ |
+| Haggai | _ | _ | _ |
+| Zechariah | AUDIT | _ | _ |
+| Malachi | AUDIT | _ | _ |
+
+@page rh="THE TWELVE · 9 OF 9 · CLOSE THE STUDY, CONTINUED" m="WRITING; SPREAD CLOSE; QUEUE: F7"
+# What I take out of the Twelve
+prompt: The one book of the Twelve that changed how I see the Empire | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+review: Promotion review | log only, no promotion is made here
+fields: BOOKS MARKED, DATE, TIER PROPOSED
+/end
+
+@notes rh="SPREAD NOTES · F7 THE TWELVE" m="NOTES; OPEN NOTES" prompt="Anything this study started and didn't finish"

@@ -1,0 +1,90 @@
+@divider id="f2" num="F2" kind="FOCUSED STUDY SPREAD" title="Ecclesiastes" sub="Hevel, the court passages, and fatalism the Empire can use" foot="F2 · EIGHT PAGES"
+
+@opener rh="FOCUSED STUDY SPREAD F2 · ECCLESIASTES" m="SOURCE MARGIN; ECCL 1–12; MT · LXX; FOX, QOHELET AND HIS CONTRADICTIONS; SEOW, ECCLESIASTES (AB)"
+plate: quote
+pk: Ecclesiastes 10.20
+pq: Do not curse the king, even in your thoughts, or curse the rich, even in your bedroom.
+pq: For a bird of the air may carry your voice, or some winged creature tell the matter.
+pr: A surveillance proverb in the canon, about two and a half thousand years before the Broadcast.
+/end
+tk: FOCUSED STUDY F2 · ✥
+big: Ecclesiastes
+lede: A book inside the canon that says the system can't be figured out, the record won't be kept, and you should eat your dinner anyway. Dangerous material for an empire that needs meaning handed down from above.
+calls:
+k: Why this is a focused study
+Twelve short chapters and one sustained argument. What you need is hevel handled correctly and the court passages pulled out, and eight pages do that.
+||
+k: Read it whole first
+It's one of the few biblical books short enough to read in an hour, and it doesn't survive being read in fragments. Read it before working these pages.
+/end
+
+@page rh="ECCLESIASTES · 1 OF 5 · THE BOOK ON THE RECORD" m="ECCL 1.1; ECCL 1.12; ECCL 12.9–14; FOX, QOHELET; JOB (COMPARE); TKC: DOM"
+# What it is
+rec:
+Name | The Hebrew is *Qohelet*, from a root meaning to assemble or convene, roughly "the Assembler," someone who addresses a gathering. The Greek title translates it. A role, more than a personal name.
+The speaker | Introduced as "son of David, king in Jerusalem." Solomon is never named. INTERPRETATION: Best read as a literary persona, a royal voice adopted so the experiment of chapters 1–2 can run with unlimited means. Modern scholarship generally dates the book's Hebrew well after Solomon, commonly to the Persian or Hellenistic period. If you treat the speaker as a historical king, say you're doing it.
+Two voices | First person for most of twelve chapters, then a third-person voice at the end describing Qohelet from outside and commending him, with qualifications. Many read the epilogue as an editorial frame. CONTESTED: Whether it endorses the book, tames it or corrects it.
+Genre | Wisdom literature turned adversarial. It uses the forms of instruction to question instruction. Royal testament, observation report, proverb collection and poem sit side by side.
+Structure | No tidy outline, and the proposals disagree. What's visible: the royal experiment (1–2), the poem on times (3), a run of observations on injustice, labor, wealth and death (4–10), advice for the young and the closing poem on age (11–12), and the epilogue.
+Neighbors | Egyptian and Mesopotamian pessimism literature and royal testaments cover similar ground. Job is the closer neighbor in the canon. Both refuse the standard account of reward and punishment, by different routes.
+box: What the book is actually arguing
+INTERPRETATION: That outcomes don't track merit, that nobody can see the whole pattern, and that this is a reason to take what's in front of you seriously and keep going. The book refuses to lie, and it stops short of despair.
+/end
+prompt: What I was taught this book meant, and who taught me | fill
+
+@page rh="ECCLESIASTES · 2 OF 5 · THE WORD THE WHOLE BOOK TURNS ON" m="ECCL 1.2; ECCL 12.8; BDB · HALOT, HEVEL; GEN 4 (ABEL); VULGATE, VANITAS; KJV 1611"
+# Hevel
+One Hebrew word appears dozens of times across twelve chapters and frames the whole book, first verse and last. Its concrete sense is vapor, breath or mist, something real that won't stay in your hand. Every English rendering is an interpretation, and each one produces a different book.
+tabrl:
+| Rendering | The book it produces |
+| "Vanity" | The traditional English, reaching us through the Latin *vanitas*. In modern English it suggests conceit, which isn't the sense, and it makes the book sound like a sermon against pride. |
+| "Meaningless" | The strongest and the most misleading. It turns an observation about impermanence into a verdict on existence, and the book keeps recommending things, which a meaningless world wouldn't allow. |
+| "Absurd" | Stresses the gap between what should follow and what does. Useful, and it carries modern philosophical baggage. |
+| "Futile" | Keeps the effort and denies it a result. It fits the labor passages and fits the enjoyment passages badly. |
+| "Vapor" or "breath" | Keeps the image and lets the reader do the work. It also connects to the name Abel in Genesis 4, the same consonants, a resonance the Hebrew reader hears and the English reader never does. |
+cols:
+k: What the book also says. Don't cut this half.
+Eat, drink and find good in your labor. Enjoy your bread and your work. Do it with the person you love. These recommendations come back again and again, and they're the counterweight to every "vapor" verdict. A summary that keeps only the bleak half isn't summarizing this book.
+||
+kp: Quotation warning
+"Eat your bread, love someone, the day is short" is a paraphrase of the enjoyment passages and not a verse. "Nobody will remember you" compresses several passages on memory and drops the ones about a good name. Never print either as a quotation.
+/end
+prompt: Which rendering I'm using, and why that one | fill
+
+@page rh="ECCLESIASTES · 3 OF 5 · THE COURT PASSAGES" m="ECCL 4.1; ECCL 5.8–9; ECCL 8.2–4; ECCL 10.16–20; SEOW, ECCLESIASTES; TKC: DOM"
+# Written by someone who's been near power
+The book's political passages are the ones nobody puts on a coffee mug. They read like advice from someone who has watched administration from inside and doesn't expect it to improve.
+rec:
+Oppression with no comforter · 4.1 | He looks at the oppressed and notes twice that they have no one to comfort them, and that power is on the other side. No explanation is offered for why God allows it. The observation is left standing.
+The chain of officials · 5.8–9 | Don't be astonished at oppression and the denial of justice in a province, followed by a clause about one official watching over another. These are among the hardest verses in the book, and translations split sharply on who's watching whom and whether verse 9 defends or indicts the king. CONTESTED: A tiered bureaucracy where each level answers upward is one strong, common reading, and the Hebrew allows others.
+Obey, because he can · 8.2–4 | Keep the king's command. Don't stand in a bad cause before him. His word is powerful, and no one asks him what he's doing. INTERPRETATION: Counsel for survival more than an endorsement, and Dominion will print it as an endorsement.
+The birds will carry it · 10.20 | Don't curse the king even in your thoughts, or the rich in your bedroom, since a bird of the air may carry the word. A surveillance proverb in the canon. Take this one whole.
+A child for a king · 10.16–17 | Woe to the land whose king is a servant, or a child, and whose princes feast in the morning. Happy the land whose king is nobly born and whose princes eat at the proper time. INTERPRETATION: Class assumptions fully intact. The book criticizes governance without asking who's entitled to govern.
+prompt: Which of these could be read aloud in the Sanctum without anyone flinching, and which couldn't | fill
+
+@page rh="ECCLESIASTES · 4 OF 5 · WHAT DOMINION COULD DO WITH FATALISM" m="ECCL 3.1–8; ECCL 9.11; ECCL 8.2–4; ECCL 12.13–14; TKC: DOM"
+# The most useful book in the Empire's hands
+INTERPRETATION: Fatalism is an excellent instrument of government. If nothing can be changed, nothing needs changing, and the person who says so sounds wise instead of compliant. Ecclesiastes can be made to say this. It doesn't say it, but the raw material is all there, and the Sanctum wouldn't have to add a word.
+tabrl:
+| The passage | The use, and what it leaves out |
+| A time for everything · 3.1–8 | POSSIBLE: Read as divine scheduling. Your suffering has its season, so endure it on time. What it leaves out is that the poem lists killing, tearing down and hating as appointed too, which makes it a description of the whole range of human doing more than a comfort. |
+| Time and chance · 9.11 | POSSIBLE: Read as "outcomes aren't yours to control, so accept your placement." What it leaves out is that the verse directly denies that the swift and the strong reliably win, which undercuts every ranked competition the Empire runs. |
+| Obey the king · 8.2–4 | POSSIBLE: Read as a standing command. What it leaves out is the reason given, which is that he has the power, and nothing about his having the right. |
+| The epilogue · 12.13–14 | POSSIBLE: The Sanctum's favorite verse in the book, since it's the one sentence that sounds like an instruction. Quoting the last two verses and skipping twelve chapters is the cleanest example of the Empire's reading method. |
+box: The harder question for TKC
+Fatalism also protects people. A woman who believes the outcome was never hers to decide can survive a verdict that would otherwise destroy her. The Empire teaches this doctrine cynically, and some of the characters will need it sincerely. Leave the tension unresolved and write it.
+/end
+prompt: Who in my cast believes this sincerely, and who teaches it knowing better | fill
+
+@page rh="ECCLESIASTES · 5 OF 5 · CLOSE THE SPREAD" m="WRITING; ECCL 12.9–14; SPREAD CLOSE; QUEUE: F2"
+# What I take out of Ecclesiastes
+prompt: The epilogue. Does it endorse the book, tame it or argue with it? My reading | fill
+prompt: A Sanctum teaching built on this book. Draft the actual wording | fill
+prompt: A character who has reached this book's conclusion honestly | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+review: Promotion review | log only, no promotion is made here
+Ecclesiastes is a focused study. Log a promotion if the Empire's use of the book becomes a plot thread of its own more than atmosphere. If the Sanctum starts teaching it on the page, the epilogue will need its own spread.
+fields: LOGGED, DATE, REASON
+/end
+
+@notes rh="SPREAD NOTES · F2 ECCLESIASTES" m="NOTES; OPEN NOTES" prompt="Anything this spread started and didn't finish"
