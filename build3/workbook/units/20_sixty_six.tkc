@@ -17,7 +17,7 @@ side:
 k: A reading order, if you want one
 stext: Canonical order isn't chronological, and it's a poor first path. To read for competence before completeness, take Genesis, Exodus, Judges, 1–2 Samuel, Mark, Luke, Amos, Isaiah, Esther, Ruth, Romans and Revelation. You'll have origins, law, monarchy, prophetic anger, exile, a life, a movement and an apocalypse, the whole grammar Dominion is built on, in about a tenth of the pages. Come back afterward and do it properly.
 marg
-see: Bible 101, I to IX; the focused studies and the deep dives that follow this section.
+see: Bible 101, I to IX · the focused studies and the deep dives that follow this section.
 /end
 
 @essay rh="THE SIXTY-SIX BOOKS · OLD TESTAMENT · TORAH · I"
@@ -39,7 +39,7 @@ k: Read first
 stext: Ch. 1–3 · 16 · 21 · 22 · 29–30 · 38
 corr: The old page called Hagar the first person in the book to name God. She's the only person in the Bible who does it (Gen 16.13).
 marg
-see: Deep dive I, Genesis; Hagar and Leah, Part II.
+see: Deep dive I, Genesis · Hagar and Leah, Part II.
 /end
 
 @page rh="GENESIS · I · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -72,7 +72,7 @@ chips: OT, START: EMPIRE
 k: Read first
 stext: Ch. 1–3 · 5 · 12 · 15 · 20 · 32
 marg
-see: Deep dive II, Exodus; Empires of the Bible, Part IV.
+see: Deep dive II, Exodus · Empires of the Bible, Part IV.
 /end
 
 @page rh="EXODUS · II · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -106,7 +106,7 @@ k: Read first
 stext: Ch. 10 · 12 · 16 · 19 · 25
 corr: The old page had the jubilee cancelling debts. Leviticus 25 returns land and frees Israelites in debt service. Debt release every seventh year is Deuteronomy 15.
 marg
-see: Deep dive III, Leviticus; Deuteronomy, this section.
+see: Deep dive III, Leviticus · Deuteronomy, this section.
 /end
 
 @page rh="LEVITICUS · III · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -139,7 +139,7 @@ chips: OT, START: AUTHORITY
 k: Read first
 stext: Ch. 12 · 13–14 · 16 · 22 · 27 · 36
 marg
-see: Focused study F1, Numbers; Miriam, Part II.
+see: Focused study F1, Numbers · Miriam, Part II.
 /end
 
 @page rh="NUMBERS · IV · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -172,7 +172,7 @@ chips: OT, START: DOMINION
 k: Read first
 stext: Ch. 6 · 15 · 17 · 22 · 28 · 30 · 34
 marg
-see: Deep dive IV, Deuteronomy; Job, this section.
+see: Deep dive IV, Deuteronomy · Job, this section.
 /end
 
 @page rh="DEUTERONOMY · V · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -207,7 +207,7 @@ k: Read first
 stext: Ch. 2 · 6 · 7 · 9 · 24
 corr: The old page put Rahab in the royal genealogy as if Joshua said so. Joshua doesn't. Matthew's genealogy does (Matt 1.5).
 marg
-see: Rahab, Part II; Divine violence, Bible 101 IX.
+see: Rahab, Part II · Divine violence, Bible 101 IX.
 /end
 
 @page rh="JOSHUA · VI · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -241,7 +241,7 @@ chips: OT, START: DOMINION
 k: Read first
 stext: Ch. 4–5 · 11 · 16 · 19–21
 marg
-see: Deborah, Part II; Power and kingship, Part IV.
+see: Deborah, Part II · Power and kingship, Part IV.
 /end
 
 @page rh="JUDGES · VII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -274,14 +274,14 @@ chips: OT, START: CHARACTER
 k: Read first
 stext: All four chapters. It's short.
 marg
-see: Ruth, Part II; Ezra, focused study F5.
+see: Ruth, Part II · Ezra, focused study F5.
 /end
 
 @page rh="RUTH · VIII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
 # Ruth, for the novel
 cols:
 k: What it gives TKC
-The most famous line of devotion in scripture is spoken by a woman to another woman, and neither to a husband nor to God. That single fact will do more for the relationship writing than any romance in the collection.
+The most famous line of devotion in scripture is spoken by a woman to another woman, and neither to a husband nor to God. The single fact will do more for the relationship writing than any romance in the collection.
 ||
 kp: What Dominion would do
 POSSIBLE: Read it at every wedding, with the vow reassigned to a husband and the threshing floor softened into modesty. A foreign woman who assimilates completely is the Empire's favorite kind of immigrant.
@@ -308,7 +308,7 @@ chips: OT, START: DOMINION
 k: Read first
 stext: 1 Sam 1–2 · 8 · 16–18 · 25 · 2 Sam 6 · 11–12 · 13
 marg
-see: Bathsheba and Tamar, Part II; Prophecy and who gets believed, Part IV.
+see: Bathsheba and Tamar, Part II · Prophecy and who gets believed, Part IV.
 /end
 
 @page rh="1 AND 2 SAMUEL · IX–X · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -329,7 +329,7 @@ small: forty-seven chapters · Books xi–xii of lxvi
 k: Where we are
 At the height of the state and all the way down. The book holds the temple's construction and its destruction. INFERENCE: In its final form it was finished in exile, by people explaining how they lost everything. Its last scene is a captive king in Babylon.
 k: What happens
-Solomon builds the temple with conscripted labor, and after his death the kingdom splits over that grievance. A catalogue of kings follows, each rated in a sentence, broken up by prophets who confront them. Elijah takes on a royal couple who seize a vineyard by judicial murder. A forgotten scroll is found in the temple and sets off a purge. Then Assyria, Babylon and the temple burned.
+Solomon builds the temple with conscripted labor, and after his death the kingdom splits over that grievance. A catalogue of kings follows, each rated in a sentence, broken up by prophets who confront them. Elijah takes on a royal couple who seize a vineyard by judicial murder. A forgotten scroll is found in the temple and sets off a purge. After that come Assyria, Babylon and the burning of the temple.
 k: Who matters
 Solomon · the queen of Sheba · Elijah · Ahab · Jezebel · Naboth · Elisha · Athaliah · Huldah · Josiah · Nebuchadnezzar
 k: What it wrestles with
@@ -342,7 +342,7 @@ k: Read first
 stext: 1 Kgs 3 · 5 · 12 · 18 · 21 · 2 Kgs 11 · 22–23 · 25
 small: The biblical prophet Huldah has no connection to the Prelate. The Prelate's working name is Aurelia (POSSIBLE, FR 33).
 marg
-see: Jezebel and Huldah, Part II; Empires of the Bible, Part IV.
+see: Jezebel and Huldah, Part II · Empires of the Bible, Part IV.
 /end
 
 @page rh="1 AND 2 KINGS · XI–XII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -428,7 +428,7 @@ chips: OT, CONTESTED
 k: Read first
 stext: Ch. 1–3 · 19 · 38–42
 marg
-see: Deuteronomy, this section; Ecclesiastes, focused study F2.
+see: Deuteronomy, this section · Ecclesiastes, focused study F2.
 /end
 
 @page rh="JOB · XVIII · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -642,7 +642,7 @@ small: twenty-eight chapters · Book xliv of lxvi
 k: Where we are
 An unlicensed movement spreading across the Roman world with no buildings, no budget and no legal standing, meeting mostly in homes, borrowed rooms and courtrooms.
 k: What happens
-A spirit arrives and everyone hears in their own language. The first community pools its property. A couple who lie about money fall dead. A persecutor is converted on a road. Then the great fight over whether outsiders have to adopt the law to belong, settled by a meeting in Jerusalem (ch. 15). Again and again the meeting place is a woman's house, Mary's in Jerusalem (12.12) and Lydia's in Philippi (16.15, 40).
+A spirit arrives and everyone hears in their own language. The first community pools its property. A couple who lie about money fall dead. A persecutor is converted on a road. Next comes the great fight over whether outsiders have to adopt the law to belong, settled by a meeting in Jerusalem (ch. 15). Again and again the meeting place is a woman's house, Mary's in Jerusalem (12.12) and Lydia's in Philippi (16.15, 40).
 k: Who matters
 Peter · Stephen · Philip · Paul · Tabitha · Lydia · Priscilla · the Ethiopian official · Gamaliel
 k: What it wrestles with
@@ -654,7 +654,7 @@ chips: NT, START: RESISTANCE
 k: Read first
 stext: Ch. 2 · 4–5 · 8 · 12 · 15 · 16
 marg
-see: Lydia, Part II; Religious institutions, Part IV.
+see: Lydia, Part II · Religious institutions, Part IV.
 /end
 
 @page rh="ACTS · XLIV · WHAT IT GIVES, WHAT IT COSTS" m="YOURS; TKC; DOMINION"
@@ -686,7 +686,7 @@ k: A pattern worth noticing
 stext: INTERPRETATION: The letters scholars most doubt are Paul's, the Pastorals above all, are the ones most concerned with hierarchy.
 kp: What Dominion would do
 stext: POSSIBLE: Teach the letters as legislation, print them without their addressees, and never mention who carried them.
-see: Module ix, The household verse; Part IV.
+see: Module ix, The household verse · Part IV.
 /end
 
 @page rh="THE SIXTY-SIX BOOKS · NEW TESTAMENT · THE LETTERS · YOUR PAGE" m="YOURS; LETTERS"
@@ -700,7 +700,7 @@ small: twenty-two chapters · Book lxvi of lxvi
 k: Where we are
 On the island of Patmos, "because of the word of God" (1.9), writing to seven congregations under pressure from an empire whose emperors were worshiped as gods. INFERENCE: Tradition says he was exiled there. Either way it's dissident literature, written in code.
 k: What happens
-Seven letters assessing seven churches, several of them harshly. Then visions: a slaughtered lamb on the throne, seals and trumpets and bowls, a beast whose authority comes from a dragon, a mark required to buy and sell, and a gorgeously dressed city called a prostitute whose fall is mourned by merchants because their trade is ruined. It ends with that city replaced by a new one whose gates never close.
+Seven letters assessing seven churches, several of them harshly. The visions follow: a slaughtered lamb on the throne, seals and trumpets and bowls, a beast whose authority comes from a dragon, a mark required to buy and sell, and a gorgeously dressed city called a prostitute whose fall is mourned by merchants because their trade is ruined. It ends with that city replaced by a new one whose gates never close.
 k: Who matters
 John of Patmos · the lamb · the dragon and the beast · the woman clothed with the sun · the merchants, who are the ones who weep
 k: What it wrestles with

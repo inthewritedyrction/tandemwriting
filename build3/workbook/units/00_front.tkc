@@ -6,6 +6,20 @@
 <div class="s3">A story and scripture companion for the drafting and revision of the novel. Kept by its author, and revised as the manuscript revises itself.</div>
 <div class="s4">DANY · OCTOBER 2026</div>
 
+@divider num="✥" kind="VOLUME ONE" title="Contents" sub="Eight parts and the back matter. Each part opens with its own contents."
+toc: I · Learning the Bible as a novelist | part1
+toc: The sixty-six books | b66
+toc: Focused studies F1 to F7 | f1
+toc: Deep-dive dossiers I to IV | d1
+toc: II · The people of the text | part2
+toc: III · Jesus, kingdom and power | part3
+toc: IV · Empire and interpretation | part4
+toc: V · The fall of the United States | part5
+toc: VI · Building the Empire | part6
+toc: VII · The twelve Dominions | part7
+toc: VIII · The Covenant Trials | part8
+toc: The register, the sources and the log | back
+
 @essay rh="FRONT MATTER · WHAT THIS COMPANION IS"
 # What this companion is
 drop: This is a working reference for a novel about a Christian empire, kept by the person writing it. *Thy Kingdom Come* can't be written honestly by someone guessing at scripture, and it can't be written well by someone who has only absorbed the version of scripture that power finds convenient. So the companion does two jobs at once. It teaches the book patiently and from the beginning, as literature, as history, and as an argument that has never stopped arguing with itself. And it keeps a record of what the Empire does to that book once it has the authority to quote it.

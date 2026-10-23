@@ -33,7 +33,7 @@ D = [
   "How Nadia got through a selection built for polish"),
  ("X.7","Heartland","Providence Cross","Kansas City","Missouri, Kansas, Iowa, Nebraska, Minnesota, the Dakotas","The most theologically fluent","Ruth Gideon · Providence Cross · 22",
   ["The Heartland didn't need conquering, because the Coalition had been building here for decades. Providence Cross is the most genuinely loyal seat city in the Empire. People sing the hymns because they mean them.",
-   "That sincerity is the Empire's most valuable asset and one of its hardest to control, because real believers have opinions about what faithfulness requires. Some of the Empire's most serious theological debates happen here, including Heartland women's \"theological inquiry\" into the Commonwife designation. Heartland sends the most theologically fluent Covenant Daughters, for whom devotion is both credential and liability."],
+   "The sincerity is the Empire's most valuable asset and one of its hardest to control, because real believers have opinions about what faithfulness requires. Some of the Empire's most serious theological debates happen here, including Heartland women's \"theological inquiry\" into the Commonwife designation. Heartland sends the most theologically fluent Covenant Daughters, for whom devotion is both credential and liability."],
   "At 13, the First Covenant, where her track is set in public","The Anointing, hair washed and braided · planting after a burial",
   "What Ruth believes that the Empire would rather she didn't"),
  ("X.8","Red Earth","Canaan's Gate","Oklahoma City","Oklahoma, Arkansas, eastern Kansas, southwestern Missouri","Often scored mid-pack until it's too late","Delia Cross · Canaan's Gate · 24",

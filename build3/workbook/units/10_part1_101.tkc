@@ -24,7 +24,7 @@ chips: OT, NT
 k: The numbers
 stext: 66 books in the Protestant count · 39 Old, 27 New · Hebrew, Aramaic, Greek · roughly a thousand years of writing · no single author, no single editor, no original title page.
 marg
-see: How it was assembled; Who gets to say what it means, Part IV.
+see: How it was assembled · Who gets to say what it means, Part IV.
 /end
 
 @essay id="b102" rh="LEARNING THE BIBLE · BIBLE 101 · II"
@@ -40,7 +40,7 @@ side:
 k: Books that nearly lost
 stext: Esther · Song of Songs · Ecclesiastes · Hebrews · James · 2 Peter · Jude · Revelation
 marg
-see: The canon timeline, ii.3; Passages kept quiet, Part IV.
+see: The canon timeline, ii.3 · Passages kept quiet, Part IV.
 /end
 
 @page id="b103" rh="LEARNING THE BIBLE · BIBLE 101 · III" m="GEN–DEUT; JOSH–RUTH; 1 SAM–2 CHR; EZRA–ESTH; JOB–SONG; ISA–MAL"
@@ -60,7 +60,7 @@ prompt: Which movement the Empire teaches as its own story | fill
 
 @page id="b104" rh="LEARNING THE BIBLE · BIBLE 101 · IV" m="MATT–JOHN; ACTS; ROM–PHLM; HEB–JUDE; REV"
 # The shape of the New Testament
-Twenty-seven documents, all written inside the Roman Empire by members of a movement with no political power, most of them within about seventy years of a public execution. That situation shapes everything, including the parts your Empire will most want to use.
+Twenty-seven documents, all written inside the Roman Empire by members of a movement with no political power, most of them within about seventy years of a public execution. The situation shapes everything, including the parts your Empire will most want to use.
 rec:
 Gospels · Matthew to John | Four accounts of one life, and they don't match, which is the most useful thing about them. Mark is urgent and bleak, Matthew argues that this fulfills the Law, Luke keeps putting women and the poor in the frame, and John does high theology. Read side by side, you're watching four communities decide what mattered. See the Gospel Grid in Part III.
 Acts · the movement spreads | A small, property-sharing sect argues its way across the Mediterranean, mostly in rented rooms and courtrooms. Again and again it's hosted by women with houses.
@@ -103,7 +103,7 @@ side:
 k: Method
 sbox: Two minimum | Two translations from different traditions. Note every divergence. The gap is the material.
 marg
-see: Translation, module vi; the household verse, module ix.
+see: Translation, module vi · the household verse, module ix.
 /end
 
 @page id="b107" rh="LEARNING THE BIBLE · READING IN CONTEXT · VII" m="METHOD; JOB 42.7; EPH 5.21–33"

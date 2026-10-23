@@ -28,3 +28,20 @@ Needs Python 3 with `markdown` and `pdfplumber`, and Node with Playwright/Chromi
 | `TKC_Volume_One_The_World_Dossier.pdf` | An earlier export (world parts only) |
 | `Old_Companion_p001-085.pdf`, `p086-170`, `p171-251` | The old Companion (TKC workbook), 251 pages |
 | `Writing_Rules.docx`, `Timeline_Updated.docx`, `The_Covenant_Trials_Updated.docx`, `The_Dominions_Update.docx`, `Men_In_The_Covenant_Empire.docx` | Source files, with text extractions in `txt/` |
+
+## The Volume One workbook
+
+`dist/TKC_Volume_One_Workbook.pdf` is the printed workbook: 581 pages at 8.5 × 11, white with the ITWD pink.
+
+- The source is in `workbook/units/*.tkc`, one file per section. They're read in filename order.
+- `workbook/wb.py` renders the units to `out/workbook.html`, and `workbook/wb.css` holds every page style.
+- `workbook/wb_print.mjs` fills the writing lines and checks every page for overflow. It moves an overflowing prompt onto a facing working page, through `out/continuations.json`, and prints the PDF.
+- `workbook/gen_dominions.py` regenerates the Part VII unit.
+
+To rebuild:
+
+```
+rm -f out/continuations.json
+for i in 1 2 3; do python3 workbook/wb.py && node workbook/wb_print.mjs out/sample.pdf; done
+node workbook/wb_print.mjs
+```

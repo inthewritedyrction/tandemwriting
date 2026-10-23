@@ -138,7 +138,7 @@ prompt: Which instrument the Empire used first, and which one it's still afraid 
 
 @page rh="HOW IT WAS ASSEMBLED · YOUR PAGE · 6 OF 6" m="YOURS; WRITING"
 # The Empire's own account
-Write the Empire's version of this sequence, one page long, the way a Dominion schoolbook would tell it. Then write what it left out. The gap between the two is a doctrine, and doctrines have authors.
+Write the Empire's version of this sequence, one page long, the way a Dominion schoolbook would tell it. Afterward, write what it left out. The gap between the two is a doctrine, and doctrines have authors.
 prompt: The Empire's account of how its Bible came to be, in the voice of a schoolbook | fill
 prompt: What it leaves out, and who would be dangerous if they knew it | fill
 prompt: Which character finds the gap first, and in what document | fill
