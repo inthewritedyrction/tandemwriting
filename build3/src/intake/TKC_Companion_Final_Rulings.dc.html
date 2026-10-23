@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; background: #2A2E33; }
+  a { color: #3E4C63; text-decoration: none; border-bottom: 1px solid currentColor; }
+  a:hover { color: #5D6660; }
+</style>
+</helmet>
+
+<div style="min-height: 100vh; background: #2A2E33; padding: 48px 24px 120px; font-family: 'Jost', sans-serif;">
+<div style="max-width: 880px; margin: 0 auto; display: flex; flex-direction: column; gap: 26px;">
+
+  <div>
+    <div style="display: flex; align-items: baseline; gap: 14px; color: #E4E4DE; flex-wrap: wrap;">
+      <span style="font-size: 12px; letter-spacing: 0.16em; background: #8A8F98; color: #1F2328; padding: 4px 9px; white-space: nowrap;">CANON REGISTER</span>
+      <span style="font-family: 'Cinzel', serif; font-size: 30px; font-weight: 600; letter-spacing: 0.05em;">Final Rulings</span>
+    </div>
+    <p style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 19px; color: #B9BAB4; margin: 14px 0 0; max-width: 640px; line-height: 1.55;">Review closed. Twenty-nine rulings approved as written, sixteen replaced by you. Where this disagrees with anything earlier, this wins.</p>
+    <div style="display: flex; gap: 22px; flex-wrap: wrap; margin-top: 22px; padding-top: 18px; border-top: 1px solid #4A4E54;">
+      <span style="display: flex; align-items: center; gap: 8px; font-size: 12px; letter-spacing: 0.1em; color: #B9BAB4;"><span style="width: 12px; height: 12px; background: #5D6660;"></span>FROM CANON</span>
+      <span style="display: flex; align-items: center; gap: 8px; font-size: 12px; letter-spacing: 0.1em; color: #B9BAB4;"><span style="width: 12px; height: 12px; background: #8A8F98;"></span>MY INFERENCE, APPROVED</span>
+      <span style="display: flex; align-items: center; gap: 8px; font-size: 12px; letter-spacing: 0.1em; color: #B9BAB4;"><span style="width: 12px; height: 12px; background: #3E4C63;"></span>YOUR RULING</span>
+    </div>
+  </div>
+
+  <sc-for list="{{ rows }}" as="r" hint-placeholder-count="10">
+    <sc-if value="{{ r.isHeader }}" hint-placeholder-val="{{ false }}">
+      <div style="display: flex; align-items: baseline; gap: 12px; margin: 22px 0 -6px; color: #E4E4DE;">
+        <span style="font-family: 'Cinzel', serif; font-size: 20px; font-weight: 600; letter-spacing: 0.08em;">{{ r.title }}</span>
+        <span style="flex: 1; height: 1px; background: #4A4E54;"></span>
+        <span style="font-family: 'EB Garamond', serif; font-style: italic; font-size: 14px; color: #8A8F98; white-space: nowrap;">{{ r.note }}</span>
+      </div>
+    </sc-if>
+    <sc-if value="{{ r.isItem }}" hint-placeholder-val="{{ true }}">
+      <div style="background: #F2F1EC; color: #1F2328; padding: 20px 26px 22px 22px; border-left: 5px solid {{ r.edge }};">
+        <div style="display: flex; align-items: baseline; gap: 12px; margin-bottom: 10px;">
+          <span style="font-size: 12px; font-weight: 500; letter-spacing: 0.1em; color: #8A8F98; min-width: 26px;">{{ r.num }}</span>
+          <span style="font-family: 'Cinzel', serif; font-size: 17px; font-weight: 600; letter-spacing: 0.03em; flex: 1;">{{ r.title }}</span>
+          <span style="font-size: 10px; letter-spacing: 0.14em; padding: 3px 8px; background: {{ r.edge }}; color: #F2F1EC; white-space: nowrap;">{{ r.chip }}</span>
+        </div>
+        <p style="margin: 0 0 0 38px; font-family: 'EB Garamond', serif; font-size: 19px; line-height: 1.6; text-wrap: pretty; color: #2A2E33;">{{ r.body }}</p>
+        <sc-if value="{{ r.hasNote }}" hint-placeholder-val="{{ false }}">
+          <p style="margin: 12px 0 0 38px; font-family: 'Jost', sans-serif; font-size: 13px; font-weight: 300; line-height: 1.6; color: #5D6660; border-left: 2px solid #C9C7BE; padding-left: 12px;">{{ r.note }}</p>
+        </sc-if>
+      </div>
+    </sc-if>
+  </sc-for>
+
+  <div style="margin-top: 26px; background: #35393F; border-left: 5px solid #3E4C63; padding: 26px 28px; color: #E4E4DE;">
+    <div style="font-size: 11px; letter-spacing: 0.22em; color: #8A8F98; margin-bottom: 6px;">WHAT THE OVERRIDES CHANGE DOWNSTREAM</div>
+    <div style="font-family: 'Cinzel', serif; font-size: 20px; font-weight: 600; letter-spacing: 0.05em; margin-bottom: 18px;">Five sweeps waiting on your go</div>
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+      <sc-for list="{{ sweeps }}" as="s" hint-placeholder-count="5">
+        <div style="display: flex; gap: 14px; align-items: baseline;">
+          <span style="font-family: 'Cinzel', serif; font-size: 15px; color: #8A8F98; min-width: 22px;">{{ s.n }}</span>
+          <p style="margin: 0; font-family: 'EB Garamond', serif; font-size: 18px; line-height: 1.55; color: #D8D8D2; text-wrap: pretty;"><strong style="color: #F2F1EC; font-weight: 600;">{{ s.head }}</strong> — {{ s.body }}</p>
+        </div>
+      </sc-for>
+    </div>
+    <p style="margin: 22px 0 0; padding-top: 18px; border-top: 1px solid #4A4E54; font-family: 'EB Garamond', serif; font-style: italic; font-size: 17px; color: #B9BAB4; line-height: 1.55;">One name is still open. The Prelate has to be called something on the page and the companion prints no blanks, so I am using <strong style="font-style: normal; font-weight: 600; color: #F2F1EC;">Prelate Aurelia</strong> as a working name — marked Possible, swept in one pass whenever you name her otherwise.</p>
+  </div>
+
+</div>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+const R = [
+  ["H", "The arithmetic item", ""],
+  ["A", "0", "Solomon's paternity", "Solomon has a different biological father: the man whose household Miriam was reassigned to after Thomas left in 2084. Solomon stays sixteen, the 2090 departure stands, and he kept the Osei name. Zion is unaffected \u2014 conceived before Thomas left, born after, no memory of him.", "Deferred, not flagged: how the reassignment worked, why the Osei name held, what the relationship meant to Miriam."],
+
+  ["H", "Group 1 \u00b7 Miriam, Thomas, and the children", "eighteen items"],
+  ["C", "1", "Registered Binding", "Yes. Commonwife is a registration status, not a description.", ""],
+  ["A", "2", "Moving the children", "\u201cThomas's children\u201d means Eden, Leah, and Zion only. Celeste's reclassification still absorbs all four as her dependents.", ""],
+  ["A", "3", "Thomas in 2090", "Alive and voluntarily absent. He left in 2084 for another Dominion, another woman, another life. Not removed, not imprisoned, not secretly killed. The Empire's record that he relocated was accurate; it just did not include his reasons.", "Sometimes the paperwork is correct and a man simply leaves. No expansion of Thomas's later life this pass."],
+  ["A", "4", "Placement timing", "Eden entered Celeste's household in 2085, after Thomas had already gone, and stayed. Leah, Zion, and Solomon remained with Miriam until 2090.", ""],
+  ["A", "5", "Waves", "Two. Eden alone in 2085; Leah, Zion, and Solomon together in 2090. Eden grew up as Celeste's child; the younger three remember arriving into a house already running.", ""],
+  ["A", "6", "Children on the search", "No. She left all four with Celeste and went alone. Whether each child forgives her is not decided here \u2014 they may land differently, and that belongs to character development.", ""],
+  ["P", "7", "Smuggled back", "No. They were never in her father's household. She found him after they were placed.", ""],
+  ["A", "8", "Permanent or temporary", "Miriam may have fully meant to come back. Celeste heard the instability under the promise. Miriam did not leave indifferent; she made a promise she eventually failed to keep.", ""],
+  ["A", "9", "What she was protecting them from", "The household she had been reassigned to after Thomas abandoned her, and the instability of dragging four children on a search. She had not found her father yet and could not have named him as the threat.", "Whether she was also protecting them from herself stays open for her later development."],
+  ["C", "10", "Four grandchildren absorbed", "The reclassification made the household expensive to unmake, and the dependents entered before anyone audited the arithmetic.", ""],
+  ["P", "11", "What each child witnessed", "Leah watched her pack. Eden was told to take Zion outside. Zion remembers being outside. Solomon was two.", ""],
+  ["P", "12", "What they were told", "\u201cShe's coming back.\u201d It held about a year, then stopped being said, and was never replaced with anything.", ""],
+  ["P", "13", "Eden and Zion", "Eden remembers being given a task, and has spent fourteen years understanding that the task was to be removed from the room. Zion remembers the yard and has never mentioned it.", ""],
+  ["P", "14", "Leah", "She remembers a decision rather than a disappearance \u2014 which is why she is angriest, and why she defends Miriam to the others.", ""],
+  ["P", "15", "Fourteen years", "Being unreachable was not selective. No version existed where she was hidden from him and available to them.", ""],
+  ["A", "16", "Intercepted contact", "One attempt in 2094, intercepted before it reached Celeste. Celeste never knew the letter existed and has no proof Miriam survived. Who intercepted it stays open.", ""],
+  ["P", "17", "Her father's household", "He had been Crownward-resident and close to the Vanes the whole time, and surviving an unregistered ceremony was not an oversight. He was useful to somebody. Her children would be too.", ""],
+  ["P", "18", "The return, and what her father knows", "Conviction, no expectation of being believed; she returns because the arrangement that kept her unreachable ended. Her father knows there are children but not how many or their names, and learned about Eden the day the Trial went public.", "He is the only person watching who understands what he is looking at. Book two."],
+
+  ["H", "Group 2 \u00b7 The Trials", "ten items"],
+  ["C", "19", "The other eleven", "Married down the elite ladder as designated. All thirty-nine Trials place Anointed wives; the Crown contest is a layer on top. Nobody goes home unassigned.", ""],
+  ["C", "20", "The ranked winner", "He may choose any of the twelve. \u201cWithout deviation\u201d is a record, not a rule.", ""],
+  ["P", "21", "What winning means", "Being the choice that costs the Crown nothing. The rankings tell the Heir which selection is free. Deviation is permitted and expensive, and no Heir has paid.", ""],
+  ["P", "22", "If he refuses", "The recommendation stands by default once the Declaration window closes. Refusal is abstention, not resistance, and produces the same outcome as compliance.", ""],
+  ["A", "23", "Quiet downgrade", "Impossible once announced. Cancellation or downgrade requires a public dynastic emergency \u2014 the Crown Heir's death or incapacity, or the Emperor's death forcing an immediate transition. A candidate's death, including Petra's, does not downgrade the Trial.", ""],
+  ["P", "24", "When a candidate dies", "Status restored to the family, no compensation, no punishment. The designation is returned as though never made.", ""],
+  ["P", "25", "Rejected candidates", "Married down as designated. The rejection follows them \u2014 not in the record, in the room.", ""],
+  ["A", "26", "\u201cSix Trials. Twelve girls.\u201d", "Twelve Dominions, one Covenant Daughter each: twelve candidates per Trial. Hannah's twelve girls are her whole career across multiple Houses and posts \u2014 six through her Aurem Trials, six through earlier assignments.", "Supersedes: no two candidates per Dominion, no change to the number of Dominions."],
+  ["A", "27", "Naomi's entry", "Eligibility is not entry. Hannah can submit her name but is not the only one who can; Naomi may self-nominate once eligible, as Eden did. Hannah's decision matters through influence, not legal control.", ""],
+  ["P", "28", "The elite husbands", "Chosen by the oversight committee, ranked by standing rather than performance. A man cannot reject the woman assigned to him; he can decline the assignment, which removes him from the ladder. It has happened twice.", ""],
+
+  ["H", "Group 3 \u00b7 Hannah and Naomi", "six items"],
+  ["P", "29", "What decides Naomi", "If Eden wins, Hannah enters her \u2014 winning proves the ladder is climbable. If Eden dies or is publicly rejected, Hannah gets her out, and the only exit is a designation lower than the Trials reach.", ""],
+  ["P", "30", "Does Naomi know about 2085", "No. She knows her mother was Vowed and is now House Mother. The cancelled cohort is what Hannah has never said out loud.", ""],
+  ["A", "31", "Naomi's father", "An elite-ladder Binding below Crown level, still living, no longer in Hannah's household. His status does not govern her eligibility \u2014 the Empire classifies through household registration. Naomi's eligibility comes through Hannah's household and standing.", "Why he left the household stays open."],
+  ["C", "32", "Mixed-child classification", "By household registration. Not parentage, not appearance. A Dominions-level system rule, not a character note.", ""],
+  ["A", "33", "The two Naomis", "Hannah's daughter keeps the name. The Prelate gets renamed. \u201cNomi\u201d is rejected as too close. The Prelate's institutional role is unchanged; only the name is replaced, consistently.", "The new name can wait without blocking the build."],
+  ["A", "34", "The 2085 cohort", "The twelve know one another from being assembled, prepared, and measured against each other before cancellation. Afterward they were sent home with designations intact and no placements \u2014 not distributed into elite households. They are scattered through their home Dominions and their later lives.", "The shared history makes a network possible. It does not activate before book two."],
+
+  ["H", "Group 4 \u00b7 The Vanes and the documents", "ten items"],
+  ["P", "35", "The tree", "Dorian's removed parent is Elias's child and Crest's elder sibling. Dorian is the rightful successor's son; Crest's claim came through survivorship, not birth order. Azrael and Judah descend from Dorian.", ""],
+  ["P", "36", "Year of removal", "2061, Dorian a child. Fills the logged 2061\u20132062 gap.", ""],
+  ["P", "37", "Crest", "Aware, not acting. He neither arranged it nor prevented it, and spent twenty-four years on a throne he knew the shape of.", ""],
+  ["P", "38", "Why Dorian was spared", "A child's claim is a claim you can supervise. Removing him needed a public reason; raising him inside the house needed none.", ""],
+  ["A", "39", "Succession", "Passed to Crest after the elder sibling's removal, then to Dorian after Crest's death, by survivorship and the absence of another recognized claimant. The 2085 Covenant Trial was cancelled because Crest died mid-cycle and Dorian's accession created an Imperial transition \u2014 not for want of a succession contest.", "The skipped 2085 Trial stands, and so does the arithmetic making 2104 the Thirty-Ninth."],
+  ["P", "40", "Who preserved the documents", "Crest. The one thing he did. Neither destroyed nor used, left where the east wing archive would eventually be inventoried.", ""],
+  ["C", "41", "How Azrael found them", "The Crown advisory access period put him in the archive legitimately. Left in 2085, unmoved for thirteen years, because nobody was looking.", ""],
+  ["P", "42", "Who removed them", "Dorian, the week Azrael was declared dead. He said put it back and then took it himself.", ""],
+  ["P", "43", "Why put it back", "A document Azrael has read and returned is a document Dorian controls. Destroying it would have told Azrael it mattered.", ""],
+  ["P", "44", "Did Dorian know it named Elias", "Yes, since 2061. The only thing he has ever been certain of.", ""]
+];
+
+const SWEEPS = [
+  ["Thomas is abandonment, not removal", "every page framing 2084 as an Empire disappearance needs rewording. It also trades a conspiracy for something more ordinary and worse."],
+  ["Celeste no longer knows Miriam is alive", "this reverses an earlier round-four ruling. Her dossier and the Eden material both carry \u201cshe knows and hid it,\u201d and that comes out. Her silence becomes grief plus no information, which is a different character."],
+  ["Eden placed 2085, alone", "she is Celeste's child in a way the other three are not, and she is the one who volunteered."],
+  ["Twelve Dominions, one girl each", "House Aurem staffing drops to one per Trial, and Hannah's twelve becomes a career count, which ages her in the work."],
+  ["Petra's death costs the Trial nothing", "structurally it changes no schedule and no designation, which is the point of it."]
+];
+
+const CHIP = { C: ["#5D6660", "FROM CANON"], P: ["#8A8F98", "APPROVED"], A: ["#3E4C63", "YOUR RULING"] };
+
+class Component extends DCLogic {
+  renderVals() {
+    return {
+      rows: R.map(r => r[0] === "H"
+        ? { isHeader: true, isItem: false, title: r[1], note: r[2] }
+        : { isHeader: false, isItem: true, num: r[1], title: r[2], body: r[3],
+            note: r[4], hasNote: !!r[4], edge: CHIP[r[0]][0], chip: CHIP[r[0]][1] }),
+      sweeps: SWEEPS.map((s, i) => ({ n: String(i + 1), head: s[0], body: s[1] }))
+    };
+  }
+}
+
+</script>
+</body>
+</html>
