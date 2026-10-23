@@ -1,0 +1,170 @@
+@part id="part5" num="V" kind="PART FIVE · ☙" title="The 39th Trial/as Story" sub="The beats in order, the women who leave and when, the story the Broadcast tells, and a planner for every chapter." series="THY KINGDOM COME · VOLUME TWO · THE PEOPLE"
+toc: i · How to use this part | p5-intro
+toc: ii · Before the Crownward | p5-before
+toc: iii · Genesis, the Temple's phase | p5-genesis
+toc: iv · Exodus, the Crown's phase | p5-exodus
+toc: v · Revelation, Endurance | p5-revelation
+toc: vi · The Declaration and after | p5-after
+toc: vii · Who's still there | p5-who
+toc: viii · The Broadcast's story | p5-broadcast
+toc: ix · The religious line | p5-line
+toc: x · Threads into book two | p5-book2
+toc: xi · The chapter planner | p5-planner
+
+@essay id="p5-intro" rh="THE 39TH TRIAL · HOW TO USE THIS PART"
+# The Trial as story
+drop: Volume One treats the Covenant Trials as an institution, how they work in any year. This part is the 39th as a plot. It prints the beats your files already fix, in order, and leaves a chapter column beside each one, so the outline and the files stay in the same place.
+The three phases already line up with the novel's three movements. The Temple's phase asks who are you, and the novel calls it Genesis. The Crown's phase asks how smart are you, and it's Exodus. Endurance asks what you're willing to endure, and it's Revelation (TR). Every beat sits under one of the three, and the Trial's own scripture-shaped names are the Empire's choice, which the novel is free to turn.
+After the beats come four tools: a tracker of who's still in the Crownward at each phase, the Broadcast's story set against what happened, a map of where each character stands on the book's religious line, and a chapter planner with room for fifty-two chapters.
+side:
+chips: TR, CR, TL, FR 19–25
+k: Content
+stext: Two deaths and violence in Endurance. Content notes sit at the top of the pages that carry them.
+marg
+see: Vol. I, the three phases, {v1:phases}.
+/end
+
+@page id="p5-before" rh="THE 39TH TRIAL · II · BEFORE THE CROWNWARD" m="TKC: TL · TR · DR3 · MEN · DOM"
+# Before the Crownward
+tab:
+| Beat | What the files give | Ch. |
+| 2101 · the Designation | Highest score in Aurem's history, the flag filed that day. She tells Celeste only when asked, and Celeste goes back to the stove (TL). | _ |
+| Bell | Won't sponsor her. Asks about her father and her mother's Binding, and prays a door shut (DR3). | _ |
+| The clause and the fee | Six months of paperwork at the kitchen table while Celeste keeps her hands busy. Ten dollars, a red card (TL, DR3). | _ |
+| The Regional Assessment | Three days in Aurelia, the board posted at seven in the morning. First (TL, DR3). | _ |
+| The Governor-Prelate | Selects her second. His first choice withdraws the night before departure, and it isn't a family health emergency (TR). | _ |
+| The household | Solomon prays over her. Zion promises to look after Celeste (TL). | _ |
+| The last night | Celeste holds her face and says remember what I told you about the real name of this city (TL). | _ |
+prompt: The scene before chapter one that the reader never sees, and what it changes | fill
+
+@page rh="THE 39TH TRIAL · II · ARRIVAL WEEK" m="TKC: TR · CR · DOM"
+# Arrival week
+tab:
+| Beat | What the files give | Ch. |
+| The staggered arrivals | Seven days, one Covenant Daughter a day, each released as its own day of content, each with two Appointed Officers and her House Mother (TR) | _ |
+| The Sovereign Bridge | She crosses it and looks up at her own face on the screens, exactly where she planned to be (CR) | _ |
+| Day five | She looks at the city first, carries her own bag, and walks the Boulevard at her own pace. The Broadcast uses forty-seven seconds (TR, DOM). | _ |
+| In the Palace | Judah watches the footage and sets down whatever he was holding. Three times before he knows why he can't stop (CR). | _ |
+| House Aurem | Hannah, Mirielle, Gavin and Abigail (TL) | _ |
+prompt: What each of the other eleven does on her arrival day that the Broadcast keeps | fill
+
+@page id="p5-genesis" rh="THE 39TH TRIAL · III · GENESIS, THE TEMPLE'S PHASE" m="TKC: TR · CR · TL · FR 23–24; VOL. I · {v1:phase-detail}"
+# Genesis · weeks one to four
+note: A death.
+tab:
+| Beat | What the files give | Ch. |
+| The Settling | The most intense assessment of the four months, presented as a grace period. Everything feeds the score (TR). | _ |
+| Sera decides | The first day of the Settling, that afternoon (TR) | _ |
+| The Prelate decides | A conclusion about Eden in the first week, shared with no one (CR) | _ |
+| The Tea Party | Corinne and Calla's tension begins (TR) | _ |
+| The Doctrinal Assessment | Six hours in silence in the Sanctum. Eden's score is the highest in the Trial's history (TR). | _ |
+| The Theological Interview | Two hours, three extra pages, and an officer who can't tell aligned from clear-eyed (TR) | _ |
+| The Public Testimony | No handler. Lyris, her hands, and Judah, six minutes in. Fourth to first (TR). | _ |
+| Petra | Dies before Phase Two. "A sudden medical event." The Trial loses nothing (TR, FR 23–24). | _ |
+prompt: When in the four weeks Petra goes into the east wing, and when she dies | fill
+
+@page id="p5-exodus" rh="THE 39TH TRIAL · IV · EXODUS, THE CROWN'S PHASE" m="TKC: TR · TL; VOL. I · {v1:phase-detail}; CONFLICT"
+# Exodus · weeks five to ten
+tab:
+| Beat | What the files give | Ch. |
+| The Dominion Forum | Eden moves the room in twenty minutes. Sera shifts to her side. Four words in the hallway. Delia votes with Eden (TR, TL). | _ |
+| The Civic Debates | Governance, theology, social policy, topics an hour before. Abigail in amber for theology (TL). Eden argues for the room and the editor (TR). | _ |
+| Before Social Policy | Nadia withdraws, no reason given (TR). Maren and Vivienne are eliminated, by one version of the file (TR). | _ |
+| The Social Policy debate | Judah moderates. Delia votes with Eden again (TL). | _ |
+| The Anointed Evening | Four hours, eleven minutes with Lyris, three things. Judah watches and decides something (TR). | _ |
+| The Pairing Introduction | Thirty minutes. Officials out, a wire check, "I know" (TR). | _ |
+| The trap | Corinne sets it, and Sera walks into it (TR). | _ |
+| The trade | Ruth goes home so Sera stays. Ruth doesn't know why (TR). | _ |
+prompt: What Judah decides at the Anointed Evening | fill
+
+@page id="p5-revelation" rh="THE 39TH TRIAL · V · REVELATION, ENDURANCE" m="TKC: TR · MEN · DOM; VOL. I · {v1:mountain}; CONFLICT"
+# Revelation · three days in Mountain
+note: A killing, a woman left unconscious, and injuries.
+tab:
+| Beat | What the files give | Ch. |
+| Deployment | Filmed. After that, no schedule, no handlers, no cameras. Coordinates to reach across three days. Mountain terrain, for the first time since the 31st Trial, unexplained (TR). | _ |
+| Day 1 | Vivienne's ankle fails on a slope, and she's extracted at the first checkpoint. Delphine takes a head injury and is extracted (TR). | _ |
+| Day 2 | Corinne pushes Calla into the river. One person sees (TR). | _ |
+| Day 3 | Eden and Delphine knock Maren unconscious and leave her (TR). | _ |
+| The final checkpoint | Eden, Zara, Sera and Delia. Corinne completes Endurance (TR). | _ |
+| The narrative turns | The Broadcast's story about Eden shifts in Phase Three. In Celeste's kitchen, something in Leah goes very still and then very loud (MEN). | _ |
+small: CONFLICT: Delphine on Day 1 and Day 3. Five finishers for four places (TR). See Part III.
+prompt: What the Broadcast reconstructs of the three days, and what it leaves out | fill
+
+@page id="p5-after" rh="THE 39TH TRIAL · VI · THE DECLARATION AND AFTER" m="TKC: TR · CR · FR 19–25; VOL. I · {v1:declaration} · {v1:binding}"
+# The Declaration and after
+tab:
+| Beat | What the files give | Ch. |
+| The rankings | Third and fourth become Ladies in Waiting. Delia is one (TR). | _ |
+| The Declaration | Live on Sovereign Boulevard. He can choose any of the twelve, deviation is expensive, refusal is abstention (FR 20–22). He chooses Eden (TR). | _ |
+| The eleven | Married down the ladder as designated. The two who died, their status back to their families (FR 19, 24). | _ |
+| Covenant Week | A Palace residence, the score retired for The Chosen (CR) | _ |
+| The Anointing | Day six, the Prelate, oil, unfilmed (CR) | _ |
+| The Binding Night | The Emperor's private charge to his son (CR) | _ |
+| The Grand Binding | Two hundred feet alone down the Sanctum, vows twice as long as his, the gold cord (CR) | _ |
+| The Procession and the Supper | Sovereign Boulevard, then five guests at most (CR) | _ |
+small: OPEN QUESTION: The Crownward file calls the Declaration the moment Eden planned for and "the moment that will be taken from her" (CR). What's taken, if she wins?
+prompt: The five guests at the Private Supper | fill
+
+@page id="p5-who" rh="THE 39TH TRIAL · VII · WHO'S STILL THERE" m="TKC: TR; CONFLICT"
+# Who's still there
+Read across a row to follow one woman, or down a column to see the room at that point.
+tab:
+| | Phase One | Phase Two | Endurance | The end |
+| Eden | in | in | finishes | Anointed Wife |
+| Delphine | in | in | out, Day 1 | married down |
+| Maren | in | out, or in | left, Day 3 | married down |
+| Corinne | in | in | finishes | married down |
+| Calla | in | in | dies, Day 2 | _ |
+| Nadia | in | withdraws | _ | married down |
+| Ruth | in | sent home | _ | married down |
+| Delia | in | in | finishes | Lady in Waiting |
+| Vivienne | in | out, or in | out, Day 1 | married down |
+| Petra | dies | _ | _ | _ |
+| Zara | in | in | finishes | advances |
+| Sera | in | nearly removed | finishes | advances |
+small: The files have Zara and Sera advance to "final consideration," and "married down" follows FR 19 for everyone not chosen. INFERENCE: Two who advance and lose are married down too, unless one is the second Lady in Waiting.
+
+@page id="p5-broadcast" rh="THE 39TH TRIAL · VIII · THE BROADCAST'S STORY" m="TKC: TR · CR; VOL. I · {v1:scoring} · {v1:tells}"
+# The story the Broadcast tells
+Every Trial gets an antagonist narrative, assigned to whichever candidate most threatens a comfortable outcome. When a woman's intelligence becomes the story instead of her compliance, the Broadcast calls it the Eve problem. The narrative implies and never accuses, and it moves the score without changing a single formal assessment (TR).
+tab:
+| Phase | What the Broadcast says | What happened |
+| Arrival | Forty-seven seconds of Eden (TR) | _ |
+| Genesis | _ | _ |
+| Exodus | Eden's debates, deprioritized (TR) | _ |
+| Revelation | The narrative shifts (MEN) | _ |
+| Calla and Petra | _ | _ |
+| The Declaration | _ | _ |
+prompt: The Broadcast Director who signs the narrative-priority decisions, and what he says in the room | fill
+
+@page id="p5-line" rh="THE 39TH TRIAL · IX · THE RELIGIOUS LINE" m="VOL. I · {v1:lived6}; ALL DOSSIERS"
+# Where everyone stands
+The novel's religious line runs between faith the Temple can use and faith that answers to something it doesn't control (Vol. I, {v1:lived6}). Place each character on it at the start of the book and at the end. Movement in either direction is a plot.
+tab:
+| Character | At the start | At the end | What moved them |
+| Eden | _ | _ | _ |
+| Celeste | _ | _ | _ |
+| Leah | _ | _ | _ |
+| Ruth | _ | _ | _ |
+| Nadia | _ | _ | _ |
+| Zara | _ | _ | _ |
+| Judah | _ | _ | _ |
+| Lyris | _ | _ | _ |
+| Hannah | _ | _ | _ |
+| The Prelate | _ | _ | _ |
+| Bell | _ | _ | _ |
+small: INTERPRETATION: The faith spreads in each dossier are the evidence. A character who quotes what the Temple reads and hasn't heard what it skips is usually on the usable side.
+
+@page id="p5-book2" rh="THE 39TH TRIAL · X · THREADS INTO BOOK TWO" m="TKC: FR 18 · FR 29 · FR 34 · MEN · TR · CR"
+# Threads into book two
+rec:
+Miriam's father | He knows there are children but not how many or their names, and learned about Eden the day the Trial went public. He's the only person watching who understands what he's looking at (FR 18).
+The 2085 cohort | Twelve women who know each other from being measured against each other, scattered through their Dominions. A network that doesn't wake before book two (FR 34).
+Solomon | The teacher notes Eden doesn't know about, and the moment she understands winning was a beginning (MEN).
+Naomi | Entered or taken out, depending on what Eden's win proves (FR 29).
+Delia | What she does as a Lady in Waiting (TR).
+Sera | A flag updated after the Trial, privately (TR).
+The Registry | Whoever controls what it says controls something more basic than law. Eden will understand this before most people do (CR).
+The Dissent | Wherever Dorian keeps it (FR 42).
+prompt: The thread I'm adding | fill

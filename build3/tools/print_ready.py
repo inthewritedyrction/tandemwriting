@@ -19,6 +19,8 @@ SPLITS = {
     '1': [('01_Front_and_Bible_101', None), ('02_Sixty-Six_Books', 'b66'), ('03_Focused_Studies', 'f1'),
           ('04_Deep_Dives', 'd1'), ('05_Parts_II-IV', 'part2'), ('06_Parts_V-VI', 'part5'),
           ('07_Parts_VII-VIII_and_Back', 'part7')],
+    '2': [('01_Front_and_Part_I', None), ('02_Part_II', 'part2'), ('03_Part_III', 'part3'),
+          ('04_Part_IV', 'part4'), ('05_Part_V_and_Back', 'part5')],
 }
 
 def save(pdf, path):
