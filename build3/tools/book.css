@@ -1,0 +1,109 @@
+/* TKC Volume One, print. White page, ITWD pink detailing (Print Direction). */
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-400-normal.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: italic; src: url('../assets/fonts/eb-garamond-latin-400-italic.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-600-normal.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: italic; src: url('../assets/fonts/eb-garamond-latin-600-italic.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-ext-400-normal.woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+02B0-02FF; }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: italic; src: url('../assets/fonts/eb-garamond-latin-ext-400-italic.woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+02B0-02FF; }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-ext-600-normal.woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+02B0-02FF; }
+@font-face { font-family: 'Cinzel'; font-weight: 400; src: url('../assets/fonts/cinzel-latin-400-normal.woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 600; src: url('../assets/fonts/cinzel-latin-600-normal.woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 700; src: url('../assets/fonts/cinzel-latin-700-normal.woff2'); }
+@font-face { font-family: 'Jost'; font-weight: 400; src: url('../assets/fonts/jost-latin-400-normal.woff2'); }
+@font-face { font-family: 'Jost'; font-weight: 500; src: url('../assets/fonts/jost-latin-500-normal.woff2'); }
+@font-face { font-family: 'Jost'; font-weight: 600; src: url('../assets/fonts/jost-latin-600-normal.woff2'); }
+
+:root { --pink: #E5173F; --ink: #1d1d1f; --mid: #55565b; --rule: #b9b9bd; --hair: #d9d9dc; }
+
+@page { size: Letter; margin: 0.85in 0.8in 0.8in 0.8in; }
+html { background: #fff; }
+body { margin: 0; color: var(--ink); background: #fff; font-family: 'EB Garamond', Georgia, serif; font-size: 11.6pt; line-height: 1.45; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+p { margin: 0 0 0.62em; orphans: 3; widows: 3; text-wrap: pretty; }
+strong { font-weight: 600; }
+a { color: inherit; text-decoration: none; border-bottom: 0.5pt solid var(--pink); }
+
+/* ---------- title and contents ---------- */
+.cover { height: 9.2in; display: flex; flex-direction: column; justify-content: center; break-after: page; }
+.cover .kicker { font-family: 'Jost'; font-weight: 600; letter-spacing: 0.32em; font-size: 10pt; color: var(--pink); }
+.cover h1 { font-family: 'Cinzel'; font-weight: 700; font-size: 54pt; line-height: 1.02; margin: 0.15in 0 0.18in; letter-spacing: 0.02em; }
+.cover .rule { height: 3pt; background: var(--pink); width: 100%; margin: 0.1in 0 0.22in; }
+.cover .sub { font-style: italic; font-size: 15pt; color: var(--mid); max-width: 5.4in; }
+.cover .by { margin-top: 1.2in; font-family: 'Jost'; letter-spacing: 0.24em; font-size: 9pt; font-weight: 500; }
+
+.toc { break-after: page; }
+.toc h2 { break-before: auto; }
+.toc ol { list-style: none; padding: 0; margin: 0.2in 0 0; }
+.toc li { display: flex; align-items: baseline; gap: 8pt; padding: 5pt 0; border-bottom: 0.5pt solid var(--hair); font-size: 12.5pt; }
+.toc li .n { font-family: 'Jost'; font-weight: 600; font-size: 8.5pt; letter-spacing: 0.2em; color: var(--pink); min-width: 0.55in; }
+.toc li .t { flex: 1; }
+.toc li .p { font-family: 'Jost'; font-size: 10pt; }
+.toc li.sub { font-size: 11pt; padding: 2pt 0 2pt 0.55in; border: 0; color: var(--mid); }
+.toc li.sub .n { display: none; }
+
+/* ---------- headings ---------- */
+h2 { break-before: page; font-family: 'Cinzel'; font-weight: 700; font-size: 30pt; line-height: 1.08; margin: 0 0 0.06in; letter-spacing: 0.01em; }
+h2 .kicker { display: block; font-family: 'Jost'; font-weight: 600; font-size: 9.5pt; letter-spacing: 0.32em; color: var(--pink); margin-bottom: 6pt; }
+h2::after { content: ''; display: block; height: 3pt; background: var(--pink); margin: 0.12in 0 0.18in; }
+h2 + p { font-style: italic; font-size: 13pt; line-height: 1.42; color: #2c2c2e; }
+h3 { font-family: 'Cinzel'; font-weight: 600; font-size: 16pt; line-height: 1.2; margin: 0.32in 0 0.1in; padding-bottom: 5pt; border-bottom: 1.4pt solid var(--pink); break-after: avoid; }
+h4 { font-family: 'Jost'; font-weight: 600; font-size: 9.6pt; letter-spacing: 0.2em; text-transform: uppercase; margin: 0.24in 0 0.07in; break-after: avoid; }
+h3 + h4 { margin-top: 0.12in; }
+
+/* ---------- labels and tags ---------- */
+.lab { font-family: 'Jost'; font-weight: 600; font-size: 8.2pt; letter-spacing: 0.14em; color: var(--pink); }
+.tag { font-family: 'Jost'; font-weight: 600; font-size: 8.4pt; letter-spacing: 0.04em; }
+.correction { border-left: 2.5pt solid var(--pink); padding-left: 9pt; }
+.contentnote { font-family: 'Jost'; font-size: 9pt; letter-spacing: 0.04em; color: var(--mid); }
+
+/* ---------- lists ---------- */
+ul, ol { margin: 0 0 0.7em; padding-left: 1.25em; }
+li { margin: 0 0 0.3em; }
+ul li::marker { color: var(--pink); }
+ol li::marker { font-family: 'Jost'; font-weight: 600; font-size: 9pt; color: var(--pink); }
+.questions li { margin-bottom: 0.55em; }
+
+/* ---------- tables ---------- */
+table { width: 100%; border-collapse: collapse; margin: 0.12in 0 0.2in; font-size: 10.4pt; line-height: 1.35; border-top: 1.2pt solid var(--ink); border-bottom: 1.2pt solid var(--ink); }
+thead { display: table-header-group; }
+th { font-family: 'Jost'; font-weight: 600; font-size: 7.8pt; letter-spacing: 0.16em; text-transform: uppercase; text-align: left; padding: 6pt 7pt 5pt 0; border-bottom: 0.8pt solid var(--ink); vertical-align: bottom; }
+td { padding: 5pt 8pt 5pt 0; border-bottom: 0.5pt solid var(--rule); vertical-align: top; }
+tr { break-inside: avoid; }
+td:empty { height: 0.55in; }
+td:empty + td:empty { border-left: 0.5pt solid var(--hair); padding-left: 6pt; }
+
+/* ---------- frames: portraits and plates ---------- */
+.frame { border: 1pt solid var(--ink); padding: 3pt; }
+.frame > .in { border: 0.6pt solid var(--ink); height: 100%; box-sizing: border-box; display: flex; align-items: center; justify-content: center; }
+.frame .word { font-family: 'Jost'; letter-spacing: 0.4em; font-size: 7.5pt; color: var(--mid); }
+
+.portraits { display: grid; gap: 0.18in 0.2in; margin: 0.18in 0 0.25in; break-inside: avoid; }
+.portraits.n1 { grid-template-columns: 1fr; width: 3.4in; }
+.portraits.n2 { grid-template-columns: repeat(2, 1fr); }
+.portraits.n3 { grid-template-columns: repeat(3, 1fr); }
+.portraits.n4 { grid-template-columns: repeat(4, 1fr); }
+.portraits.n5, .portraits.n6, .portraits.n7 { grid-template-columns: repeat(4, 1fr); }
+.portraits.n12 { grid-template-columns: repeat(4, 1fr); gap: 0.12in 0.16in; }
+.portrait .frame { height: 1.95in; box-sizing: border-box; }
+.portraits.n2 .portrait .frame { height: 3in; }
+.portraits.n12 .portrait .frame { height: 1.55in; }
+.portrait .name { font-family: 'Cinzel'; font-weight: 600; font-size: 10pt; line-height: 1.15; margin-top: 5pt; }
+.portrait .role { font-style: italic; font-size: 9.4pt; line-height: 1.25; color: var(--mid); }
+.portraits-head { font-family: 'Jost'; font-weight: 600; font-size: 8pt; letter-spacing: 0.24em; color: var(--pink); margin-top: 0.2in; break-after: avoid; }
+
+.plate { break-inside: avoid; margin: 0.2in 0 0.25in; }
+.plate .frame { height: 4.6in; box-sizing: border-box; }
+.plate .cap { display: flex; gap: 10pt; align-items: baseline; margin-top: 6pt; }
+.plate .cap b { font-family: 'Jost'; font-weight: 600; font-size: 8.2pt; letter-spacing: 0.2em; text-transform: uppercase; color: var(--pink); white-space: nowrap; }
+.plate .cap span { font-style: italic; font-size: 10pt; color: var(--mid); }
+
+/* ---------- writing pages ---------- */
+.writing { break-before: page; break-after: page; height: 9.05in; display: flex; flex-direction: column; }
+.writing .head { font-family: 'Cinzel'; font-weight: 700; font-size: 22pt; }
+.writing .head::after { content: ''; display: block; height: 2.5pt; background: var(--pink); margin: 6pt 0 0.08in; }
+.writing .lines { flex: 1; display: flex; flex-direction: column; justify-content: space-evenly; }
+.writing .lines i { display: block; border-bottom: 0.6pt solid var(--rule); }
+table td:first-child { min-width: 1.1in; }
+.writing .foot { display: flex; gap: 0.4in; border-top: 2pt solid var(--pink); padding-top: 6pt; font-family: 'Jost'; font-weight: 600; font-size: 8.2pt; letter-spacing: 0.2em; }
+.writing .foot span { flex: 1; border-bottom: 0.6pt solid var(--rule); padding-bottom: 14pt; }
+.writing .foot span.d { flex: 0 0 1.8in; }
