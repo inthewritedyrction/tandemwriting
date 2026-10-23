@@ -1,0 +1,241 @@
+@divider id="d2" num="II" kind="DEEP-DIVE DOSSIER" title="Exodus" sub="The book every liberation movement has quoted and every empire has learned to quote back" foot="DOSSIER II · NINETEEN PAGES"
+
+@opener rh="DEEP-DIVE DOSSIER II · EXODUS" m="SOURCE MARGIN; EXOD 1–40; MT · LXX; PROPP, EXODUS (AB); CHILDS, EXODUS (OTL); MEYERS, EXODUS (NCBC)"
+plate: doc
+dh: Labor Return, Store Cities of Pithom and Raamses | BRICK QUOTA
+dsub: FILED BY THE TASKMASTERS · COUNTERSIGNED BY THE FOREMEN OF THE PEOPLE
+df: Quota | the same number of bricks as before
+df: Straw | no longer supplied. Gather your own.
+df: Shortfall | the foremen are beaten
+df: Complaint lodged | "You are idle, you are idle" (5.17)
+df: Births reported | boys to the river · 1.22
+dnote: Exodus 5 is a labor dispute in writing, quotas and all. The book's God is introduced as someone who heard the complaint (3.7).
+stamp: QUOTA UNMET
+/end
+tk: DEEP-DIVE DOSSIER II · ✥
+big: Exodus
+lede: It doesn't end at the sea. Two thirds of the book is what happens after the escape: law, labor, ritual and a people arguing with the God who brought them out.
+calls:
+k: Why a full dossier
+Dominion's whole deliverance liturgy is built on this book, and so is every argument against it. The audit assigns a full dossier and warns against stopping at the escape. This one doesn't.
+||
+k: How to work it
+Reference is about a third of these pages, and the rest is yours. Content notes come before pages 6 and 11.
+/end
+
+@page rh="EXODUS · 1 OF 17 · THE BOOK ON THE RECORD" m="EXOD 1.1; EXOD 1–15; EXOD 19–24; EXOD 25–40; PROPP, EXODUS 1–18; LAWS OF HAMMURABI (ROTH); TKC: DOM"
+# What it is
+rec:
+Name | Greek *exodos*, "a going out." Hebrew *Shemot*, "names," from the opening list of those who came down to Egypt. The Greek title names the event and the Hebrew title names the people.
+Place | The hinge of the Torah. A family becomes a people, and the people becomes a nation with law. Genesis ends with a household in Egypt, and Exodus opens with a labor force.
+Authorship | Traditionally Moses. CONTESTED: Modern scholarship generally sees more than one hand and a lot of editing, with the law collections and the tabernacle chapters treated as separate bodies of text.
+Historicity | There's no outside record of the departure as the book describes it, and proposals for its date, scale and route vary widely. This dossier treats the narrative as scripture and literature and prints no reconstruction as history.
+Structure | Chapters 1–15, oppression and departure. 16–18, the wilderness and the first administration. 19–24, Sinai, the ten words and the covenant code. 25–40, the sanctuary plans, broken by the calf. The escape is a third of the book.
+Genres inside | Narrative, genealogy, the plague cycle, victory poetry, case law, absolute command, ritual calendar and construction specification. The tabernacle chapters are an architectural document. Don't read them the way you read chapter 14.
+Neighbors | Ancient Near Eastern law collections, Hammurabi's among them, cover much of the same legal ground in the same "if this, then that" form. Reading the covenant code beside them shows what's conventional in it and what isn't.
+box: What the book is actually about
+INTERPRETATION: Who owns a people's labor, and what a people owes the one who freed them. The question doesn't close when they leave Egypt. It becomes the law, then the argument, then the sanctuary.
+/end
+prompt: What I already think this book says, before reading it again | fill
+
+@page rh="EXODUS · 2 OF 17 · WHO ACTUALLY STARTS IT" m="EXOD 1.8–22; EXOD 2.1–10; EXOD 2.16–22; EXOD 4.24–26; EXOD 6.20; NUM 26.59; MEYERS, EXODUS; TKC: MIRIAM"
+# Six women, then Moses
+Before the deliverer says a word, women have already beaten the policy. Two midwives refuse an execution order and lie to the king about it, a mother hides a child, a sister watches over the rescue, and a princess of the ruling house adopts him and pays his mother to nurse him.
+tabrl:
+| Who | What the text actually says |
+| Shiphrah and Puah | Ordered to kill Hebrew boys at birth, they "feared God" and didn't. Summoned, they answer with a claim the king can't check: Hebrew women give birth before the midwife arrives. God gives them households. They're named and the king isn't. CONTESTED: "Hebrew midwives" can also be read "midwives to the Hebrews," which would make them Egyptian, and the Greek reads it that way. |
+| The mother | Hides the child three months, then builds a sealed basket and sets it in the reeds, a plan more than an abandonment. Named only later, as Jochebed (6.20). |
+| The sister | Watches from a distance and offers Pharaoh's daughter a Hebrew nurse at the moment of discovery. INFERENCE: She's Miriam. Chapter 2 doesn't name her, and Miriam is first named in 15.20. |
+| Pharaoh's daughter | Sees the child crying, pities him, knowingly keeps a Hebrew boy alive against her father's decree and names him. She breaks the ruling house's law without opposing it in public. |
+| Zipporah | A Midianite priest's daughter, one of seven sisters Moses defends at a well. She later performs a circumcision at night that saves his life, in a scene nobody explains. The deliverer's family is foreign. |
+| The oppression | Forced labor, then harsher labor, then a birth policy. The king's stated fear is numbers: "too many and too mighty" (1.9). Registration logic before any register exists. |
+box: The reading the pulpit skips
+INTERPRETATION: Two of these women are professionals who lie to the state, and the text approves. Two are mothers running an operation across a class line. One is a daughter of the regime. Any account of Exodus that starts with a burning bush has skipped the part where ordinary women had already made the deliverer possible.
+/end
+prompt: Who in my cast is Shiphrah, inside the system and quietly not complying | fill
+
+@page rh="EXODUS · 3 OF 17 · NON-COMPLIANCE · WRITING" m="WRITING; EXOD 1; TKC: DOM · TR"
+# Build the refusal
+Exodus 1 gives a working model of resistance that doesn't look like resistance: people with licensed access refusing to do the one thing the license exists for. Draft Dominion's version here. This page is source material for the Trials.
+prompt: 1 · Which licensed profession in Dominion could refuse an order and survive it | fill
+prompt: 2 · The answer they give when summoned. Write it as dialogue | fill
+prompt: 3 · A woman of the ruling house who breaks its law without opposing it in public | fill
+prompt: 4 · The policy that follows when quiet refusal is discovered. What escalates | fill
+
+@page rh="EXODUS · 4 OF 17 · THE NAME AND THE CALL" m="EXOD 3.1–15; EXOD 4.1–17; EXOD 4.24–26; EXOD 6.2–3; BDB · HALOT; CHILDS, EXODUS; PROPP, EXODUS 1–18"
+# A name that won't settle
+Moses asks for a name to carry back as credentials and gets a first-person verb, then a four-letter name, then a promise about ancestors. The whole scene turns on what authority a sent person can produce.
+rec:
+The scene | A bush that burns without burning up, on a mountain, while Moses is working his father-in-law's flock in a foreign country. The call reaches him at work, in exile, doing a job that belongs to his wife's family.
+What God says first | A report of having heard. "I have seen the affliction of my people… I have heard their cry because of their taskmasters" (3.7). The stated reason for acting is the noise the oppressed make.
+The phrase in 3.14 | *ʾehyeh ʾasher ʾehyeh*. "I am who I am" is the familiar rendering. The verb form can also mean "I will be what I will be," so the tense is genuinely open, and the tense you choose changes the theology.
+The four letters · 3.15 | YHWH. Jewish readers traditionally don't pronounce it and say *Adonai*, "my Lord," or *HaShem*, "the Name." Most English Bibles print LORD in small capitals. "Jehovah" is a hybrid of the consonants with Adonai's vowels, and "Yahweh" is a scholarly reconstruction. This companion doesn't print a pronunciation. CONTESTED: 6.3 says the ancestors didn't know this name, though Genesis uses it throughout.
+Five objections | Who am I. What's your name. They won't believe me. I'm "heavy of mouth." Please send someone else. Only the last makes God angry, and the answer is Aaron.
+The night scene · 4.24–26 | "The LORD met him and sought to put him to death." Zipporah cuts her son's foreskin with a flint, touches it to "his feet" and says "Surely you are a bridegroom of blood to me." The text doesn't say whom God was attacking, whose feet, why, or what the words mean. Every clear translation has supplied the answers. It stays unsmoothed here.
+box: Why a name is what he asks for
+INTERPRETATION: In a world of named local gods, a name is jurisdiction. It tells you whose authority you're invoking and where it applies. Moses is asking what to say when the elders ask who sent him. Dominion understands this, which is why the Sanctum controls the forms of address.
+/end
+prompt: What name I was taught for God, and who taught me not to use another | fill
+
+@page rh="EXODUS · 5 OF 17 · NAMES AND AUTHORITY · WRITING" m="WRITING; EXOD 3–4; TKC: DOM · SANCTUM"
+# Who is allowed to say it
+Dominion governs address: which name, which title, in whose presence, on whose authority. Exodus 3 is the founding text for that whole apparatus and for its failure, since the name is given to a fugitive shepherd and not to an institution.
+prompt: 1 · The Sanctum's authorized forms of address, and what's forbidden outside the Temple | fill
+prompt: 2 · A character who prays using a name they weren't given permission to use | fill
+prompt: 3 · Five objections. Write the refusals of someone being sent, and what answers each | fill
+prompt: 4 · A scene that's never explained. Write one and leave it unexplained | fill
+
+@page rh="EXODUS · 6 OF 17 · THE SIGNS AND THE HARDENING" m="EXOD 7–12; EXOD 7.3; EXOD 8.15, 32; EXOD 8.19; EXOD 9.20–21; EXOD 10.7; EXOD 12.12; FRETHEIM, EXODUS"
+note: Mass death, including the death of children, presented in the text as divine action. This page doesn't dwell on it. You can work it later, or not at all, and the dossier still functions.
+# A contest, not a tantrum
+The signs are staged as a public contest over who governs: the Nile, the livestock, the light, the firstborn, each a pillar of Egyptian order and of Pharaoh's claim to guarantee it. God calls the last plague judgment "on all the gods of Egypt" (12.12). INTERPRETATION: Reading the cycle as an attack on a state's legitimacy, more than a list of disasters, is a strong common reading. The book doesn't state it outright.
+tabrl:
+| Sign | What it strikes | Who hardens |
+| Blood · 7 | The Nile, the water supply and the state's central image of life. The court magicians match it. | Pharaoh's heart "was hardened" |
+| Frogs, gnats, flies · 8 | Habitability. The magicians fail at the gnats and tell the king, "This is the finger of God" (8.19). | He hardens his own heart |
+| Livestock, boils · 9 | Wealth first, then the bodies of the people who run it | God hardens him, from the sixth on |
+| Hail · 9 | The harvest, with a warning first. Some officials heed it and bring their workers and animals inside. | He admits fault, then reverses |
+| Locusts, darkness · 10 | Food and daylight. His own courtiers beg him to give in. | The LORD hardens him |
+| The firstborn · 11–12 | Succession itself, "from the firstborn of Pharaoh who sits on his throne to the firstborn of the slave girl behind the handmill." A great cry in Egypt. | Release, then pursuit |
+contested: The hardening problem
+Three patterns run through the book. God announces he'll harden Pharaoh's heart (4.21, 7.3), Pharaoh hardens it himself (8.15, 8.32, 9.34), and sometimes it simply "was hardened." Three Hebrew verbs share the work, to strengthen, to make heavy and to make hard, and translations flatten them into one. Whether it's one theology, two sources or a deliberate escalation is argued and not settled here.
+/end
+prompt: Who pays for a ruler's refusal in Dominion, and who is told it was necessary | fill
+
+@page rh="EXODUS · 7 OF 17 · A RITUAL INSTALLED MID-ESCAPE" m="EXOD 12.1–28; EXOD 12.26–27; EXOD 12.35–36; EXOD 12.38, 48–49; EXOD 13.1–16; PHILO, LIFE OF MOSES 1.141; B. SANHEDRIN 91A; TKC: CELESTE"
+# Passover and memory
+The narrative stops at its most urgent point to install a liturgy, with a calendar, a household unit, rules for a household too small for a whole lamb, dress instructions and a script for answering a child's question years later. Liberation is legislated as an annual practice before it has happened.
+rec:
+The household is the unit | No temple, no city and no priesthood yet. Aaron and his sons aren't ordained until Leviticus 8. A family, a doorway and a shared meal. The founding rite of the people is performed at home, by whoever's at home.
+The child's question | "What do you mean by this service?" (12.26). The answer is a story told in the first person, this is what was done for us. INTERPRETATION: Memory passed on as testimony inside a family is exactly what an empire can't license.
+Who else left | A "mixed multitude" goes up with them (12.38), and a circumcised resident foreigner may keep the Passover under "one law" for native and stranger (12.48–49). The founding rite has an inclusion clause and a boundary in the same paragraph.
+The unpaid wages | Israel "asks" the Egyptians for silver, gold and clothing and so "plunders" them. The King James "borrow" made it read like a trick. CONTESTED: Philo and a Talmudic story took the goods as back wages for generations of unpaid labor. Others read a parting gift, and others take the plunder language at face value. Name the reading you're using.
+The firstborn clause | Right after the deliverance every firstborn male belongs to God and has to be redeemed (13.1–2, 11–16). God had already called Israel "my firstborn son" (4.22). A claim on the next generation is written into the liberation itself.
+prompt: The rite my family keeps that no institution issued, and what it passes on | fill
+
+@page rh="EXODUS · 8 OF 17 · THE SEA, THE SONG AND MIRIAM" m="EXOD 13.17–14.31; EXOD 15.1–18; EXOD 15.20–21; 4Q365; MIC 6.4; NUM 12 (COMPARE); TRIBLE, “BRINGING MIRIAM OUT”; CROSS & FREEDMAN (1955)"
+# Two tellings of one crossing
+Chapter 14 tells the crossing in prose, and chapter 15 sings it. They don't describe the mechanics the same way. Reading them together is a lesson in how an event becomes a liturgy and the liturgy becomes the memory.
+tabrl:
+| | The prose · ch. 14 | The song · 15.1–18 |
+| How the water moves | A strong east wind all night drives the sea back | "At the blast of your nostrils the waters piled up" |
+| The Egyptians | Chariot wheels clog, the army turns to run, the water returns at morning | Horse and rider thrown into the sea, sinking like a stone |
+| Israel | Walks through on dry ground, walls of water on both sides | Barely appears. The song is about God. |
+| Point of view | The narrator's | The enemy speaks in the first person (15.9) |
+| How far it looks | Ends on the shore, with Israel believing | Ahead to Philistia, Edom, Moab and Canaan trembling, and to the sanctuary on God's mountain |
+k: Miriam, prophet and song leader
+She's called "the prophet" (15.20), the first woman in the Torah given the title. She leads the women with a hand drum and dancing, and her two lines match the song's opening. Micah names her with Moses and Aaron as the three God sent (Mic 6.4). CONTESTED: Cross and Freedman argued in 1955 that the song was once credited to her, feminist scholars developed the case, and one Qumran manuscript (4Q365) adds lines of a song for Miriam after 15.21. It's a proposal and not a result. Hold this page next to Numbers 12 in focused study F1, where the same woman is punished for speaking.
+prompt: The victory song Dominion sings, and who is allowed to lead it | fill
+
+@page rh="EXODUS · 9 OF 17 · WHAT COMES AFTER · WRITING" m="WRITING; EXOD 15.22–27; EXOD 16; EXOD 18.13–26; TKC: DOM"
+# The week after the sea
+Three days after the song there's no water, and by chapter 16 they're saying they ate their fill of bread in Egypt. Manna comes with a rule that nobody can hoard it. Jethro, a Midianite priest, watches Moses judge alone from morning to evening and tells him to appoint officers over thousands, hundreds, fifties and tens. Freedom arrives with a supply problem, an administration problem and a memory problem, and most liberation stories leave that part out.
+prompt: 1 · The first shortage after a liberation in my world, and who's blamed for it | fill
+prompt: 2 · A character who says out loud that the old arrangement fed them better | fill
+prompt: 3 · The manna rule, a ration nobody can hoard. What would Dominion do to it? | fill
+prompt: 4 · Jethro's advice. Write the moment a movement gets a bureaucracy | fill
+
+@page rh="EXODUS · 10 OF 17 · SINAI AND THE TEN" m="EXOD 19; EXOD 20.1–17; DEUT 5 (COMPARE); EXOD 20.18–21; EXOD 23.12; EXOD 24.3–8; EXOD 34.28; MENDENHALL (1954–55)"
+# A treaty, a mountain, a boundary
+INTERPRETATION: George Mendenhall compared the Sinai covenant to Hittite treaties between an overlord and a vassal: a preamble, a history of what the overlord has done, stipulations, provisions for reading the text, witnesses, and blessings and curses. The scene also installs access control, a boundary at the foot of the mountain and rules about who may cross it.
+rec:
+The preamble is the argument | "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery" (20.2). Obligation rests on a completed act of liberation, and not on creation or raw power. INTERPRETATION: Any use of the Ten that drops that clause has changed what kind of document it is.
+Who the sabbath addresses | The household head, the son and daughter, the male and female slave, the livestock and the resident foreigner. It's a labor law addressed to the person with the power to compel work. Exodus 23.12 adds a second reason, "that the son of your female slave and the foreigner may be refreshed."
+The last command lists property | House first, then wife, male and female slaves, ox and donkey (20.17). The wife appears inside an inventory of what a man owns. Deuteronomy puts her first and gives her a separate verb (5.21).
+The people ask for a mediator | Frightened by the thunder, they ask Moses to speak to God for them, "lest we die." The office of the go-between is created by popular request, and every priesthood afterward has that verse available.
+Ratification | The covenant is read aloud, the people answer "All that the LORD has spoken we will do," and Moses throws blood on the altar and on the people (24.3–8).
+tabrl:
+| Tradition | The first word | Coveting |
+| Jewish | "I am the LORD your God who brought you out" | One commandment |
+| Catholic and Lutheran | No other gods, with images inside it | Split in two |
+| Reformed, Orthodox, Anglican | No other gods, with images second | One commandment |
+prompt: Dominion's founding document. What does its preamble claim to have done for you? | fill
+
+@page rh="EXODUS · 11 OF 17 · WHAT THE LAW ACTUALLY REGULATES" m="EXOD 21.1–11; EXOD 21.16–32; EXOD 22.21–27; EXOD 23.1–12; LEV 25.44–46; LAWS OF HAMMURABI (ROTH); WRIGHT, INVENTING GOD'S LAW; TKC: DOM · MEN"
+note: Slavery, debt bondage and the legal status of enslaved women and children in the covenant code. The page reports what the text legislates without endorsing it.
+# The first laws after the ten
+Chapters 21–23 are case law in the ordinary ancient form. What's striking is the order. Right after the covenant is ratified, the first subject legislated is slavery, by a people just freed.
+rec:
+Debt slavery | A Hebrew man bought serves six years and goes free in the seventh. If he came married, his wife leaves with him. If the master gave him a wife, she and the children stay. If he chooses to stay with them, his ear is pierced at the door and he serves for life. Freedom is granted to him and withheld from her.
+The daughter sold | She "shall not go out as the male slaves do." She can't be sold to foreigners, and if the man takes another wife he can't reduce her food, clothing or her third due, *ʿonah*, whose meaning is disputed. If he does, she goes free. The protections are real, and it's still a sale.
+Injury and status | Kidnapping a person to sell is a capital crime. A master who beats a slave to death is punished, and if the slave survives a day or two there's no penalty, "for he is his money." A slave who loses an eye or a tooth goes free. An ox that kills a slave costs thirty shekels, paid to the master.
+Money law | A poor man's cloak taken in pledge goes back by sunset, "for that is his only covering." Credit is regulated at the point where it takes someone's bedding.
+The foreigner and the courts | Don't oppress the foreigner, "for you know the heart of a foreigner." Don't favor the poor man in his lawsuit, and don't deny justice to the poor. Impartiality in both directions.
+box: How to read it without lying in either direction
+INTERPRETATION: The code doesn't abolish slavery. It isn't a charter for the plantation either, since it limits Hebrew debt servitude, makes kidnapping a capital crime and frees a slave for a lost tooth, and American slave codes did none of that. And it gives women fewer exits than men. Say all three. Permanent slavery of foreigners is authorized elsewhere (Lev 25.44–46), and proslavery writers cited it.
+/end
+prompt: Which of these clauses Dominion keeps, and which it has quietly repealed | fill
+
+@page rh="EXODUS · 12 OF 17 · THE CALF, THE PURGE, THE FACE" m="EXOD 32.1–6; EXOD 32.11–14; EXOD 32.21–29; EXOD 32.31–32; EXOD 33.18–23; EXOD 34.6–7; EXOD 36.5–7; DEUT 9.20"
+note: A massacre inside the camp, 32.25–29.
+# Forty days unsupervised
+While the sanctuary plans are being given on the mountain, the people ask the acting authority for gods they can see. Aaron makes a calf out of their gold earrings and announces "a feast to the LORD." The crisis is a leadership vacuum, an authorized official improvising, and a rite in the right name with the wrong object.
+rec:
+Aaron isn't punished | He collects the gold, makes the image, builds the altar, announces the feast, and tells Moses he threw the gold in the fire "and out came this calf." He remains high priest. Deuteronomy later says God was angry enough to destroy him and Moses prayed for him (Deut 9.20). Hold that next to who does die in the same chapter.
+The purge | Moses calls for whoever is on the LORD's side, the Levites answer, and they go through the camp with swords. About three thousand die, and Moses tells them "today you have been ordained for the LORD," each at the cost of a son or brother. A priesthood is ordained by an internal massacre, and the book says so plainly.
+Moses argues with God, twice | First he talks God out of destroying the people, using what the Egyptians will say and the promise to Abraham, and "the LORD relented." Then he offers to be blotted out of God's book with them. Intercession here is legal advocacy, and God is persuadable.
+The request to see | He's refused the face and shown the back from a cleft in the rock. What he gets instead is a spoken self-description, "merciful and gracious, slow to anger," forgiving, and by no means clearing the guilty (34.6–7), which later books quote and argue with.
+The second tablets | The covenant is rewritten after being broken, and the sanctuary is built from offerings so generous the people have to be told to stop. The book ends with a structure, a cloud and a schedule.
+prompt: Who in my world survives the thing they built, and who dies for attending it | fill
+
+@page rh="EXODUS · 13 OF 17 · PASSAGE PRACTICE · THE TEXT" m="METHOD; BIBLE 101 VIII; EXOD 21.2–11; EXOD 1.15–21"
+# One passage, worked properly
+Choose one passage and run the method across this spread. If you want one chosen, try 21.2–11, the slave laws, or 1.15–21, the midwives.
+cols:
+prompt: Passage | 2
+||
+prompt: Translation used | 2
+/end
+prompt: 1 · What it says. Summarize without interpreting. No conclusions yet | fill
+prompt: 2 · Who is speaking, to whom, in what situation | fill
+prompt: 3 · Where two translations differ, and what turns on the difference | fill
+
+@page rh="EXODUS · 14 OF 17 · PASSAGE PRACTICE · THE USE" m="METHOD; TKC: DOM; PART IX LOG"
+# How it's been used
+prompt: 4 · How this passage has been used against someone. Name the use and not only the abuse | fill
+prompt: 5 · What it refuses to settle. The question the text leaves open | fill
+prompt: 6 · What Dominion would do with it, and which clause the Sanctum circulates | fill
+prompt: 7 · What I'm taking into the manuscript, and which chapter | fill
+small: Anything found on these two pages begins as POSSIBLE. Move it to DECIDED only after deciding it belongs in the manuscript and logging where it affects the existing files.
+status
+
+@page rh="EXODUS · 15 OF 17 · WHAT WAS DONE WITH IT" m="ISA 43.16–21; 1 COR 10.1–5; RABOTEAU, SLAVE RELIGION (1978); CONE, A BLACK THEOLOGY OF LIBERATION (1970); WARRIOR, “CANAANITES, COWBOYS, AND INDIANS” (1989); TKC: DOM · TL"
+# The most borrowed book
+Exodus is quoted by the enslaved and the enslavers, by prophets, empires, movements and settlers. For a novelist writing an empire with a scripture, the reception history is primary material.
+rec:
+Inside the Bible | The prophets judge Israel by the deliverance, the return from exile is told in exodus language, the gospels put Jesus in a wilderness and on a mountain, and Paul reads the crossing as a figure (1 Cor 10). Reuse starts inside the canon.
+The spirituals | Enslaved Black Americans made Exodus the center of a sung theology, Pharaoh, the river, the promised land, often with a double meaning, a coded present inside a biblical past. "Go Down, Moses" was among the first spirituals published, in 1861, and Harriet Tubman was called Moses. For this companion, the most important reception stream.
+Slaveholder use | The same book was preached to the enslaved with the deliverance removed and the obedience kept, and the covenant code and Leviticus 25 were cited to show scripture regulates slavery and so allows it. The text didn't prevent this. The selection did it.
+The founders | In 1776 Benjamin Franklin proposed a Great Seal showing Pharaoh drowning, under the motto "Rebellion to tyrants is obedience to God."
+Liberation theology | James Cone made the God of the exodus the center of *A Black Theology of Liberation* (1970) and *God of the Oppressed* (1975). God is disclosed as one who takes sides.
+The Canaanite problem | Robert Allen Warrior read the story from the Canaanites' side in 1989. The exodus ends in someone else's land, and for Native Americans the Puritans had played Israel. A companion that celebrates the exodus without naming this hasn't finished reading.
+The civil rights era | Movement preaching ran on Pharaoh, the wilderness and the mountaintop. Martin Luther King Jr.'s last sermon, in Memphis on April 3, 1968, ended with Moses' view of the promised land: "I may not get there with you."
+prompt: Which reception stream my characters were raised inside, and who edited it for them | fill
+
+@page rh="EXODUS · 16 OF 17 · DOMINION'S EXODUS" m="EXOD 20.2; EXOD 20.8–11; EXOD 22.25–27; TKC: DOM · SANCTUM; FR 33"
+# A deliverance already spent
+POSSIBLE: An empire can't suppress this book, because it's too well known. So it dates it. The deliverance is taught as accomplished, in the founding, by the Empire itself, and what's left for the present is the obedience section. Everything below is a TKC construction to test against the manuscript.
+tabrl:
+| What the Sanctum circulates | What it keeps in the closed catechism |
+| The sea. Deliverance as a founding event, already granted. | Chapter 1. The resistance began with two working women who lied to a king and were rewarded. |
+| The commandments, from the second clause on. | The preamble. The authority to command rests on having ended somebody's forced labor. |
+| Sabbath as household order and public observance. | Sabbath as a limit on what an owner may take from a worker, an animal or a foreigner. |
+| The tabernacle chapters. Costly, ordered, beautiful worship. | The seventh-year release, the interest ban and the returned cloak. |
+| Moses the lawgiver, obedient and unquestioning. | Moses arguing God out of a decision, twice, and offering to be struck from the book. |
+box: The Sanctum's problem with this book
+POSSIBLE: A scripture whose God is introduced as having heard a labor complaint can't be fully tamed. Someone in the Temple has to manage that. Whether it sits with the Prelate's office is open. The Prelate's working name is Aurelia (POSSIBLE, FR 33).
+/end
+corr: SUPERSEDED: The old companion marked "Prelate Huldah's office" as canon and gave it the Empire's handling of Exodus. FR 33 renamed the Prelate, and the office's role here is only POSSIBLE now.
+prompt: The Empire's deliverance liturgy. Write the part a character stops believing | fill
+
+@page rh="EXODUS · 17 OF 17 · CLOSE THE DOSSIER" m="WRITING; DOSSIER CLOSE; QUEUE: D2"
+# What I take out of Exodus
+prompt: The one thing this book changed about how I see Dominion | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+prompt: A line, an image or a law I'm taking straight into the manuscript | fill
+review: Proofing gate | log only, nothing is closed here
+Dossier II has seventeen numbered pages, with content notes on pages 6, 11 and 12. Still outstanding for proofing: full citations with edition and year for the margin entries.
+fields: PROOFED BY, DATE, OUTSTANDING
+/end
+
+@notes rh="DOSSIER NOTES · II EXODUS" m="NOTES; OPEN NOTES" prompt="Anything this dossier started and didn't finish"
