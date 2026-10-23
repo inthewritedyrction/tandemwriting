@@ -189,3 +189,8 @@ tr:last-child td { border-bottom: 0; }
 .side .corr, .side .contested, .side .small { font-size: 9.8pt; line-height: 1.38; margin-bottom: 10pt; }
 .page .main > .small:first-of-type { margin-top: -6pt; }
 table td.blank { height: 0.55in; }
+.plate-inline { margin: 10pt 0 12pt; }
+.plate-inline .plate { height: 100%; }
+.plate-inline:not([style]) .plate { height: auto; }
+.plate-inline .plate.doc > .in { padding: 0.2in 0.3in; }
+.plate-inline .plate.quote .pq { font-size: 15pt; }

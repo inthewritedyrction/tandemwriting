@@ -201,8 +201,16 @@ class Block:
                     out.append('<div class="lines">' + '<i></i>' * int(val) + '</div>')
             elif key == 'side' and ctx is not None:
                 flush(); ctx['side'] = self.until_end()
-            elif key == 'plate' and ctx is not None:
+            elif key == 'plate' and ctx is not None and ctx.get('_opener'):
                 flush(); ctx['plate'] = (val, self.until_end())
+            elif key == 'plate':
+                # inline plate: "plate: doc", "plate: quote", or "plate: frame | caption | 3in"
+                flush()
+                body = self.until_end()
+                kind, _, rest = val.partition('|')
+                h = rest.partition('|')[2].strip() or ('3in' if kind.strip() == 'frame' else '')
+                style = f' style="height:{h}"' if h else ''
+                out.append(f'<div class="plate-inline"{style}>' + render_plate(kind.strip() if kind.strip() != 'frame' else 'frame | ' + rest.partition('|')[0].strip(), body) + '</div>')
             elif key == 'calls':
                 flush()
                 body = self.until_end()
@@ -373,7 +381,7 @@ def build():
                      + (f'<div class="foot">{inline(a["foot"])}</div>' if a.get('foot') else '<div class="base"></div>'))
             html_pages.append(f'<section class="page divider {parity}"><div class="wrap">{inner}</div>{folio}</section>')
             continue
-        ctx = {}
+        ctx = {'_opener': kind == 'opener'}
         main = Block(lines).render(ctx)
         if kind == 'opener':
             plate = render_plate(*ctx['plate']) if 'plate' in ctx else render_plate('frame | ', [])
