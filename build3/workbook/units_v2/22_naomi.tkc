@@ -1,0 +1,123 @@
+@opener id="naomi" rh="HOUSE AUREM · NAOMI · PORTRAIT" m="TKC: TL · FR 27 · FR 29–33; VOL. I · {v1:ruth} · {v1:temple}"
+plate: frame | PORTRAIT · NAOMI · HANNAH'S DAUGHTER · VOWED EDUCATION, FINAL YEAR
+/end
+tk: PART II · DOSSIER 9 · ❖
+big: Naomi
+lede: Her whole future turns on a girl she's never met. If Eden wins, her mother enters her in the Trials. If Eden dies or is publicly rejected, her mother gets her out (FR 29).
+calls:
+k: On the record
+Hannah's daughter, one year from the end of the Vowed education program (TL). Eligible for the Trials through her mother's household and standing (FR 31–32). She keeps the name Naomi (FR 33).
+||
+k: Still open
+Her age, where she studies, what she wants, and whether she'd enter if nobody asked her.
+/end
+
+@page rh="HOUSE AUREM · NAOMI · THE RECORD" m="TKC: TL · FR 27 · FR 31–33; VOL. I · {v1:temple} · {v1:household} · {v1:elig}"
+# The Registry card
+plate: doc
+dh: Vowed Education Record | TEMPLE · ____________
+dsub: FINAL YEAR · ONE YEAR REMAINING (TL)
+df: Name of record | NAOMI ____________
+df: Household | Hannah's · eligibility through it (FR 31–32)
+df: Father | elite ladder, below Crown level · living · not in the household (FR 31)
+df: Covenant Registry | eligible once of age · not entered (FR 27)
+df: Entry | by her mother's submission, or her own (FR 27)
+stamp: ELIGIBLE
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Naomi | Her mother | _ |
+| _ | Her Vowed instructors | _ |
+| _ | _ | _ |
+small: The Prelate was renamed so Hannah's daughter could keep this name. "Nomi" was rejected as too close (FR 33).
+prompt: How old she is, and how long until she's eligible | 3
+
+@page rh="HOUSE AUREM · NAOMI · STANDING" m="TKC: TL · FR 27 · FR 29–32; VOL. I · {v1:temple} · {v1:sorted}"
+# The clerk's version and the true one
+rec:
+On the ledger | A Vowed education student in her final year, eligible through her mother's household (TL, FR 31–32).
+What she knows | Her mother was Vowed and is now House Mother. She doesn't know about 2085 (FR 30).
+What's being decided for her | Whether she enters. Hannah can submit her name and isn't the only one who can, and Naomi can self-nominate once she's eligible, the way Eden did (FR 27).
+What decides it | Eden. A win means Hannah enters her. A death or a public rejection means Hannah gets her out through a designation lower than the Trials reach (FR 29).
+Her father | Still living, on the elite ladder below Crown level, no longer in Hannah's household. Why he left stays open (FR 31).
+prompt: What a day in Vowed education looks like, hour by hour | fill
+
+@page rh="HOUSE AUREM · NAOMI · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TL · CR · FR 30; VOL. I · {v1:temple} · {v1:teaches}"
+# What she believes
+rec:
+Who teaches her | The Vowed education program (TL). The Crownward's Vowed are formed for intelligence, theological precision, and perfect devotion under close observation (CR).
+What she believes | OPEN QUESTION: The files are silent. INFERENCE: She's being taught the Temple's faith by the people who'll later assess girls like her.
+What she doesn't know | The cohort her mother was part of (FR 30), so her picture of the Trials is the Broadcast's.
+empire: What the Temple teaches about a girl like her
+POSSIBLE: A Vowed student is the Temple's own, formed to serve and to observe. If she enters the Trials, she enters as the daughter of a House Mother and a former Vowed woman, already fluent in what the Settling is watching for.
+/end
+prompt: What she believes about God that her instructors would mark correct, and what they wouldn't | fill
+
+@page rh="HOUSE AUREM · NAOMI · FAITH AND SCRIPTURE · 2 OF 2" m="RUTH 1.20–21; 1 SAM 2.18–19; 1 SAM 3; NUM 27.1–7"
+# The text
+rec:
+Her name | Naomi, Ruth's mother-in-law, whose name means "pleasant." Coming home widowed and childless she says, "Call me not Naomi, call me Mara," bitter (Ruth 1.20).
+Where it breaks | The biblical Naomi is old and plans a younger woman's future. This Naomi is young, and her future is being planned (Vol. I, {v1:ruth}).
+Samuel · 1 Samuel 2–3 | POSSIBLE: The son of a woman named Hannah, raised in the sanctuary, ministering "before the LORD, being a child," with a little coat his mother brings every year (2.18–19). **Where it breaks:** Samuel is called by name at night, and the old priest teaches him to answer. Nobody's told Naomi there's anything to answer.
+The daughters of Zelophehad · Numbers 27 | POSSIBLE: Five sisters who bring their own petition and win it: "The daughters of Zelophehad speak right" (27.7). **Where it breaks:** Self-nomination is open to Naomi (FR 27). Whether she'd use it is the question.
+tab:
+| She'd quote | Never read to her |
+| _ | Ruth 1.20, the bitterness inside her own name |
+| _ | Numbers 27.7, a petition that wins |
+box: Volume One
+Ruth and Naomi, {v1:ruth}. Hannah, {v1:hannah}. Numbers, two petitions, {v1:f1-daughters}. The Temple and the Vowed, {v1:temple}. Eligibility and nomination, {v1:elig}.
+/end
+
+@page rh="HOUSE AUREM · NAOMI · BODY AND FEAR" m="TKC: FR 29; WRITING"
+# Body and fear
+prompt: What the Vowed have trained her body to do in a watched room | fill
+prompt: What she's afraid will happen, and what she's afraid is true | fill
+
+@page rh="HOUSE AUREM · NAOMI · BELIEF ARC" m="TKC: FR 27 · FR 29–30; YOURS"
+# Belief arc
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · Vowed education | _ | _ | _ |
+| II · Watching Eden | _ | _ | _ |
+| III · After the Declaration | _ | Her mother's decision either way (FR 29) | _ |
+| IV · Book two | _ | _ | _ |
+prompt: Whether she ever finds out about 2085, and from whom | fill
+
+@page rh="HOUSE AUREM · NAOMI · POWER AND PEOPLE" m="TKC: TL · FR 27 · FR 29–31"
+# Names, not roles
+tabrl:
+| Person | What passes between them | Leverage |
+| Hannah | _ | Influence, not legal control (FR 27) |
+| Her father | _ | _ |
+| Eden | A stranger whose result decides her life (FR 29) | _ |
+| Her instructors | _ | _ |
+| _ | _ | _ |
+prompt: Who she'd tell first if she decided to enter herself | 4
+
+@page rh="HOUSE AUREM · NAOMI · VOICE AND CONTRADICTION" m="WRITING"
+# Voice and contradiction
+prompt: Lines only Naomi would say | fill
+prompt: The thing she believes and also breaks | 4
+prompt: What it costs, and the scene where it lands | fill
+
+@page rh="HOUSE AUREM · NAOMI · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write her watching the Broadcast
+Ten minutes of Naomi on an ordinary evening at seven, watching the Evening Reckoning wherever the Vowed students watch it. Eden's name is on the screen.
+prompt: Write | fill
+
+@page rh="HOUSE AUREM · NAOMI · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="HOUSE AUREM · NAOMI · NOTES" m="NOTES" prompt="Anything Naomi's dossier started and didn't finish"

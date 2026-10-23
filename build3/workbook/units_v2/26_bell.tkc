@@ -1,0 +1,64 @@
+@opener id="bell" rh="HOUSE AUREM · SENIOR MINISTER BELL · PORTRAIT" m="TKC: DR3; VOL. I · {v1:temple} · {v1:teaches} · {v1:assess}"
+plate: frame | PORTRAIT · SENIOR MINISTER BELL · THE AURELIA TEMPLE
+/end
+tk: PART II · DOSSIER 13 · ❖ · SHORT
+big: Bell
+lede: He prayed that God would close every door not intended for her (DR3).
+calls:
+k: On the record
+Senior Minister of the Aurelia Temple. He signs Binding certificates, sponsors Assessment candidates, and has known Celeste thirty-four years. He wouldn't sponsor Eden (DR3).
+||
+k: Still open
+His first name, his wife, his own children, and whether he ever regrets the prayer.
+/end
+
+@page rh="HOUSE AUREM · BELL · THE RECORD AND THE MAN" m="TKC: DR3 · TL; VOL. I · {v1:temple} · {v1:sorted}"
+# The record and the man
+plate: doc
+dh: Binding Certificate | TEMPLE OF AURELIA
+dsub: SIGNED BENEATH EACH HUSBAND'S NAME
+df: Officiating | Senior Minister Bell
+df: Bride | ____________
+df: Husband | ____________
+df: Witness | a Vowed officiant
+stamp: BOUND
+/end
+rec:
+His office | Signs Binding certificates beneath each husband's name and sponsors Assessment candidates (DR3).
+Celeste | Thirty-four years. Her sweet potato pie at harvest suppers, and a call every winter when the Temple needs coats repaired. He greets her with both hands and calls her Mother Parish. She answers "Morning" and he keeps smiling (DR3).
+Eden | He kept her waiting while he signed certificates. He asked whether her father was dead and whether her mother was properly Bound when she was born, not about her grades. He offered Leah Home Instruction and prayed every door shut that wasn't intended for her (DR3).
+The Assessment | He speaks before the scores about "divine order, talent as stewardship, and elevation as burden," reads Proverbs 31.29 from the Book of Covenant, and closes, "May every daughter receive with grace the portion appointed to her" (DR3).
+prompt: Why he wouldn't sponsor her, in his own words, to his wife that night | fill
+
+@page rh="HOUSE AUREM · BELL · FAITH AND SCRIPTURE" m="1 SAM 1.12–16; 1 SAM 2.12–17; AMOS 7.10–13; REV 3.7–8; PROV 31.29; VOL. I · {v1:hannah} · {v1:b-twelve} · {v1:teaches}"
+# Faith and scripture
+rec:
+What he believes | "The House always judges fairly" (DR3). INFERENCE: He believes in the Temple's order sincerely, and it's never cost him anything.
+What he preaches | Divine order, talent as stewardship, elevation as burden (DR3).
+His name | *Bell* has no biblical source. INTERPRETATION: A bell calls people in and tells them what time it is.
+Eli · 1 Samuel 1–2 | POSSIBLE: The priest at Shiloh who watches a praying woman's lips move and decides she's drunk. His sons abuse the office, and he rebukes them and does nothing (1 Sam 2.12–17, 22–25). **Where it breaks:** Eli corrects himself when Hannah answers him. Bell never asked Eden a question he didn't already have an answer for.
+Amaziah · Amos 7 | POSSIBLE: The priest of Bethel who tells a prophet to go home, because "it is the king's chapel, and it is the king's court" (7.13). **Where it breaks:** Amos answers him to his face. Eden went home and found the clause.
+tab:
+| He quotes | Never preached from his pulpit |
+| Proverbs 31.29, "Many daughters have done virtuously, but thou excellest them all" (DR3) | Revelation 3.8, "I have set before thee an open door, and no man can shut it" |
+| _ | Amos 7.14–15, a herdsman God sent anyway |
+small: Volume One: Hannah and Eli's misreading, {v1:hannah}. The Twelve, with Amos, {v1:b-twelve}. What the Temple teaches, {v1:teaches}.
+prompt: The prayer, word for word, as he said it over Eden | fill
+
+@page rh="HOUSE AUREM · BELL · PEOPLE AND VOICE" m="TKC: DR3"
+# His voice
+rec:
+On the page | "What a joy to see you." "The House always judges fairly." "May every daughter receive with grace the portion appointed to her." (DR3)
+tabrl:
+| Person | What passes between them |
+| Celeste | Thirty-four years of pie and coats, both hands, "Mother Parish" (DR3) |
+| Eden | A sponsorship he wouldn't give (DR3) |
+| Leah | A consolation, Home Instruction the following year (DR3) |
+| The officials | Where his attention goes during the Assessment, instead of to Eden (DR3) |
+prompt: What he says about Eden at the harvest supper after she places first | fill
+
+@page rh="HOUSE AUREM · BELL · WORKING PAGE" m="WRITING"
+# Write the sponsorship, from his side
+Ten minutes. Eden is in the chair by his desk. He has certificates to sign and he signs them first.
+prompt: Write | fill
+status

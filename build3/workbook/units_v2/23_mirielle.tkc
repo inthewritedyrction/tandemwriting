@@ -1,0 +1,58 @@
+@opener id="mirielle" rh="HOUSE AUREM · MIRIELLE · PORTRAIT" m="TKC: TL · CR · FR 26; VOL. I · {v1:arrival}"
+plate: frame | PORTRAIT · MIRIELLE · HOUSE COORDINATOR
+/end
+tk: PART II · DOSSIER 10 · ❖ · SHORT
+big: Mirielle
+lede: She runs the House with the efficiency of someone who's decided not to waste time on things that won't help (TL).
+calls:
+k: On the record
+House Coordinator of House Aurem. She hands Eden a shawl before Temple and says nothing else. She cries when Eden's name comes up first on the Sovereign Boulevard boards (TL).
+||
+k: Still open
+How long she's served the House, where she's from, and who she cried for the last time a name came up first.
+/end
+
+@page rh="HOUSE AUREM · MIRIELLE · THE RECORD AND THE WOMAN" m="TKC: TL · CR · FR 26"
+# The record and the woman
+plate: doc
+dh: Staff Record | TRIALS COMMISSION · HOUSE AUREM
+df: Name | MIRIELLE ____________
+df: Post | House Coordinator
+df: Trials served | ______
+df: Designation | ______
+stamp: STAFF
+/end
+rec:
+What she does | Runs the House (TL). INFERENCE: Schedules, staff, the kitchen, the hours the cameras see and the ones they don't.
+The shawl | Before Temple she hands Eden a shawl and says nothing else (TL). INTERPRETATION: The whole of her care is in the object.
+The boards | When Eden's name comes up first, she cries (TL).
+prompt: Where she's from, and how she came to the Crownward | fill
+
+@page rh="HOUSE AUREM · MIRIELLE · FAITH AND SCRIPTURE" m="2 KGS 2.13–14; RUTH 3.9; EZEK 16.8; VOL. I · {v1:ruth} · {v1:kingmakers} · {v1:lived}"
+# Faith and scripture
+rec:
+What she believes | OPEN QUESTION: The files give her efficiency and two gestures. INFERENCE: A woman who cries at a girl's name on a board believes something about what the board means.
+What the Temple teaches about a woman like her | POSSIBLE: Service without credit is the Crownward's highest female virtue, the Arrangement without the marriage (Vol. I, {v1:arrangement}).
+Her name | *Mirielle* has no biblical source. It's a French name, related to Provençal *Mireille*, usually taken from a word meaning "to admire." To an English ear it sits close to Miriam, Eden's mother's name. Whether Eden hears that is yours.
+A garment echo | POSSIBLE: The mantle Elijah leaves for Elisha (2 Kgs 2.13–14), and Ruth asking Boaz to spread his cloak over her (Ruth 3.9). A cloth handed over in silence is old scripture's way of saying someone's taken responsibility for you. **Where it breaks:** Mirielle says nothing, and nobody's taking an oath.
+tab:
+| She'd quote | Never read to her |
+| _ | _ |
+small: Volume One: Ruth, {v1:ruth}. Kingmakers, prophets and priests, with Elijah, {v1:kingmakers}.
+prompt: What she says to God, or to no one, the night Eden places first | fill
+
+@page rh="HOUSE AUREM · MIRIELLE · PEOPLE AND VOICE" m="TKC: TL"
+# Who she runs the House for
+tabrl:
+| Person | What passes between them |
+| Eden | A shawl, and tears at the boards (TL) |
+| Hannah | _ |
+| Gavin · Abigail | _ |
+| The House staff below her | _ |
+prompt: Lines only Mirielle would say, as few as possible | fill
+
+@page rh="HOUSE AUREM · MIRIELLE · WORKING PAGE" m="WRITING"
+# Write the shawl
+Ten minutes. The morning before Temple, the hallway, the shawl, and everything she doesn't say.
+prompt: Write | fill
+status

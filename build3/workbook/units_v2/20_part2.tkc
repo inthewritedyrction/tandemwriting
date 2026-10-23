@@ -1,0 +1,33 @@
+@part id="part2" num="II" kind="PART TWO · ❖" title="House/Aurem" sub="A townhouse on Covenant Row, four professionals who've done this before, and the minister back home who wouldn't sign." series="THY KINGDOM COME · VOLUME TWO · THE PEOPLE"
+toc: i · The House and the people in it | p2-intro
+toc: Hannah | hannah
+toc: Naomi | naomi
+toc: Mirielle | mirielle
+toc: Gavin | gavin
+toc: Abigail | abigail
+toc: Senior Minister Bell | bell
+toc: The Aurem officials | officials
+toc: Working questions for House Aurem | p2-q
+
+@essay id="p2-intro" rh="HOUSE AUREM · HOW TO USE THIS PART"
+# The House and the people in it
+drop: House Aurem is one of twelve townhouses on Covenant Row, five minutes' walk from Sovereign Boulevard, wired in every common area and garden and left unwatched in the bedrooms (CR). A House hosts one Covenant Daughter per Trial, and its staff serve across many (FR 26). Eden's are the House Mother, the House Coordinator, the stylist and the Debate and Protocol Advisor (TL).
+They're professionals, and each has watched girls lose. Hannah has done six Trials and has twelve girls across her career, none of them hers (TL, FR 26). Gavin has dressed girls who were smarter and richer and better placed than Eden (TL). Abigail reads candidates for a living (TL). What they want from Eden is mostly what the Empire wants from her, until it isn't, and the dossiers track where each one's loyalty actually sits.
+Senior Minister Bell is the odd one out. He's in Aurelia, not the Crownward, and his part of the story is over before Eden boards the train. He's here because Eden carries what he did with her into every room the House puts her in (DR3).
+side:
+chips: TL, CR, FR 26–34
+k: The House's year
+stext: One Covenant Daughter. Aurem has produced fifteen Anointed Wives in thirty-eight Trials, more than any other Dominion, so an Aurem House is expected to win (DOM).
+marg
+see: Vol. I, arrival and the Covenant Houses, {v1:arrival}.
+/end
+
+@page rh="HOUSE AUREM · THE HOUSE, DRAWN" m="TKC: CR · TR · TL; VOL. I · {v1:arrival} · {v1:crownward}"
+# House Aurem, drawn
+rec:
+Where it is | Covenant Row, parallel to Sovereign Boulevard on the Sovereign Side, under five minutes' walk from the Boulevard (CR).
+What's watched | Every common area, entrance and garden. The bedrooms aren't, by calculation and not decency, because unwatched bedrooms keep candidates manageable (CR).
+Who knows the gaps | Hannah knows the back staircases and the camera gaps, and always has (TL).
+plate: frame | HOUSE AUREM · FLOOR PLAN · MARK THE CAMERAS, THE BACK STAIRS AND THE ONE PLACE THEY AREN'T | 4.6in
+/end
+prompt: The room in the House where each of the four staff goes to be alone | fill

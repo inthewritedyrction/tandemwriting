@@ -1,0 +1,61 @@
+@opener id="abigail" rh="HOUSE AUREM · ABIGAIL · PORTRAIT" m="TKC: TL · WR 15 · WR 30; VOL. I · {v1:hannah}"
+plate: frame | PORTRAIT · ABIGAIL · DEBATE AND PROTOCOL ADVISOR · IN AMBER
+/end
+tk: PART II · DOSSIER 12 · ❖ · SHORT
+big: Abigail
+lede: Pressure in a pretty dress. She doesn't need to threaten. A look, a small correction, a hand at the elbow or one soft line is enough (WR 30).
+calls:
+k: On the record
+Debate and Protocol Advisor for House Aurem. She wears amber to the Theology debate, reads Eden the way professionals read what they've spent years learning, and called Serenity's question about Celeste almost to the word (TL).
+||
+k: Still open
+Who Serenity is, what the question was, and why Abigail could see it coming.
+/end
+
+@page rh="HOUSE AUREM · ABIGAIL · THE RECORD AND THE WOMAN" m="TKC: TL · TR · WR 30; VOL. I · {v1:phase-detail}"
+# The record and the woman
+plate: doc
+dh: Staff Record | TRIALS COMMISSION · HOUSE AUREM
+df: Name | ABIGAIL ____________
+df: Post | Debate and Protocol Advisor
+df: Trials served | ______
+df: Designation | ______
+stamp: STAFF
+/end
+rec:
+What she does | Prepares Eden for the Civic Debates, where the topic comes an hour before and the Broadcast edits the result (TR), and for the protocol of every watched room (TL).
+How she reads | The way professionals read what they've spent years learning to read (TL).
+The amber | She wears it to the Theology debate (TL). OPEN QUESTION: Is it a signal, and to whom?
+Serenity's question | She called it, about Celeste, almost to the word (TL). OPEN QUESTION: Who is Serenity? An interviewer, a Court wife, another candidate's advisor?
+prompt: The question Serenity asked, and the answer Abigail drilled into Eden | fill
+
+@page rh="HOUSE AUREM · ABIGAIL · FAITH AND SCRIPTURE" m="1 SAM 25; 1 SAM 25.24–31; VOL. I · {v1:hannah} · {v1:cast}"
+# Faith and scripture
+rec:
+What she believes | OPEN QUESTION: Nothing on file. INFERENCE: A woman who reads people for a living believes in what works in a room.
+What the Temple teaches about a woman like her | POSSIBLE: The Temple holds up the biblical Abigail as the model wife who calms an angry man with gifts and humility, and drops the part where she acts without telling her husband.
+Her name | Abigail, Nabal's wife, who loads donkeys with food, rides out without telling her husband, kneels, takes the blame on herself, and talks an armed David out of a massacre he'd regret as king (1 Sam 25). The Talmud counts her among seven women prophets (Vol. I, {v1:hannah}).
+Where it breaks | POSSIBLE: The biblical Abigail persuades a powerful man on her knees, once, on a road. This one teaches a girl how to do it on camera, every week, for a House.
+tab:
+| She'd quote | Never read to her |
+| 1 Samuel 25.24, "Upon me, my lord, upon me let this iniquity be" | 1 Samuel 25.19, "But she told not her husband Nabal" |
+small: Volume One: Hannah, Abigail and Michal, {v1:hannah}. The names in the cast, {v1:cast}.
+prompt: What Abigail says to Eden that the biblical Abigail said to David | fill
+
+@page rh="HOUSE AUREM · ABIGAIL · PEOPLE AND VOICE" m="TKC: TL · WR 15 · WR 30"
+# Her voice
+rec:
+The rule | She needs her own rhythm, apart from the Empire's brochure voice (WR 15). She never over-threatens (WR 30).
+On the page | A look, a small correction, a hand at the elbow, one soft line (WR 30).
+tabrl:
+| Person | What passes between them |
+| Eden | A professional read, and a prediction that came true (TL) |
+| Serenity | _ |
+| Hannah | _ |
+prompt: Lines only Abigail would say, each under ten words | fill
+
+@page rh="HOUSE AUREM · ABIGAIL · WORKING PAGE" m="WRITING"
+# Write the hour before the Theology debate
+Ten minutes. The topic's just come in, Abigail is in amber, and there's an hour.
+prompt: Write | fill
+status

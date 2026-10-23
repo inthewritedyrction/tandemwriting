@@ -1,0 +1,180 @@
+@opener id="hannah" rh="HOUSE AUREM · HANNAH · PORTRAIT" m="TKC: TL · FR 26–34; VOL. I · {v1:hannah} · {v1:trials-history} · {v1:arrival}"
+plate: frame | PORTRAIT · HANNAH · HOUSE MOTHER OF HOUSE AUREM
+/end
+tk: PART II · DOSSIER 8 · ❖
+big: Hannah
+lede: Six Trials. Twelve girls. None of them hers (TL). She doesn't let herself feel what she can't act on, so she's built a very precise system for acting on everything that matters.
+calls:
+k: On the record
+House Mother of House Aurem. Formerly Vowed (FR 30). Twelve girls across her career, six through Aurem Trials and six through earlier posts (FR 26). Her daughter Naomi has one year left in Vowed education (TL). Knows the back staircases and the camera gaps (TL).
+||
+k: Still open
+Her surname, her age, what Judah has "always known" about her (TL), and the year she's never said out loud (FR 30).
+/end
+
+@page rh="HOUSE AUREM · HANNAH · THE RECORD" m="TKC: TL · FR 26 · FR 30–32 · FR 34; VOL. I · {v1:temple} · {v1:household}"
+# The Registry card
+plate: doc
+dh: Staff Record | TRIALS COMMISSION · HOUSE AUREM
+dsub: COVENANT ROW · SOVEREIGN SIDE · CROWNWARD
+df: Name of record | HANNAH ____________
+df: Post | House Mother · six Aurem Trials (TL)
+df: Career | twelve Covenant Daughters, several Houses and posts (FR 26)
+df: Former designation | Vowed (FR 30)
+df: Household | her own · daughter Naomi eligible through it (FR 31–32)
+df: Naomi's father | elite ladder, below Crown level · living · not in the household (FR 31)
+df: 2085 | ____________
+stamp: HOUSE MOTHER
+/end
+tabrl:
+| Name | Who uses it | What it does to her |
+| Hannah | The House, the girls | _ |
+| House Mother | The Commission, the Broadcast | _ |
+| Mother | Naomi | _ |
+| _ | _ | _ |
+prompt: Her surname, and why nobody in the files uses it | fill
+
+@page rh="HOUSE AUREM · HANNAH · THE YEARS" m="TKC: TL · FR 26 · FR 30–31 · FR 34 · FR 39; VOL. I · {v1:trials-history}"
+# Her years against the Empire's
+tabrl:
+| Year | Her life | Source |
+| c. 2060–67 | Born. INFERENCE: A Covenant Daughter in 2085 was between eighteen and twenty-five. | _ |
+| 2085 | INFERENCE: One of the twelve in the cancelled cohort. Assembled, prepared, measured against the others, then sent home with her designation intact and no placement. | FR 34, Vol. I, {v1:trials-history} |
+| _ | Vowed | FR 30 |
+| _ | A Binding on the elite ladder, below Crown level. Naomi born. | FR 31 |
+| _ | Naomi's father leaves the household. Why stays open. | FR 31 |
+| _ | Six earlier assignments, six girls | FR 26 |
+| _ | Six Aurem Trials, six girls | TL, FR 26 |
+| 2104 | The 39th. Eden. Naomi has a year left in Vowed education. | TL |
+small: OPEN QUESTION: In what order did the 2085 cohort, the Vowed years and the Binding come? A woman leaves Vowed service through marriage (Vol. I, {v1:temple}).
+prompt: The year she's never said out loud, as she'd tell it if she ever did | fill
+
+@page rh="HOUSE AUREM · HANNAH · STANDING" m="TKC: TL · TR · CR · FR 26–29; VOL. I · {v1:arrival} · {v1:declaration}"
+# The clerk's version and the true one
+rec:
+On the ledger | House Mother. She travels to the Crownward with her Covenant Daughter and two Appointed Officers (TR), and she's staff across many Trials, never the House's owner (FR 26).
+In fact | She knows the back staircases and the camera gaps, and always has (TL). She doesn't let herself feel things she can't act on, and has built a precise system for acting on everything that matters (TL).
+What a career costs | FR 26 makes her twelve a career count, which "ages her in the work." Every one of the twelve was married down the ladder or went to the heir (FR 19, 25).
+What she can do for Naomi | Hannah can submit Naomi's name, and she isn't the only one who can. Naomi can self-nominate once she's eligible, the way Eden did. Hannah's power is influence and not legal control (FR 27).
+What decides it | If Eden wins, Hannah enters Naomi, because winning proves the ladder can be climbed. If Eden dies or is publicly rejected, Hannah gets her out, and the only exit is a designation lower than the Trials reach (FR 29).
+prompt: What happened to each of her twelve girls. Name the ones you can. | fill
+
+@page rh="HOUSE AUREM · HANNAH · FAITH AND SCRIPTURE · 1 OF 2" m="TKC: TL · FR 30 · CR; VOL. I · {v1:temple} · {v1:teaches} · {v1:lived6}"
+# What she believes
+rec:
+Who taught her | The Temple, as a Vowed woman (FR 30). The Crownward's Vowed are trained to perform devotion under close observation, and to hold what they know in memory instead of on paper (CR).
+What she believes | INFERENCE: Act on everything that matters, and feel nothing you can't act on (TL). OPEN QUESTION: Whether she believes in God, the Temple, or only in the system she's built.
+What she can recite | INFERENCE: Everything a Vowed woman is formed in, and everything a House Mother says on camera.
+What she'd be arrested for | INFERENCE: What she knows about the camera gaps, and whatever she does with them.
+empire: What the Temple teaches about a woman like her
+A House Mother serves the House, and the House "always judges fairly" (DR3). POSSIBLE: The Temple preaches 1 Samuel 1.28, "I have lent him to the LORD," at every House Mother's commissioning, so handing over a girl who isn't hers becomes the highest kind of motherhood. It never preaches what Hannah does with her own.
+/end
+prompt: What she prays, if she prays, the night before a Declaration | fill
+
+@page rh="HOUSE AUREM · HANNAH · FAITH AND SCRIPTURE · 2 OF 2" m="1 SAM 1–2; 1 SAM 1.15; 1 SAM 1.28; 1 SAM 2.4–8; ESTH 2.8–9, 15; JER 38.7–13"
+# The text
+rec:
+Her name | Hannah, the mother of Samuel, who prays at Shiloh with no sound and is taken for drunk, vows her son to the sanctuary, and brings him a little robe every year. Her song is the model for Mary's (Vol. I, {v1:hannah}).
+Where it breaks | POSSIBLE: The story runs in reverse. Biblical Hannah gives the son she prayed for. This Hannah gives other women's daughters every year and is deciding whether to give her own (FR 29, Vol. I, {v1:hannah}).
+Hegai · Esther 2 | POSSIBLE: The keeper of the women in the king's house, who prefers Esther, gives her what she needs, and whose advice she follows: she "required nothing but what Hegai… appointed" (2.15). **Where it breaks:** Hegai's job ends at the king's door. Hannah's girls are hers to place, to lose, and to watch married down.
+Ebed-melech · Jeremiah 38 | POSSIBLE: A palace servant who gets the king's permission and pulls a prophet out of a cistern with ropes and rags (Vol. I, {v1:echoes}). **Where it breaks:** Ebed-melech acts once, in the open. Hannah's whole method is the camera gaps.
+tab:
+| She'd quote | Never read to her |
+| 1 Samuel 1.15, "I am a woman of a sorrowful spirit," if she ever said it aloud | 1 Samuel 2.4–8, the bows of the mighty broken and the poor raised from the dust |
+| _ | Esther 2.15, where the girl wins by taking the keeper's advice |
+box: Volume One
+Hannah, Abigail and Michal, {v1:hannah}. Echoes, labeled, {v1:echoes}. Esther, {v1:esther}. The Temple and the Vowed, {v1:temple}. The Trials' history and the 2085 cohort, {v1:trials-history}.
+/end
+
+@page rh="HOUSE AUREM · HANNAH · BODY AND FEAR" m="TKC: TL · FR 23–25 · FR 29"
+# Body and fear
+rec:
+What the record shows | INFERENCE: A woman who never lets herself feel what she can't act on has a body that's learned to wait (TL).
+What she's afraid will happen | Eden dies or is publicly rejected, and Naomi has to be taken out of reach of the Trials (FR 29). A candidate's death costs the Trial nothing, and her status simply goes back to her family (FR 23–24).
+What she's afraid is true | _
+prompt: What her body does when the Evening Reckoning comes up and Eden's name has moved | fill
+prompt: The night she was most afraid in six Trials, and what she did with her hands | fill
+
+@page rh="HOUSE AUREM · HANNAH · BELIEF ARC" m="TKC: FR 29–30 · FR 34; YOURS"
+# Belief arc
+tab:
+| Station | What she believes | What cracks it, and what she does | Ch. |
+| I · 2085 | INFERENCE: The Trials are a ladder, and she's on it | The Trial is cancelled mid-cycle and the twelve go home with no placements (FR 34, FR 39) | _ |
+| II · House Mother | Act on everything that matters (TL) | _ | _ |
+| III · Eden | _ | Eden wins, or dies, or is rejected (FR 29) | _ |
+| IV · Naomi | _ | _ | _ |
+prompt: Who notices she's changed, and what she does to hide it | fill
+
+@page rh="HOUSE AUREM · HANNAH · POWER AND PEOPLE" m="TKC: TL · FR 27–34"
+# Who she can move, and who can move her
+tabrl:
+| Person | What passes between them | Leverage |
+| Naomi | Influence, not legal control, over whether she enters (FR 27) | _ |
+| Eden | The proof, either way, of whether the ladder can be climbed (FR 29) | _ |
+| Naomi's father | Elite ladder, below Crown level, living, gone from the household (FR 31) | _ |
+| Judah | He knows about Hannah, and has always known (TL) | _ |
+| The 2085 cohort | Eleven women who were measured against her, scattered through their Dominions. A network that doesn't wake before book two (FR 34). | _ |
+| Mirielle · Gavin · Abigail | Her staff, or her colleagues. Decide which. | _ |
+small: POSSIBLE: Four people know Azrael is alive, Judah, Lyris and two others (TL). Judah "has always known" about Hannah. One of the two others could be her.
+prompt: What Judah knows about her | fill
+
+@page rh="HOUSE AUREM · HANNAH · VOICE AND CONTRADICTION" m="TKC: TL · FR 29; WRITING"
+# Voice and contradiction
+rec:
+The contradiction | INFERENCE: She delivers other women's daughters to the ladder every year and plans to keep her own off it unless the ladder proves it can be climbed (FR 29).
+What it costs | _
+prompt: Lines only Hannah would say | fill
+prompt: How she speaks to the cameras, and how she speaks in the gaps | 5
+
+@essay rh="HOUSE AUREM · HANNAH · THE MACHINERY AROUND HER"
+# The machinery around her
+drop: Hannah works inside the Trials as staff, which means the machinery runs through her hands every day. She knows where it's blind, the back staircases and the camera gaps (TL), and she's built her life on acting only where she can.
+The rules around her daughter are fixed. Eligibility isn't entry, anyone can submit a name, and Naomi can submit her own (FR 27). A child's status comes through household registration, so Naomi is eligible through Hannah's household and standing, whatever her father's place (FR 31–32). The only door out of the Trials' reach is a lower designation (FR 29).
+Underneath all of it is 2085, the cohort that was assembled and measured and then sent home when Crest died and the Trial was cancelled (FR 34, FR 39). INFERENCE: Hannah was one of the twelve. She's never said it out loud, and Naomi doesn't know (FR 30).
+side:
+chips: TL, FR 27–34
+k: The exit
+stext: A designation lower than the Trials reach. It saves Naomi from the ladder by taking her off it.
+marg
+see: Vol. I, the designations, {v1:designations}.
+/end
+
+@page rh="HOUSE AUREM · HANNAH · EXCAVATION · 2085" m="TKC: FR 34 · FR 39; INFERENCE; WRITING"
+# The Trial that didn't happen
+INFERENCE: In 2085 Hannah was one of twelve young women assembled, prepared and measured against each other, and then Crest died mid-cycle, Dorian's accession forced a transition, and the Trial was cancelled. The twelve went home with their designations intact and no placements (FR 34, FR 39).
+prompt: 1 · Where she was when she heard, and who told her | fill
+prompt: 2 · What she learned about the other eleven in those weeks | fill
+prompt: 3 · What she decided on the way home, and when she first acted on it | 4
+
+@page rh="HOUSE AUREM · HANNAH · ONE ORDINARY HOUR" m="WRITING; FREEWRITE"
+# Write her on the back stairs
+Ten minutes of Hannah at two in the morning, walking House Aurem when no one's awake. No girl to manage, no camera on her.
+small: If you stall: which stair creaks · what she checks first · what she carries · the room she doesn't go into · what she says to herself about Eden · what she'd write to Naomi if letters were safe.
+prompt: Write | fill
+
+@page rh="HOUSE AUREM · HANNAH AND NAOMI · BOTH SIDES" m="TKC: TL · FR 27 · FR 29–30"
+# Hannah and Naomi
+Naomi knows her mother was Vowed and is now House Mother. The cancelled cohort is what Hannah has never said out loud (FR 30).
+cols:
+prompt: What Hannah wants for Naomi, and won't say | 8
+||
+prompt: What Naomi wants, and hasn't told her mother | 8
+/end
+prompt: The conversation after the Declaration, whichever way it goes | fill
+
+@page rh="HOUSE AUREM · HANNAH · SCENE LAB" m="WRITING; SCENE LAB"
+# Put pressure on the belief
+tab:
+| The scaffold | |
+| The belief, in her words | _ |
+| Who can challenge it | _ |
+| A room she can't leave | _ |
+| Who else is watching, and for whom | _ |
+| What the other person wants | _ |
+| What she wants | _ |
+| What she says | _ |
+| What she won't say | _ |
+prompt: Rough the scene. Dialogue only is fine. | fill
+status
+
+@notes rh="HOUSE AUREM · HANNAH · NOTES" m="NOTES" prompt="Anything Hannah's dossier started and didn't finish"

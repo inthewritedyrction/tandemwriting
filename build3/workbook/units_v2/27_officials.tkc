@@ -1,0 +1,24 @@
+@page id="officials" rh="HOUSE AUREM · THE AUREM OFFICIALS · 1 OF 2" m="TKC: TR · TL · DR3 · MEN · DOM; VOL. I · {v1:assess} · {v1:registry} · {v1:sorted}"
+# The Aurem officials
+People with an office and no dossier yet. Each one moves Eden's file, and most of them don't have names. Give one a page in the notes when they start to matter.
+tabrl:
+| Office | What the files give | Name |
+| The Governor-Prelate of Aurem | Chose Eden second although she ranked first. In practice a Governor-Prelate takes whoever the Crown has quietly signaled it prefers (TR). | _ |
+| His first choice | Withdrew the night before departure. Officially a family health emergency. It wasn't, and who arranged it is a question Eden will eventually answer (TR). | _ |
+| The Designation officer | The Vowed officer who assessed Eden at eighteen and filed the flag that day, "Exceptional intellect. Monitor closely," later updated to "Selected for Trial" (TL). | _ |
+| The fee clerk | Counted Eden's ten dollars and inspected both sides of every bill (DR3) | _ |
+| Leah's household officer | Runs the quarterly Commonwife assessment. Has made an informal comment and filed nothing yet (MEN). | _ |
+| The Crown education officer | Hasn't knocked yet. Will, within three months of Solomon's scores (MEN). | _ |
+| Maribel Vale | A girl at Eden's Assessment, whose faith needed less maintenance than Eden's (DR3) | _ |
+small: OPEN QUESTION: Corinne Vale of Meridian and Maribel Vale of Aurem share a surname (TR, DR3). Related, or a coincidence to fix?
+
+@page rh="HOUSE AUREM · THE AUREM OFFICIALS · 2 OF 2" m="TKC: TR · TL; VOL. I · {v1:phase-detail} · {v1:temple}"
+# In the Crownward
+tabrl:
+| Office | What the files give | Name |
+| The Theological Interview officer | A senior Vowed officer with twenty years of the work. She pursues Eden for two hours and files a report three pages longer than any other, ending "I cannot determine which. I am not certain the distinction matters as much as it should" (TR). | _ |
+| Eden's Vowed handler | Assigned for the Testimony. Eden declines her in writing three days before (TR). | _ |
+| The two Appointed Officers | Travel with Eden and Hannah from Aurelia (TR) | _ |
+| The Crown advisor at the Pairing | Tries to resist when Judah sends the officials out (TR) | _ |
+| Serenity | Asked a question about Celeste that Abigail predicted almost word for word (TL) | _ |
+prompt: The official who matters most that I haven't named yet | fill

@@ -1,0 +1,59 @@
+@opener id="gavin" rh="HOUSE AUREM · GAVIN · PORTRAIT" m="TKC: TL · CR · FR 26; VOL. I · {v1:arrival}"
+plate: frame | PORTRAIT · GAVIN · STYLIST, HOUSE AUREM
+/end
+tk: PART II · DOSSIER 11 · ❖ · SHORT
+big: Gavin
+lede: He's never dressed anyone who understood that the dress isn't for her. He puts the bobby pin in every time. Every single time (TL).
+calls:
+k: On the record
+Stylist for House Aurem. Fourteen years, six Trials. He's dressed girls who were smarter, richer and better positioned than Eden (TL).
+||
+k: Still open
+Who the dress is for, what the bobby pin holds, and which of his girls he still thinks about.
+/end
+
+@page rh="HOUSE AUREM · GAVIN · THE RECORD AND THE MAN" m="TKC: TL · MEN · FR 26; VOL. I · {v1:men}"
+# The record and the man
+plate: doc
+dh: Staff Record | TRIALS COMMISSION · HOUSE AUREM
+df: Name | GAVIN ____________
+df: Post | Stylist · fourteen years · six Trials (TL)
+df: Designation | ______ (MEN, by class)
+df: Household | ______
+stamp: STAFF
+/end
+rec:
+What he's done | Fourteen years, six Trials, and girls smarter, richer and better placed than Eden (TL).
+What Eden understands | The dress isn't for her (TL). INFERENCE: It's for the Broadcast, the Anointed Court and the screens, and she knows it.
+The bobby pin | Every time (TL). OPEN QUESTION: Where it goes, what it holds, and whether it's ever been more than a pin.
+OPEN QUESTION | Which class of man is he, and whose approval did his marriage need, if he's married (Vol. I, {v1:men})?
+prompt: The first girl he dressed for a Trial, and what happened to her | fill
+
+@page rh="HOUSE AUREM · GAVIN · FAITH AND SCRIPTURE" m="EXOD 28.2; EXOD 31.1–5; ESTH 2.12; MATT 6.28–29; VOL. I · {v1:x-calf} · {v1:esther}"
+# Faith and scripture
+rec:
+What he believes | OPEN QUESTION: Nothing on file. INFERENCE: Fourteen years of making girls look chosen has taught him something about what the Empire means by chosen.
+What the Temple teaches about a man like him | POSSIBLE: A craftsman serving the House is honored as a steward of beauty, and never asked what he's dressing girls for.
+His name | *Gavin* has no biblical source. It's a Scottish and Welsh name, from the knight Gawain.
+The priest's garments · Exodus 28 | POSSIBLE: Aaron's garments are made "for glory and for beauty" (28.2), and Bezalel is filled with the spirit of God "in wisdom… and in all manner of workmanship" (31.3). **Where it breaks:** Those clothes dress a priest for God. Gavin's dress a girl for a camera.
+Esther's year · Esther 2.12 | POSSIBLE: Twelve months of preparation, six with oil of myrrh and six with sweet odours. **Where it breaks:** The king's women had no say in it. Eden knows exactly what the dress is for.
+tab:
+| He'd quote | Never read to him |
+| _ | Matthew 6.28–29, the lilies of the field, "even Solomon in all his glory was not arrayed like one of these" |
+small: Volume One: Esther, {v1:esther}. The calf, the purge and the face, with the priest's garments, {v1:x-calf}.
+prompt: What he thinks God makes of his work | fill
+
+@page rh="HOUSE AUREM · GAVIN · PEOPLE AND VOICE" m="TKC: TL"
+# Who he dresses
+tabrl:
+| Person | What passes between them |
+| Eden | The dress, and the pin, every time (TL) |
+| Hannah · Mirielle · Abigail | _ |
+| The other Houses' stylists | _ |
+prompt: Lines only Gavin would say | fill
+
+@page rh="HOUSE AUREM · GAVIN · WORKING PAGE" m="WRITING"
+# Write the pin
+Ten minutes. Eden in the chair before the Anointed Evening, Gavin behind her, and the bobby pin.
+prompt: Write | fill
+status
