@@ -1,0 +1,290 @@
+@part id="part7" num="VII" kind="PART SEVEN · ◈" title="The Twelve/Dominions" sub="The Dominion Act of 2044 reorganized the states into twelve Dominions by region and economic function. Each has a seat city renamed from an American one, a Governor-Prelate, and a culture that's sometimes Imperial on the surface and sometimes all the way through." series="THY KINGDOM COME · VOLUME ONE · THE WORLD"
+toc: 1 · Aurem · Aurelia | dom-aurem
+toc: 2 · Gulf · Port Seraphine | dom-gulf
+toc: 3 · Ardenne · Ashford | dom-ardenne
+toc: 4 · Meridian · Blessed Shore | dom-meridian
+toc: 5 · Vane · Saint Meridian | dom-vane
+toc: 6 · Irongate · Iron Benediction | dom-irongate
+toc: 7 · Heartland · Providence Cross | dom-heartland
+toc: 8 · Red Earth · Canaan's Gate | dom-redearth
+toc: 9 · Lone · Covenant Basin | dom-lone
+toc: 10 · Mountain · Crestfall | dom-mountain
+toc: 11 · Sable · Sable Reach | dom-sable
+toc: 12 · Pacific · Westhold | dom-pacific
+
+@page rh="THE TWELVE DOMINIONS · THE MAP" m="TKC: TL · DOM; OPEN QUESTION"
+# Twelve Dominions over the old map
+A schematic, west to east. The borders roughly follow the old state lines but not exactly, since some states were absorbed and some were split (TL).
+<div class="dmap">
+<div class="dc" style="grid-column:1;grid-row:1">Pacific<span>Westhold</span></div>
+<div class="dc" style="grid-column:1;grid-row:2">Sable<span>Sable Reach</span></div>
+<div class="dc" style="grid-column:2;grid-row:1">Mountain<span>Crestfall</span></div>
+<div class="dc" style="grid-column:2;grid-row:3">Lone<span>Covenant Basin</span></div>
+<div class="dc" style="grid-column:3;grid-row:1">Heartland<span>Providence Cross</span></div>
+<div class="dc" style="grid-column:3;grid-row:2">Red Earth<span>Canaan's Gate</span></div>
+<div class="dc" style="grid-column:4;grid-row:1">Irongate<span>Iron Benediction</span></div>
+<div class="dc" style="grid-column:4;grid-row:3">Gulf<span>Port Seraphine</span></div>
+<div class="dc" style="grid-column:5;grid-row:1">Ardenne<span>Ashford</span></div>
+<div class="dc pink" style="grid-column:5;grid-row:2">Aurem<span>Aurelia</span></div>
+<div class="dc" style="grid-column:6;grid-row:1">Vane<span>Saint Meridian</span></div>
+<div class="dc" style="grid-column:6;grid-row:2">Meridian<span>Blessed Shore</span></div>
+<div class="dc cw" style="grid-column:6;grid-row:3">The Crownward<span>Washington, D.C.</span></div>
+</div>
+small: INFERENCE: Mississippi, Kansas, Missouri, Louisiana, New Mexico, Nevada and Utah each show up in two Dominions, which fits "some states split." OPEN QUESTION: Washington, Alaska and Hawaii don't appear in any Dominion. Inside Pacific, outside the Empire, or something else?
+prompt: Where Washington, Alaska and Hawaii are | fill
+
+@page rh="THE TWELVE DOMINIONS · AT A GLANCE" m="TKC: DOM · TR"
+# Seats and records
+tabrl:
+| Dominion | Seat (formerly) | Territory | In the Trials |
+| Aurem | Aurelia (Atlanta) | Georgia, Alabama, Mississippi, Tennessee, South Carolina, North Carolina | 15 Anointed Wives in 38 Trials, the most of any Dominion |
+| Gulf | Port Seraphine (New Orleans) | Louisiana, the Mississippi Gulf Coast, Florida | Historically penalized for warmth |
+| Ardenne | Ashford (Charleston, West Virginia) | West Virginia, Virginia, Kentucky, Appalachia | Rarely produces Covenant Daughters |
+| Meridian | Blessed Shore (Philadelphia) | Pennsylvania, Maryland, New Jersey, Delaware | Extremely prepared candidates |
+| Vane | Saint Meridian (New York City) | New York and New England | The legacy Dominion, with the most Anointed Wives after Aurem |
+| Irongate | Iron Benediction (Chicago) | Illinois, Indiana, Ohio, Michigan, Wisconsin | Almost always administrative daughters |
+| Heartland | Providence Cross (Kansas City) | Missouri, Kansas, Iowa, Nebraska, Minnesota, the Dakotas | The most theologically fluent |
+| Red Earth | Canaan's Gate (Oklahoma City) | Oklahoma, Arkansas, eastern Kansas, southwestern Missouri | Often scored mid-pack until it's too late |
+| Lone | Covenant Basin (Houston) | Texas, New Mexico, western Louisiana | Pragmatic about the outcome |
+| Mountain | Crestfall (Denver) | Colorado, Wyoming, Montana, Idaho, parts of Utah and Nevada | Has never produced an Anointed Wife |
+| Sable | Sable Reach (Phoenix) | Arizona, Nevada, New Mexico, parts of Utah | "Two Sable women are worth five from anywhere else" |
+| Pacific | Westhold (Los Angeles) | California, Oregon, parts of Nevada | Watched before they arrive |
+small: Source for this part: DOM, unless tagged otherwise.
+
+@page id="dom-aurem" rh="THE TWELVE DOMINIONS · 1 · AUREM" m="TKC: DOM · TR · TL; SEAT: AURELIA; FORMERLY ATLANTA"
+# Aurem
+small: Aurelia, formerly Atlanta · Georgia, Alabama, Mississippi, Tennessee, South Carolina, North Carolina
+cols:
+plate: frame | SEAL OF AUREM · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | 15 Anointed Wives in 38 Trials, the most of any Dominion
+Designation | At 18, by a Vowed officer
+39th Covenant Daughter | Eden Selah Osei · Aurelia · 21
+/end
+Atlanta had Black wealth, Black culture, Black education and Black memory built so deep into the city that the Coalition couldn't flatten it without admitting what it was erasing. So the Empire dressed it up and called it restoration. The BeltLine became a ceremonial promenade lined with statues and Broadcast screens. Historic neighborhoods became Stewardwife districts, and Peachtree Street became Covenant Way. Magnolias were planted everywhere because they photograph well and rot slowly. Aurelia is the Empire's favorite mirror, Atlanta wearing somebody else's clothes, and the most surveilled and showcased territory in the Empire (TL).
+
+It's humid from May through October. Storms leave the streets smelling of pine and wet concrete, and the red clay keeps bleeding through the paving. Black culture went deepest underground here and survived most stubbornly. Imperial hymns play on Covenant Way, and something else plays in the outer districts. Food is the main vessel of memory, and the Empire never thought the kitchen was dangerous enough to watch.
+
+Aurem has the highest Commonwife rate and the most elaborate marriage ceremonies in the Empire, on purpose. Its Covenant Daughter gets forty-seven seconds on Sovereign Boulevard in the Opening Procession, more than anyone else, and every girl in Aurem knows that number before she can read. An Aurem candidate is expected to win. Death is the place where "the Empire lost completely and still has no idea."
+k: Rites the Empire doesn't run
+The Salt Ceremony · the old way of burial (the Telling, the Feeding, the Release) · the Speaking · kitchens
+prompt: What the forty-seven seconds actually show, every year | fill
+
+@page id="dom-gulf" rh="THE TWELVE DOMINIONS · 2 · GULF" m="TKC: DOM · TR · TL; SEAT: PORT SERAPHINE; FORMERLY NEW ORLEANS"
+# Gulf
+small: Port Seraphine, formerly New Orleans · Louisiana, the Mississippi Gulf Coast, Florida
+cols:
+plate: frame | SEAL OF GULF · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Historically penalized for warmth
+Designation | At 14, the Procession
+39th Covenant Daughter | Delphine Fontenot · Port Seraphine · 22
+/end
+New Orleans was never going to be easy. The first Governor-Prelate lasted fourteen months and reported the city "resistant to spiritual reorientation." The Empire settled for managing it. Port Seraphine is loyal enough for the Broadcast and layered enough underground that the Vowed have learned to look away. Hurricane season takes half the year, and the city is "built on water and spite."
+
+Gulf is the most culturally intact Dominion. Music survived here, standing in plain sight, because tourism, rebranded as "cultural pilgrimage," earns too much to lose. Gulf candidates arrive fluent in being watched, and the scoring system has historically penalized them for warmth, which Crown advisors read as performance. A Gulf woman who knows the gap between what she shows and what she keeps is one of the most dangerous women in the room.
+k: Rites the Empire doesn't run
+Music at Bindings · the Last Free Night · the Procession · three-day funerals and the Quiet
+prompt: What happened the year the Empire tried and failed to stop the music | fill
+
+@page id="dom-ardenne" rh="THE TWELVE DOMINIONS · 3 · ARDENNE" m="TKC: DOM · TR · TL; SEAT: ASHFORD; FORMERLY CHARLESTON, WEST VIRGINIA"
+# Ardenne
+small: Ashford, formerly Charleston, West Virginia · West Virginia, Virginia, Kentucky, Appalachia
+cols:
+plate: frame | SEAL OF ARDENNE · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Rarely produces Covenant Daughters
+Designation | Standard in Ashford. Hollow children tested when they can be brought in.
+39th Covenant Daughter | Maren Cole · Ashford · 23
+/end
+Appalachia was never fully inside America's idea of itself, and it isn't fully inside the Empire's. Ashford is the city the Empire keeps as proof that Ardenne is pacified, and everything past the tree line says otherwise. It has real winters, hollows that cut communities off from each other and from surveillance, and fog thick enough to hide the next house.
+
+The Ungoverned have their deepest roots here. Outer Ardenne children who get assessed score extraordinarily well, since children raised to solve real problems do well on problem-solving tests. Ardenne rarely sends a Covenant Daughter, and when it does she's usually from Ashford and quiet about the gap. Its Governor-Prelate has mostly stopped trying to fix the marriage records from outside Ashford.
+k: Rites the Empire doesn't run
+Hollow marriages and the broom · the First Winter Work · the Sitting
+prompt: Who leads the Ungoverned in the hollows, and what they know about the Crownward | fill
+
+@page id="dom-meridian" rh="THE TWELVE DOMINIONS · 4 · MERIDIAN" m="TKC: DOM · TR · TL; SEAT: BLESSED SHORE; FORMERLY PHILADELPHIA"
+# Meridian
+small: Blessed Shore, formerly Philadelphia · Pennsylvania, Maryland, New Jersey, Delaware
+cols:
+plate: frame | SEAL OF MERIDIAN · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Extremely prepared candidates
+Designation | Three-day sessions: theology, written reasoning, policy, "relational compliance"
+39th Covenant Daughter | Corinne Vale · Blessed Shore · 22
+/end
+The Empire took Philadelphia for its symbolism. The city that held the Declaration of Independence now holds the legal architecture of everything the Declaration claimed to prevent. Blessed Shore houses the Covenant Court's secondary chambers, where the law "gets interpreted, refined, and weaponized."
+
+Meridian absorbed Imperial culture more completely than almost anywhere, because its administrators trust process. Its underground is made of lawyers and bureaucrats filing precise challenges that go nowhere and documenting them for a future someone is preparing. Stewardwives here are expert readers of Binding contracts, trained in Reading Circles. Meridian candidates know every rule and where the gaps are, which makes one who decides to move almost impossible to stop.
+k: Rites the Empire doesn't run
+Reading Circles, since 2069 · a father walks his son through the family record
+prompt: What the Reading Circles have documented, and for whom | fill
+
+@page id="dom-vane" rh="THE TWELVE DOMINIONS · 5 · VANE" m="TKC: DOM · TR · TL; SEAT: SAINT MERIDIAN; FORMERLY NEW YORK CITY"
+# Vane
+small: Saint Meridian, formerly New York City · New York and New England
+cols:
+plate: frame | SEAL OF VANE · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | The legacy Dominion, with the most Anointed Wives after Aurem
+Designation | At 16, the Broadcast Assessment, partly filmed
+39th Covenant Daughter | Calla Merritt · Saint Meridian · 21
+/end
+New York was the hardest cultural conquest and the one the Empire brags about most. It named the whole Dominion after its founding Emperor, which is both honor and leash. Saint Meridian is the Broadcast capital, and the studios that announce Trial scores sit in old Midtown. The skyline stayed, and everything underneath it changed.
+
+The city's density makes surveillance both total and porous, and it has the largest Ungoverned-sympathizer population of any seat city. Vane is the legacy Dominion. Some families have sent Covenant Daughters to three consecutive Trials, and high-scoring girls are prepared for candidacy from the time they can read.
+k: Rites the Empire doesn't run
+Ghost Marriages · the Ghost Declaration
+prompt: Which families have sent daughters to three Trials running, and what it cost them | fill
+
+@page id="dom-irongate" rh="THE TWELVE DOMINIONS · 6 · IRONGATE" m="TKC: DOM · TR · TL; SEAT: IRON BENEDICTION; FORMERLY CHICAGO"
+# Irongate
+small: Iron Benediction, formerly Chicago · Illinois, Indiana, Ohio, Michigan, Wisconsin
+cols:
+plate: frame | SEAL OF IRONGATE · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Almost always administrative daughters
+Designation | At 14 the Placement, at 18 Imperial Designation
+39th Covenant Daughter | Nadia Orin · Iron Benediction · 20
+/end
+Chicago gave the Empire industry and political machinery, which it kept, and music, which it tried to dismantle. Blues and jazz were labeled "morally ambiguous musical forms" in 2053 and went underground. Iron Benediction is the manufacturing heart of the Empire.
+
+Irongate is the most class-divided Dominion, and its labor and administrative districts might as well be different civilizations. The labor-district women run a mutual aid network called the Kitchen that the Vowed have never mapped. Covenant Daughters are almost always administrative daughters, because selection rewards polish and polish costs money. Nadia Orin is the exception, the most working-class Covenant Daughter in Trial history (TR).
+k: Rites the Empire doesn't run
+The Kitchen · the Placement · the First Shift · blues and jazz underground
+prompt: How Nadia got through a selection built for polish | fill
+
+@page id="dom-heartland" rh="THE TWELVE DOMINIONS · 7 · HEARTLAND" m="TKC: DOM · TR · TL; SEAT: PROVIDENCE CROSS; FORMERLY KANSAS CITY"
+# Heartland
+small: Providence Cross, formerly Kansas City · Missouri, Kansas, Iowa, Nebraska, Minnesota, the Dakotas
+cols:
+plate: frame | SEAL OF HEARTLAND · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | The most theologically fluent
+Designation | At 13, the First Covenant, where her track is set in public
+39th Covenant Daughter | Ruth Gideon · Providence Cross · 22
+/end
+The Heartland didn't need conquering, because the Coalition had been building here for decades. Providence Cross is the most genuinely loyal seat city in the Empire. People sing the hymns because they mean them.
+
+That sincerity is the Empire's most valuable asset and one of its hardest to control, because real believers have opinions about what faithfulness requires. Some of the Empire's most serious theological debates happen here, including Heartland women's "theological inquiry" into the Commonwife designation. Heartland sends the most theologically fluent Covenant Daughters, for whom devotion is both credential and liability.
+k: Rites the Empire doesn't run
+The Anointing, hair washed and braided · planting after a burial
+prompt: What Ruth believes that the Empire would rather she didn't | fill
+
+@page id="dom-redearth" rh="THE TWELVE DOMINIONS · 8 · RED EARTH" m="TKC: DOM · TR · TL; SEAT: CANAAN'S GATE; FORMERLY OKLAHOMA CITY"
+# Red Earth
+small: Canaan's Gate, formerly Oklahoma City · Oklahoma, Arkansas, eastern Kansas, southwestern Missouri
+cols:
+plate: frame | SEAL OF RED EARTH · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Often scored mid-pack until it's too late
+Designation | At 18, two weeks in Temple spaces, Crown facilities and "domestic simulation environments"
+39th Covenant Daughter | Delia Cross · Canaan's Gate · 24
+/end
+Oklahoma's history of land taken and people removed came before the Empire. Canaan's Gate is built over a city that survived the 1995 bombing, and the Empire likes that resilience story. Red Earth piloted the Commonwife quota in 2058, and its women have lived under the full version longest.
+
+It's the most visibly religious Dominion in its architecture and the most privately exhausted, with scripture on every building and the Vowed embedded as "pastoral care." Under the performance runs a language of small signals refined over decades. Red Earth candidates are the best in the Empire at performing compliance while thinking something else. Delia Cross's family was transferred there from Aurem when she was six, and she carries a grudge against the Dominion she left (TR).
+k: Rites the Empire doesn't run
+The Second Covenant · score coaching · sitting with the dead
+prompt: Three of the small signals, and what each one means | fill
+
+@page id="dom-lone" rh="THE TWELVE DOMINIONS · 9 · LONE" m="TKC: DOM · TR · TL; SEAT: COVENANT BASIN; FORMERLY HOUSTON"
+# Lone
+small: Covenant Basin, formerly Houston · Texas, New Mexico, western Louisiana
+cols:
+plate: frame | SEAL OF LONE · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Pragmatic about the outcome
+Designation | At 16 in Covenant Basin. The First Ride outside it.
+39th Covenant Daughter | Vivienne Hale · Covenant Basin · 23
+/end
+Texas negotiated its surrender. The Empire got the territory and Texas kept the attitude. Covenant Basin runs on oil wealth and space infrastructure. Its Governor-Prelate is always Texas-born and has more independence than any other.
+
+The distances leave real gaps in the surveillance grid, so west Lone is managed through local Vowed officers. People here perform loyalty loudly and then do what they were going to do anyway, and outer-territory women have a practical autonomy that would get them flagged in Aurem. Lone interprets "Ungoverned" loosely and never files a full report. It treats the Trials like any other Imperial requirement.
+k: Rites the Empire doesn't run
+The Giving · the First Ride · burial in boots
+prompt: What a west Lone woman can do that would get her flagged in Aurem | fill
+
+@page id="dom-mountain" rh="THE TWELVE DOMINIONS · 10 · MOUNTAIN" m="TKC: DOM · TR · TL; SEAT: CRESTFALL; FORMERLY DENVER"
+# Mountain
+small: Crestfall, formerly Denver · Colorado, Wyoming, Montana, Idaho, parts of Utah and Nevada
+cols:
+plate: frame | SEAL OF MOUNTAIN · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Has never produced an Anointed Wife
+Designation | At 16, with a physical assessment
+39th Covenant Daughter | Petra Solano · Crestfall · 22
+/end
+The Empire wanted the mountains for what's inside them: minerals, military installations, elevation and secrecy. Crestfall is the face, and the mountains are the truth. The classified operations there are the Empire's least documented and most important work: surveillance technology, resource extraction, Temple expansion funding and military capacity.
+
+Crestfall women are the most physically capable in the Empire and among the most watched. Girls selected at Designation for classified Vowed service disappear from public life. Endurance was held in Mountain terrain for Trials 1 through 31, moved to a controlled facility for 32 through 38, and returned for the 39th without explanation. Azrael is hidden here, in a community whose patriarch owes the Vanes a debt (TL). Lyris is from Mountain too (WR).
+k: Rites the Empire doesn't run
+The Witness Walk · the name spoken to the mountain
+prompt: What debt the patriarch owes the Vanes, and from when | fill
+
+@page id="dom-sable" rh="THE TWELVE DOMINIONS · 11 · SABLE" m="TKC: DOM · TR · TL; SEAT: SABLE REACH; FORMERLY PHOENIX"
+# Sable
+small: Sable Reach, formerly Phoenix · Arizona, Nevada, New Mexico, parts of Utah
+cols:
+plate: frame | SEAL OF SABLE · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | "Two Sable women are worth five from anywhere else"
+Designation | At 18 in Sable Reach. The Finding outside it.
+39th Covenant Daughter | Zara Voss · Sable Reach · 21 · desert name Tazaleh
+/end
+The desert resists the Empire the way deserts resist everything, by not caring. Heat destroys equipment, sand gets into everything, and the distances defeat centralized monitoring. Sable Reach is the ornate Imperial city the Empire keeps as proof it can reach hard country. The desert beyond it is where Ungoverned crossings happen.
+
+The desert held civilizations long before the United States, and the Empire renamed the cities but not the land. Women in the outer communities carry plant and land knowledge the Empire has never catalogued. Every Sable woman has two names, one for the Empire and one for the house. Zara Voss's desert name is Tazaleh (TL, TR). INTERPRETATION: Sable's two-name custom and Celeste's house name for Eden are the same instinct in two Dominions, and Eden and Zara's name exchange in the middle of the book rests on it.
+k: Rites the Empire doesn't run
+Desert names · the Desert Walk · fire burials
+prompt: The scene where Eden and Zara exchange names | fill
+
+@page id="dom-pacific" rh="THE TWELVE DOMINIONS · 12 · PACIFIC" m="TKC: DOM · TR · TL; SEAT: WESTHOLD; FORMERLY LOS ANGELES"
+# Pacific
+small: Westhold, formerly Los Angeles · California, Oregon, parts of Nevada
+cols:
+plate: frame | SEAL OF PACIFIC · DRAW OR PASTE | 2.1in
+/end
+||
+rec:
+In the Trials | Watched before they arrive
+Designation | At 18. Every score reviewed in the Crownward for inherited resistance.
+39th Covenant Daughter | Sera Montoya · Westhold · 24
+/end
+Pacific carries the memory of resistance like scar tissue. The secession attempt and the two-year standoff produced a generation that remembers trying to leave, and their grandchildren know the story. The Empire watches Westhold harder than anywhere: more cameras per block, more loyalty programming, and a Governor-Prelate Dorian appointed personally, who performs warmth while administering iron.
+
+Old Los Angeles's creative industries adapted instead of dying, and people still make what they actually want and pass it through networks the Empire can't map. Every Pacific girl's Designation is reviewed in the Crownward for inherited resistance, and every Pacific Covenant Daughter arrives already flagged.
+k: Rites the Empire doesn't run
+The Real Binding · Facing West · burial facing the ocean
+prompt: How Pacific schools teach the Partition, and what the grandmothers say at home | fill
+
+@page rh="THE TWELVE DOMINIONS · WORKING QUESTIONS" m="YOURS; OPEN QUESTIONS; PART IX LOG"
+# Working questions
+prompt: 1 · How did Aurem get fifteen Anointed Wives? Which Trials, and does Aurelia remember their names? | 3
+prompt: 2 · What is the real name of Aurelia's outer districts, and what do people in Sector Seven call their own streets? | 3
+prompt: 3 · What does each Governor-Prelate want from the 39th Trial? | 3
+prompt: 4 · Which Dominion would Eden most fear being sent to, and why? | 3
+prompt: 5 · What do people in the other eleven Dominions think of Aurem, its forty-seven seconds and its fifteen Anointed Wives? | fill

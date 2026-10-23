@@ -1,0 +1,179 @@
+@part id="part8" num="VIII" kind="PART EIGHT · ⌖" title="The Covenant/Trials" sub="A televised selection. Each Dominion sends one Covenant Daughter, and over about four months the Crown Heir's Anointed Wife is chosen from the twelve. The other eleven are married down the elite ladder." series="THY KINGDOM COME · VOLUME ONE · THE WORLD"
+toc: i · History | p8-history
+toc: ii · Eligibility and nomination | p8-elig
+toc: iii · The Regional Assessment | p8-assess
+toc: iv · Arrival and the Covenant Houses | p8-arrival
+toc: v · The three phases | p8-phases
+toc: vi · Scoring | p8-scoring
+toc: vii · The Declaration and its rules | p8-declaration
+toc: viii · The Covenant Daughters of the 39th Trial | p8-daughters
+
+@essay rh="THE COVENANT TRIALS · HOW TO USE THIS PART"
+# Revelation, not competition
+drop: The Empire presents the Trials as revelation, never as competition, because "a competition can be rigged. A revelation cannot" (TR). The Broadcast's words are anointing, covenant, calling, worthy and chosen. This part covers how the Trials work in any year. What happens in the 39th belongs to Volume Two.
+The Trials sit where every earlier part of this companion meets. The Temple runs the first phase and names it Genesis. The Crown runs the second and names it Exodus. The terrain runs the third. A girl is examined on scripture by people who've decided which scripture counts, debated on governance by the heir to a throne her own scripture limits, and sent into the mountains with no cameras by a Broadcast that will reconstruct what happened afterward.
+pull: "A competition can be rigged. A revelation cannot."
+side:
+chips: TR, FR 19–28
+k: The weights
+stext: Temple 30 · Crown 30 · Broadcast 40. Never disclosed.
+k: The output
+stext: One Anointed Wife for the heir, eleven married down the ladder, nobody sent home unassigned (FR 19).
+marg
+see: Part VI, the Triune Rule and the Binding.
+/end
+
+@page id="p8-history" rh="THE COVENANT TRIALS · I · HISTORY" m="TKC: TL · TR · DOM · FR 30 · FR 34 · FR 39"
+# Thirty-nine Trials
+tabrl:
+| When | What | Source |
+| 2048 | Elias marries Sera Callum. The first Anointed marriage becomes the template. | TL |
+| 2065 | Crest introduces the Trials as "a celebration of the Empire's finest women." The first cycle is rough, and the ratings are extraordinary. | TL |
+| 22nd Trial | Ladies in Waiting introduced, to keep high performers in the Crownward instead of sending them home with influence nobody can manage | TR |
+| Trials 1–31 | Endurance held in Mountain terrain | DOM |
+| 2085 | Cancelled after Crest dies mid-cycle and Dorian's accession forces a transition. The twelve go home with their designations intact and no placements. | FR 34, 39 |
+| From 2085 | Under Dorian the Trials become the most-watched event in the Empire's calendar | TL |
+| Trials 32–38 | Endurance moved to a controlled facility with continuous filming | TR, DOM |
+| 2104 | The 39th Trial. Endurance returns to Mountain terrain without public explanation. | TR |
+rec:
+Every year | INFERENCE: The Trials run annually. The first was in 2065, and with 2085 skipped, the 39th lands in 2104 (FR 39).
+The 2085 cohort | They met while being assembled and measured against each other, and they're scattered through their home Dominions now. The shared history makes a network possible, and it doesn't activate before Book Two (FR 34). The 2085 cohort is the thing Hannah has never said out loud (FR 30). INFERENCE: She was one of the twelve.
+prompt: What the Trials were like in the 2060s and 2070s, before Dorian made them spectacle | fill
+
+@page id="p8-elig" rh="THE COVENANT TRIALS · II · ELIGIBILITY AND NOMINATION" m="TKC: TR · DR3 · TL · FR 27"
+# The Covenant Registry
+Every Dominion keeps a Covenant Registry of women aged 18 to 25 who meet five requirements (TR): Unbound or elevated designation, no prior marriage registration, no Ungoverned citations, completion of the standard Imperial curriculum, and "demonstrated covenantal aptitude," which means whatever the Governor-Prelate needs it to mean.
+cols:
+plate: doc
+dh: Covenant Registration | AUREM
+dsub: NOMINATED · BORDERED IN GOLD
+df: Candidate | ________________________
+df: Nominated by | Vowed officer · family · community leader
+df: Fee | none
+stamp: NOMINATED
+/end
+||
+plate: doc
+dh: Independent Submission | AUREM
+dsub: SELF-NOMINATED · PRINTED IN RED
+df: Candidate | Eden Selah Osei
+df: Nominated by | herself
+df: Fee | ten dollars, nonrefundable
+stamp: INDEPENDENT
+/end
+/end
+rec:
+Self-nomination | The Empire frames it as exceptional faith. In practice the process is built to exhaust anyone without institutional support, and most self-nominations fail for that reason alone (TR). In Aurem it's "independent submission," a ten-dollar nonrefundable fee and a card printed in red instead of bordered in gold (DR3). Eden is the first Aurem candidate in the Trials' history to enter that way (TL).
+Eligibility isn't entry | A House Mother can submit a name, and she isn't the only one who can (FR 27).
+prompt: The morning Eden paid the ten dollars | fill
+
+@page id="p8-assess" rh="THE COVENANT TRIALS · III · THE REGIONAL ASSESSMENT" m="TKC: TR · TL · DR3"
+# Three days, a ranked list
+Each Dominion runs a three-day Regional Assessment under senior Vowed officers, which produces a ranked list (TR, TL).
+plate: doc
+dh: Regional Assessment · Results | AURELIA TEMPLE ATRIUM
+dsub: POSTED THE THIRD MONDAY OF JUNE · SEVEN O'CLOCK IN THE MORNING
+df: Appointed to the Covenant | the top five, photographs hung through the summer
+df: Families | formal review, the kind where unpaid levies disappear
+df: Discernment · Spiritual Fitness | graded by ministerial review
+df: Read before the scores | Proverbs 31.29, King James wording
+stamp: POSTED
+/end
+rec:
+Ministerial review | Some sections, like Discernment and Spiritual Fitness, are graded by ministerial review, so a girl can know every answer and still fail for a lack of humility (DR3).
+The choice | The Governor-Prelate chooses the Covenant Daughter from the top three. In practice he picks whoever the Crown has quietly signaled it prefers, then documents it as a choice from the top three regardless of the real ranking (TR).
+prompt: What a girl's family in Aurem gets, specifically, when she's appointed | fill
+
+@page id="p8-arrival" rh="THE COVENANT TRIALS · IV · ARRIVAL AND THE COVENANT HOUSES" m="TKC: TR · CR · TL · FR 26"
+# Covenant Row
+rec:
+Arrival | The twelve arrive in the first week of summer, staggered across seven days so each arrival can be released as its own day of content. Each travels by Dominion transport with two Appointed Officers and her House Mother (TR). Each walks Sovereign Boulevard on camera. The walk is choreographed: what pace to keep, where to look, how to hold her hands (CR).
+The Houses | Twelve townhouses on Covenant Row, one per Dominion, under five minutes' walk from Sovereign Boulevard. Cameras in every common area, entrance and garden, and not the bedrooms (CR). The candidates aren't sequestered. They're embedded in Crownward public life: Temple services, forums, the approved dining rooms, the Administrative Side markets (CR).
+House staff | In House Aurem, the House Mother, the House Coordinator, the stylist and the Debate and Protocol Advisor (TL). A House hosts one Covenant Daughter per Trial, and staff serve across many. Hannah's "six Trials, twelve girls" counts her whole career across several Houses and posts (FR 26).
+plate: frame | HOUSE AUREM · COVENANT ROW · FLOOR PLAN, DRAW IT | 3.3in
+/end
+prompt: Where the cameras are in House Aurem, and the one place Eden finds that they aren't | fill
+
+@page id="p8-phases" rh="THE COVENANT TRIALS · V · THE THREE PHASES" m="TKC: TR"
+# Three powers, three questions
+The Trials run in three phases. Each belongs to a different power and asks a different question, and they line up with the novel's Genesis, Exodus and Revelation (TR).
+<div class="phases">
+<div class="ph"><div class="pn">I · GENESIS</div><div class="pt">The Covenant Examination</div><div class="pq">"Who are you?"</div><div class="pd">The Temple · weeks 1–4</div><ul><li>The Settling</li><li>The Doctrinal Assessment</li><li>The Theological Interview</li><li>The Public Testimony</li></ul><div class="pw">30%</div></div>
+<div class="ph"><div class="pn">II · EXODUS</div><div class="pt">The Governance Trials</div><div class="pq">"How smart are you?"</div><div class="pd">The Crown · weeks 5–10</div><ul><li>The Dominion Forum</li><li>The Civic Debates</li><li>The Anointed Evening</li><li>The Pairing Introduction</li></ul><div class="pw">30%</div></div>
+<div class="ph pink"><div class="pn">III · REVELATION</div><div class="pt">Endurance</div><div class="pq">"What are you willing to endure?"</div><div class="pd">The terrain · three days</div><ul><li>Coordinates to reach</li><li>No schedule</li><li>No handlers</li><li>No cameras after deployment</li></ul><div class="pw">feeds the Broadcast's 40%</div></div>
+</div>
+small: SUPERSEDED: The original Trials file had four phases: the Covenant Examination, the Governance Trials, the Public Season and the Declaration. OPEN QUESTION: The original also had candidates sign a confidentiality covenant before the Crown's phase, with removal and a permanent Ungoverned citation for breaking it (TR-orig). Does it still exist?
+prompt: Which phase each of the twelve is built to survive | fill
+
+@page rh="THE COVENANT TRIALS · V · THE PHASES IN DETAIL" m="TKC: TR"
+# What happens in each
+rec:
+The Settling | Presented as a grace period. It's the most intensive assessment of all, because the Vowed watch everything.
+The Doctrinal Assessment | A six-hour written exam in the Temple Sanctum, set at each candidate's ceiling, so no two girls get the same questions.
+The Theological Interview | A conversation with a senior Vowed officer, who's told to pursue any rehearsed answer until she finds what's underneath it.
+The Public Testimony | A fifteen-minute statement of faith and purpose, broadcast live, the first time the Empire hears each candidate unmediated. Candidates are given Vowed handlers to "ensure theological accuracy," and they can decline them.
+The Dominion Forum | Every remaining candidate in a room with an Empire-wide crisis and no assigned leader.
+The Civic Debates | Three filmed debates on governance, theology and social policy, topics given an hour before. The Crown Heir moderates the social policy debate.
+The Anointed Evening | Four hours with the Anointed Court in the Crown Palace, where the cameras can't follow into the side rooms.
+The Pairing Introduction | Thirty minutes alone with the Heir, with a Crown advisor and a Vowed officer present and a camera outside the door. The room isn't recorded. The Commission has been known to wire candidates beforehand.
+Endurance | What the Empire calls covenantal fortitude and the terrain calls survival. The Broadcast films the deployment and the final checkpoint, and everything between is reconstructed from the candidates' accounts, always incomplete.
+prompt: A Doctrinal Assessment question at Eden's ceiling. Write one | fill
+
+@page id="p8-scoring" rh="THE COVENANT TRIALS · VI · SCORING" m="TKC: TR"
+# The Evening Reckoning
+plate: quote | | 2in
+pk: Sovereign Boulevard · every evening at seven
+pq: The scores update on the screens.
+pr: THE EMPIRE NAMED IT THE EVENING RECKONING (TR)
+/end
+rec:
+The composite | Temple 30 percent, Crown 30 percent, Broadcast 40 percent, never disclosed. The Broadcast's share includes narrative-priority decisions by the Broadcast Director (TR).
+The antagonist narrative | Every Trial produces one, assigned to the candidate who most threatens a comfortable outcome, and not to the eventual winner (TR).
+The Eve problem | When a candidate's intelligence becomes the story instead of her compliance, the Broadcast calls it internally the Eve problem. The narrative implies and never accuses. It moves the score without changing a single formal assessment, and it has worked every time it's been used (TR).
+prompt: What the narrative-priority decision looks like inside the Citadel, and who signs it | fill
+
+@page id="p8-declaration" rh="THE COVENANT TRIALS · VII · THE DECLARATION AND ITS RULES" m="TKC: TR · FR 20–25"
+# Sovereign Boulevard, live
+After the Endurance rankings are confirmed, the Crown Heir names his Anointed Wife in a public ceremony on Sovereign Boulevard, broadcast live in all twelve Dominions (TR). The rules around that moment come from the Final Rulings.
+rec:
+The ranked winner · FR 20 | The heir may choose any of the twelve. "Without deviation" describes the record, not a rule.
+What winning means · FR 21 | Being the choice that costs the Crown nothing. The rankings tell the heir which selection is free. Deviation is permitted and expensive, and no heir has ever paid it.
+Refusal · FR 22 | The recommendation stands by default once the window closes. Refusing is abstention, not resistance, and produces the same result as complying.
+Cancellation · FR 23 | Impossible once the Trial is announced, except in a public dynastic emergency: the Heir's death or incapacity, or the Emperor's death forcing an immediate transition. A candidate's death doesn't downgrade a Trial.
+A candidate's death · FR 24 | Her status goes back to her family, with no compensation and no punishment, as though the designation had never been made.
+Rejected candidates · FR 25 | Married down as designated. The rejection follows them "not in the record, in the room."
+Ladies in Waiting · TR | The third- and fourth-place Endurance finishers stay in the Crownward in supporting roles to the Anointed Wife and the Crown household.
+prompt: What the men assigned to the eleven know about their brides before the Declaration | fill
+
+@page id="p8-daughters" rh="THE COVENANT TRIALS · VIII · THE COVENANT DAUGHTERS OF THE 39TH · 1 OF 2" m="TKC: TR · RULING; VOLUME TWO, PART III"
+# The twelve, I
+For reference. Their stories are in Volume Two. Each frame is for a portrait, a Broadcast still, or whatever you draw.
+<div class="cd-grid">
+<div class="cd pink"><div class="fr"></div><b>Eden Selah Osei</b><span>Aurem · Aurelia · 21</span></div>
+<div class="cd"><div class="fr"></div><b>Delphine Fontenot</b><span>Gulf · Port Seraphine · 22</span></div>
+<div class="cd"><div class="fr"></div><b>Maren Cole</b><span>Ardenne · Ashford · 23</span></div>
+<div class="cd"><div class="fr"></div><b>Corinne Vale</b><span>Meridian · Blessed Shore · 22</span></div>
+<div class="cd"><div class="fr"></div><b>Calla Merritt</b><span>Vane · Saint Meridian · 21</span></div>
+<div class="cd"><div class="fr"></div><b>Nadia Orin</b><span>Irongate · Iron Benediction · 20</span></div>
+</div>
+
+@page rh="THE COVENANT TRIALS · VIII · THE COVENANT DAUGHTERS OF THE 39TH · 2 OF 2" m="TKC: TR · RULING; VOLUME TWO, PART III"
+# The twelve, II
+<div class="cd-grid">
+<div class="cd"><div class="fr"></div><b>Ruth Gideon</b><span>Heartland · Providence Cross · 22</span></div>
+<div class="cd"><div class="fr"></div><b>Delia Cross</b><span>Red Earth · Canaan's Gate · 24</span></div>
+<div class="cd"><div class="fr"></div><b>Vivienne Hale</b><span>Lone · Covenant Basin · 23</span></div>
+<div class="cd"><div class="fr"></div><b>Petra Solano</b><span>Mountain · Crestfall · 22</span></div>
+<div class="cd"><div class="fr"></div><b>Zara Voss</b><span>Sable · Sable Reach · 21</span></div>
+<div class="cd"><div class="fr"></div><b>Sera Montoya</b><span>Pacific · Westhold · 24</span></div>
+</div>
+small: Calla's surname is from your ruling. Sources: TR, Ruling.
+
+@page rh="THE COVENANT TRIALS · WORKING QUESTIONS" m="YOURS; OPEN QUESTIONS; PART IX LOG"
+# Working questions
+prompt: 1 · Who sits on the Trials Commission and the oversight committee, and are they the same body? | 3
+prompt: 2 · What do Ladies in Waiting do day to day, and who has held the title? | 3
+prompt: 3 · Who chose to bring Endurance back to Mountain terrain for the 39th, and why? | 3
+prompt: 4 · What does a House Mother do across a career? What happens to House staff when their girl loses? | 3
+prompt: 5 · What has happened to the women the Eve narrative was used on in earlier Trials? | 3
+prompt: 6 · Has a Covenant Daughter ever died before Petra? How did the Empire handle it? | fill

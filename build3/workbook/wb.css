@@ -224,3 +224,27 @@ table td.blank { height: 0.55in; }
 .ladder .rung.pink { border: 1.6pt solid var(--pink); color: var(--pink); }
 .ladder .rung.vw { width: 3.4in; border-style: dotted; flex: none; padding: 6pt 10pt; }
 .ladder .rung.out { width: 3in; border-style: dashed; color: var(--mid); }
+.dmap { display: grid; grid-template-columns: repeat(6, 1fr); grid-template-rows: repeat(3, 1.15in); gap: 5pt; margin: 12pt 0; }
+.dmap .dc { border: 1pt solid var(--ink); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; font-family: 'Cinzel'; font-weight: 600; font-size: 10pt; padding: 4pt; }
+.dmap .dc span { font-family: 'Jost'; font-weight: 400; font-size: 6.4pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mid); margin-top: 3pt; }
+.dmap .dc.pink { border: 1.8pt solid var(--pink); color: var(--pink); }
+.dmap .dc.cw { border-style: dashed; border-color: var(--pink); }
+.phases { display: flex; gap: 8pt; margin: 12pt 0; }
+.phases .ph { flex: 1; border: 1.2pt solid var(--ink); padding: 10pt; display: flex; flex-direction: column; }
+.phases .ph.pink { border-color: var(--pink); }
+.phases .pn { font-family: 'Jost'; font-weight: 600; font-size: 7pt; letter-spacing: 0.25em; color: var(--pink); }
+.phases .pt { font-family: 'Cinzel'; font-weight: 600; font-size: 12pt; margin: 4pt 0; line-height: 1.2; }
+.phases .pq { font-style: italic; font-size: 11.5pt; margin-bottom: 4pt; }
+.phases .pd { font-family: 'Jost'; font-size: 7pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mid); border-bottom: 0.6pt solid var(--hair); padding-bottom: 5pt; }
+.phases ul { margin: 6pt 0; padding-left: 12pt; font-size: 10.5pt; flex: 1; }
+.phases .pw { font-family: 'Cinzel'; font-weight: 700; font-size: 16pt; text-align: right; color: var(--ink); }
+.cd-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12pt 14pt; margin: 10pt 0; }
+.cd-grid .cd { text-align: center; }
+.cd-grid .cd .fr { height: 2.75in; border: 1pt solid var(--ink); box-shadow: inset 0 0 0 4pt #fff, inset 0 0 0 4.6pt var(--ink); margin-bottom: 6pt; }
+.cd-grid .cd.pink .fr { border-color: var(--pink); box-shadow: inset 0 0 0 4pt #fff, inset 0 0 0 4.6pt var(--pink); }
+.cd-grid .cd b { display: block; font-family: 'Cinzel'; font-size: 10.5pt; }
+.cd-grid .cd span { font-family: 'Jost'; font-size: 6.8pt; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mid); }
+.cols .doc .df { flex-direction: column; gap: 1pt; font-size: 10pt; }
+.cols .doc .df .fl, .cols .doc .df .fv { width: auto; flex: none; }
+.cols .doc .dh { flex-direction: column; align-items: flex-start; }
+.cols .plate.doc > .in { padding: 0.18in 0.2in; }
