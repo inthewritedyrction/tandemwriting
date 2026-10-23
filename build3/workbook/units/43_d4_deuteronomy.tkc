@@ -1,0 +1,236 @@
+@divider id="d4" num="IV" kind="DEEP-DIVE DOSSIER" title="Deuteronomy" sub="A speech given by a man who isn't allowed to arrive" foot="DOSSIER IV · SEVENTEEN PAGES"
+
+@opener rh="DEEP-DIVE DOSSIER IV · DEUTERONOMY" m="SOURCE MARGIN; DEUT 1–34; MT · LXX · 4QDEUT; WEINFELD, DEUTERONOMY 1–11 (AB); LEVINSON, DEUTERONOMY AND THE HERMENEUTICS OF LEGAL INNOVATION"
+plate: doc
+dh: The Law of the King | DEUTERONOMY 17.14–20
+dsub: TO BE COPIED IN THE KING'S OWN HAND, IN THE PRESENCE OF THE PRIESTS, AND READ ALL THE DAYS OF HIS LIFE
+df: Horses | not many, and none bought by sending the people back to Egypt
+df: Wives | not many, "lest his heart turn away"
+df: Silver and gold | not in great quantity
+df: The copy | written by the king himself and kept with him
+df: The reason | that his heart may not be lifted up above his brothers
+dnote: Six verses, and no enforcement clause. Solomon breaks all four prohibitions (1 Kgs 3.1, 10.27–29, 11.3).
+stamp: NOT ENFORCED
+/end
+tk: DEEP-DIVE DOSSIER IV · ✥
+big: Deuteronomy
+lede: The book that tells a nation how to be a nation, one sanctuary, one archive, a king held under the law and debts that expire, and the most dangerous book in the Torah for an empire to let people read whole.
+calls:
+k: Why a full dossier
+The audit gives it a dossier on three grounds. It's a constitution, it holds the law that limits a king, and it supplies both the enforcement machinery and the conquest language Dominion runs on.
+||
+k: How to work it
+Reference is about a third of these pages, and the rest is yours. Three pages carry content notes. Skip them if you need to, and the dossier still works.
+/end
+
+@page rh="DEUTERONOMY · 1 OF 15 · THE BOOK ON THE RECORD" m="DEUT 1.1; DEUT 1–11; DEUT 12–26; DEUT 27–34; DEUT 17.18; 2 KGS 22–23; WEINFELD, DEUTERONOMY AND THE DEUTERONOMIC SCHOOL (1972); TKC: DOM"
+# What it is
+rec:
+Name | English from the Greek *deuteronomion*, "second law." It's a mistranslation. In 17.18 the king is told to write "a copy of this law," *mishneh hattorah hazzot*, and the Greek translators rendered it "this second law." Hebrew *Devarim*, "words."
+Place | The fifth and last book of the Torah, set on the plains of Moab on the last day of Moses' life. Nothing happens. The book is speech, and then a death, and a grave no one knows (34.5–6).
+Josiah's scroll | In 2 Kings 22–23, during temple repairs under Josiah, about 622 BCE, the high priest finds "the book of the law." The king tears his clothes, sends to the prophet Huldah, who authenticates it, and purges the outlying shrines. W. M. L. de Wette argued in 1805 that the scroll was a form of Deuteronomy. CONTESTED: Whether the core was written for the reform, came south after 722 BCE, or was shaped largely in and after the exile. Traditional readers attribute the book to Moses.
+Structure | 1–4, a retelling of the wilderness. 5–11, the commandments, the Shema and the sermon on loyalty. 12–26, the law code. 27–28, blessings and curses. 29–30, covenant renewal. 31–34, succession, a song, a blessing and a grave.
+Genre | A sermon wrapped around a law code, shaped like an ancient treaty between a great king and a subject people.
+A warning | The book holds the most quoted verse about loving God and the most brutal commands about conquest, in the same speech, from the same mouth. A presentation that gives you one without the other is selling something.
+box: What the book is actually about
+INTERPRETATION: Memory as a political instrument. Almost every command comes with a reason that starts "remember that you were a slave." The book's theory is that a people who forget where they came from will build what they escaped.
+/end
+prompt: What I was taught Deuteronomy was, and whether anyone told me it was a constitution | fill
+
+@page rh="DEUTERONOMY · 2 OF 15 · THE SHAPE OF A TREATY" m="DEUT 1–3; DEUT 28; DEUT 31.9–13; ESARHADDON SUCCESSION TREATY (COMPARE); MORAN (1963); WEINFELD, DEUTERONOMIC SCHOOL; TKC: DOM · SANCTUM"
+# A loyalty oath, reversed
+Assyrian and Hittite kings bound subject peoples with documents of a recognizable type. Deuteronomy has the same parts in roughly the same order, with one substitution. The great king is God, and the human monarch is demoted into the text as a regulated official. INTERPRETATION: The substitution is the book's central political act.
+tabrl:
+| Treaty part | What it does | In Deuteronomy |
+| Preamble | Names the sovereign and the setting | 1.1–5 |
+| Historical prologue | Recounts what the sovereign has done, so the terms arrive as gratitude. It differs from Exodus and Numbers in places, and the differences are the argument. | 1.6–4.43 |
+| General stipulation | Exclusive loyalty, called "love." William Moran showed in 1963 that "love" in treaties names political loyalty. | 5–11, the Shema at 6.4–5 |
+| Specific stipulations | The code: sanctuary, officers, courts, king, priests, prophets, war, property, debt, family, harvest | 12–26 |
+| Deposit and reading | Stored beside the ark and read aloud every seventh year, at the feast of Booths, to men, women, children and foreigners | 10.1–5, 31.9–13 |
+| Witnesses | Heaven and earth, and a song to be memorized | 4.26, 30.19, 31.19, 32.1 |
+| Blessings and curses | Enforcement | 27–28 |
+contested: Which treaties
+Whether the closer model is the Hittite treaties of the second millennium (Mendenhall), which would support an early date, or the Neo-Assyrian treaties of the seventh century (Weinfeld), which fit Josiah's time.
+/end
+box: Why the form matters for TKC
+INTERPRETATION: If you want to build a state religion, this is the template, and the template is neutral. The same seven parts produce a covenant that limits the king or a loyalty oath that makes him a god, depending on who is named in the preamble. Dominion changes one line and keeps the rest.
+/end
+prompt: Dominion's founding document. Who is in the preamble, and who witnesses | fill
+
+@page rh="DEUTERONOMY · 3 OF 15 · CHAPTER 6, AND WHO TEACHES" m="DEUT 6.4–9; DEUT 6.10–12; DEUT 6.20–21; DEUT 5.6–21; EXOD 20.8–11 (COMPARE); DEUT 8.17; MARK 12.29–30"
+# The household is the school
+The book's most famous passage is a loyalty clause followed by a method. Keep these words on your heart, teach them to your children, talk about them sitting in your house and walking on the road, lying down and rising, bind them on your hand and write them on your doorposts and gates. It's a curriculum with a delivery schedule, located in the house more than the sanctuary.
+rec:
+Where teaching sits | With parents, in domestic time, in ordinary conversation. No priest appears, and no building. INTERPRETATION: An institution that wants a monopoly on teaching has to get around chapter 6, not cite it.
+The child's question | When a child asks what the laws mean, the answer is a story: "We were Pharaoh's slaves in Egypt" (6.20–21). The catechism is historical. The reason for the law is a memory of servitude.
+Two Decalogues | Deuteronomy 5 repeats the ten words with real differences. Exodus says "remember" the sabbath and Deuteronomy says "observe." Exodus grounds it in creation, and Deuteronomy in slavery, "that your male and female slave may rest as well as you." Deuteronomy's coveting command puts the wife first, gives her her own verb and adds the neighbor's field.
+The prosperity warning | Right after the teaching method: when you live in houses you didn't build and eat from vines you didn't plant, you'll forget (6.10–12). Later, don't say "my power and the might of my hand have gotten me this wealth" (8.17). The book's named enemy is comfort.
+Reception | The verses became a fixed recitation in Judaism, and Jesus names them the first commandment (Mark 12.29–30). Both are receptions of Deuteronomy 6.
+prompt: Who is allowed to teach a child in my world, and what happens in the house instead | fill
+
+@page rh="DEUTERONOMY · 4 OF 15 · ONE PLACE ONLY" m="DEUT 12; DEUT 14.22–29; DEUT 18.6–8; DEUT 26.12; 2 KGS 23.9; LEVINSON, LEGAL INNOVATION; TKC: SANCTUM"
+# Centralization and its price
+Chapter 12 abolishes local altars and requires sacrifice at one chosen place. That single provision reorganizes a society. It moves worship away from the village, concentrates revenue, leaves a class of local priests without altars and turns pilgrimage into infrastructure. The chapter then works through the consequences, which makes it legislation.
+rec:
+The rule | Sacrifice only at "the place the LORD your God will choose." Local shrines are to be destroyed. Jerusalem is never named.
+Meat becomes secular | Since you can't slaughter at a local altar any more, ordinary slaughter at home is allowed. Eat meat in your towns, and pour out the blood. A monopoly at the center creates a whole area of life the sanctuary no longer touches.
+Tithe into coin | If the journey's too long, sell the tithe, carry the money and buy "whatever you desire, oxen or sheep or wine or strong drink," and eat it there with the household and the Levite. A tax in kind turned into currency for logistical reasons, and the text says so.
+The third-year tithe | Every third year the tithe stays in the town for the Levite, the foreigner, the fatherless and the widow. A centralized system with a mandatory local redistribution valve built in.
+The displaced priests | Local Levites without altars appear again and again among the dependents "within your gates." A Levite who comes to the central place may serve there equally (18.6–8). In Josiah's reform the shrine priests didn't serve at the Jerusalem altar (2 Kgs 23.9), so the law and the history don't match.
+box: The mechanism worth stealing
+POSSIBLE: One authorized place, one authorized calendar, and travel required to comply. Attendance becomes traceable, absence becomes evidence, and the road becomes a tax. Dominion doesn't need to invent a Sanctum monopoly. It keeps chapter 12 and loses chapter 14's local tithe.
+/end
+prompt: What the journey to the center costs a poor household in my world | fill
+
+@page rh="DEUTERONOMY · 5 OF 15 · CHAPTER 17, THE LAW OF THE KING" m="DEUT 17.14–20; DEUT 16.18–20; DEUT 18.15–22; 1 SAM 8; 1 KGS 3.1; 1 KGS 10.27–29; 1 KGS 11.3; TKC: DOM · MEN"
+# The king under the text
+INTERPRETATION: Six verses, and the most politically radical passage in the Torah. Monarchy is permitted, conditionally, and then stripped. The office is placed under a document.
+rec:
+How the king arrives | By popular demand, "like all the nations around me," then by God's choice, and from among the people, not a foreigner. Kingship is a concession framed as copying the neighbors.
+The four prohibitions | Horses, Egypt, wives and treasure. Read as policy: no standing cavalry, no military alliance with Egypt, no network of dynastic marriages, no royal hoard. They're the four instruments of ancient state power.
+The copying clause | He writes out the law in a scroll before the priests and keeps it with him. A sovereign who has to copy out the limits on his own office, and reread them, can't claim not to know them.
+The stated reason | "That his heart may not be lifted up above his brothers." Neither efficiency nor piety. The reason is anti-hierarchical, and it's written into the clause.
+The other offices | Judges, priests and prophets are each limited in the surrounding chapters: no bribes, no partiality, a test for false prophecy, portions in place of estates. Chapter 17 sits inside a scheme that spreads authority out and checks it.
+What's missing | No enforcement. Nobody is named who can remove a king who breaks the list, which is the flaw every later empire uses. Solomon breaks all four: horses from Egypt, Pharaoh's daughter and seven hundred wives, and silver "as common as stone."
+empire: The central TKC finding
+POSSIBLE: The Empire's own scripture forbids the Emperor to pile up wealth, weapons and wives and requires him to copy the law by hand. Dominion can't delete it, so it reinterprets it, most likely by declaring the Emperor exempt as the law's author and not its subject. That move is the theological center of the Empire, and it's available to any character who can read.
+/end
+prompt: Which of the four prohibitions my Emperor breaks most visibly, and who noticed | fill
+
+@page rh="DEUTERONOMY · 6 OF 15 · CHAPTER 15, THE RELEASE" m="DEUT 15.1–11; DEUT 15.12–18; DEUT 23.15–16; DEUT 24.10–15; EXOD 21.7 (COMPARE); HAMMURABI §§15–20; JER 34; NEH 5; MARK 14.7; TKC: DOM"
+# Debt with an expiry date
+Every seventh year, release. Debts between Israelites are cancelled, and debt servants go free, and not empty-handed. The master has to load them with livestock, grain and wine, because you were slaves and were brought out. The chapter also closes the obvious loophole: don't refuse a loan because the seventh year is near.
+rec:
+The release | Creditors release what they've lent to a fellow Israelite. A foreigner's debt can still be collected, and the text says so. Print the limit with the promise.
+Two sentences that disagree | "There will be no poor among you" (15.4) and "the poor will never cease out of the land" (15.11), a few verses apart. The first is conditional on obedience, and the second is the reason to open your hand. Jesus quotes the second (Mark 14.7).
+The hard-heart clause | Don't harden your heart or shut your hand, and don't let your eye be hostile because the release is coming. Reluctance is named as a sin, which means the drafters expected it.
+
+@page rh="DEUTERONOMY · 6 OF 15 · CHAPTER 15, THE RELEASE, CONTINUED" m="DEUT 15.1–11; DEUT 15.12–18; DEUT 23.15–16; DEUT 24.10–15; EXOD 21.7 (COMPARE); HAMMURABI §§15–20; JER 34; NEH 5; MARK 14.7; TKC: DOM"
+# Debt with an expiry date, continued
+rec:
+Severance | A Hebrew man or woman freed in the seventh year leaves with provisions from the flock, the threshing floor and the winepress. Freedom made survivable. CONTESTED: Whether this revises Exodus 21.7, which kept a sold daughter from going free, or addresses a different case.
+The one who stays | An awl through the ear at the door, "and to your female slave you shall do the same." Consent is provided for and then made permanent and visible.
+Runaways · 23.15–16 | An escaped slave who takes refuge with you isn't returned and may live wherever he chooses. The Code of Hammurabi made harboring a runaway a capital offense.
+Was it practiced | In Jeremiah 34, Jerusalem frees its slaves under siege and then takes them back, and Jeremiah answers with a "release" to the sword. Nehemiah 5 settles a debt crisis under pressure. The law was invoked, and there's no evidence of it working as designed.
+box: Held beside Leviticus 25
+INTERPRETATION: Leviticus returns land every fiftieth year, and Deuteronomy cancels debt every seventh. Two instruments aimed at the same failure, the permanent capture of a household. Together they make generational poverty illegal, which is why an empire teaches neither.
+/end
+prompt: How debt passes to a child in my world, and who wrote that rule | fill
+
+@page rh="DEUTERONOMY · 7 OF 15 · CHAPTERS 7 AND 20" m="DEUT 7.1–6; DEUT 20; DEUT 21.10–14; JUDG 1; JOSH 6–11 (RECEPTION); MESHA STELE (C. 840 BCE); KENYON, JERICHO (1950S); KITCHEN · HOFFMEIER"
+note: Commanded killing, the destruction of civilian populations including children, siege warfare and the taking of captive women. The page reports the text and the state of the argument and doesn't resolve it for you.
+# The commands nobody embroiders
+The book that says love the foreigner because you were foreigners also orders the total destruction of seven named peoples. Both are in it, and a companion that prints one and hides the other isn't a companion.
+rec:
+The devoted thing | *Ḥerem*, often "utterly destroy," marks persons or property removed from ordinary use by destruction. It isn't unique to Israel. The Moabite king Mesha's inscription, about 840 BCE, boasts of devoting an Israelite town to his god and killing seven thousand people.
+Two rules of war | A distant city is offered peace first. If it accepts, its people become forced labor. If not, its men are killed and the women, children and livestock taken. The cities of the land itself are to leave nothing alive that breathes. The law is two-tier, with the harsher tier for the nearest neighbors.
+The stated reason | Contamination: "they would turn away your sons from following me," and "that they may not teach you." The justification is ideological containment, the one purges have used since. The same chapter forbids marrying these peoples, which assumes they'll still be there.
+Exemptions and the trees | Men with a new house, an unharvested vineyard, a fiancée, or fear are sent home before battle. Fruit trees may not be cut down in a siege: "Are the trees in the field human, that they should be besieged by you?" Restraint and annihilation, drafted on the same page.
+
+@page rh="DEUTERONOMY · 7 OF 15 · CHAPTERS 7 AND 20, CONTINUED" m="DEUT 7.1–6; DEUT 20; DEUT 21.10–14; JUDG 1; JOSH 6–11 (RECEPTION); MESHA STELE (C. 840 BCE); KENYON, JERICHO (1950S); KITCHEN · HOFFMEIER"
+# The commands nobody embroiders, continued
+rec:
+The captive woman · 21.10–14 | She shaves her head, cuts her nails, puts off her captive's clothes and mourns her father and mother a month before marriage. If he later doesn't want her, he must let her go where she wants and may not sell her, "since you have humbled her." CONTESTED: Mitigation or legitimation. Both readings are serious.
+Did it happen | CONTESTED: Archaeology doesn't support a sweeping conquest. Kathleen Kenyon's Jericho excavations and the work at Ai found no city of the right period matching the account, and many see Israel emerging gradually in the central highlands. Judges 1 itself lists peoples not driven out. Kenneth Kitchen, James Hoffmeier and others defend more of the narrative. If the commands were written long after as ideology, that explains their origin and doesn't soften the words.
+prompt: What Dominion does with a divine war command, and which of my characters carried it out | fill
+
+@page rh="DEUTERONOMY · 8 OF 15 · CHAPTERS 22 AND 24" m="DEUT 22.13–29; DEUT 24.1–4; DEUT 24.5; DEUT 24.17–22; EXOD 22.16–17; M. GITTIN 9.10; MATT 19.3–9; MIDDLE ASSYRIAN LAWS A 55; HAMMURABI §130"
+note: Rape law, virginity evidence, capital penalties and divorce, including a clause that compels marriage to an assailant.
+# Whose property is injured
+The sexual and family laws are addressed to men and largely built around damage to a household's standing. Read as an ethic of consent they make no sense. Read as property and lineage law they make a coherent and disturbing system.
+rec:
+The cloth | A husband who claims his bride wasn't a virgin goes before the elders, and her parents bring out the cloth from the wedding night. If his charge is false, he pays a hundred shekels to her father and can never divorce her. If it's true, she's stoned. Her reputation is treated as her father's asset and her body as evidence.
+The field and the city | If a betrothed woman lies with another man in the city, both die, on the reasoning that she didn't cry out. In the field only the man dies, because "she cried out and there was no one to rescue her." Geography stands in for testimony.
+The fifty shekels | A man who seizes an unbetrothed virgin pays her father fifty shekels, must marry her and can never divorce her. Exodus 22 lets the father refuse the marriage, and Deuteronomy doesn't mention refusal. Naming this plainly is reading the clause.
+Divorce | A husband who finds "some indecency" in his wife may write a certificate and send her away. She may remarry, and she can't go back to him. The certificate lets her prove she's free, and only he can start it. The house of Shammai allowed divorce only for unchastity, and the house of Hillel for anything, even a spoiled dish. Jesus is asked about this verse.
+What cuts the other way | The same chapters exempt a new husband from war for a year "to be happy with his wife," forbid taking a widow's garment in pledge, and leave harvest for the widow and orphan. Protection and subordination are the same code here.
+How to cite it honestly | The Middle Assyrian Laws let a raped virgin's father hand the rapist's own wife over to be raped. Hammurabi executes a man who rapes a betrothed virgin and declares her blameless. "Better than its neighbors" and "good" are different claims, and some neighbors weren't worse.
+prompt: Which of these clauses Dominion kept as statute, and who is standing at the gate | fill
+
+@page rh="DEUTERONOMY · 9 OF 15 · THE EXEMPT SOVEREIGN · WRITING" m="WRITING; DEUT 17; DEUT 15; DEUT 31.9–13; TKC: DOM · MEN"
+# Write the exemption
+Dominion holds a scripture that forbids its Emperor to hoard, to marry widely and to arm without limit, and requires him to copy the law by hand. Build the doctrine that makes the clause harmless without denying it.
+prompt: 1 · The Sanctum's official reading of the law of the king, in its own voice | fill
+prompt: 2 · The copying rite as theater. What the Emperor actually writes out, and who holds the pen | fill
+prompt: 3 · The scene where someone reads the four prohibitions aloud at court | fill
+prompt: 4 · The public reading every seven years. What Dominion put in its place | fill
+
+@page rh="DEUTERONOMY · 10 OF 15 · CHAPTERS 27 AND 28" m="DEUT 13.6–11; DEUT 27.11–26; DEUT 28; DEUT 30.11–20; ESARHADDON SUCCESSION TREATY (672 BCE); STEYMANS (1995); JOB · ECCL (DISSENT); TKC: DOM"
+note: Siege famine and cannibalism, 28.53–57.
+# Enforcement
+Twelve curses are pronounced from Mount Ebal, and the people answer "Amen" to each. Consent to the penalty clause is gathered in public, out loud.
+rec:
+The twelve curses | An idol made in secret, a boundary stone moved, a blind man sent the wrong way, justice perverted for the foreigner, the orphan and the widow. Almost every one names an act done where nobody can see. The curse list handles offenses that slip past the courts.
+The asymmetry | Blessings take fourteen verses (28.1–14). Curses take fifty-four (28.15–68), a little under four times as many: disease, siege, deportation, madness, a famine where parents eat their children, and the people shipped back to Egypt for sale with no buyer. INTERPRETATION: A document that spends that many words on punishment is telling you what its drafters expected to need.
+The Assyrian parallel | Several curses closely match Esarhaddon's Succession Treaty (672 BCE), known from copies at Nimrud and one found at Tell Tayinat in 2009, the sky as bronze and the earth as iron among them. CONTESTED: Hans Ulrich Steymans argues 28.20–44 borrows directly. Others think the shared language came through common treaty convention.
+Chapter 13 | Report and execute even a brother, son, daughter, wife or friend who secretly urges other gods. The treaty makes the same demand about anyone, family included, who speaks against the king.
+
+@page rh="DEUTERONOMY · 10 OF 15 · CHAPTERS 27 AND 28, CONTINUED" m="DEUT 13.6–11; DEUT 27.11–26; DEUT 28; DEUT 30.11–20; ESARHADDON SUCCESSION TREATY (672 BCE); STEYMANS (1995); JOB · ECCL (DISSENT); TKC: DOM"
+# Enforcement, continued
+rec:
+What it does to suffering | If disaster is a penalty clause, every plague, defeat and famine becomes evidence of guilt. The prophets use this logic. Job and parts of Ecclesiastes refuse it. The Bible argues with itself here.
+Choose life | Chapter 30 says the command "is not too hard for you, neither is it far off. It is not in heaven," and ends, "I have set before you life and death, blessing and curse. Therefore choose life." It adds a promise of return after exile, written by people who already knew exile.
+corr: The old companion said the curses run "more than four times as many" verses as the blessings. Fifty-four to fourteen is just under four times.
+box: The instrument Dominion inherits
+POSSIBLE: A liturgy in which the population says amen to its own punishment turns obedience into self-administration and any later misfortune into proof of an earlier offense. An empire holding this chapter never has to explain a famine. It only has to ask what the people did.
+/end
+prompt: How my world explains its last disaster, and who was blamed for it | fill
+
+@page rh="DEUTERONOMY · 11 OF 15 · PASSAGE PRACTICE · THE TEXT" m="METHOD; BIBLE 101 VIII; DEUT 17.14–20; DEUT 15.1–11"
+# One passage, worked properly
+Choose one passage and run the method across this spread. If you want one chosen, try 17.14–20, the law of the king, or 15.1–11, the release.
+cols:
+prompt: Passage | 2
+||
+prompt: Translation used | 2
+/end
+prompt: 1 · What it says. Summarize without interpreting. No conclusions yet | fill
+prompt: 2 · Who is addressed, who is discussed and who is absent | fill
+prompt: 3 · Where two translations differ, and what turns on the difference | fill
+
+@page rh="DEUTERONOMY · 12 OF 15 · PASSAGE PRACTICE · THE USE" m="METHOD; TKC: DOM; PART IX LOG"
+# How it's been used
+prompt: 4 · How this passage has been used against someone, and who benefited | fill
+prompt: 5 · What it costs the person in power, if it's actually kept | fill
+prompt: 6 · What Dominion would do with it. Circulate, restrict or spiritualize | fill
+prompt: 7 · What I'm taking into the manuscript, and which chapter | fill
+small: Anything found on these two pages begins as POSSIBLE. Move it to DECIDED only after deciding it belongs in the manuscript and logging where it affects the existing files.
+status
+
+@page rh="DEUTERONOMY · 13 OF 15 · WHAT WAS DONE WITH IT" m="2 KGS 22–23; JOSH–KGS (NOTH, 1943); MATT 4.1–11; MARK 12.29; WINTHROP, “A MODEL OF CHRISTIAN CHARITY” (1630); FUGITIVE SLAVE ACT (1850); TKC: DOM"
+# The book that wrote the rest
+Everything here is reception, what people did with Deuteronomy.
+rec:
+A scroll in a wall | A law book found during temple repairs, read to the king and answered with a national purge. Whatever the scroll was, the narrative makes a found document the trigger for a political revolution, the most useful plot mechanism in the Hebrew Bible.
+The history it shaped | Martin Noth argued in 1943 that Joshua through Kings form a "Deuteronomistic History," grading every king by this book's standards, chapter 12 above all. What looks like national chronicle is closer to an audit against a statute.
+In the gospels | Jesus answers all three temptations with Deuteronomy (8.3, 6.16, 6.13) and names the Shema the first commandment. It's the book he quotes most in argument.
+Covenant as politics | John Winthrop closed "A Model of Christian Charity" (1630) by paraphrasing 30.15–20, "Therefore let us choose life," and Puritan covenant theology read New England through the book's terms. The conquest chapters were read as precedent by people arriving on other people's land.
+And the other way | Abolitionists cited 23.15–16 against the Fugitive Slave Act of 1850, and 24.7 with Exodus 21.16 against kidnapping and the slave trade. The same volume served the conqueror and the freed in the same century.
+prompt: Where a found document could overturn something in my manuscript | fill
+
+@page rh="DEUTERONOMY · 14 OF 15 · DOMINION'S DEUTERONOMY" m="DEUT 17.14–20; DEUT 15; DEUT 31.9–13; DEUT 28; TKC: DOM · SANCTUM"
+# The half the Empire teaches
+POSSIBLE: Everything on this page is a TKC construction to test against the manuscript.
+tabrl:
+| What the Sanctum circulates | What it keeps in the closed catechism |
+| One sanctuary, one calendar, one authorized place of offering | The third-year tithe that stays in the town, and the tithe turned to coin and eaten by the household itself |
+| The curses of chapter 28, as the explanation for every plague and defeat | That the same covenant makes the sovereign subject to the document, with four named prohibitions |
+| Obedience taught as loyalty to the Sanctum's reading of the law | That the law is read aloud to the whole assembly, women, children and foreigners included, on a fixed schedule |
+| The conquest chapters, as precedent for cleansing a province | The runaway-slave clause, the seventh-year release and the ban on interest among kin |
+| Instruction as the Sanctum's office, delivered in its buildings | That chapter 6 puts teaching in the house, in the parents' mouths, with no priest present |
+box: The argument in one paragraph
+INTERPRETATION: Dominion keeps Deuteronomy's enforcement and drops its constitution. The curses, the central sanctuary and the war commands stay in general circulation. The law of the king, the release, the household school and the public reading go into the closed catechism. The Empire isn't opposed by a rival scripture. It's opposed by the second half of its own.
+/end
+prompt: Who in my cast has read chapter 17, and what they did the day after | fill
+
+@page rh="DEUTERONOMY · 15 OF 15 · CLOSE THE DOSSIER" m="WRITING; DOSSIER CLOSE; QUEUE: D4"
+# What I take out of Deuteronomy
+prompt: The one thing this book changed about how I see Dominion | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+prompt: A clause I'm taking straight into the manuscript, and where | fill
+review: Proofing gate | log only, nothing is closed here
+Dossier IV has fifteen numbered pages, with content notes on pages 7, 8 and 10, and the conquest material carried as CONTESTED with no verdict printed. Outstanding for proofing: full citations with edition and year.
+fields: PROOFED BY, DATE, OUTSTANDING
+/end
+
+@notes rh="DOSSIER NOTES · IV DEUTERONOMY" m="NOTES; OPEN NOTES" prompt="Anything this dossier started and didn't finish"
