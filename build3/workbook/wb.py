@@ -317,6 +317,32 @@ def margin_html(attrs, page_kind):
     return f'<div class="margin">{h}</div>'
 
 
+# Ornament glyphs aren't in the book's fonts. Left as text, Chrome falls back to
+# system fonts and embeds some as Type 3, which printers handle badly. Draw them as
+# small vector shapes instead.
+ORN_SVG = {
+    '✥': '<circle cx="10" cy="4" r="3.2"/><circle cx="10" cy="16" r="3.2"/><circle cx="4" cy="10" r="3.2"/><circle cx="16" cy="10" r="3.2"/><rect x="8.6" y="3" width="2.8" height="14"/><rect x="3" y="8.6" width="14" height="2.8"/>',
+    '❖': '<path d="M10 0 L13 7 L20 10 L13 13 L10 20 L7 13 L0 10 L7 7 Z"/>',
+    '†': '<rect x="8.8" y="1" width="2.4" height="18"/><rect x="4" y="5" width="12" height="2.4"/>',
+    '▣': '<path fill-rule="evenodd" d="M1 1h18v18H1z M3 3v14h14V3z"/><rect x="6" y="6" width="8" height="8"/>',
+    '◈': '<path fill-rule="evenodd" d="M10 0L20 10L10 20L0 10Z M10 3L3 10L10 17L17 10Z"/><path d="M10 6L14 10L10 14L6 10Z"/>',
+    '⌖': '<path fill-rule="evenodd" d="M10 3a7 7 0 1 0 0.01 0Z M10 5a5 5 0 1 1-0.01 0Z"/><rect x="9.2" y="0" width="1.6" height="20"/><rect x="0" y="9.2" width="20" height="1.6"/>',
+    '✤': '<ellipse cx="10" cy="5" rx="3" ry="5"/><ellipse cx="10" cy="15" rx="3" ry="5"/><ellipse cx="5" cy="10" rx="5" ry="3"/><ellipse cx="15" cy="10" rx="5" ry="3"/>',
+    '☙': '<path d="M3 17 C3 9 9 3 17 3 C17 11 11 17 3 17 Z"/><path d="M2 18 L12 8" stroke="#fff" stroke-width="1.2"/>',
+    '≡': '<rect x="2" y="4" width="16" height="2.4"/><rect x="2" y="8.8" width="16" height="2.4"/><rect x="2" y="13.6" width="16" height="2.4"/>',
+}
+ORN_RE = re.compile('[' + ''.join(ORN_SVG) + ']')
+
+
+def ornaments(doc):
+    def svg(m):
+        return f'<svg class="og" viewBox="0 0 20 20" aria-hidden="true">{ORN_SVG[m.group(0)]}</svg>'
+    head, _, body = doc.partition('<body>')
+    # only text between tags, never inside attributes
+    body = re.sub(r'>([^<]*)<', lambda m: '>' + ORN_RE.sub(svg, m.group(1)) + '<', body)
+    return head + '<body>' + body
+
+
 def build():
     units = sorted((HERE / UNITS).glob('*.tkc'))
     pages = []  # (kind, attrs, lines)
@@ -354,6 +380,8 @@ def build():
             expanded.extend(extra)
         pages = expanded
     anchors = {a['id']: i + 1 for i, (k, a, _) in enumerate(pages) if 'id' in a}
+    OUT.mkdir(exist_ok=True)
+    (OUT / f'anchors{SFX}.json').write_text(__import__('json').dumps(anchors))
 
     html_pages = []
     for n, (kind, attrs, lines) in enumerate(pages, start=1):
@@ -406,7 +434,7 @@ def build():
     doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>TKC Volume ' + ('One · The World Dossier' if VOL == '1' else 'Two · The People') + '</title>'
            '<link rel="stylesheet" href="../workbook/wb.css"></head><body>' + ''.join(html_pages) + '</body></html>')
     OUT.mkdir(exist_ok=True)
-    (OUT / f'workbook{SFX}.html').write_text(doc)
+    (OUT / f'workbook{SFX}.html').write_text(ornaments(doc))
     print(len(html_pages), 'pages')
 
 
