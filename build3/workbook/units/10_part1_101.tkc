@@ -1,0 +1,178 @@
+@part id="part1" num="I" kind="PART ONE · ✥" title="Learning the Bible/as a Novelist" sub="You can't write about people who've been handed a holy book until you've read what they were handed. Start here, and keep your objections in the margin."
+toc: i · What the Bible actually is | b101
+toc: ii · How it was assembled | b102
+toc: iii · The shape of the Old Testament | b103
+toc: iv · The shape of the New Testament | b104
+toc: v · The genres, and why they matter | b105
+toc: vi · Translation, and which one to trust | b106
+toc: vii · How to read a passage in context | b107
+toc: viii · A worked example | b108
+toc: ix · Contested readings | b109
+toc: x · The sixty-six books | b66
+toc: Focused studies F1 to F7 | f1
+toc: Deep-dive dossiers I to IV | d1
+
+@essay id="b101" rh="LEARNING THE BIBLE · BIBLE 101 · I"
+# What the Bible actually is
+drop: The first thing to understand, and the thing most people who grew up around this book were never told, is that it's a library. Sixty-six separate documents in the Protestant count, written across something like a thousand years, in three languages, by many hands, for audiences who mostly didn't know the other documents existed. Some of it is law written for a small farming people. Some is court history written to support a dynasty. Some is poetry, some is prophecy shouted at a government, and some is letters from a traveling preacher to congregations he was trying to hold together.
+The variety is the most useful fact you can hold onto as a novelist, because it means the Bible has an argument going on inside it. Deuteronomy ties faithfulness to flourishing, and Job gives a righteous man catastrophe and lets his friends make the simple version of that argument until it fails. Ezra sends the foreign wives away, and Ruth makes a foreign woman the great-grandmother of the king. Proverbs says wisdom generally pays, and Ecclesiastes says the pattern doesn't hold. Nobody smoothed these out. They sit in the same volume, and every institution that has used this book has had to choose which side of each argument would be the official one.
+INTERPRETATION: The choosing is your novel. The Empire doesn't have a Bible problem. It has a Bible strategy, and it's the one scriptural empires have usually used: lift the passages about order, hierarchy and submission into the plain and permanent word of God, and file the passages about jubilee, debt release, foreign widows, prophets who insult kings and a messiah executed by the state under poetry or instructions for another time. Nothing has to be deleted. The canon stays intact and the pulpit still cites chapter and verse. All it takes is a consistent policy about which parts are read aloud, and to whom.
+So read it as a library with an argument in it. When you meet a passage, the useful question is what it says, which side of the internal argument it's on, who benefits from that side winning, and what it would cost a character to have been raised hearing only one half.
+pull: "A canon is the list of things a religion has agreed to keep arguing about."
+side:
+chips: OT, NT
+k: The numbers
+stext: 66 books in the Protestant count · 39 Old, 27 New · Hebrew, Aramaic, Greek · roughly a thousand years of writing · no single author, no single editor, no original title page.
+marg
+see: How it was assembled; Who gets to say what it means, Part IV.
+/end
+
+@essay id="b102" rh="LEARNING THE BIBLE · BIBLE 101 · II"
+# How it was assembled
+drop: No angel delivered a table of contents. The collection you can buy in an airport was assembled slowly, by communities, customs and arguments, over centuries, and the process left visible seams. They're worth knowing about, because your Empire will be running the same process on purpose.
+On the Hebrew side the Torah settled first, then the prophetic books, then a looser third group, the Writings, which stayed unsettled for a long time. Some books nearly didn't make it. Esther was questioned partly because God is never named in it. Song of Songs was questioned because it's frankly erotic, and it took a great deal of allegory to make it respectable. Ecclesiastes was questioned because it sounds close to faithless. INTERPRETATION: The books that struggled were the ones hardest to use as instruction.
+On the Christian side the process was slower and messier. For the first centuries there was no fixed New Testament, only a widening pool of gospels, letters and apocalypses circulating unevenly between cities. Lists were proposed, disputed and revised. The four gospels that were kept weren't the only ones written. Revelation was long resisted in the Greek-speaking East, and other apocalypses dropped out entirely. Emperors funded copies and convened councils, and Nicaea in 325 wasn't about the canon. By the time Athanasius listed the twenty-seven books in 367, the shortlist was largely settled, by habit as much as by ruling.
+Two things follow for TKC. INTERPRETATION: Whoever can convene, fund, copy and distribute has outsized influence over which texts stay in circulation. And once a canon closes, the arguing doesn't stop. It moves from which books to which verses. The Empire inherits a closed canon, so it does all its work through emphasis, translation, the calendar of readings and commentary, which is quieter editing and much harder to catch.
+empire: What the Empire would do with this
+POSSIBLE: Never touch the canon. Touch the calendar. Decide which passages are read in public worship, which are kept for clergy, which appear in schoolbooks, and which are never printed in the cheap edition sent out to the Dominions.
+/end
+side:
+k: Books that nearly lost
+stext: Esther · Song of Songs · Ecclesiastes · Hebrews · James · 2 Peter · Jude · Revelation
+marg
+see: The canon timeline, ii.3; Passages kept quiet, Part IV.
+/end
+
+@page id="b103" rh="LEARNING THE BIBLE · BIBLE 101 · III" m="GEN–DEUT; JOSH–RUTH; 1 SAM–2 CHR; EZRA–ESTH; JOB–SONG; ISA–MAL"
+# The shape of the Old Testament
+Thirty-nine books in the Protestant count, and the plot beneath all of them is land: getting it, losing it, and living under someone else's empire on it. Learn the six movements and you'll always know roughly where you're standing.
+rec:
+Torah · Genesis to Deuteronomy | Origins, a family, slavery, escape, and a law given in a desert to a people who don't have a country yet. Everything later quotes or argues with these five books.
+Conquest and judges · Joshua to Ruth | Taking the land, then failing to hold together. Judges is the most brutal stretch in the collection and ends with a line that works as a political thesis: everyone did what was right in his own eyes, because there was no king. Ruth answers it with a foreigner.
+Monarchy · Samuel to Chronicles | A people demand a king, are warned in detail what a king will take, and get one anyway. Dynasty, temple, civil war and succession by murder follow. Chronicles retells the same reigns with some of the embarrassing material left out.
+Exile and return · Ezra to Esther | The state is destroyed and the population deported, and the survivors work out how to be a people without a country. A partial return, a rebuilt wall, a crisis about foreign wives, and a queen in a foreign court in a book that never names God.
+Wisdom and poetry · Job to Song of Songs | Where the tradition argues with itself most openly: Job accusing God of injustice, a hymnbook that includes rage, orderly proverbs, a book that calls everything vapor, and a love poem.
+Prophets · Isaiah to Malachi | Mostly political speech to the powerful, about idolatry and about the treatment of the poor, the widow, the foreigner and the worker. Some of it looks ahead. Most of it addresses its own moment. This is the section every empire handles most carefully, and the one your resistance will quote.
+contested: Contested
+Whether the conquest narratives record history, later national memory, or theology told as narrative is genuinely disputed. Your Empire will read them as precedent for holy war, and your dissidents as a small kingdom explaining itself.
+/end
+prompt: Which movement the Empire teaches as its own story | fill
+
+@page id="b104" rh="LEARNING THE BIBLE · BIBLE 101 · IV" m="MATT–JOHN; ACTS; ROM–PHLM; HEB–JUDE; REV"
+# The shape of the New Testament
+Twenty-seven documents, all written inside the Roman Empire by members of a movement with no political power, most of them within about seventy years of a public execution. That situation shapes everything, including the parts your Empire will most want to use.
+rec:
+Gospels · Matthew to John | Four accounts of one life, and they don't match, which is the most useful thing about them. Mark is urgent and bleak, Matthew argues that this fulfills the Law, Luke keeps putting women and the poor in the frame, and John does high theology. Read side by side, you're watching four communities decide what mattered. See the Gospel Grid in Part III.
+Acts · the movement spreads | A small, property-sharing sect argues its way across the Mediterranean, mostly in rented rooms and courtrooms. Again and again it's hosted by women with houses.
+Paul's letters · Romans to Philemon | Occasional letters, and no systematic theology. Each is one side of a conversation with a particular congregation in a particular crisis. Lift a verse out of that and you're quoting an answer while hiding the question.
+General letters · Hebrews to Jude | Written to scattered communities under pressure. James is blunt about the rich, and the letters under Peter's name are about living faithfully without power.
+Revelation · apocalyptic | Resistance literature in symbols, written for believers under an empire that called itself divine. INTERPRETATION: Many scholars read the beast as imperial Rome and Babylon as its capital, and the book as a claim that Rome won't last. Read as a timetable for the far future, it loses its first readers. Read as a banned pamphlet, it's the most politically dangerous book in the collection.
+box: The central irony for TKC
+INTERPRETATION: Every document here was written by people with no power, about a man the state executed, for readers the state despised. The Empire runs its theology on literature written by the losing side, and the material for its own undoing is bound into the volume it hands out.
+/end
+prompt: The New Testament book my Empire would least like a girl to read first | fill
+
+@essay id="b105" rh="LEARNING THE BIBLE · BIBLE 101 · V"
+# The genres, and why they matter
+Reading a poem as a statute is one of the most common ways this book gets turned into a weapon. A lament isn't a doctrine. A proverb is a general pattern that its own collection contradicts elsewhere. Name what you're holding before you decide what it obliges anyone to do.
+rec:
+Law | Binding instruction for a particular covenant community in a particular economy. Ask who it's addressed to and what it replaced.
+Narrative | Stories describe far more than they endorse. The Bible reports polygamy, slavery and massacre without approving them.
+Poetry | Compressed, figurative, built on parallel lines. It carries feeling. A great deal of harm done with scripture comes from reading a metaphor flat.
+Wisdom | Observed patterns offered as advice, deliberately in tension across books. Proverbs and Ecclesiastes are meant to be read against each other.
+Prophecy | Public address, usually to rulers, usually conditional: change this or the consequence follows. Some of it looks far ahead, and most of it speaks to its own day.
+Letter | One side of a correspondence about a local crisis. Every general rule you pull out of it has a particular quarrel behind it.
+Gospel | Ancient biography with an argument. Each writer selects, orders and shapes to persuade a particular community.
+Apocalyptic | Symbolic writing for people under pressure. Its symbols were readable to its first readers and point at the powers of their own day.
+side:
+sbox: The genre test | Before a character quotes anything at anyone: what kind of writing is this, who was it addressed to, and what does the speaker gain by treating it as a rule?
+marg
+see: How to read a passage in context, vii.
+/end
+
+@essay id="b106" rh="LEARNING THE BIBLE · BIBLE 101 · VI"
+# Translation, and which one to trust
+drop: Every translation is a set of decisions. Someone had to decide whether a Greek word describing a woman in a congregation means servant or deacon, whether an instruction is addressed to wives or to everyone, and whether an ambiguous phrase gets resolved toward hierarchy or toward mutuality. Most of those decisions are honest attempts with a hard word. Some carry theological commitments, and the committees that make them have confessions, funders and readers in mind.
+For your purposes the method is simple. Read any passage that matters in at least two translations from different traditions, and when they diverge, stop, because the divergence is where the interesting work is. POSSIBLE: The Empire lives in that gap. An empire that controls the official edition doesn't need to lie. It only needs to keep choosing the harder rendering, generation after generation, until the gentler reading sounds like a modern invention.
+Translations sit on a spectrum. Some aim at word-for-word fidelity and read stiffly. Some aim at thought-for-thought clarity and smooth over difficulty. Some are paraphrases with a strong voice. None of these is dishonest by definition, but the smoother the English, the more interpretive decisions have already been made for you out of sight.
+Chapters and verses aren't original either. They were added centuries later for finding passages, and they've made the whole book quotable in fragments, which is exactly the format a state needs for slogans, wall inscriptions and school recitation.
+empire: The Empire's edition
+POSSIBLE: Decide early what the Empire's authorized text is, who may own a different one, what has been footnoted into harmlessness, and which single word in the household passages the Temple's authority rests on. A translation dispute is a perfectly good inciting incident.
+/end
+side:
+k: Method
+sbox: Two minimum | Two translations from different traditions. Note every divergence. The gap is the material.
+marg
+see: Translation, module vi; the household verse, module ix.
+/end
+
+@page id="b107" rh="LEARNING THE BIBLE · READING IN CONTEXT · VII" m="METHOD; JOB 42.7; EPH 5.21–33"
+# How to read a passage in context
+Eight questions, in this order, every time. Run them and you'll read better than many people who quote this book professionally, and you'll be able to write clergy who are sophisticated and not merely sinister.
+rec:
+I · What kind of text | Name the genre first: law, story, poem, letter, oracle, apocalypse. It decides what kind of claim the passage can make.
+II · Who's speaking | The narrator, a character, God as quoted by a character, an opponent being paraphrased, or a friend the book will prove wrong. Job's comforters get pages of confident theology that the book itself rejects (42:7).
+III · To whom | A named congregation, a king, a nation, an enslaved population, a household. An instruction to the powerful reads very differently when it's turned on the powerless, and that turn is one of the commonest abuses there is.
+IV · What comes before and after | Read the paragraph on either side, then the chapter, then skim the book's argument. A verse used as a wall inscription almost always has a sentence beside it that complicates it.
+V · What world produced it | The economy, the legal status of women and slaves, who owned land, what an honor culture punished. The point is to see what the text was arguing with. Sometimes it's more radical than its setting, and sometimes far less.
+VI · What the words do | Check a second translation on any word carrying weight. If two respectable versions disagree, you've found a decision and not a fact.
+VII · Who gains | Ask it of the passage and of every reading of it, including the ones you like. Interpretations have beneficiaries.
+VIII · What it costs | Who has to carry the consequence if this reading is enforced. The answer usually names the character in your novel who lives inside the doctrine.
+prompt: A passage I've only ever heard with question III skipped | fill
+
+@page id="b108" rh="LEARNING THE BIBLE · READING IN CONTEXT · VIII" m="EPH 5.21–33; COL 3.18–4.1; 1 PET 2.18–3.7; P46 · VATICANUS; ARISTOTLE, POLITICS I"
+# The household verse
+k: A worked example
+Take the passage scriptural empires have built household law on: the instruction to wives in Ephesians. Run the eight questions and see how much of the standard use depends on stopping early. The full treatment is in module ix.
+q: Wives, submit to your own husbands, as to the Lord. | EPHESIANS 5.22, QUOTED ALONE, AS IT APPEARS ON A WALL
+rec:
+Genre | A letter to congregations, not a statute.
+The sentence before | "Submitting to one another out of reverence for Christ" (5:21), addressed to everyone. In some of the earliest manuscripts, P46 and Codex Vaticanus among them, 5:22 has no verb of its own and borrows "submitting" from 5:21. Cut 5:21 and a mutual instruction reads as a one-way command.
+The passage after | Addressed to husbands and much longer, about 116 Greek words to the wives' 40 by one count. Husbands are told to love three times and to give themselves up as Christ did. They're never told to rule, enforce or correct.
+The world | Household codes were a known form. Aristotle's ran master over slave, husband over wife, father over children. Ephesians speaks to wives, children and slaves as moral agents and gives the stronger party duties. INTERPRETATION: Read against its setting, it modifies an existing hierarchy. An empire that wants it timeless has to keep the setting out of view.
+The words | CONTESTED: Whether "head" (*kephalē*) means authority, source or prominence. The verb *hypotassō* means to arrange oneself under, and how much weight its middle voice can bear is argued.
+Who gains | Whoever is allowed to quote the fragment and forbidden to read the frame.
+
+@page rh="LEARNING THE BIBLE · READING IN CONTEXT · VIII, CONTINUED" m="EPH 5.21–33; MODULE ix"
+# What the fragment is for
+cols:
+empire: What the Empire does
+POSSIBLE: Prints the fragment, leaves out the mutual line, shortens the husbands' section in the Dominion edition, and sets the whole thing to music so children learn it before they read it.
+/end
+||
+k: What this gives TKC
+POSSIBLE: A scene where a character reads the missing line for the first time. It's a revelation about editing, which is worse than a revelation about God, because it means somebody chose.
+/end
+prompt: Where my novel prints the fragment, and where it prints the frame | fill
+
+@page id="b109" rh="LEARNING THE BIBLE · CONTESTED READINGS · IX" m="FAULT LINES; MODULE viii"
+# Contested readings
+These are the fault lines. Each has been argued in good faith for centuries by people who know the languages, and no amount of reading settles them. POSSIBLE: For the novel they're gifts. A doctrine the Empire has closed is a doctrine still quietly open somewhere in the Empire, and every one of these is a possible conflict between characters.
+cols:
+contested: Headship
+Whether the household passages set a permanent order of authority or address one culture's arrangements. Both readings have long histories, and neither is fringe.
+/end
+contested: Slavery
+Whether the letters accommodate an existing institution, quietly undermine it, or endorse it. Both sides of the American abolition fight quoted scripture fluently.
+/end
+contested: Obedience to rulers
+Romans 13 says authorities are appointed by God. The same collection is full of prophets defying kings and apostles refusing magistrates.
+/end
+contested: Purity and the body
+Which purity laws were ritual, which moral, which binding, and who decides. The line drawn here sets what your Empire can regulate about a woman's body and call faith.
+/end
+||
+contested: Women speaking
+One letter silences women in assembly, and the same author greets women leading congregations and names one an apostle. How those fit is a live dispute.
+/end
+contested: Divine violence
+Whether the conquest commands are history, rhetoric, or a later people's theology of their own past. Holy war in your novel rests on which answer the Empire teaches.
+/end
+contested: Wealth
+Whether prosperity signals blessing or is itself the danger. Deuteronomy and the prophets pull in opposite directions, and a ruling class finds the first easier to preach.
+/end
+contested: The end of things
+Whether apocalyptic language describes a coming event, a present reality, or a verdict on a particular empire. A state that teaches the first can promise anything.
+/end
+/end
+prompt: Which side the Empire teaches, and who in my novel disagrees | fill

@@ -1,0 +1,274 @@
+@divider num="vi–ix" kind="MODULES" title="Translation, Context,/Fault Lines" sub="How translation decisions get made, the eight questions, the four kinds of disagreement, and the household verse worked all the way through" foot="EIGHTEEN PAGES"
+
+@page id="m-trans" rh="LEARNING THE BIBLE · TRANSLATION · 1 OF 5" m="INFORMATION; MASORETES; NA28 · UBS5; I.4"
+# Translation, and how to compare it
+lede: The old title asked which translation to trust. It's the wrong question, because it implies one exists that never needs checking. The goal is to understand how translation decisions get made, so you can see one being made and say what it did.
+k: Three languages
+rec:
+Hebrew | Most of the Old Testament. Written originally without vowels. The vowel points were added centuries later by the Masoretes, scribes preserving how the text was read aloud, so a consonantal text can sometimes be voiced more than one way, and where it can, translators choose.
+Aramaic | Parts of Daniel and Ezra, and the everyday speech of Judea in the first century. Jesus taught in it, and the gospels record him in Greek.
+Greek | The New Testament, in Koine, the common Greek of the eastern Mediterranean. It isn't uniform: Mark's is rough and Hebrews' is polished. Translations that flatten every book to one register lose that.
+k: Manuscripts and variants
+No original of any biblical book survives. What exists is thousands of copies, and they differ, overwhelmingly in spelling, word order and obvious slips, and occasionally in something substantive. Textual criticism reconstructs the earliest recoverable text from that evidence. A few famous passages are missing from the earliest manuscripts, and reputable Bibles say so in a footnote: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), and the Trinitarian clause in 1 John 5:7–8.
+k: Where differences actually come from
+Most differences between translations aren't ideological. They come from a genuinely ambiguous word, a construction with no clean English equivalent, a choice of register, or a choice between manuscripts. Some are theologically motivated, and those are worth finding, but if you assume every difference is, you won't be able to spot the real ones.
+box: You don't need the languages
+You need to know where the decisions live, and to look at more than one Bible when a sentence is doing something to somebody.
+/end
+
+@page rh="TRANSLATION · PHILOSOPHY AND APPARATUS · 2 OF 5" m="KJV · NASB · ESV; NIV · NRSV · CSB; NLT; THE MESSAGE"
+# The spectrum
+lede: It isn't a scale from honest to dishonest. It runs from keeping the structure of the original to keeping its effect on the reader, and every point on it gives something up.
+tabrl:
+| Approach | What it prioritizes | What it gives up |
+| Interlinear | Word-for-word correspondence, original order under the line | Readability. A study tool, not a Bible. |
+| Formal ("literal") · KJV, NASB, ESV | The original's grammar and ambiguity, kept even where English strains | Clarity in places. An ambiguity preserved is still one you have to resolve. |
+| Middle · NIV, NRSV, CSB | Accuracy in natural English | Some seams |
+| Functional ("dynamic") · NLT, Good News | What the sentence does, in idiomatic English | Where the original was ambiguous, the translator has already chosen for you |
+| Paraphrase · The Message | Immediate impact, often one author's voice | Any claim to precision. Good for hearing a passage fresh, useless for an argument about wording. |
+| Committee or solo | Committees give consistency, individuals give voice. Committees have institutional homes, traditions, funders and audiences. | Neither is neutral, and neither is disqualified. Knowing who made it is part of reading it. |
+k: Why the footnotes matter more than the translation you chose
+A footnote that says "or," "other manuscripts read," or "Greek uncertain" is the translator telling you a decision happened here. When a verse is being used against someone, check whether the page admits an alternative.
+k: Chapters, verses and headings aren't scripture
+Chapter divisions came in the thirteenth century, verse numbers in the sixteenth, and section headings from modern editors. They make the text findable and quotable, and they also impose breaks the author didn't write. Quoting a verse is normal. The question is whether the unit you quoted is doing the work of the unit around it.
+prompt: Who authorized the Empire's translation, and what its footnotes are allowed to say | fill
+
+@page rh="TRANSLATION · COMPARISON WORKSHEET, LEFT · 3 OF 5" m="TEMPLATE; ONE SPREAD PER PASSAGE; PHOTOCOPY BEFORE FILLING"
+# Passage: ______________
+k: Four renderings. Name the translation, then copy the wording exactly.
+tab:
+| Translation | How it reads |
+| _ | _ |
+| _ | _ |
+| _ | _ |
+| _ | _ |
+prompt: What the footnotes admit, in any of the four | fill
+
+@page rh="TRANSLATION · COMPARISON WORKSHEET, RIGHT · 4 OF 5" m="TEMPLATE; THE DIFFERENCE"
+# What the difference does
+prompt: The word or phrase they handle differently | fill
+prompt: The choice each one made. Describe it, don't rank it. | fill
+cols:
+prompt: Ambiguity, idiom, manuscript, or theology? | 3
+||
+prompt: Does the difference change what anyone must do? | 3
+/end
+prompt: Which rendering the Empire prints, and what it gains | fill
+prompt: What I still need a real source for before I use this in a scene | fill
+status
+
+@page rh="TRANSLATION · WHEN TO GO OUTSIDE · 5 OF 5" m="LEXICON; COMMENTARY; BDB · HALOT · BDAG"
+# Four triggers
+lede: Comparing English Bibles gets you a long way. These four situations mean stop and find a real source, a lexicon, a commentary or a scholar, before it goes into the novel as a claim.
+box: I · The argument rests on one word
+If a whole doctrine hangs on the range of a single term, the range is the question, and English can't answer it. The household verse is in exactly this situation.
+/end
+box: II · The translations split along denominational lines
+When the pattern of who renders it which way matches the pattern of who teaches what, something besides grammar is operating, and you need to be able to name it exactly.
+/end
+box: III · A footnote says the text is uncertain
+Take the admission seriously. The manuscripts disagree or the syntax won't resolve, and building a scene on the resolved version is building on a choice.
+/end
+box: IV · You're about to say what the original "really" means
+The most dangerous sentence available to a non-specialist, and one used with total confidence by people on every side. A character may say it. The companion may not, without a source.
+/end
+prompt: The claims about the original languages I've been repeating without checking | fill
+
+@page id="m-context" rh="LEARNING THE BIBLE · READING IN CONTEXT · 1 OF 3" m="METHOD; I.5"
+# Eight questions
+lede: Run all eight, in order, before deciding what a passage means. They won't make you an expert, but most confident misuse of scripture happens by skipping one, and skipping is easy to catch in yourself if you have a list.
+rec:
+1 · What kind of text is this? | Genre first, always. It decides what the passage can establish before any other question is worth asking.
+2 · Who's speaking? | The narrator, a character, God as quoted, a rival, a friend who turns out to be wrong. Job's comforters are in the Bible and they're mistaken, and the book says so.
+3 · To whom? | A congregation with a particular problem, a king, a foreign nation, one person. Applying an oracle addressed to Babylon to yourself is a category error with a long history.
+4 · What comes before and after? | Read the paragraph, then the chapter. Most weaponized verses only work once the sentences on either side have been cut.
+5 · What world produced it? | Empire, occupation, exile, monarchy, the household economy, the legal status of women and slaves. The setting is often the subject.
+6 · What do the words do? | Command, describe, lament, promise, threaten, concede, argue. Compare two translations and see whether they agree about which.
+7 · Who gains from this reading? | Ask it of every reading, including the one you prefer. A reading that benefits you isn't wrong because of it, and it's worth checking twice.
+8 · What does this reading cost? | And who pays. POSSIBLE: The Empire has never asked this one out loud, and Eden eventually can't stop asking it.
+box: What the method buys you
+It doesn't buy authority over people who quote this book for a living. Many of them run these questions better than you will. It buys the ability to tell a reading that has done the work from one that skipped a step, including your own, and to say which step.
+/end
+
+@page rh="READING IN CONTEXT · PRACTICE, LEFT · 2 OF 3" m="TEMPLATE; PRACTICE"
+# Passage: ______________
+cols:
+prompt: Translation used | 2
+||
+prompt: Reference | 2
+/end
+cols:
+prompt: 1 · Genre | 3
+||
+prompt: 2 · Speaker | 3
+/end
+cols:
+prompt: 3 · Audience | 3
+||
+prompt: 4 · What surrounds it | 3
+/end
+prompt: 5 · Historical context: what world produced it | fill
+prompt: 6 · What the words do, and whether two translations agree | fill
+prompt: The interpretive dispute: who reads it which way, and on what evidence | fill
+
+@page rh="READING IN CONTEXT · PRACTICE, RIGHT · 3 OF 3" m="TEMPLATE; WHO GAINS, WHO PAYS"
+# Who gains, who pays
+prompt: 7 · Who gains from each reading | fill
+prompt: 8 · What each reading costs, and who pays it | fill
+prompt: The Empire's official reading, and how it's taught | fill
+prompt: Where I currently land, in my own words | fill
+cols:
+prompt: Research still needed | 3
+||
+prompt: Which character holds which reading | 3
+/end
+prompt: The scene, chapter or doctrine this feeds | 3
+status
+
+@page id="m-fault" rh="LEARNING THE BIBLE · THE FAULT-LINE MAP · 1 OF 4" m="CONTESTED; I.6"
+# Eight fault lines
+lede: The eight places where reading this book divides people, and where the Empire has a doctrine. Research won't produce agreement on any of them, but it reliably rules out weak claims and shows what the argument is actually about.
+tabrl:
+| Fault line | What's actually in dispute | Where TKC uses it |
+| Headship | The range of one Greek noun, the reach of the mutual-submission verse, and what carries over from a Roman household code | The Binding. Every household in the Empire. |
+| Women speaking | Restriction passages in the Pauline letters set against the undisputed letters, which name women as coworkers, a deacon and an apostle. Authorship and dating carry weight here. | The Vowed. Who may teach, and who may only recite. |
+| Slavery | Texts that regulate slavery without abolishing it, and the principle by which a tradition later called it wrong. The verses aren't in doubt. The principle is the argument. | Designation and labor tracks. Who can be assigned. |
+| Divine violence | Conquest narratives and judgment oracles: history, theological rhetoric, later reflection or ancient war convention, and how any of it fits a God described elsewhere as merciful | The Fall. Every purge called cleansing. |
+| Obedience to rulers | Romans 13 against the prophets, Revelation and the movement's own martyrs. General principle, or advice to a vulnerable congregation in the imperial capital? | The Empire's most quoted text. Its whole legitimacy. |
+| Wealth | Whether the warnings target attachment, structural injustice or wealth itself, and how they sit beside the prosperity language of the wisdom books | Crownward theology. Blessing as evidence of favor. |
+| Purity and the body | Which rules are which, and by whose framework. The ritual and moral distinction is a later category applied to the texts, not a label printed in them. | Designation exams, the Salt Ceremony, fertility review |
+| The end of things | Apocalyptic read as address to its own moment, as a future program, as a recurring pattern, or as liturgy | Whose reading is orthodoxy, and whose is sedition |
+prompt: The fault line my novel stands on hardest | fill
+
+@page rh="CONTESTED READINGS · FOUR KINDS OF DISAGREEMENT · 2 OF 4" m="CONTESTED; METHOD"
+# Not all contested alike
+lede: The most important distinction in this part. Treating all four as equally open is how a companion becomes useless, and how a well-read person ends up unable to say that something is simply false.
+box: I · Serious scholarly dispute
+Specialists with the languages, the manuscripts and the historical training disagree, and each side can state the other's evidence. The range of *kephalē*. The authorship of Ephesians. Represent both, and don't pick a winner in the companion's own voice.
+/end
+box: II · Denominational or traditional disagreement
+Communities differ because of their confessions, their governance and inherited practice, more than because the evidence is contested. Who may be ordained. Whether Revelation is read aloud. Name the tradition instead of treating its position as the neutral one.
+/end
+box: III · Open theological questions
+Questions the text raises and doesn't close, where evidence runs out and judgment begins. What the conquest narratives say about God. Whether Job is ever answered. These stay open honestly, and they're where a novel does its best work.
+/end
+box: IV · Unsupported claims
+Claims that fail on the evidence: invented etymologies, a word supposedly mistranslated in every Bible, a council that decided something it never discussed. These are wrong, and the companion can say so, while noting that a character may believe one sincerely and build a life on it. The curse of Ham is in this category (Genesis dossier).
+/end
+box: The sorting question
+Before writing any dispute into a scene, ask which of the four it is. Category I earns two credible characters. Category IV earns one character who's wrong and one who knows it, and that's a different scene entirely.
+/end
+prompt: The category IV claim the Empire teaches as settled fact | fill
+
+@page rh="FAULT-LINE STUDY · TEMPLATE, LEFT · 3 OF 4" m="TEMPLATE; PHOTOCOPY BEFORE FILLING"
+# Fault line: ______________
+prompt: Kind: I / II / III / IV | 2
+prompt: The passages, with references | fill
+prompt: Historical context | fill
+k: The major readings
+tab:
+| The reading | Who holds it | On what evidence |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+
+@page rh="FAULT-LINE STUDY · TEMPLATE, RIGHT · 4 OF 4" m="TEMPLATE; THE EMPIRE AND THE PEOPLE"
+# The Empire and the people
+cols:
+prompt: What the Empire officially teaches | 5
+||
+prompt: What it suppresses, and how | 5
+/end
+k: Who in the novel stands where
+tab:
+| Character | Agrees · doubts · resists · reinterprets | What it costs her, and when she learned it |
+| _ | _ | _ |
+| _ | _ | _ |
+| _ | _ | _ |
+cols:
+prompt: What stays unresolved, and should | fill
+||
+prompt: What I still need a source for | fill
+/end
+status
+
+@page id="m-house" rh="LEARNING THE BIBLE · THE HOUSEHOLD VERSE · 1 OF 6" m="EPH 5.18–6.9; P46 · VATICANUS; SINAITICUS · ALEXANDRINUS; METZGER, TEXTUAL COMMENTARY; GURRY, NTS 2021; I.7"
+# Ephesians 5
+lede: The worked example, because the Empire's household law is built on this passage and because nearly everything hard about reading scripture is in it at once: a disputed author, a supplied verb, a contested word, a Roman legal background, and a verse break in the wrong place.
+k: Where the sentence actually starts
+Verse 21 tells the whole congregation to submit to one another. Verse 22 addresses wives. In P46 and Codex Vaticanus, verse 22 has no verb at all, and Clement of Alexandria quotes it the same way, so the instruction to wives borrows the participle of verse 21, and the two verses are one grammatical movement. Codex Sinaiticus, Alexandrinus and most later manuscripts supply a verb, and most English Bibles supply one too, with a section heading printed between the verses. The heading is modern apparatus, not scripture.
+corr: It listed Sinaiticus among the verbless witnesses. Sinaiticus has the verb (*hypotassesthōsan*). The verbless witnesses are P46 and Vaticanus.
+contested: What the participle settles, and what it doesn't
+The grammatical link isn't in dispute. What it implies is. One reading holds that mutual submission in 21 governs everything after it. Another holds that 21 introduces submission in general and 22 onward specifies its ordered forms. Bruce Metzger's committee preferred the verbless text, and Peter Gurry (New Testament Studies, 2021) argues the verb is original. The grammar alone doesn't decide the meaning, and anyone who says the Greek settles it is overselling, in either direction.
+/end
+k: The authorship question
+Ephesians is one of the disputed letters. Whether Paul wrote it divides scholars, which affects any argument that runs "the same author who names women as coworkers also said this."
+box: The structural lesson
+Quote verse 22 alone and you have a rule for wives. Quote 21 through 33 and you have a passage that gives husbands three times as many verses (nine to three) and about 116 Greek words to the wives' 40 (Mowczko). INTERPRETATION: The mechanism isn't mistranslation. It's fragment selection, plus a heading, plus teaching the doctrine before anyone reads the paragraph. Any institution with a lectionary and a catechism can do it without altering a word.
+/end
+
+@page rh="THE HOUSEHOLD VERSE · ONE WORD · 2 OF 6" m="KEPHALĒ; BEDALE 1954; GRUDEM, TRINJ 1985; FITZMYER 1989; CERVIN 1989; BDAG"
+# Head
+lede: The Greek word is *kephalē*. Its range in this period is one of the most argued questions in New Testament lexicography, and the dispute is genuine on both sides.
+tabrl:
+| Proposed sense | The case for it, and the strain against it |
+| Authority over | Well attested for rulers and governing bodies, and the natural reading if the passage is arranging a hierarchy. Wayne Grudem surveyed 2,336 instances (1985) and argued "source" is rare, and Joseph Fitzmyer (1989) agreed. Strain: the passage defines the husband's headship by self-giving and nourishing, and gives husbands no order anywhere. |
+| Source or origin | Attested in some contexts, a river's head, a source of supply, and fits the body imagery, where the head supplies and the body grows. Stephen Bedale (1954) began the modern debate with it, and Catherine Kroeger and Philip Payne developed it. Strain: how common this sense was in ordinary first-century use is exactly what's disputed. |
+| Preeminence | Foremost, most prominent, first in honor, with no command attached. Richard Cervin's reply to Grudem (1989) is usually grouped here. Strain: honor and authority are hard to separate in a society organized around both. |
+| Metaphor, unresolved | The writer is working an extended body metaphor and didn't intend an institutional definition, which would explain why readers have pulled incompatible institutions out of it for two thousand years. |
+contested: The word rendered "submit"
+*Hypotassō* means to arrange oneself under someone. The middle voice is often read as something the subject does herself, and scholars disagree about how much weight that can bear. INTERPRETATION: A voluntary act inside a legal system where the alternative is ruin is voluntary only in a limited sense. POSSIBLE: The Empire understands this perfectly. It never forces. It makes the alternative unlivable.
+/end
+box: What not to do with this page
+Don't use it to announce that the Greek has been solved and the hierarchy dissolved. The point is to be able to say which sense a reading assumes and what that assumption costs.
+/end
+prompt: Which sense the Empire's doctrine assumes, and whether its Prelates know there's a choice | fill
+
+@page rh="THE HOUSEHOLD VERSE · THE ROMAN BACKGROUND · 3 OF 6" m="ARISTOTLE, POLITICS I; BALCH, LET WIVES BE SUBMISSIVE (1981); EPH 5.25–33; EPH 6.5–9"
+# The household code
+lede: Wives, children and slaves, addressed in that order, isn't an invention of this letter. It's a recognizable Greco-Roman form, instruction on managing a household, which was a political unit as much as a domestic one, because the ordered household was understood as the foundation of the ordered state.
+k: What the form assumes
+A male head with legal authority over wife, children and enslaved people, the household as an economic enterprise, and the state's interest in its order. Aristotle's *Politics* (Book I) sets out the three pairs. A first-century reader would recognize the shape at once, and would notice the departures.
+contested: Where this version departs from the form
+It addresses the subordinate parties directly as moral agents. It gives the husband the longer and harder instruction. It grounds the arrangement in Christ's self-giving and not in nature or the head's prerogative. Whether that amounts to subverting the code, a Christianized version of it, or an accommodation that made the movement socially survivable is a live argument, and all three are held by people who've done the work. David Balch argued that 1 Peter's code helped present the movement as respectable to suspicious outsiders.
+/end
+k: The instructions to husbands
+Love as Christ loved and gave himself up. Nourish and cherish as your own body. The passage gives husbands no command to rule, enforce or correct. INTERPRETATION: A doctrine of headship that produces enforcement is drawing on the noun in verse 23, and not on anything the passage tells husbands to do.
+k: The part nobody quotes at weddings
+The same code goes on to enslaved people and their masters (6:5–9). An institution that treats the wives section as timeless and the slavery section as historically conditioned is making an interpretive decision it usually declines to defend. Noticing that is the most useful single move available to a character inside such an institution.
+prompt: How the Empire handles the slavery section of the same passage | fill
+
+@page rh="THE HOUSEHOLD VERSE · WHO READS IT HOW · 4 OF 6" m="COMPLEMENTARIAN; EGALITARIAN; DANVERS 1987; CBE 1987; PART IV"
+# Four positions
+lede: Held by real people with real arguments. Learn to state each one in its own terms before deciding anything. A character who can only caricature the other reading hasn't thought about it yet.
+tabrl:
+| Position | What it holds, and on what evidence | Its hardest problem |
+| Ordered roles (complementarian) | Distinct and permanent roles: the husband leads, the wife submits, both equal in worth. Rests on the plain sense of headship in the era's usage and on the order of the code itself. | Nothing in the passage authorizes enforcement, and verse 21 addresses everyone |
+| Mutual submission (egalitarian) | Verse 21 governs the whole section, and the household instructions apply a shared obligation. Rests on the grammar of the participle and the content of the husbands' instructions. | The instructions are still asymmetrical, and only wives are told to submit |
+| Historically situated | A first-century congregation taught to live inside an existing legal structure without being destroyed by it. Rests on the household-code parallels and the letter's occasional character. | It needs a principle for deciding what carries over to other centuries, and stating that principle is hard |
+| Accommodation | A movement softening its radical edge to survive scrutiny. Rests on the trajectory from the undisputed letters toward the Pastorals. | It depends on authorship and dating questions that aren't settled |
+small: The modern American debate took its current shape in 1987, with the complementarian Danvers Statement and the founding of Christians for Biblical Equality. See Part IV.
+prompt: Assign one position to each character who has an opinion, then one to a character who's never been told there's more than one | fill
+
+@page rh="THE HOUSEHOLD VERSE · THE EIGHT QUESTIONS, RUN · 5 OF 6" m="METHOD, WORKED; EPH 5.21–6.9"
+# The method, worked
+lede: The eight questions, answered on this passage, so you can see a completed run before doing your own.
+rec:
+1 · Kind of text | A letter containing a household code: correspondence, not legislation, with a recognizable moral-instruction form inside it.
+2 · Speaker | The letter's author, writing in Paul's name. CONTESTED: whether Paul wrote it. Not a narrator reporting, and not God quoted directly.
+3 · Audience | A congregation, or several, in the Roman province of Asia. Wives, husbands, children and enslaved people are all addressed as present and listening.
+4 · Before and after | Before: mutual submission, addressed to all. After: husbands, then children and parents, then slaves and masters. The wives' instruction is the shortest unit in the sequence.
+5 · The world | Roman legal households with a male head, an economy that included slavery, a state invested in domestic order, and a small movement under intermittent suspicion.
+6 · What the words do | Instruct, in some manuscripts through a participle hanging on the previous sentence. One contested noun. The husbands' portion is longer and makes the heavier demand.
+7 · Who gains | From the fragment: whoever holds household authority, and any state that needs orderly households. From the whole passage: much less clear, which is why the fragment is what gets printed.
+8 · What it costs | Under the fragment reading, a woman's standing depends on a man's character, with no recourse written into the text. Ask who in Aurelia pays that, and what she's told when she says so.
+prompt: Where my own first run of this passage went wrong | fill
+
+@page rh="THE HOUSEHOLD VERSE · YOUR RESPONSE · 6 OF 6" m="YOURS; TKC: CR · DOM · DR3"
+# What this is for
+This passage is the seed of the Binding, the Covenant and every household in the Empire (CR). Write what the Empire did with it, and what you were taught about it long before you read the paragraph.
+prompt: What I was taught this passage meant, and who taught me | fill
+prompt: The Empire's official doctrine of headship, in the Empire's own words | fill
+prompt: Which verses the Temple prints, and which it leaves for clergy | fill
+prompt: The moment Eden reads the whole paragraph for the first time | fill
+status

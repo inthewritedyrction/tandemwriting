@@ -1,0 +1,188 @@
+/* TKC Volume One workbook. White page, ITWD pink, original Companion page system. */
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-400-normal.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: italic; src: url('../assets/fonts/eb-garamond-latin-400-italic.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-600-normal.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: italic; src: url('../assets/fonts/eb-garamond-latin-600-italic.woff2'); }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-ext-400-normal.woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+02B0-02FF; }
+@font-face { font-family: 'EB Garamond'; font-weight: 400; font-style: italic; src: url('../assets/fonts/eb-garamond-latin-ext-400-italic.woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+02B0-02FF; }
+@font-face { font-family: 'EB Garamond'; font-weight: 600; font-style: normal; src: url('../assets/fonts/eb-garamond-latin-ext-600-normal.woff2'); unicode-range: U+0100-024F, U+1E00-1EFF, U+02B0-02FF; }
+@font-face { font-family: 'Cinzel'; font-weight: 400; src: url('../assets/fonts/cinzel-latin-400-normal.woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 600; src: url('../assets/fonts/cinzel-latin-600-normal.woff2'); }
+@font-face { font-family: 'Cinzel'; font-weight: 700; src: url('../assets/fonts/cinzel-latin-700-normal.woff2'); }
+@font-face { font-family: 'Jost'; font-weight: 400; src: url('../assets/fonts/jost-latin-400-normal.woff2'); }
+@font-face { font-family: 'Jost'; font-weight: 500; src: url('../assets/fonts/jost-latin-500-normal.woff2'); }
+@font-face { font-family: 'Jost'; font-weight: 600; src: url('../assets/fonts/jost-latin-600-normal.woff2'); }
+
+:root {
+  --pink: #E5173F; --pinksoft: #fbe3e8; --ink: #1c1c1e; --mid: #56575c; --soft: #8a8b90;
+  --rule: #c4c4c8; --hair: #dedee1; --line: 0.355in;
+}
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #fff; }
+body { color: var(--ink); font-family: 'EB Garamond', Georgia, serif; font-size: 12pt; line-height: 1.4;
+       -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* ---------- the page ---------- */
+.page { width: 8.5in; height: 11in; position: relative; overflow: hidden; break-after: page; background: #fff; }
+.page .rh { position: absolute; top: 0.48in; left: 0.85in; right: 0.85in; text-align: center; font-family: 'Jost'; font-weight: 500;
+            font-size: 7.6pt; letter-spacing: 0.32em; text-transform: uppercase; padding-bottom: 7pt; border-bottom: 2.4pt double var(--ink); }
+.page .folio { position: absolute; bottom: 0.42in; left: 0; right: 0; text-align: center; font-size: 10.5pt; }
+.page .folio::before, .page .folio::after { content: ''; display: inline-block; width: 0.42in; border-top: 1pt solid var(--pink); vertical-align: middle; margin: 0 9pt; }
+.page .body { position: absolute; top: 0.95in; bottom: 0.82in; left: 0.85in; right: 0.85in; display: flex; gap: 0.22in; }
+.page.odd .body { flex-direction: row; }
+.page.even .body { flex-direction: row-reverse; }
+.main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.margin { flex: 0 0 0.92in; border-left: 0.6pt solid var(--hair); padding-left: 9pt; font-family: 'Jost'; font-size: 6.9pt; letter-spacing: 0.14em;
+          text-transform: uppercase; color: var(--soft); line-height: 1.55; display: flex; flex-direction: column; }
+.page.even .margin { border-left: 0; border-right: 0.6pt solid var(--hair); padding-left: 0; padding-right: 9pt; }
+.margin .ref { margin-bottom: 11pt; }
+.margin .see, .side .see { margin-top: auto; text-transform: none; letter-spacing: 0; font-family: 'EB Garamond'; font-size: 9.6pt; color: var(--mid); line-height: 1.35; border-top: 0.6pt solid var(--hair); padding-top: 6pt; }
+.see .orn { color: var(--pink); }
+
+/* wide sidebar, for essay pages */
+.side { flex: 0 0 2.05in; border-left: 0.6pt solid var(--hair); padding-left: 12pt; display: flex; flex-direction: column; }
+.page.even .side { border-left: 0; border-right: 0.6pt solid var(--hair); padding-left: 0; padding-right: 12pt; }
+.side .sbox { border: 0.8pt solid var(--ink); padding: 7pt 9pt; margin-bottom: 10pt; font-size: 10.2pt; line-height: 1.38; }
+.side .sbox .k { margin-bottom: 4pt; }
+.side .chips { display: flex; gap: 5pt; margin-bottom: 8pt; }
+.side .chips span { border: 0.8pt solid var(--ink); font-family: 'Jost'; font-size: 7pt; letter-spacing: 0.12em; padding: 2pt 5pt; }
+.side .stext { font-size: 10.4pt; color: var(--mid); line-height: 1.4; margin-bottom: 10pt; }
+
+/* ---------- type ---------- */
+h1 { font-family: 'Cinzel'; font-weight: 700; font-size: 25pt; line-height: 1.08; margin: 0 0 0.1in; letter-spacing: 0.01em; }
+h1::after { content: ''; display: block; height: 2.2pt; background: var(--pink); margin-top: 0.1in; }
+.k, .kicker { font-family: 'Jost'; font-weight: 600; font-size: 7.6pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--ink); margin: 9pt 0 4pt; line-height: 1.45; }
+.k.pink { color: var(--pink); }
+p { margin: 0 0 7pt; text-wrap: pretty; }
+.lede { font-style: italic; font-size: 12.8pt; line-height: 1.42; margin-bottom: 8pt; }
+.drop::first-letter { float: left; font-family: 'Cinzel'; font-size: 34pt; line-height: 0.9; padding: 4pt 5pt 0 0; color: var(--pink); }
+strong { font-weight: 600; }
+.lab { font-family: 'Jost'; font-weight: 600; font-size: 7.4pt; letter-spacing: 0.14em; color: var(--pink); }
+.tag { font-family: 'Jost'; font-weight: 600; font-size: 7.6pt; letter-spacing: 0.04em; }
+.small { font-size: 10.2pt; }
+ul, ol { margin: 0 0 7pt; padding-left: 1.2em; }
+li { margin-bottom: 3pt; }
+ul li::marker { color: var(--pink); }
+ol li::marker { font-family: 'Jost'; font-weight: 600; font-size: 8.5pt; color: var(--pink); }
+
+/* scripture */
+.q { border-left: 0.8pt solid var(--ink); padding: 2pt 0 2pt 11pt; margin: 6pt 0 9pt; }
+.q .t { font-style: italic; font-size: 12pt; line-height: 1.4; }
+.q .r { font-family: 'Jost'; font-size: 7pt; letter-spacing: 0.22em; text-transform: uppercase; color: var(--mid); margin-top: 3pt; }
+.pull { text-align: center; font-style: italic; font-size: 12.6pt; border-top: 0.6pt solid var(--rule); padding-top: 8pt; margin-top: auto; }
+
+/* ---------- record rows ---------- */
+.record { border-top: 1.1pt solid var(--ink); border-bottom: 1.1pt solid var(--ink); margin: 4pt 0 10pt; }
+.record .row { display: flex; border-bottom: 0.5pt solid var(--rule); }
+.record .row:last-child { border-bottom: 0; }
+.record .l { flex: 0 0 1.25in; font-family: 'Jost'; font-weight: 500; font-size: 7.2pt; letter-spacing: 0.16em; text-transform: uppercase; padding: 6pt 8pt 6pt 0; border-right: 0.5pt solid var(--rule); }
+.record .v { flex: 1; padding: 5pt 0 6pt 10pt; font-size: 11.4pt; line-height: 1.38; }
+
+/* ---------- tables ---------- */
+table { width: 100%; border-collapse: collapse; margin: 4pt 0 10pt; font-size: 10.9pt; line-height: 1.34; border-top: 1.1pt solid var(--ink); border-bottom: 1.1pt solid var(--ink); }
+th { font-family: 'Jost'; font-weight: 600; font-size: 7pt; letter-spacing: 0.16em; text-transform: uppercase; text-align: left; padding: 5pt 7pt 4pt 0; border-bottom: 0.8pt solid var(--ink); vertical-align: bottom; background: #fafafa; }
+td { padding: 4.5pt 8pt 4.5pt 0; border-bottom: 0.5pt solid var(--rule); vertical-align: top; }
+td:first-child, th:first-child { padding-left: 4pt; }
+td.rl { font-family: 'Jost'; font-weight: 500; font-size: 7pt; letter-spacing: 0.15em; text-transform: uppercase; width: 1.05in; }
+td.blank { height: 0.42in; }
+tr:last-child td { border-bottom: 0; }
+
+/* ---------- boxes ---------- */
+.box { border-left: 2pt solid var(--ink); padding: 1pt 0 1pt 11pt; margin: 4pt 0 9pt; }
+.box.thin { border-left-width: 0.8pt; }
+.box .k { margin-top: 0; }
+.empire { border: 1.6pt solid var(--ink); border-left: 5pt solid var(--pink); padding: 8pt 11pt 6pt; margin: 6pt 0 10pt; }
+.empire .k { margin-top: 0; color: var(--pink); }
+.contested { border: 1pt dashed var(--ink); padding: 8pt 11pt 5pt; margin: 6pt 0 10pt; }
+.contested .k { margin-top: 0; }
+.corr { border-left: 2.5pt solid var(--pink); padding-left: 10pt; margin: 5pt 0 9pt; font-size: 10.8pt; }
+.cnote { border: 0.8pt solid var(--ink); padding: 7pt 10pt; margin-bottom: 10pt; font-family: 'Jost'; font-size: 8.4pt; letter-spacing: 0.03em; line-height: 1.45; }
+.cnote b { font-weight: 600; letter-spacing: 0.18em; color: var(--pink); }
+.cols { display: flex; gap: 0.22in; margin-bottom: 6pt; }
+.cols > div { flex: 1; min-width: 0; }
+.cols > div + div { border-left: 0.6pt solid var(--rule); padding-left: 0.18in; }
+
+/* ---------- writing ---------- */
+.prompt { margin-top: 8pt; }
+.prompt .k { color: var(--ink); margin-bottom: 0; }
+.prompt .k .n { color: var(--pink); }
+.lines i { display: block; height: var(--line); border-bottom: 0.6pt solid var(--rule); }
+.fill { flex: 1 1 0; min-height: 0.5in; display: flex; flex-direction: column; }
+.fill .lines { flex: 1; overflow: hidden; }
+.decided { display: flex; gap: 0.35in; border-top: 2pt solid var(--pink); padding-top: 5pt; margin-top: 10pt; font-family: 'Jost'; font-weight: 600; font-size: 7.6pt; letter-spacing: 0.2em; }
+.decided span { flex: 1; border-bottom: 0.6pt solid var(--rule); padding-bottom: 16pt; }
+.decided span.d { flex: 0 0 1.6in; }
+.review { border: 1pt solid var(--ink); padding: 9pt 12pt 8pt; margin-top: 12pt; }
+.review .top { display: flex; justify-content: space-between; align-items: baseline; }
+.review .top i { font-size: 10pt; color: var(--mid); }
+.review p { font-size: 10.6pt; margin: 5pt 0 14pt; }
+.review .fields { display: flex; gap: 0.2in; }
+.review .fields span { flex: 1; border-top: 0.6pt solid var(--ink); padding-top: 3pt; font-family: 'Jost'; font-size: 7pt; letter-spacing: 0.2em; }
+.side .fill { min-height: 1in; }
+.side .lines i { height: 0.33in; }
+
+/* ---------- dividers and openers ---------- */
+.divider .wrap { position: absolute; top: 0.9in; bottom: 0.9in; left: 1.15in; right: 1.15in; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.divider .bar { width: 100%; height: 7pt; background: var(--pink); }
+.divider .bar2 { width: 100%; border-top: 0.6pt solid var(--ink); margin-top: 3pt; }
+.divider .series { font-family: 'Jost'; font-weight: 500; font-size: 8.4pt; letter-spacing: 0.36em; margin-top: 0.22in; }
+.divider .num { font-family: 'Cinzel'; font-weight: 400; font-size: 96pt; line-height: 1; color: var(--pink); margin-top: 0.35in; }
+.divider .kind { font-family: 'Jost'; font-weight: 500; font-size: 9pt; letter-spacing: 0.4em; margin-top: 0.18in; }
+.divider .title { font-family: 'Cinzel'; font-weight: 700; font-size: 38pt; line-height: 1.12; margin-top: 0.22in; }
+.divider .orn { display: flex; align-items: center; gap: 12pt; margin: 0.28in 0 0.24in; color: var(--pink); font-size: 13pt; }
+.divider .orn::before, .divider .orn::after { content: ''; width: 1in; border-top: 0.8pt solid var(--ink); }
+.divider .sub { font-style: italic; font-size: 15pt; line-height: 1.45; max-width: 5.2in; }
+.divider .foot { margin-top: auto; font-family: 'Jost'; font-size: 8pt; letter-spacing: 0.3em; color: var(--mid); }
+.divider .toc { width: 100%; margin-top: 0.25in; text-align: left; }
+.divider .toc div { display: flex; justify-content: space-between; border-bottom: 0.5pt solid var(--hair); padding: 3.5pt 0; font-size: 11.6pt; }
+.divider .toc div span:last-child { font-family: 'Jost'; font-size: 9pt; }
+.divider .base { width: 100%; border-top: 0.6pt solid var(--ink); margin-top: auto; }
+
+/* opener: plate on top, title block below */
+.opener .body { flex-direction: row; }
+.page.even.opener .body { flex-direction: row-reverse; }
+.opener .platebox { flex: 0 0 4.6in; margin-bottom: 0.16in; }
+.opener .tk { font-family: 'Jost'; font-weight: 600; font-size: 8pt; letter-spacing: 0.3em; color: var(--pink); }
+.opener .big { font-family: 'Cinzel'; font-weight: 700; font-size: 50pt; line-height: 1; margin: 2pt 0 0; }
+.opener .big::after { content: ''; display: block; height: 3pt; background: var(--pink); margin: 0.12in 0 0.12in; }
+
+/* plates: the designed object in place of a picture */
+.plate { height: 100%; border: 1pt solid var(--ink); padding: 4pt; }
+.plate > .in { height: 100%; border: 0.6pt solid var(--ink); display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 0.35in 0.5in; }
+.plate .pk { font-family: 'Jost'; font-weight: 600; font-size: 7.6pt; letter-spacing: 0.34em; color: var(--pink); }
+.plate .pq { font-style: italic; font-size: 19pt; line-height: 1.38; margin: 0.18in 0; }
+.plate .pr { font-family: 'Jost'; font-size: 7.8pt; letter-spacing: 0.28em; }
+.plate .po { color: var(--pink); margin: 10pt 0; }
+.plate.frame .in { justify-content: flex-end; }
+.plate.frame .cap { font-family: 'Jost'; font-size: 7.4pt; letter-spacing: 0.3em; color: var(--mid); }
+/* a document: Registry form, scroll, ledger */
+.plate.doc > .in { align-items: stretch; justify-content: flex-start; text-align: left; padding: 0.3in 0.4in; background: #fff; }
+.doc .dh { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2.4pt double var(--ink); padding-bottom: 5pt; }
+.doc .dh b { font-family: 'Cinzel'; font-weight: 700; font-size: 15pt; letter-spacing: 0.04em; }
+.doc .dh span { font-family: 'Jost'; font-size: 7pt; letter-spacing: 0.22em; }
+.doc .dsub { font-family: 'Jost'; font-size: 7.2pt; letter-spacing: 0.24em; color: var(--mid); margin: 5pt 0 10pt; }
+.doc .df { display: flex; border-bottom: 0.6pt solid var(--rule); padding: 5pt 0; font-size: 11pt; }
+.doc .df .fl { flex: 0 0 1.75in; font-family: 'Jost'; font-size: 7pt; letter-spacing: 0.18em; text-transform: uppercase; padding-top: 2pt; }
+.doc .df .fv { flex: 1; font-style: italic; }
+.doc .stamp { margin-top: auto; align-self: flex-end; border: 1.6pt solid var(--pink); color: var(--pink); font-family: 'Jost'; font-weight: 600; font-size: 8.4pt; letter-spacing: 0.28em; padding: 6pt 10pt; transform: rotate(-4deg); }
+.doc .dnote { font-size: 10pt; font-style: italic; color: var(--mid); margin-top: 8pt; }
+
+.opener .calls { display: flex; gap: 0.2in; margin-top: 4pt; }
+.opener .calls > div { flex: 1; }
+.opener .calls > div:first-child { border-left: 2pt solid var(--ink); padding-left: 10pt; }
+.opener .calls > div + div { border-left: 0.6pt solid var(--rule); padding-left: 10pt; }
+.opener .calls p { font-size: 10.6pt; }
+
+/* title page */
+.cover .wrap { position: absolute; inset: 1.1in 1.1in; display: flex; flex-direction: column; align-items: center; text-align: center; }
+.cover .t1 { font-family: 'Cinzel'; font-weight: 700; font-size: 64pt; line-height: 1.02; margin-top: 1.2in; }
+.cover .orn { color: var(--pink); font-size: 20pt; margin: 0.25in 0; }
+.cover .s1 { font-family: 'Jost'; font-weight: 500; font-size: 10pt; letter-spacing: 0.4em; }
+.cover .s2 { font-family: 'Cinzel'; font-weight: 600; font-size: 26pt; margin-top: 0.3in; }
+.cover .s3 { font-style: italic; font-size: 13pt; margin-top: 0.35in; max-width: 4.8in; }
+.cover .s4 { margin-top: auto; font-family: 'Jost'; font-size: 8pt; letter-spacing: 0.3em; }
+
+.status { display: flex; gap: 14pt; align-items: flex-end; border-top: 2pt solid var(--pink); padding-top: 7pt; margin-top: 10pt; font-family: 'Jost'; font-weight: 600; font-size: 7.2pt; letter-spacing: 0.18em; }
+.status .ck::before { content: ''; display: inline-block; width: 8pt; height: 8pt; border: 0.9pt solid var(--ink); margin-right: 5pt; vertical-align: -1pt; }
+.status .f { flex: 1; border-bottom: 0.6pt solid var(--rule); padding-bottom: 12pt; }

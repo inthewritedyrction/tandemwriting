@@ -1,0 +1,145 @@
+@divider num="i–ii" kind="MODULES" title="What It Is/How It Came Together" sub="The library, its four collections, and the thousand years it took to decide what was in it" foot="TEN PAGES"
+
+@page rh="LEARNING THE BIBLE · WHAT IT ACTUALLY IS · 1 OF 4" m="INFORMATION; CANON; TANAKH · LXX; I.1"
+# What the Bible actually is
+lede: A library, not a book. Sixty-six documents in the Protestant collection this companion starts from, written across roughly a thousand years, in three languages, by people who didn't know they were contributing to the same volume, and who sometimes argued with each other.
+k: Which Bible this companion uses, and why that needs saying
+We start with the sixty-six-book Protestant canon, because it's the Bible in the room where you were raised and the Bible the Empire inherited. It isn't the only one. Jewish tradition holds twenty-four books in three divisions and doesn't arrange them as an Old Testament. Catholic Bibles include the deuterocanonical books. Orthodox collections include those and more, and differ among themselves, and the Ethiopian Orthodox canon is the largest of all. The shape of the collection is itself an argument about what scripture is for.
+k: The internal conversations
+tabrl:
+| The tension | What's actually in dispute |
+| Deuteronomy and Job | Deuteronomy ties covenant faithfulness to flourishing. Job gives a righteous man catastrophe and lets his friends make the simple version of that argument until it fails. The dispute is over retribution used as a rule. |
+| Ezra and Ruth | Ezra–Nehemiah dissolves foreign marriages as restoration policy. Ruth makes a Moabite woman David's great-grandmother. Two answers to the same question about who belongs. |
+| Proverbs and Ecclesiastes | Proverbs teaches that wisdom can be learned and generally pays. Ecclesiastes watches the same world and reports that the pattern doesn't hold. |
+| Court and prophet | The court histories tell kingship from inside the palace. The prophets address the same kings from outside, about the poor, the widow, the foreigner and the worker, and also about idolatry, false worship and foreign alliances. |
+box: The working lens
+INTERPRETATION: The Bible holds many voices, priestly and prophetic, royal and exilic, addressing different crises. Read these as tensions inside one tradition, not as authors calling each other liars. When a character quotes scripture as if it has one settled opinion, that character is making a choice worth writing about.
+/end
+
+@page rh="LEARNING THE BIBLE · THE CANONS COMPARED · 2 OF 4" m="TANAKH; LXX; TRENT 1546; ETHIOPIAN CANON"
+# Four collections
+lede: The same core, different edges, a different order, and the order is an argument. Where a collection ends tells you what it thinks the story is about.
+tab:
+| Collection | Books | How it's arranged | Where it ends |
+| Tanakh (Jewish) | 24 | Torah, Prophets (Nevi'im), Writings (Ketuvim). A complete scripture, not an "Old Testament." | Chronicles, with Cyrus's decree to go up and rebuild. The story closes on return. |
+| Protestant | 66 | 39 Old Testament books (the Tanakh's books, counted and ordered differently, with the Prophets moved to the end) and 27 New | Malachi, then Revelation. The Hebrew scriptures end on a promise, which frames them as a prologue. |
+| Catholic | 73 | Adds the deuterocanonical books: Tobit, Judith, Wisdom, Sirach, Baruch, 1–2 Maccabees, and additions to Esther and Daniel | Includes the Maccabean revolt, armed resistance to an empire that outlawed the faith |
+| Orthodox | 76 or more | Varies by communion. Greek, Slavonic and Ethiopian traditions differ from each other and from Rome. | No single answer. Canon has never been uniform worldwide. |
+corr: It gave the Protestant New Testament twenty-eight books. It has twenty-seven.
+k: Four words that aren't synonyms
+**Canon** is which books are in. **Translation** is which words render them. **Edition** is which notes, headings and apparatus surround them. **Lectionary** is which passages get read aloud, and when. An empire that can't change the canon can still change the other three, and the lectionary is the cheapest.
+empire: What the Empire would do with this page
+POSSIBLE: Never print it. A citizen who knows there are four collections knows there was a decision, and a citizen who knows there was a decision asks who made it. The Empire's Bible has to feel like weather, not legislation.
+/end
+prompt: Which collection is the Empire's official Bible, and what it leaves out on purpose | fill
+
+@page rh="LEARNING THE BIBLE · WHAT YOU BROUGHT TO IT · 3 OF 4" m="YOURS; BASELINE"
+# What you brought to it
+Answer these before the research goes further. They're a baseline, so later discoveries can be measured against something real and not against a memory that has quietly revised itself.
+prompt: What I thought the Bible was before this page | fill
+prompt: Which canon or edition I grew up around: the translation, the cover, whose copy it was | fill
+prompt: What I was never told about how it's organized | fill
+prompt: What this changes about the Empire's official Bible | fill
+status
+
+@page rh="LEARNING THE BIBLE · PRACTICE · 4 OF 4" m="YOURS; PRACTICE"
+# Run one tension yourself
+Take one of the four conversations, or find your own, and work it. The point isn't to resolve it. The point is to be able to say exactly what's in dispute, which is the skill this whole part exists to build.
+cols:
+prompt: The tension I'm working | 3
+||
+prompt: Passages on each side | 3
+/end
+prompt: What's actually in dispute, in one sentence, without taking a side | fill
+prompt: Who gains from each reading | fill
+prompt: Which side the Empire prints, and which side it lets people sing | fill
+prompt: Which character is on which side, and whether she knows there is a side | fill
+small: Nothing written on this page is canon until it's logged. A discovery is a discovery, and a possibility isn't canon.
+
+@page rh="LEARNING THE BIBLE · HOW IT WAS ASSEMBLED · 1 OF 6" m="INFORMATION; IRENAEUS, AGAINST HERESIES 3.11; NICAEA 325; I.2"
+# How it was assembled
+lede: There was never a room where the Bible was decided. It's the most useful thing to know about it and the hardest to hold onto, because a room would be easier to write about, and every empire in the book would prefer you believed in one.
+k: Use came first, recognition second
+Communities read, copied, argued over and prayed with these texts for generations before anyone published a list. Lists, when they came, mostly ratified habits already formed, and the habits were local.
+k: Four gospels, and what that means
+Other gospels existed and circulated. The four in the canon were the ones most widely read, earliest, across the most communities, and treated as apostolic in origin. Irenaeus was arguing for exactly four by about 180, which shows the number was contested enough to need defending. Calling them the gospels that "won" makes it sound like a vote. It was closer to a consensus hardening around what was already in use, with the theological arguments running alongside.
+contested: Who actually held the authority
+Bishops wrote lists. Councils confirmed regional practice more often than they created it. Emperors funded copies, convened meetings and made some outcomes safer to hold than others. Constantine's role at Nicaea in 325 was real, and Nicaea wasn't about the canon. Local use was the slow current under all of it. Canon formation was a long negotiation among all four, and the balance shifted by century and region.
+/end
+box: The claim worth keeping, stated carefully
+INTERPRETATION: "Whoever can convene the meeting decides the canon" is too absolute, and it credits meetings with more than they did. What holds is that the people who could convene, fund, copy and distribute had outsized influence over which texts stayed in circulation, and circulation is most of what canon means in practice.
+/end
+empire: Why this sequence is six pages and not one
+POSSIBLE: The Empire's account of its own Bible will be exactly one page long, and a single page can only give the compressed version.
+/end
+
+@page rh="HOW IT WAS ASSEMBLED · THE HEBREW SCRIPTURES · 2 OF 6" m="NEH 8; SIRACH PROLOGUE; LXX; DEAD SEA SCROLLS 1947–1956"
+# Torah, Prophets, Writings
+lede: Three divisions, settling at different times. The order they settled in is itself information: the most authoritative material stabilized first, and the edges were still being discussed centuries later.
+tabrl:
+| Division | Roughly when | What was happening |
+| Torah | By the Persian period, about the fifth century BCE | Working as authoritative law for the restored community. Public reading is already an institution, and Nehemiah 8 shows the practice. |
+| Prophets | Later, gradually | The Former and Latter Prophets circulate as a recognized body. By the second century BCE a writer can refer to "the law and the prophets" as a known pair. |
+| Writings | Last to settle | The loose end. Psalms and Proverbs uncontroversial. Esther, Ecclesiastes and Song of Songs still discussed in the rabbinic period. |
+| Septuagint | Third century BCE onward | The Greek translation for Greek-speaking Jews, begun in Alexandria, with a wider and looser collection. Most New Testament writers quote it, which is why the Christian Old Testament inherited a different shape. |
+k: Early Christian use of Jewish scripture
+The first Christians had no New Testament. They had Israel's scriptures, read as testimony about what had just happened to them, which is a reading strategy and not a neutral inheritance. Every appeal to prophecy in the gospels is that strategy at work in public.
+k: The Dead Sea Scrolls, in one paragraph
+A library hidden near Qumran and found between 1947 and 1956, with biblical manuscripts about a thousand years older than the standard medieval Hebrew codices. They show a text remarkably stable in most places and genuinely variable in others, which corrects both the idea that the Hebrew Bible never changed and the idea that it was rewritten wholesale.
+prompt: Which division the Empire would teach children first, and which it would save for clergy | fill
+
+@page rh="HOW IT WAS ASSEMBLED · THE LONG TIMELINE · 3 OF 6" m="ATHANASIUS, FESTAL LETTER 39 (367); HIPPO 393 · CARTHAGE 397; TRENT 1546; LANGTON · ESTIENNE 1551"
+# A thousand years of deciding
+lede: Approximate throughout, and contested in places, since dates in this field are arguments and not measurements. What the shape shows is that there was no single moment, and a very long tail.
+tabrl:
+| When | What moved |
+| About the 5th century BCE | The Torah working as authoritative law in the restored Judean community |
+| 3rd to 1st century BCE | The Septuagint translated in Alexandria. The Prophets recognized as a body. Wisdom and apocalyptic writing flourish. |
+| About 50–60 CE | Paul's letters, the earliest New Testament documents, written to particular congregations before any gospel |
+| About 70–100 CE | The gospels, written after the Temple's destruction in 70. The institution at the center of the story is already rubble when they're written. |
+| 2nd century | Marcion publishes a deliberately reduced collection, and the reaction sharpens everyone's sense that the boundary matters. Irenaeus argues for four gospels. |
+| Date disputed | The Muratorian fragment lists much of what becomes the New Testament and leaves some out. CONTESTED: Most date it to the late second century, a minority to the fourth. |
+| 3rd–4th century | Eusebius sorts books into accepted, disputed and rejected, a working scholar's triage. Athanasius lists the twenty-seven books in 367. |
+| Late 4th century | Councils at Hippo and Carthage in North Africa affirm lists close to today's. Jerome makes the Latin Vulgate and flags books he considers secondary, a distinction Rome didn't adopt. |
+| Middle Ages | Stable practice in the West. Eastern churches settle differently and not uniformly. Chapter divisions added in the thirteenth century, usually credited to Stephen Langton. |
+| 16th century | Reformers separate or drop the deuterocanonical books, and Trent affirms them (1546). Robert Estienne's verse numbers (1551). Printing makes a household Bible possible, and a standardized one enforceable. |
+| 19th–20th century | Older manuscripts recovered, critical editions built, translations multiply. The text you can buy today rests on more evidence than any earlier century had. |
+prompt: The date on this timeline the Empire would teach as the moment the Bible was finished | fill
+
+@page rh="HOW IT WAS ASSEMBLED · THE DISPUTED BOOKS · 4 OF 6" m="MEGILLAH 7A; YADAYIM 3.5; EUSEBIUS, H.E. 3.25; LUTHER 1522"
+# The ones they argued about
+lede: The tempting theory is that the disputed books were the ones hardest to preach from. It's too tidy. The recorded objections are usually about authorship, origin or particular content, and each book has its own reason. Read the right column as the reasons actually given.
+tabrl:
+| Book | Status | What the objection was |
+| Esther | Discussed | The Hebrew text never names God, and its festival, Purim, isn't in the Torah. It was received anyway, and the Greek version adds explicitly religious material. |
+| Song of Songs | Discussed | Explicit love poetry with no overt theology. Allegory (God and Israel, Christ and the church) became the standard defense, and it remains a reading. |
+| Ecclesiastes | Discussed | Its conclusions sit awkwardly beside the rest of wisdom literature. Many scholars read its closing verses as a later frame. |
+| Hebrews | Disputed | Anonymous. The West accepted it more slowly because Pauline authorship couldn't be shown, and nearly all scholars now agree Paul didn't write it. |
+| James | Disputed | Slow to circulate, and later a Reformation flashpoint over faith and works. Luther placed it at the back of his 1522 New Testament. It stayed in. |
+| 2 Peter | Disputed | The most doubted New Testament book in antiquity, on grounds of style and attribution. Its authorship is still a live question. |
+| Jude | Disputed | Quotes 1 Enoch, a book outside the canon it ended up in |
+| Revelation | Disputed | Accepted in the West, long resisted in the Greek East. It's scripture for the Orthodox churches and still isn't read aloud in their liturgy. |
+empire: The last row is the one to steal
+POSSIBLE: A book can be fully canonical and never read aloud. It's a real historical arrangement and the most elegant instrument on this page. The Empire never has to ban anything.
+/end
+prompt: Which books are in the Empire's Bible and never in its readings | fill
+
+@page rh="HOW IT WAS ASSEMBLED · THE EMPIRE'S INSTRUMENTS · 5 OF 6" m="APPLICATION; TKC: TR · CR · DR3; FR 33"
+# Six instruments
+lede: The Empire doesn't need to change a word of the canon. Each instrument below is documented somewhere in history, and none requires editing scripture. Rank them by what the Empire would reach for first.
+rec:
+I · The calendar · rank ___ | Which feasts exist, which are civic, which are quietly dropped. A calendar decides what a population rehearses every year, and a holiday nobody keeps is a doctrine nobody remembers.
+II · The public readings · rank ___ | The lectionary, the cheapest and strongest instrument here. For most people, scripture is what gets read aloud. The rest of the book is technically available and functionally silent.
+III · Clergy access · rank ___ | Who is trained, in what, and who may teach it. Control the training and you don't have to control the pulpit. POSSIBLE: The Prelate's assessment team is this instrument with a person's name on it. The Prelate's working name is Prelate Aurelia (FR 33).
+IV · The schoolbooks · rank ___ | Which stories children learn as stories, and in what order. The slowest instrument and the only one that compounds. A generation taught one shape of the book hears anything else as novelty.
+V · Dominion editions · rank ___ | Same canon, different apparatus, Dominion by Dominion. Headings, footnotes, cross-references and study notes do most of the interpretive work in any Bible a citizen owns, and none of it is scripture.
+VI · Commentary and emphasis · rank ___ | What the Broadcast says a passage means, repeated until the gloss can't be separated from the verse. The only instrument that works backward on people who already own the book.
+prompt: Which instrument the Empire used first, and which one it's still afraid to use | fill
+
+@page rh="HOW IT WAS ASSEMBLED · YOUR PAGE · 6 OF 6" m="YOURS; WRITING"
+# The Empire's own account
+Write the Empire's version of this sequence, one page long, the way a Dominion schoolbook would tell it. Then write what it left out. The gap between the two is a doctrine, and doctrines have authors.
+prompt: The Empire's account of how its Bible came to be, in the voice of a schoolbook | fill
+prompt: What it leaves out, and who would be dangerous if they knew it | fill
+prompt: Which character finds the gap first, and in what document | fill
+status

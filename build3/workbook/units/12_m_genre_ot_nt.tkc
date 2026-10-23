@@ -1,0 +1,221 @@
+@divider num="iii–v" kind="MODULES" title="Genres/and the Two Testaments" sub="What each kind of writing can and can't establish, and the shape of each half of the collection" foot="FOURTEEN PAGES"
+
+@page id="m-genre" rh="LEARNING THE BIBLE · THE GENRE MAP · 1 OF 4" m="INFORMATION; I.3"
+# Eight genres
+lede: Genre determines what a passage is capable of establishing, and misreading it is the most common way a sincere reader reaches a confident wrong answer.
+tabrl:
+| Genre | What it's trying to do | What it can't establish |
+| Law | Set a community's obligations, ritual, civil and moral, usually without separating them | Timeless policy. Legal codes address one society's cases. |
+| Narrative | Tell what happened, shaped for a purpose. It often reports behavior without endorsing it. | Approval. A story about polygamy isn't an argument for it. |
+| Poetry | Make something felt, through image, parallel lines and intensity | Doctrine built on a metaphor read literally |
+| Wisdom | Teach how the world generally works, and in Job and Ecclesiastes, how often it doesn't | Promises. A proverb is a pattern, not a guarantee. |
+| Prophecy | Deliver a message from God to a particular people at a particular moment: indictment, warning, consolation, sometimes prediction. Worship, idolatry and the character of God run throughout. | A calendar. Most prophecy speaks to its own audience's present, though some looks ahead and later readers read it forward. |
+| Gospel | Present a life so the hearer has to reckon with it. Ancient biography with a purpose. | A transcript. Selection and arrangement are part of the form. |
+| Letter | Address a live situation in a named community, often with sustained theological argument | Rules without context. You're reading one side of a conversation. |
+| Apocalyptic | Reveal what's really happening behind visible power, in symbols, for people who can't say it plainly | Forecasts of technology. Its symbols were readable to its first audience. |
+box: What genre error costs
+Flattening a metaphor into a rule, or a story into an endorsement, has done real harm and still does. It's one mechanism among several, beside deliberate misuse, selective quotation and institutional interest, and it's worth naming exactly instead of blaming it for everything.
+/end
+prompt: The genre I was taught to read wrong | fill
+
+@page rh="THE GENRES · SMALLER FORMS AND THE TEST · 2 OF 4" m="MATT 1; PS 88; LUKE 15; ISA 13–23"
+# Forms inside the forms
+lede: Eight genres is the map. These are the units a passage is actually built from, and naming the unit usually settles what it can be used for.
+rec:
+Genealogy | A claim about belonging and legitimacy. Who's included is the argument. Matthew's four women are the point of Matthew's list.
+Lament | Structured complaint, often addressed to God and often unresolved. Its place in the canon makes protest a sanctioned form of prayer.
+Hymn | Communal praise, often older than the book it sits in, and often quoted because it was already familiar.
+Proverb | A compressed observation. Reliable as a pattern, dangerous as a promise, and cruel as a rebuke to someone suffering.
+Parable | A story built to move the hearer. It usually turns on one hinge, and allegorizing every detail is how it gets defused.
+Oracle | A delivered message with a named addressee, often a foreign nation. Reading an oracle addressed to Babylon as addressed to you is a category error with a long history.
+Legal code | Case law with penalties, comparable to other ancient Near Eastern codes. Comparison is where the distinctive parts show.
+Court history | A record written near power. Ask who commissioned it and what it leaves out.
+box: The genre test, before quoting anything
+1. What kind of writing is this?
+2. What is this kind of writing for?
+3. What can it establish?
+4. What can't it establish?
+5. Am I using it for the thing it can do?
+6. If not, is the misuse mine, or my character's?
+/end
+prompt: The genre the Empire misreads on purpose, and the one it misreads sincerely | fill
+
+@page rh="GENRE STUDY · TEMPLATE, LEFT · 3 OF 4" m="TEMPLATE; ONE BLANK SPREAD PER GENRE; PHOTOCOPY BEFORE FILLING"
+# Genre: ______________
+prompt: What this genre is | fill
+prompt: What it's trying to do | fill
+cols:
+prompt: What it can establish | 4
+||
+prompt: What it can't | 4
+/end
+prompt: Three examples, with references | fill
+prompt: The passage I'm practicing on | fill
+
+@page rh="GENRE STUDY · TEMPLATE, RIGHT · 4 OF 4" m="TEMPLATE; THE EMPIRE"
+# What the Empire does with it
+prompt: How the Empire could misuse this genre: the exact mechanism | fill
+prompt: Who in the Empire benefits, and who pays | fill
+prompt: Which character reads this genre correctly, and what it costs her | fill
+prompt: My questions about this genre | fill
+prompt: What I need to research before I write this into a scene | fill
+status
+
+@page id="m-ot" rh="LEARNING THE BIBLE · SHAPE OF THE OLD TESTAMENT · 1 OF 5" m="INFORMATION; GEN–MAL"
+# Six movements
+lede: An orientation, not a summary. The collection isn't arranged as one story, and these movements overlap, double back, and in places disagree about what happened.
+tabrl:
+| Movement | What it's about | The question it leaves open |
+| Beginnings · Genesis 1–11 | Creation, rupture, flood and the scattering of peoples. Two creation accounts sit side by side, never reconciled. | Whether human power over others is part of the design or part of the damage |
+| The families · Genesis 12–50 | A promise attached to one household and carried through four generations of deception, infertility, favoritism and migration | Why the promise keeps passing through the person who shouldn't have received it |
+| Exodus and law · Exodus–Deuteronomy | Liberation from imperial forced labor, forty years of learning to be a people, and a law given before the land is entered | Whether a people freed from empire can make law without reproducing it |
+| Land and kings · Joshua–Kings | Settlement, tribal instability, the demand for a king, David's house, two kingdoms and the slow loss of both | Whether monarchy was a concession, a failure or the plan |
+| Exile and return · Ezra, Nehemiah, Chronicles | Deportation, survival under foreign rule, partial return, rebuilding and a fierce argument about who belongs | Who counts, who's dissolved out of the community, and who writes the record |
+| Wisdom and prophecy · across the collection | Two bodies of writing that comment on all the rest, one asking how to live well, one indicting how power behaves | Whether either one ever changed anything |
+box: This companion's lens, declared
+INTERPRETATION: Land runs through most of these movements: possession, loss, return, and who may hold it. It's a real and recurring concern of the collection. Reading the whole Old Testament as fundamentally about land is this companion's working lens, chosen because the Empire is a land empire. It isn't a neutral description of the material.
+/end
+prompt: Which movement my novel is secretly retelling | fill
+
+@page rh="SHAPE OF THE OLD TESTAMENT · TWO ORDERINGS · 2 OF 5" m="2 CHR 36.23; MAL 4.5–6; 2 KGS 17; 2 KGS 25"
+# Where the story stops
+lede: The same books in two sequences, with two different endings, and so two different claims about what the collection is doing.
+cols:
+k: Tanakh order
+Torah, then Prophets, then Writings, closing with Chronicles and Cyrus's decree to go up and rebuild. It ends on return. INTERPRETATION: The arc is instruction, then the record of failing it, then the literature of living with that, and the last word is permission to go home.
+||
+k: Christian Old Testament order
+Law, history, poetry, prophets, closing with Malachi and a promise of Elijah's return. It ends on anticipation. INTERPRETATION: Resequenced this way, the collection reads as unfinished, which makes a New Testament feel like a continuation.
+/end
+k: A rough historical spine
+tabrl:
+| When | What happened |
+| About 1000 BCE | The united monarchy of the biblical narrative, David and Solomon. CONTESTED: Its scale is actively debated by archaeologists. |
+| About 930 BCE | Division into Israel in the north and Judah in the south. Two kingdoms, two records, one collection. |
+| 722 BCE | Assyria destroys the northern kingdom. Deportation and dispersal. |
+| 587/586 BCE | Babylon destroys Jerusalem and the Temple and deports the elite. Much of the collection is written, edited or compiled in the shadow of this. |
+| 539 BCE | Persia takes Babylon, and return is permitted. Restoration is partial, contested and run under imperial authority. |
+| 332–63 BCE | Greek, then Roman, rule. Apocalyptic writing develops under occupation. |
+prompt: Which ordering the Empire prints, and what ending it needs its citizens to expect | fill
+
+@page rh="SHAPE OF THE OLD TESTAMENT · FOUR STRONG CLAIMS · 3 OF 5" m="JUDG 21.25; 1 SAM 8; RUTH 4; 1–2 CHR"
+# Say it more carefully
+lede: Four claims worth keeping, restated so they survive contact with someone who knows the material. The memorable version is on the left and the defensible version on the right, and the difference between them is the discipline of this companion.
+tab:
+| The memorable version | What's actually defensible |
+| Judges says there was no king, so the book wants one. | The refrain, everyone doing what was right in his own eyes because there was no king, sits in a collection that's divided about monarchy. Samuel records the demand for a king as a rejection of God and lists what a king will take. Judges names the cost of no central authority without settling the argument. |
+| Ruth answers it quietly. | INTERPRETATION: A good reading. A Moabite woman's loyalty placed in David's genealogy reads as a counterargument to exclusion. The book doesn't announce itself as a rebuttal, and it can't be dated closely enough to prove intent. |
+| Chronicles is the first act of imperial editing in the book itself. | Too confident. Chronicles retells Samuel and Kings with visible selection, David's worst material largely absent and worship in the foreground. It's an excellent case of a community re-telling its past for present purposes. Calling it the first, or imperial, overstates what can be shown. |
+| The prophets are about how power treats the poor. | They're substantially about that, and reducing them to it loses most of the material: idolatry and false worship, foreign alliances, neighboring nations, ritual, exile and consolation, and the character of God. Keep the social indictment central without letting it become the whole subject. |
+box: Why this page exists
+A character who makes the left-hand claim can be brilliant and still wrong, and that's useful. A companion that makes it is unreliable, and in two years you won't be able to tell which of your own pages to trust.
+/end
+prompt: Which character makes the left-column argument, and who corrects her | fill
+
+@page rh="SHAPE OF THE OLD TESTAMENT · MAPPING, LEFT · 4 OF 5" m="YOURS; NINE THREADS"
+# Nine threads
+One line each, in your own words: what the collection actually does with each thread, and not what you were taught it does.
+prompt: Land | 4
+prompt: Law | 4
+prompt: Monarchy | 4
+prompt: Exile | 4
+prompt: Women | fill
+
+@page rh="SHAPE OF THE OLD TESTAMENT · MAPPING, LEFT, CONTINUED · 4 OF 5" m="YOURS; NINE THREADS"
+# Nine threads, continued
+prompt: Covenant | 4
+prompt: Empire | 4
+prompt: The Temple | 4
+prompt: Who writes the record | fill
+
+@page rh="SHAPE OF THE OLD TESTAMENT · MAPPING, RIGHT · 5 OF 5" m="YOURS; TKC"
+# Which movements are TKC
+Not every movement belongs in the novel. Mark the ones that do, and be specific about what they're doing there. A movement you can't give a job to is research, not material.
+tab:
+| Movement | In TKC? | Doing what, and for whom |
+| Beginnings | _ | _ |
+| The families | _ | _ |
+| Exodus and law | _ | _ |
+| Land and kings | _ | _ |
+| Exile and return | _ | _ |
+| Wisdom and prophecy | _ | _ |
+prompt: The one movement the Empire is built on without saying so | fill
+prompt: What I still don't understand about this collection | fill
+status
+
+@page id="m-nt" rh="LEARNING THE BIBLE · SHAPE OF THE NEW TESTAMENT · 1 OF 5" m="INFORMATION; ROMAN JUDEA; ACTS 2.44–45"
+# Twenty-seven documents
+lede: Written across roughly a century by a movement inside the Roman Empire that had no state power. It wasn't powerless in every sense, and its social position varied by city, decade and class.
+k: The five kinds of document
+rec:
+Gospels · 4 | Narrative accounts of Jesus, written decades after the events, each for a particular community with particular concerns
+Acts · 1 | The movement's spread from Jerusalem outward, by the author of Luke, as the second volume of one work
+Pauline letters · 13 | Letters to particular congregations about particular problems. Several contain sustained theological argument, and Romans is a worked case.
+General letters · 8 | Hebrews and the letters attributed to James, Peter, John and Jude, for wider audiences and varied purposes
+Apocalypse · 1 | Revelation, a genre with its own conventions
+k: Composition order isn't canonical order
+Paul's letters come first in time, written in the 50s before any gospel existed. The collection opens with the gospels because it's arranged as a story and not as an archive. Read in the order written, it shows a movement working out what it believed before anyone had written down the life it believed about.
+k: The Roman setting, without flattening it
+Occupation, client kings, taxation, crucifixion as public policy, the imperial cult, and a legal status for the movement that changed by place and period. It was tolerated in some cities, prosecuted in others, and not systematically outlawed across the empire for most of this century. Acts shows shared property in Jerusalem specifically, and Paul's letters show congregations with property, patrons and households.
+box: For TKC
+INTERPRETATION: The useful fact isn't that the early movement was poor or illegal. A religion born under an empire was later administered by one, and the same texts served both.
+/end
+
+@page rh="SHAPE OF THE NEW TESTAMENT · THE FOUR ACCOUNTS · 2 OF 5" m="MARK; MATT; LUKE; JOHN; PART III, THE GOSPEL GRID"
+# Four accounts, one subject
+lede: They differ in selection, arrangement, emphasis and detail, and the differences are the most informative thing about them, because each shows what a particular community needed the story to do.
+tabrl:
+| Gospel | About | What it emphasizes | Where it begins |
+| Mark | 65–75 | Urgency, secrecy, suffering. Shortest, probably earliest, and the source most scholars think Matthew and Luke used. | An adult at the river. No birth story. |
+| Matthew | 80–90 | Fulfillment of Israel's scriptures, teaching in five great blocks, a new Moses. Written for a community deeply engaged with Jewish law. | A genealogy with four women in it, one of them Ruth |
+| Luke | 80–95 | The poor, women, outsiders and reversal, the powerful pulled down and the hungry filled. Volume one of two. | Two pregnancies and a song about thrones being emptied |
+| John | 90–110 | Identity and glory. Long discourses, no parables of the familiar kind, a different chronology and mostly its own material. | Before creation |
+k: Why four matters for a novelist
+The canon keeps four versions instead of harmonizing them into one, and that decision shows on every page. INTERPRETATION: An empire that wanted one official account had four to choose from and couldn't quietly reduce them, so the next best thing was deciding which one is read at which festival.
+contested: Acts, and what it's doing
+A narrative of expansion from Jerusalem to Rome, shaped to show the movement's legitimacy and reach. Where Acts and Paul's own letters describe the same events they don't always agree, and historians treat the gap as real.
+/end
+prompt: Which gospel the Empire reads aloud most, and which one it would rather not | fill
+
+@page rh="SHAPE OF THE NEW TESTAMENT · THE LETTERS · 3 OF 5" m="ROM 16; 1 COR 14.34–35; EPH 5; COL 3; 1 TIM 2.11–15"
+# Who wrote what
+lede: Authorship is a scholarly question, not a settled fact, and the distinctions matter for TKC, because the letters most often quoted about households and women's silence are among those whose authorship is most disputed.
+tabrl:
+| Group | Scholarly view | Why it matters here |
+| Undisputed Paul · Rom, 1–2 Cor, Gal, Phil, 1 Thess, Phlm | Broad agreement | Here Paul names women as coworkers, a deacon and an apostle. CONTESTED: 1 Corinthians 14:34–35, the silence passage, sits in an undisputed letter, and some manuscripts place it after 14:40, so many scholars think it was added later. |
+| Disputed Paul · Eph, Col, 2 Thess | Genuinely divided | Ephesians and Colossians carry the household codes. Whether Paul wrote them changes what "the same author" can be claimed to mean. |
+| Pastorals · 1–2 Tim, Titus | Most critical scholars: later | The strictest instructions about women teaching are here. Say "the Pauline letters" and not "Paul" when arguing across this line. |
+| Hebrews | Anonymous | Not Paul's, by near consensus. A sustained argument about priesthood and sacrifice, directly useful to any state that runs a temple. |
+| Other attributed letters · Jas, 1–2 Pet, 1–3 Jn, Jude | Varies. 2 Peter most doubted. | Attributing a letter to a famous name was a convention with a range of practices, so flatly asserting or denying authorship is equally unsafe. |
+box: The sentence to keep
+INTERPRETATION: Several of the passages that restrict women most come from letters whose authorship, or whose placement in the text, is most in question. POSSIBLE: The Empire would never mention it, because the instruction's authority rests on the name attached.
+/end
+prompt: Which letters the Empire built its household law on, and who in the Empire knows the authorship problem | fill
+
+@page rh="SHAPE OF THE NEW TESTAMENT · REVELATION · 4 OF 5" m="REV 13; REV 17–18; REV 4–5; EASTERN LECTIONARY"
+# Four ways to read it
+lede: All four are held by serious readers. This companion leans toward the first, and it's still a framework and not a fact about the text. In TKC the reading a character holds is a political position.
+contested: I · Resistance literature against Rome
+Written for congregations under imperial pressure, using the conventions of apocalyptic to say what couldn't be said plainly. Strong internal support: seven cities, the imperial cult, a city on seven hills, a luxury economy described with contempt. Most historical-critical scholarship works here.
+/end
+contested: II · A sequence of future events
+Read as a program of things still to come. Widely held in popular and some confessional traditions, with enormous cultural influence and a long record of specific predictions failing, which is part of the material too.
+/end
+contested: III · A cycle, not a timeline
+The visions as recurring patterns of empire, judgment and endurance. Explains the repetition, seals, trumpets and bowls covering the same ground three times, better than a sequential reading does.
+/end
+contested: IV · Liturgy and vision
+The book as worship: hymns, thrones, incense and a heavenly assembly, meant to reorder what the hearer thinks is ultimately in charge. The Eastern churches' reluctance to read it aloud sits oddly beside this, and both facts are true.
+/end
+box: The two identifications everyone makes
+INTERPRETATION: The beast as an imperial power and the woman on the beast as a capital city are the readings the evidence best supports, and they're readings. What's nearly beyond argument is narrower: the book's targets are political and economic, and it expects its audience to recognize them.
+/end
+prompt: Which reading is official in the Empire, and which one gets someone arrested | fill
+
+@page rh="SHAPE OF THE NEW TESTAMENT · YOUR PAGE · 5 OF 5" m="YOURS; WRITING"
+# A religion born under empire
+The New Testament was written by people with no state power. The Empire is a state that runs on it. Work the distance between those two sentences.
+prompt: Which passages become easier to use once you hold power, and why | fill
+prompt: Which ones become embarrassing, and how the Empire handles them | fill
+prompt: The verse Eden was taught as comfort and later reads as instruction | fill
+status

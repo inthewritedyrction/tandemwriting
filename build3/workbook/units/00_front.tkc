@@ -1,0 +1,130 @@
+@cover
+<div class="t1">THY<br>KINGDOM<br>COME</div>
+<div class="orn">✥</div>
+<div class="s1">VOLUME ONE</div>
+<div class="s2">The World Dossier</div>
+<div class="s3">A story and scripture companion for the drafting and revision of the novel. Kept by its author, and revised as the manuscript revises itself.</div>
+<div class="s4">DANY · OCTOBER 2026</div>
+
+@essay rh="FRONT MATTER · WHAT THIS COMPANION IS"
+# What this companion is
+drop: This is a working reference for a novel about a Christian empire, kept by the person writing it. *Thy Kingdom Come* can't be written honestly by someone guessing at scripture, and it can't be written well by someone who has only absorbed the version of scripture that power finds convenient. So the companion does two jobs at once. It teaches the book patiently and from the beginning, as literature, as history, and as an argument that has never stopped arguing with itself. And it keeps a record of what the Empire does to that book once it has the authority to quote it.
+It isn't a devotional and it isn't a study guide. Nothing in here asks you to arrive at a settled conclusion about God, and nothing hands you a single meaning for a passage people have fought over for two thousand years. Where a reading is contested, the contest is printed. Where the text is stranger, more violent or more tender than its reputation, that's printed too. You're being handed summaries, analysis, references and tools that send you back to the text itself.
+Volume One is the world: the scripture the Empire inherited, and the history, institutions, beliefs and places that produced Eden's story. The people and the chapters belong to Volume Two. When a fact about the world matters to one particular person, this volume points to her dossier instead of working it out here.
+Above all, this is a book you're allowed to ruin. Write in the margins, argue with the entries, cross out anything the drafting proves false, and date the page when you do. The manuscript is the authority here, and this companion serves it. When the two disagree, the manuscript wins and this book gets amended.
+pull: "Every empire that has ever quoted a holy book has also decided which parts of it were quotable."
+side:
+k: What it isn't
+stext: A devotional. A curriculum. A settled theology. An apologetic, in either direction. A book with the right answer at the back.
+marg
+/end
+
+@essay rh="FRONT MATTER · HOW TO USE THE COMPANION"
+# How to use it
+drop: There's an order to this book, and it's worth following the first time through. The parts move outward from the text itself to the empire that interprets it, and then into the world that empire built: its fall, its institutions, its twelve Dominions and its Trials. You can read a single entry in ten minutes or spend an afternoon on one. Both are legitimate uses.
+Work in one of two modes. In study mode you're simply learning, reading an entry with no scene in mind and letting the margins fill with whatever surprises you. In drafting mode you come in with a scene that isn't working, find the entry or the doctrine page that touches it, and take only what you need. The canon register and the logs at the back keep the second mode fast. They're the book's memory, and they only work if you write in them the day you discover something.
+Discoveries are the real product. If an entry teaches you that a passage the Empire loves is addressed to slaveholders, or that the woman you'd cast as a warning is the only person in her chapter who tells the truth, that's a change to the novel. It belongs in the discovery log at the back, with a date, so that six months from now you can tell the difference between something you decided and something you only absorbed.
+Nothing here has to be finished. A half-filled page is more useful than a blank one.
+k: The working arc
+1. Learn the book before anyone tells you what it means.
+2. Recognize its people and its patterns on sight.
+3. Watch how power reads it, and what power leaves out.
+4. Build the Empire's religion on purpose, doctrine by doctrine.
+5. Know the world well enough that every room in it has a history.
+6. Apply it to the manuscript, then record what changed.
+side:
+k: Two modes
+sbox: Study | No scene in mind. Read, take notes, follow the cross-references.
+sbox: Drafting | A scene that resists. Take only what the scene needs, and go.
+marg
+see: the Canon Register and the Discovery Log, at the back.
+/end
+
+@page rh="FRONT MATTER · READING THE PAGE"
+# Reading the page
+The layout carries meaning. Once you know the five signals below, you can tell at a glance whether you're reading the text, reading the Empire, reading an argument with no settled answer, or looking at space that belongs to you. The signals hold in black and white, because most of this book will be photocopied at some point.
+k: Information
+Plain roman type with no rule beside it. The text and its history, reported as plainly as the material allows. Where the material is disputed, the entry says so.
+k: Scripture
+q: Your desire shall be for your husband, and he shall rule over you. | GENESIS 3.16
+Quoted text is italic behind a single fine rule, with the reference beneath it in small tracked capitals.
+empire: What the Empire does with it
+The heavy frame with the pink edge, and the only one in the book. Anything marked this way is the Empire's reading, not the text's. Someone made that decision, and the novel is free to expose it.
+/end
+contested: Contested
+A broken frame means the companion isn't deciding. Contested always names a real biblical, historical, linguistic or theological dispute among serious readers. It's different from Possible, which marks an idea of your own that you haven't approved.
+/end
+k: Yours
+Ruled space, on nearly every working page. If it's ruled, it's yours.
+small: ✥ Cross-references sit at the foot of the outer column, never inside a sentence, so following one is a choice and not an interruption.
+
+@page rh="FRONT MATTER · LABELS AND SOURCES"
+# Labels and sources
+In the scripture parts (I to IV), unlabeled prose is research: what the text or scholarship says, with scholars named where a position belongs to them. Your own canon carries a source tag and no label. Everything else is labeled at the start of the sentence it governs.
+tabrl:
+| Label | What it means |
+| RESEARCH | Outside fact, with a source. Unlabeled in Parts I to IV. |
+| INTERPRETATION | A reading of the material, offered as a reading |
+| CONTESTED | A real scholarly or theological dispute |
+| INFERENCE | A conclusion drawn from your files that they don't state |
+| POSSIBLE | An idea worth considering, and not canon |
+| OPEN QUESTION | Something you still have to decide |
+| CONFLICT | Two of your sources disagree |
+| SUPERSEDED | Older material that no longer controls |
+| DECIDED | A call you've made. Canon from here on. |
+tabrl:
+| Tag | Source |
+| FR 0–44 | Final Rulings, by number. These outrank everything. |
+| TL | Timeline Updated |
+| TR | The Covenant Trials Updated |
+| TR-orig | The original Trials file, where the update is silent |
+| DOM | The Dominions Update |
+| MEN | Men in the Covenant Empire |
+| CR | The Crownward |
+| DR3 | Draft Three (Chapter One so far) |
+| WR | Writing Rules |
+| AM | The Audit Master, the old Companion |
+| Ruling | A ruling you made in the calibration doc or since |
+
+@page rh="FRONT MATTER · THE EIGHT PARTS"
+# The eight parts
+Each part carries a mark on its divider and in the running heads, so the book can be found by thumb as well as by contents. The parts are cumulative: the later ones assume you've at least skimmed the earlier ones.
+tabrl:
+| Part | What's in it |
+| ✥ I | Learning the Bible as a novelist. Bible 101, canon, genres, translation, reading in context, contested readings, the sixty-six books, seven focused study spreads and four deep-dive dossiers. |
+| ❖ II | The people of the text. The women, then the men: what they're usually reduced to, and what the text actually gives you. |
+| † III | Jesus, kingdom and power. Authority, bodies, women and money, the Lord's Prayer a clause at a time, and the Gospel Grid. |
+| ▣ IV | Empire and interpretation. The empires of the Bible, who gets to say what it means, the passages put to work and the passages kept quiet, and American history from the Puritans to now. |
+| ✤ V | The Fall of the United States. The timeline, the competing histories, the Restoration Act, living memory and the founder files. |
+| ☙ VI | Building the Empire. The Triune Rule, the Crownward, the Temple, the Registry, doctrine and lived religion, and the household order. |
+| ◈ VII | The twelve Dominions, one by one. |
+| ⌖ VIII | The Covenant Trials as an institution. |
+| ≡ Back | The canon register, sources and editions, the open questions and the discovery log. |
+prompt: Where I want to start, and why | fill
+
+@essay rh="FRONT MATTER · RULES OF THE HOUSE"
+# Rules of the house
+Seven commitments that keep this companion honest. They're the difference between a novel that takes religion seriously and one that uses it as set dressing.
+rec:
+I · The text isn't the Empire | Every entry keeps them apart, because the engine of this novel is the gap between what a passage says and what an institution can make it do.
+II · Contested stays contested | Where scholars and traditions genuinely disagree, the disagreement is printed and left standing. The Empire may settle a question. The companion doesn't.
+III · No character is an allegory | A biblical parallel can light a character up, and it never maps onto her. Every parallel ends with where it breaks, and the break is usually where the character gets interesting.
+IV · Belief has a cost and a teacher | Nobody in this book believes anything for free. Someone taught it to them, and something's at stake in keeping it. Both go in the dossier.
+V · Discovery outranks plan | If the research contradicts the outline, the research gets a hearing. The outline is a hypothesis, and this is where it gets tested.
+VI · Nothing enters the novel untested | Every borrowed symbol, doctrine and parallel has to answer one question before it earns a scene.
+VII · Possible isn't canon | Freewriting, inference and research notes stay marked until you approve them. A compelling idea stays possible until it survives the manuscript, the source files and your own decision.
+pull: "Does this serve Thy Kingdom Come, or does it only prove I did the reading?"
+side:
+k: The test
+stext: Every page in this book answers to the question at the foot of this one.
+marg
+/end
+
+@page rh="FRONT MATTER · BEFORE YOU BEGIN"
+# Before you begin
+Answer these once, in ink, before you read a single entry, and don't go back and tidy the answers later. The point is a record of where you started, so that in a year you can see what the reading did to you and how much of it belongs to the novel.
+prompt: What I already believe the Bible says, and where I learned it | fill
+prompt: What I'm afraid I'll find in it | fill
+prompt: What the Empire is for, in one sentence I'd defend | fill
+prompt: What I don't yet understand about my own novel | fill
+decided

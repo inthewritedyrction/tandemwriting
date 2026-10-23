@@ -1,0 +1,137 @@
+@divider id="f1" num="F1" kind="FOCUSED STUDY SPREAD" title="Numbers" sub="Census, camp, and the two petitions" foot="F1 · ELEVEN PAGES"
+
+@opener rh="FOCUSED STUDY SPREAD F1 · NUMBERS" m="SOURCE MARGIN; NUM 1–36; MT · LXX; MILGROM, NUMBERS (JPS); LEVINE, NUMBERS (AB)"
+plate: doc
+dh: Return of the Household | REGISTRY FORM H-1
+dsub: FILED UNDER THE DOMINION ACT · ONE COPY TO THE TEMPLE, ONE TO THE CROWN
+df: Household of | ________________________________
+df: Authority line | the adult male on record
+df: Counted | men of age, by house
+df: Registered apart | Vowed, Temple staff
+df: Not counted | _____________________
+df: Dependents | entered under the authority line
+df: Designation | to be assigned
+dnote: Numbers 1 counts men twenty and older, by ancestral house, who can go to war. POSSIBLE: The Registry's household return is the same form with a newer letterhead.
+stamp: COUNTED
+/end
+tk: FOCUSED STUDY F1 · ✥
+big: Numbers
+lede: A book that opens by counting everyone and closes by deciding who inherits. Between the two it records every complaint the wilderness produced, and treats some of them as rebellion and others as law.
+calls:
+k: Why this is a focused study
+Numbers gives the Empire its census, its camp and its line between an approved petition and a criminal one. Three things, so it gets ten pages and not seventeen.
+||
+k: Can be promoted
+If the Trials lean harder on census and registration than expected, this spread becomes a full dossier. The review box is on the close-the-spread page.
+/end
+
+@page rh="NUMBERS · 1 OF 8 · THE BOOK ON THE RECORD" m="NUM 1.1; NUM 1–10; NUM 11–21; NUM 22–36; MILGROM, NUMBERS; TKC: DOM"
+# What it is
+rec:
+Name | English *Numbers*, from the Greek *Arithmoi* and the Latin *Numeri*, named for its two censuses. The Hebrew name, *Bemidbar*, means "in the wilderness," from the book's opening words. The two traditions name different books.
+Place | Fourth book of the Torah. It carries the story from Sinai to the edge of the land and holds the material Leviticus doesn't narrate.
+Structure | Three movements by place. Chapters 1–10 at Sinai: counting, camp and departure. Chapters 11–21 in the wilderness: complaint, scouts, condemnation, rebellion, death. Chapters 22–36 on the plains of Moab: Balaam, the second census and the inheritance rulings.
+Genres inside | Census register, itinerary, legal ruling, narrative, poetry, oracle, and a folk tale about a talking donkey. The registers and the stories weren't written to be read the same way.
+The figures | 603,550 fighting men in chapter 1 and 601,730 in chapter 26, which implies a population in the millions. CONTESTED: Whether the numbers are literal. Proposals include a different meaning for the word translated "thousand," schematic totals and later expansion. None is settled.
+Neighbors | Ancient Near Eastern military rosters, land grants and boundary records cover the same administrative ground. Reading Numbers beside them shows it as a governing document as well as a story.
+
+k: What the book is about, if it's about one thing
+INTERPRETATION: Who is on the list, and what being on the list gets you. Nearly the whole generation counted in chapter 1 is dead by chapter 26, Caleb and Joshua excepted, and most of the generation that inherits wasn't counted the first time.
+prompt: What I already think this book is, before reading it again | fill
+
+@page rh="NUMBERS · 2 OF 8 · THE COUNT AND THE CAMP" m="NUM 1; NUM 2; NUM 3–4; NUM 26; LEVINE, NUMBERS; TKC: DOM"
+# Counting as governance
+The census counts men twenty years old and up who can go to war, by ancestral house. What it produces is a military muster, an ancestral register and a marching order. Women and children aren't counted. The Levites are registered separately, by a different rule and from a different age. INFERENCE: A register like this also served taxation, labor drafts and conscription, judging by ancient Near Eastern practice. Numbers itself doesn't say so.
+tabrl:
+| | First census · ch. 1 | Second census · ch. 26 |
+| Where | The wilderness of Sinai, the second year out | The plains of Moab, a generation later |
+| Purpose | Muster for war and order the camp | Divide the land by the size of each tribe |
+| Total | 603,550 | 601,730, almost the same after forty years of death |
+| Who survives | The generation that left Egypt | Of that generation, only Caleb and Joshua |
+| What it proves | The people are numerous, organized and ready | INTERPRETATION: The promise outlived the people who first received it |
+cols:
+k: The camp · ch. 2
+Twelve tribes in fixed positions on four sides, three to a side, each under its own standard, with the Levites in an inner ring around the tabernacle and Moses and Aaron at the entrance. A tribe's place in the camp is assigned, recorded and set up the same way at every stop.
+||
+k: What the Empire takes
+POSSIBLE: The whole apparatus with the theology intact: a register that decides who exists, a place assigned by house, and the claim that the arrangement is holy. Household registration (FR 32) is Numbers 2 on Imperial letterhead.
+/end
+prompt: Who is counted in the Empire, who is only registered, and who is neither | fill
+
+@page rh="NUMBERS · 3 OF 8 · MIRIAM AND AARON" m="NUM 12.1; NUM 12.2–8; NUM 12.9–16; EXOD 15 (MIRIAM THE PROPHET); TRIBLE, “BRINGING MIRIAM OUT”; TKC: MIRIAM"
+# Two speak. One is marked.
+Numbers 12 is usually summarized as Miriam challenging Moses. The Hebrew is more exact than that. Verse 1 uses a feminine singular verb for the speaking while naming Miriam and Aaron together, and verse 2 shifts to plural speech. Aaron is present in both verses. The punishment falls on one of them.
+rec:
+Who speaks | Miriam and Aaron, both named, against Moses. The grammar puts Miriam first without removing Aaron.
+The stated occasion | The Cushite woman Moses had married. The text raises her and never comes back to her.
+The real claim | Prophetic authority: has the LORD spoken only through Moses? The marriage is the occasion, and the claim is about jurisdiction.
+The reply | A divine speech that separates how God speaks to prophets in general from how God speaks to Moses. It ranks the office and doesn't deny that others prophesy.
+The punishment | Miriam's skin is struck with a scaling disease, described as white. Aaron gets no visible punishment. He pleads for her, Moses intercedes, and she's shut outside the camp seven days.
+The detail nobody quotes | The people don't move on until she's brought back. The whole march waits for the woman it just expelled.
+box: What the text doesn't say
+It never explains why only Miriam is marked, and it doesn't rank their guilt. Interpreters have supplied reasons for centuries. Some point to the feminine verb in verse 1. Some argue that a high priest with a skin disease would have shut down the sanctuary. INTERPRETATION: The grammar is real, and what it's supposed to justify is never stated. The silence is part of the text.
+/end
+prompt: Where I've seen this asymmetry: in the text, in churches, in the Empire, in my own chapters | fill
+
+@page rh="NUMBERS · 4 OF 8 · TWO PETITIONS, TWO OUTCOMES" m="NUM 16; NUM 17; NUM 27.1–11; NUM 36; JOSH 17.3–6; TKC: TR · DOM"
+# Korah and the daughters
+These aren't the same act with different results. They differ in who brings them, what's asked, how and where it's asked, and how the narrator frames them. Side by side, the question isn't whether Numbers approves of dissent. It's which petitions this authority is able to hear.
+tabrl:
+| | Korah · ch. 16 | Zelophehad's daughters · ch. 27 |
+| Who | Korah the Levite, Dathan, Abiram and On of Reuben, and 250 men of standing | Mahlah, Noah, Hoglah, Milcah and Tirzah, five sisters, each named |
+| Asks for | Priestly access: the holiness of the whole congregation against Aaron's sole office | An inheritance in their father's name, since he died without sons |
+| Method | An assembly against Moses and Aaron, then a censer test of authority | They stand before Moses, Eleazar, the chiefs and the whole congregation at the tent of meeting and state their case |
+| Framing | The narrator calls it rebellion before the reader can weigh it | The narrator reports the petition without a verdict and lets the ruling answer it |
+| Moses | Falls on his face, then proposes the test | Takes the case to the LORD instead of deciding it himself |
+| Outcome | The ground opens and fire consumes the 250. Chapter 17 secures Aaron's office again with a budding staff. | Granted, and made a general law of inheritance |
+| Afterward | Korah's line survives as singers, the sons of Korah, named in the Psalms headings | Chapter 36 narrows the win: they must marry within their father's tribe so the land stays put. Granted, then fenced. |
+box: The question to carry, not the conclusion to print
+INTERPRETATION: A petition that works through the system's own procedure, asks for a defined thing and leaves the office alone can be granted and written into law. One that contests who holds the office is answered with the ground.
+/end
+prompt: Which petition is Eden bringing, and does she know which one it looks like to the Temple? | fill
+
+@page rh="NUMBERS · 5 OF 8 · APPROVED PETITION · WRITING" m="WRITING; NUM 27; NUM 36; TKC: TR · DOM"
+# Build the procedure
+The Empire has an approved petition and a criminal one, and Numbers gives you the template for both. Draft the Empire's version here. This page is source material for the Trials, not a study exercise.
+prompt: 1 · What a lawful petition looks like in the Empire: who may bring it, where, and in whose presence | fill
+prompt: 2 · The line a petition crosses to become sedition, and who decides it's been crossed | fill
+prompt: 3 · The chapter 36 move: a concession that's later fenced. Where does the Empire do this? | fill
+prompt: 4 · A scene where a woman wins something real and the win is narrowed at once | fill
+
+@page rh="NUMBERS · 6 OF 8 · THE WILDERNESS MIDDLE" m="NUM 11; NUM 13–14; NUM 20; NUM 21.4–9; 2 KGS 18.4; NUM 22–24; NUM 27.12–23"
+# Forty years of consequence
+box: The scouts and the condemned generation · 13–14
+Twelve are sent to see the land. All twelve agree it's fertile, ten judge the inhabitants unbeatable, and Caleb and Joshua dissent. The people side with the ten, and the generation is told it won't enter: forty years, a year for each day of scouting. INTERPRETATION: Whether there's a line between describing an obstacle honestly and making it grounds for refusal is a question the text raises and doesn't settle.
+/end
+boxthin: Complaint as a genre · 11, 20, 21
+Food, water, leadership, and Egypt remembered as better than freedom. The complaints repeat by design. Moses complains too, at length, and isn't punished for it, which is worth holding beside Miriam's page.
+/end
+boxthin: The bronze serpent · 21:4–9
+Serpents are sent, and Moses is told to make a bronze one. Anyone who looks at it lives. Centuries later Hezekiah destroys it because people had started making offerings to it (2 Kgs 18:4). A commanded object becomes one that has to be destroyed.
+/end
+prompt: What the wilderness looks like in the Empire's teaching | fill
+
+@page rh="NUMBERS · 7 OF 8 · THE WILDERNESS MIDDLE, CONTINUED" m="NUM 22–24; NUM 31.16; 2 PET 2.15; NUM 27.12–23; TKC: TR"
+# Seers and successors
+boxthin: Balaam and the donkey · 22–24
+A foreign seer is hired by Balak of Moab to curse Israel. His donkey sees the divine messenger before he does, and speaks. He then blesses Israel four times. Later texts, in Numbers 31 and in the New Testament, treat Balaam as a villain, so the Balaam of chapters 22–24 and the Balaam of later memory behave very differently.
+/end
+boxthin: Leadership passed on · 27:12–23
+Joshua is commissioned in public, by the laying on of hands before Eleazar and the congregation, while Moses is still alive. Succession here is a witnessed ceremony and not an inheritance.
+/end
+empire: What the Empire harvests from the middle
+POSSIBLE: A theology of delay. If the wilderness is punishment for an earlier generation's failure of nerve, any hardship now can be explained as inherited discipline, and endurance becomes the whole of obedience. The Trials' Endurance phase (TR) is this doctrine with a broadcast schedule.
+/end
+prompt: Which of these five I actually need, and for which chapter | fill
+
+@page rh="NUMBERS · 8 OF 8 · CLOSE THE SPREAD" m="WRITING; SPREAD CLOSE; QUEUE: F1"
+# What I take out of Numbers
+prompt: The one thing this book changed about how I see the Empire | fill
+prompt: What I still don't understand. Carry it to the research list. | fill
+prompt: A line, an image or a procedure I'm taking straight into the manuscript | fill
+review: Promotion review | log only, no promotion is made here
+Numbers is a focused study, and it can be promoted to a full dossier. Promote it if two or more of these turn out true: the census becomes structural to the Trials and not background, Miriam's punishment becomes a load-bearing precedent for how the Empire treats women who speak, the petition contrast drives a real plot decision, or these writing pages fill up and run out of room.
+fields: DECISION, DATE, PAGES NEEDED
+/end
+
+@notes rh="SPREAD NOTES · F1 NUMBERS" m="NOTES; OPEN NOTES" prompt="Anything this spread started and didn't finish"
