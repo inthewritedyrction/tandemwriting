@@ -1,0 +1,211 @@
+@part id="part5" num="V" kind="PART FIVE · ✤" title="The Fall of/the United States" sub="About eighteen years, from a stadium sermon in 2033 to a constitution in 2051. Almost every step went through a vote, a referendum or an agreement." series="THY KINGDOM COME · VOLUME ONE · THE WORLD"
+toc: i · The timeline | p5-time
+toc: ii · How the Empire tells it | p5-tells
+toc: iii · The Restoration Act | p5-act
+toc: iv · Living memory | p5-memory
+toc: v · Founder files | p5-founders
+toc: vi · Working questions | p5-q
+
+@essay rh="THE FALL OF THE UNITED STATES · HOW TO USE THIS PART"
+# The world starts here
+drop: The United States became the Covenant Empire of America over about eighteen years. It started with a stadium sermon in 2033 and ended in 2051, when the Crown, the Temple and the Broadcast were written into the constitution as the three branches of government. Almost every step went through a vote, a referendum or an agreement (TL). Nobody in Eden's lifetime remembers the country before. The oldest person in her cast was born around 2035, into its last few years.
+From this part on, the companion is about your world, and the rules change slightly. Anything your files establish carries a source tag and no label. Everything else is labeled at the start of the sentence it governs: INFERENCE for what the files imply without saying, POSSIBLE for ideas that aren't canon, OPEN QUESTION for what you still have to decide, CONFLICT where two files disagree, SUPERSEDED where older material no longer controls, and DECIDED for a call you've made.
+The Final Rulings outrank everything. Where a file and a ruling disagree, the ruling wins and the page says so.
+side:
+k: Source tags
+stext: TL Timeline · TR Trials · TR-orig original Trials file · DOM Dominions · MEN Men in the Empire · CR Crownward · DR3 Draft Three · WR Writing Rules · FR Final Rulings · AM Audit Master · Ruling, the October 23 calibration
+k: Decided canon
+stext: Solomon is sixteen. Leah is younger than Eden. Thomas left voluntarily (FR 3). Celeste has no proof Miriam is alive (FR 16). Leah sat for an assessment.
+marg
+see: The canon register, at the back.
+/end
+
+@page id="p5-time" rh="THE FALL · I · THE TIMELINE · 1 OF 2" m="TKC: TL · CR"
+# 2025 to 2051
+tabrl:
+| Year | Event | Source |
+| 2025–2031 | The Fracture Years. A contested election leaves two men claiming the presidency at once. Automated labor wipes out forty percent of working-class jobs. Domestic attacks on federal buildings go uncontained, and a climate disaster makes the Gulf Coast uninhabitable. Faith in federal institutions collapses, and church attendance triples. | TL |
+| 2031 | Evangelical megachurches, conservative political action groups and private militias organize as the Covenant Coalition. "America was great when it was godly. Return to God. Return to greatness." They run candidates at every level at once. | TL |
+| 2033 | Elias Vane, a little-known Georgia preacher, preaches *Thy Kingdom Come* for six hours to 400,000 people at The Gathering House, the former Mercedes-Benz Stadium in Atlanta. Every Coalition network carries it live. | TL |
+| 2035 | Vane wins a Senate seat from Georgia, and within eighteen months he effectively controls the legislative agenda. Celeste Parish is born about now (INFERENCE). | TL |
+| 2039 | California, Oregon and New York attempt to secede. The federal government calls it treason, and a two-year standoff follows. | TL |
+| 2041 | The Partition Agreement brings the three states back with "regional autonomy," dismantled about four years later. Vane's Restoration Act passes Congress narrowly, under conditions later described as coercion. | TL |
+| 2043 | Vane declares the United States dissolved and reborn as the Covenant Empire of America and takes the title First Elector. The Crownward is established over Washington, D.C. | TL, CR |
+| 2044 | The Dominion Act makes the states Twelve Dominions, each under a Governor-Prelate. Atlanta becomes Aurelia, seat of Aurem. | TL |
+| 2048 | Elias, 52, marries Sera Callum, 28, a Vowed woman and Temple scholar. The first Anointed marriage. | TL |
+| 2051 | The Triune Rule makes the Crown, the Temple and the Broadcast the three constitutional governing bodies. | TL |
+
+@page rh="THE FALL · I · THE TIMELINE · 2 OF 2" m="TKC: TL · DOM · FR 35–36 · FR 39"
+# 2054 to 2104
+tabrl:
+| Year | Event | Source |
+| 2054 | Vane becomes Emperor by a referendum returning 94 percent approval, and founds the House of Vane. | TL |
+| 2058 | The Commonwife quota system is piloted in Red Earth. | DOM |
+| 2061 | Elias dies of heart failure at 65. The Temple canonizes him within the year, his face goes on the currency and his sermon becomes required curriculum. The same year, Elias's elder child, the rightful successor and Dorian's parent, is removed. | TL, FR 35–36 |
+| 2062 | Crest Vane takes the throne at 34. The Commonwife quotas go Empire-wide, and the Ungoverned are designated criminal. | TL |
+| 2065 | The first Covenant Trials | TL |
+| 2077 | Azrael Vane born | TL |
+| 2079 | Judah Vane born | TL |
+| 2085 | Crest dies mid-cycle. Dorian takes the throne at 40, and that year's Trial is cancelled. | TL, FR 39 |
+| 2098 | Azrael, 21, finds a ledger in the east wing archive | TL |
+| 2100 | Azrael is declared dead. The ledger and the Covenant of Dissent vanish the same week. | TL |
+| 2104 | The 39th Covenant Trial | TL |
+box: CONFLICT
+The timeline introduces the Commonwife quotas under Crest in 2062, and the Dominions file says Red Earth piloted them in 2058. INFERENCE: Both hold if the 2058 pilot ran under Elias in one Dominion and Crest took it Empire-wide in 2062.
+/end
+prompt: The year I want a scene in, and whose eyes it's through | fill
+
+@page id="p5-tells" rh="THE FALL · II · HOW THE EMPIRE TELLS IT" m="TKC: TL · AM · FR 19"
+# Official version, lived reality
+Everyone in Eden's world learned the left column in school. Where a character sits between the two columns says a lot about who she is. The Empire's phrasing is what people would actually say aloud, so it's the version to use in dialogue (AM).
+tabrl:
+| What the Empire calls it | What happened |
+| The Fracture Years, which God ended | Six years of overlapping disasters that a well-organized coalition was ready to inherit |
+| The Restoration | A 400-page law that made rights conditional, passed under coercion nobody had to name |
+| Regional autonomy, granted in mercy | A four-year holding pattern for three states that tried to leave, dismantled once the leverage was gone |
+| Public mandate, 94 percent | A referendum controlled tightly enough to produce the number it wanted |
+| Reorganized for accuracy and unity | The press became a branch of government |
+| Citizenship clarified through covenant | A woman's legal standing became dependent on whether a man has married her |
+| A celebration of the Empire's finest women | A televised selection producing one Anointed Wife a year, and eleven women married down the elite ladder (FR 19) |
+| A sudden medical event | The phrase the Empire uses for Azrael in 2100 and for Petra in 2104 |
+prompt: Three lines a schoolteacher in Aurelia says about the Fall, word for word | fill
+
+@page id="p5-act" rh="THE FALL · III · THE RESTORATION ACT OF 2041" m="TKC: TL; OPEN QUESTION"
+# The legal root
+The Restoration Act is the legal root of almost everything in Eden's life. It passed Congress, so the Empire's founding argument is that nothing illegal happened (TL).
+plate: doc
+dh: The Restoration Act | PUBLIC LAW · 2041
+dsub: AUTHORED BY SENATOR ELIAS VANE OF GEORGIA · PASSED BY THE CONGRESS OF THE UNITED STATES
+df: Title I · Rights | conditional on standing, compliance and designation
+df: Title II · Marriage | a legal and theological designation
+df: Title III · Citizenship | a woman's, dependent on marital status
+df: Title IV · The press | "reorganized for accuracy and unity"
+df: Preamble | ________________________________
+dnote: Ten years after Title IV the same apparatus is a branch of government, and today it controls forty percent of a Covenant Daughter's score. The Binding, the Commonwife quota and the Anointed marriage all descend from Title II. Unbound is a legal category with a file because of Title III.
+stamp: PASSED
+/end
+k: OPEN QUESTION
+What does the preamble say? You'll want the actual wording for any scene where a character quotes the Restoration.
+prompt: Draft the preamble, in the Act's own voice | fill
+
+@page id="p5-memory" rh="THE FALL · IV · LIVING MEMORY" m="TKC: TL · TR · DOM · FR 35–44"
+# Grandmothers and documents
+Nobody in the cast lived through the Fall as an adult. What survives comes down through grandmothers and through the House of Vane's own papers.
+rec:
+Celeste Parish · TL | About nine in 2044, she remembers the renaming of Atlanta and her own grandmother crying when they changed the signs. She watched the Empire take her mother's identity through a Commonwife marriage, then raised Miriam alone under Unbound designation rather than let it happen again. The real name of the city is the last thing she says to Eden before the Crownward. (Volume Two, Celeste.)
+Sera Montoya's grandmother · TR | She was at the last protest before the Partition Agreement ended Pacific's resistance in 2041. She tells it to Sera as a warning and not a hero story: the difference between impact and loss is knowing when and how.
+Pacific's generations · DOM | The people who remember trying to leave raised children who grew up with parents who'd tried and failed, and their grandchildren grew up knowing the story. The Empire still checks every Pacific girl's Designation for signs that the secession story survived in her.
+Zara Voss's grandmother · TR | She has a real name the desert knows and the Empire doesn't. She raised Zara in Sable Reach and the desert beyond it.
+The House of Vane · TL, FR 35–44 | The family keeps documents instead of grandmothers' stories, and those documents are the most dangerous things in the Crownward.
+plate: quote | | 2.2in
+pk: Celeste, to Eden, before the Crownward
+pq: The real name of the city.
+pr: Write the line she actually says on the facing page.
+/end
+prompt: What Celeste's grandmother lost when the signs changed, and who she was before the Fall | fill
+
+@page id="p5-founders" rh="THE FALL · V · FOUNDER FILES · ELIAS VANE" m="TKC: TL · CR · AM"
+# Elias Vane
+small: c. 1996–2061 · First Elector 2043 · Emperor 2054–2061 · canonized
+cols:
+plate: frame | PORTRAIT · ELIAS VANE · THE CURRENCY LIKENESS | 3.1in
+/end
+||
+plate: doc
+dh: Founder Record | HOUSE OF VANE · I
+df: Born | c. 1996, Georgia (INFERENCE from his ages)
+df: Senate | 2035
+df: Restoration Act | 2041
+df: First Elector | 2043
+df: Emperor | 2054, by referendum
+df: Died | 2061, heart failure, 65
+/end
+/end
+rec:
+What the files say | A little-known Georgia preacher until the 2033 sermon (TL). His face is on the currency, and *Thy Kingdom Come* is required curriculum in every Dominion school. The Temple teaches that God chose him to restore the nation and that his descendants carry the anointing forward (CR).
+His method | INTERPRETATION: The old companion's reading holds. He never took anything until refusing him would cost more than giving in. He ran candidates everywhere, made himself the man every faction needed, outlasted the secession instead of winning it, and wrote the law himself (AM).
+prompt: One line of the 2033 sermon every schoolchild knows | fill
+
+@page rh="THE FALL · V · FOUNDER FILES · SERA CALLUM VANE" m="TKC: TL"
+# Sera Callum Vane
+small: Vowed woman · Temple scholar · the first Anointed Wife, 2048
+cols:
+plate: frame | PORTRAIT · SERA CALLUM VANE, AT TWENTY-EIGHT | 3.4in
+/end
+||
+rec:
+What the files say | A Vowed woman and Temple scholar who married Elias in 2048, when she was 28. She became the most powerful woman in the Empire's history while appearing entirely devoted to her husband. She wrote most of his domestic policy, and no official record says so (TL).
+Her legacy | Her marriage is the template for the Covenant Trials.
+/end
+box: CONFLICT
+The timeline says she came from "the Northern Dominion." None of the Twelve Dominions has that name. OPEN QUESTION: Where did she come from?
+/end
+prompt: The policy she wrote that has his name on it | fill
+
+@page rh="THE FALL · V · FOUNDER FILES · CREST VANE" m="TKC: TL · FR 35 · FR 37 · FR 39 · FR 40"
+# Crest Vane
+small: Emperor 2062–2085 · Dorian's uncle (FR 35)
+cols:
+plate: frame | PORTRAIT · CREST VANE · OFFICIAL, 2062 | 3.4in
+/end
+||
+rec:
+What the files say | Elias's son. He took the throne at 34, so he was born around 2028, twenty years before his father's Anointed marriage (INFERENCE). Cold and procedural. He manages people instead of inspiring them, and under him the Empire grows more efficient and more brutal (TL).
+What he built | The Commonwife quotas, the criminal category of the Ungoverned, and the Trials.
+/end
+rec:
+His claim | Survivorship, not birth order (FR 35, 39). He knew about his elder sibling's removal, didn't arrange it and didn't prevent it (FR 37).
+The one thing he did | He preserved the documents, leaving them where the east wing archive would someday be inventoried (FR 40).
+prompt: Why Crest kept the documents | fill
+
+@page rh="THE FALL · V · FOUNDER FILES · THE REMOVED HEIR AND DORIAN" m="TKC: TL · FR 35–38 · FR 44 · RULING"
+# The removed heir and Dorian Vane
+rec:
+The removed heir | Elias's elder child, and the rightful successor. Removed in 2061, when Dorian was still a child (FR 35–36). OPEN QUESTION: What did the heir know or do that made removal necessary? The rulings cover how it happened and why Dorian was spared, and not why the heir had to go.
+Dorian Vane · Emperor since 2085 | The removed heir's son. He took the throne at 40 and is 59 in 2104 (TL, Ruling). He was spared because a child's claim can be supervised. Removing him would have needed a public reason, and raising him inside the house needed none (FR 38). He has known since 2061 that the documents name Elias (FR 44). Under him the Broadcast became genuinely sophisticated, and the Trials became the most-watched event of the year (TL).
+cols:
+plate: frame | PORTRAIT · DORIAN VANE, AT FORTY | 2.6in
+/end
+||
+plate: frame | NO PORTRAIT ON RECORD · THE REMOVED HEIR | 2.6in
+/end
+/end
+small: SUPERSEDED: The Crownward file gives Dorian's age as 61. The ruling uses 59, which matches the timeline and the Audit Master. The Crownward file also calls Crest Dorian's father. Under FR 35, Crest is his uncle.
+prompt: What Dorian has known since 2061, and the first time he almost said it | fill
+
+@page rh="THE FALL · V · FOUNDER FILES · THE HOUSE OF VANE" m="TKC: TL · FR 35 · CR · WR; OPEN QUESTION"
+# The family tree
+<div class="tree">
+<div class="tr"><div class="tn">Elias Vane<br><span>c. 1996–2061 · Founder</span></div><div class="tn ghost">First wife<br><span>unknown · OPEN QUESTION</span></div><div class="tn">Sera Callum<br><span>m. 2048 · Anointed</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn mark">The removed heir<br><span>elder child · removed 2061</span></div><div class="tn">Crest Vane<br><span>b. c. 2028 · r. 2062–2085</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn">Dorian Vane<br><span>b. 2045 · r. 2085– · 59</span></div><div class="tn">Lyris Vane<br><span>Empress · 58 · Mountain</span></div></div>
+<div class="tl"></div>
+<div class="tr"><div class="tn mark">Azrael Vane<br><span>2077 · "declared dead" 2100</span></div><div class="tn">Judah Elijah Vane<br><span>b. 2079 · Crown Heir · 25</span></div></div>
+</div>
+small: The removed heir is Dorian's parent, and Crest is Dorian's uncle (FR 35). INFERENCE: Dorian's birth year follows from his age at accession. The marks show the 2061 removal and the 2100 "sudden medical event."
+prompt: Who was Elias's first wife, and how does the official history treat her? | fill
+
+@page rh="THE FALL · V · FOUNDER FILES · THE LEDGER AND THE DISSENT" m="TKC: TL · FR 40–44"
+# The ledger and the Covenant of Dissent
+rec:
+2098 | During a Crown advisory access period, Azrael found a ledger in the east wing archive. It ties the Empire's founding documents to a series of deliberate removals, which the Covenant of Purpose describes as God's order and the ledger describes as something else. It had sat there unmoved since 2085, because nobody was looking (FR 41).
+Put it back | He took it to his father, who told him to put it back. Azrael kept it and went looking for its companion, the Covenant of Dissent, which Elias wrote in the same year and the same hand, as the theological counter-argument to everything the Empire was built on.
+2100 | Dorian removed both documents the week Azrael was declared dead (FR 42). He'd told Azrael to put the ledger back because a document Azrael had read and returned would be one Dorian controlled. Destroying it would have told Azrael it mattered (FR 43).
+plate: doc
+dh: East Wing Archive · Holdings Card | CATALOGUED UNTIL 2100
+df: Item | Covenant of Dissent, in the hand of E. Vane
+df: Companion item | Ledger, uncatalogued
+df: Last withdrawn | ________________________________
+df: Status | missing, the week of 2100 in which A. Vane was declared dead
+stamp: WITHDRAWN
+/end
+prompt: What the "deliberate removals" were: people, populations, records, or all three | fill
+
+@page id="p5-q" rh="THE FALL · VI · WORKING QUESTIONS" m="YOURS; OPEN QUESTIONS; PART IX LOG"
+# Working questions
+prompt: 1 · What does the Covenant of Dissent argue, in a sentence Elias could have preached? Why did he write it: doubt, insurance, vanity, or something else? | 4
+prompt: 2 · Where did Sera Callum come from, if not a "Northern Dominion"? | 3
+prompt: 3 · How do schools in Pacific teach the Partition, and how does that differ from what Pacific grandmothers say at home? | 4
+prompt: 4 · Which lines from the 2033 sermon does every schoolchild know by heart? | fill
