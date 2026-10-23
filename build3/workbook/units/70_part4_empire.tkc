@@ -1,0 +1,200 @@
+@part id="part4" num="IV" kind="PART FOUR · ▣" title="Empire and/Interpretation" sub="No empire in this literature ever had to change a word of scripture. It only had to decide which words were read aloud, to whom, and how often."
+toc: i · Empires of the Bible | p4-empires
+toc: ii · Who gets to say what it means | p4-who
+toc: iii · Passages put to work | p4-weapon
+toc: iv · Passages kept quiet | p4-suppress
+toc: v · American history, 1630 to now | p4-america
+toc: vi · For TKC | p4-tkc
+
+@page id="p4-empires" rh="EMPIRE AND INTERPRETATION · I · EMPIRES OF THE BIBLE" m="EXOD 1–14; 2 KGS 17–19; 2 KGS 18.26–28; 2 KGS 24–25; DAN 1.3–7; EZRA 1, 6–7; ESTH 1–2; ESTH 8.8; DAN 6.8; TKC: MEN · TL"
+# Five occupations
+Almost the whole Bible was written by people living under someone else's government. Read the empires as a menu of methods, because Dominion uses some combination of them.
+rec:
+Egypt · labor | Forced labor, rising quotas and a decree controlling births. Unrest is answered with more work. Its method is exhaustion, people too tired to organize. Read Exodus 1–14.
+Assyria · submission, advertised | Terror and deportation. Conquered peoples were broken up and resettled among strangers, and the northern kingdom disappeared this way. Its envoy shouts terms at Jerusalem's wall in the local language so the people on the wall can hear. Read 2 Kings 17–19 and Nahum.
+Babylon · the top of a society | It deported the educated and skilled, trained young men in its own language and literature, renamed them and gave them careers, and left the poor to work the land. It also besieged Jerusalem, burned the temple and blinded the king, so it used both methods. Read 2 Kings 24–25, Daniel 1–6 and Lamentations.
+Persia · order at low cost | Licensed and funded local religion. It sent the exiles home, paid for the temple and authorized its law. Its decrees can't be revoked. Its court gathers young women by search and removes a queen by legislation. Read Ezra, Nehemiah, Esther and Daniel 6.
+Rome · taxes and quiet | Governed through local clients, a client king, a temple aristocracy and a governor who signs orders he disagrees with. Crucifixion was public and slow, by roads. The emperor was honored as divine and his rule called peace. Read the gospels, Acts and Revelation.
+corr: The old companion called Babylon's elite capture "far cheaper than terror," as if it chose one. It used both (2 Kgs 25.7–9).
+box: The composite for Dominion
+POSSIBLE: The Empire uses the cheap methods, Babylon's elite capture, Persia's licensed religion and Rome's local clients. The Imperial Education Track takes exceptional common boys and makes them Crown-adjacent for life (MEN), which is Daniel 1. Terror is kept for the edges: the Ungoverned, Azrael, the 2061 removal (TL, FR 35–36).
+/end
+prompt: Which methods Dominion uses, and on whom | fill
+
+@page id="p4-who" rh="EMPIRE AND INTERPRETATION · II · WHO GETS TO SAY WHAT IT MEANS" m="TYNDALE (D. 1536); GENEVA BIBLE (1560); SLAVE BIBLE (1807); SOUTH CAROLINA NEGRO ACT (1740); NAT TURNER (1831); TKC: DR3 · DOM"
+# Seven separate powers
+Authority over a text is a set of separate powers, usually held by different people. A religious state becomes total when one institution holds all of them. Work out which ones Dominion holds, because the ones it doesn't are where the plot lives.
+tabrl:
+| Power | What it decides | Historical case |
+| The canon | Which books count | Settled for most churches long ago, and so invisible |
+| The translation | Which words | William Tyndale was executed in 1536, in part for translating the Bible into English without license |
+| The lectionary | Which passages are read aloud, on which days | Most worshippers hear only what the calendar of readings allows |
+| The commentary | What a passage is taken to mean | The Geneva Bible's margin notes (1560) were one reason James I wanted a new translation without them |
+| The pulpit | Who may stand up and speak | The licensing of preachers, and its withdrawal |
+| The copy | Who owns a book, and which edition | Abridged editions like the 1807 Slave Bible |
+| Literacy | Who can read it unaided | South Carolina's Negro Act of 1740 banned teaching enslaved people to write, and several Southern states tightened anti-literacy laws after Nat Turner's revolt in 1831 |
+box: The historical pattern
+INTERPRETATION: Movements that broke a religious monopoly usually did it by attacking translation, literacy or the copy. Reform tends to arrive as a printing problem before it's a theological one.
+/end
+k: What the Empire holds
+The pulpit (the Temple and its ministers), the lectionary (what's read before the scores, DR3), the commentary (the Assessment's doctrine section, DR3) and much of literacy (the Designation, DOM). OPEN QUESTION: Does it hold the translation and the copy? Is the Book of Covenant a full Bible, and who may own another one?
+prompt: Which of the seven Dominion doesn't control, and who in the cast has quietly taken it | fill
+
+@page id="p4-weapon" rh="EMPIRE AND INTERPRETATION · III · PASSAGES PUT TO WORK" m="GEN 3.16; ROM 13.1–7; EPH 5.21–22; 1 TIM 2.11–12; DEUT 28; JOSH 7; NUM 16; JUDG 21.25; 2 SAM 7"
+# The state's working toolkit
+Every one of these is in the text, and each has been read more narrowly or more widely than the text requires.
+tabrl:
+| Passage | How it's been used | What the text does |
+| Genesis 3.16 | As a charter for male rule in the household and the law | CONTESTED: Prescription or description. The woman isn't cursed in the chapter. |
+| Romans 13.1–7 | As a demand to obey whatever government holds power. Loyalist clergy preached it against the American Revolution, and in June 2018 the U.S. attorney general cited it to defend a border policy that separated children from their parents. | Written by a man repeatedly jailed by the authorities he describes, in a canon full of prophets defying kings |
+| Ephesians 5.22 | As household law | Grows out of 5.21, "submit to one another," and is followed by a longer section demanding self-giving from husbands |
+| 1 Timothy 2.11–12 | As a permanent ban on women teaching | CONTESTED authorship. Named women teach elsewhere in the New Testament. |
+| Deuteronomy 28 | As a national scoreboard: prosperity proves virtue, disaster proves sin | One side of an argument the Bible has with itself. Job and Ecclesiastes refuse it. |
+| Joshua 7 | As a case for collective punishment | Set against Deuteronomy 24.16 and Ezekiel 18 |
+| Numbers 16 | As the standing sermon against challenging ordained leaders | Paired in the same book with the daughters of Zelophehad, whose petition succeeds |
+| 2 Samuel 7 | As a promise of an eternal dynasty | Followed in the same book by "You are the man" |
+corr: The old companion called Genesis 3.16 "a curse, not a command." The woman isn't cursed, and whether the line is a command is the disputed point.
+prompt: Which of these is carved on a Dominion wall | fill
+
+@page id="p4-suppress" rh="EMPIRE AND INTERPRETATION · IV · PASSAGES KEPT QUIET" m="LEV 25; DEUT 17; NUM 27; 1 SAM 8; 1 KGS 21; 2 KGS 22; AMOS 5; EZEK 18 · 34; LUKE 1.46–55; LUKE 4.16–30; MATT 23; REV 18"
+# What can't be read aloud
+tabrl:
+| Passage | Why it can't be read aloud |
+| Leviticus 25 | Land returned every fiftieth year and Israelites in debt service freed, by law. Among the most economically dangerous chapters in scripture. |
+| Deuteronomy 15 | Debts released every seventh year, and the freed servant sent off with provisions |
+| Deuteronomy 17 | Limits on the king: no hoard of horses, wives or silver, and the law copied in his own hand |
+| Numbers 27 | Five women petition to change inheritance law, and God rules for them |
+| 1 Samuel 8 | God's own warning, itemized, of what a monarchy will take from you |
+| 1 Kings 21 | The state kills a man for his land by correct procedure, and a prophet calls it murder to the king's face |
+| 2 Kings 22 | Officials take a found scroll to a woman, and the whole reform proceeds on her word |
+| Amos 5 | God refuses the festivals and calls the worship music noise while injustice goes on |
+| Ezekiel 18 · 34 | Guilt isn't inherited, and the shepherds are indicted for feeding themselves |
+| Luke 1.46–55 | The Magnificat. Thrones emptied and the rich sent away, sung in the past tense |
+| Luke 4.16–30 | Release for captives, and a congregation that turns on him for naming foreigners |
+| Matthew 23 | A whole chapter denouncing religious leaders by title |
+| Revelation 18 | An empire falls, and the merchants weep because their trade is ruined |
+corr: The old list had Leviticus 25 cancelling debts. The Jubilee returns land and frees Israelites in debt service. The debt release is Deuteronomy 15, added here.
+prompt: Which one she finds first | fill
+
+@essay id="p4-america" rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 1 OF 7"
+# The city on a hill
+drop: The Puritans who settled Massachusetts Bay in 1630 understood their colony as a community bound to God by covenant, on the model of Israel in Deuteronomy. Blessing would follow faithfulness, and judgment would follow breach. "A Model of Christian Charity" is traditionally attributed to John Winthrop and dated to 1630, given aboard or beside the Arbella. CONTESTED: Some scholars suggest another minister wrote it, and it wasn't printed until 1838.
+It says the colony "shall be as a city upon a hill," borrowing Matthew 5.14, and its point is that the whole world will watch, so failure will be public. It closes by paraphrasing Deuteronomy 30: "Therefore let us choose life."
+Daniel Rodgers (*As a City on a Hill*, 2018) argues the sermon was little known until the twentieth century. John F. Kennedy quoted it to the Massachusetts legislature as president-elect on January 9, 1961. Ronald Reagan made "a shining city upon a hill" a theme of his speeches and the center of his farewell address on January 11, 1989, adding the word "shining."
+INTERPRETATION: In Winthrop's use the image is a warning about being watched. In later political use it became a description of national greatness.
+side:
+chips: 1630, 1961, 1989
+k: For TKC
+stext: The Covenant Coalition's platform was "America was great when it was godly. Return to God. Return to greatness" (TL). INTERPRETATION: The Coalition reads Winthrop the way later politicians did and drops his point, that a covenant people is watched and judged by its failures. POSSIBLE: Elias's 2033 sermon quotes "choose life" and Deuteronomy 30 together.
+marg
+see: Deep dive IV, Deuteronomy, page 13.
+/end
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 2 OF 7" m="GEN 9.25; LEV 25.44–46; EPH 6.5; COL 3.22; 1 PET 2.18; PHILEMON; FURMAN, EXPOSITION (1822); STRINGFELLOW, BRIEF EXAMINATION (1841); NOLL, THE CIVIL WAR AS A THEOLOGICAL CRISIS (2006)"
+# One Bible, two readings of slavery
+Both sides of the American slavery debate read the same Bible and claimed it.
+rec:
+The proslavery case | Noah's curse on Canaan, read as a curse on Africans. The permanent slavery of foreigners in Leviticus 25.44–46. Abraham's household slaves. The instructions to slaves in Ephesians 6.5, Colossians 3.22 and 1 Peter 2.18. Paul sending Onesimus back in Philemon. And the claim that Jesus never condemned slavery.
+Richard Furman | After the Denmark Vesey plot in Charleston in 1822, the Baptist minister wrote an exposition, dated that December, for the South Carolina Baptist Convention defending slavery from scripture. Southern defenders used its arguments until the Civil War.
+Thornton Stringfellow | A Virginia Baptist pastor who published *A Brief Examination of Scripture Testimony on the Institution of Slavery* (Richmond, 1841).
+The abolitionist answer | The Golden Rule, "God made of one blood all nations" (Acts 17.26, KJV), "there is neither bond nor free" (Gal 3.28), the capital law against kidnapping a person to sell (Exod 21.16), the refusal to return runaways (Deut 23.15–16), and the exodus itself.
+Angelina Grimké | From a South Carolina slaveholding family, she published *An Appeal to the Christian Women of the South* (1836) through the American Anti-Slavery Society and made the Bible her test.
+Frederick Douglass | Added an appendix to his *Narrative* (1845) to make clear his attacks were on "the slaveholding religion of this land," which he set against "the Christianity of Christ."
+box: The crisis underneath
+Mark Noll argues the war exposed a crisis in how Protestants read the Bible. Both sides held scripture to be authoritative and plain, and neither could persuade the other from it.
+/end
+prompt: Which proslavery argument the Empire still teaches, under a different name and about a different group | fill
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 3 OF 7" m="SBC, AUGUSTA (1845); SBC RESOLUTION, ATLANTA (1995); SELECT PARTS OF THE HOLY BIBLE (LONDON, 1807); MUSEUM OF THE BIBLE (2018–19); NPR, DEC. 9, 2018; TKC: DOM"
+# The churches split, and the Slave Bible
+rec:
+The split | Methodists divided in 1844. The Southern Baptist Convention was founded in Augusta, Georgia, in 1845, after the national Baptist mission board refused to appoint slaveholders as missionaries. Presbyterians divided in stages, finally in 1861. In June 1995, meeting in Atlanta, the Southern Baptist Convention adopted a resolution repenting of its past racism and apologizing to African Americans.
+The 1807 "Slave Bible" | A London missionary society published *Select Parts of the Holy Bible, for the Use of the Negro Slaves, in the British West-India Islands*. According to Anthony Schmidt of the Museum of the Bible, it kept 232 of the 1,189 chapters in a standard Protestant Bible, leaving out about ninety percent of the Old Testament and about half the New. The exodus is gone. Passages that reinforce slavery, Ephesians 6.5 among them, are kept. A copy on loan from Fisk University was shown at the museum in 2018–2019. The name "Slave Bible" is modern.
+plate: doc
+dh: Select Parts of the Holy Bible | LONDON, 1807
+dsub: FOR THE USE OF THE NEGRO SLAVES IN THE BRITISH WEST-INDIA ISLANDS
+df: Chapters kept | 232 of 1,189
+df: Exodus | removed
+df: Ephesians 6.5 | kept. "Servants, be obedient to them that are your masters."
+df: Galatians 3.28 | removed
+dnote: INTERPRETATION: The clearest case on record of controlling scripture without changing a word, by deciding which words are in the copy.
+stamp: ABRIDGED
+/end
+k: For TKC
+POSSIBLE: The Book of Covenant is an abridgment on the 1807 model, the full canon on paper and a selection in practice. OPEN QUESTION: Is it? Aurem's territory includes Georgia and South Carolina, where the Southern Baptist Convention was founded over slaveholding missionaries and apologized 150 years later (DOM).
+prompt: What the Book of Covenant leaves out, if it does | fill
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 4 OF 7" m="RABOTEAU, SLAVE RELIGION (1978); FRAZIER, “INVISIBLE INSTITUTION”; MOTHER BETHEL (1794); AME CHURCH (1816); EMANUEL AME, CHARLESTON (1822, 2015); LINCOLN & MAMIYA (1990); SCLC (1957)"
+# The Black church
+rec:
+The invisible institution | Under slavery much Black Christian worship was what the sociologist E. Franklin Frazier called the "invisible institution," held in secret, often in woods and gullies known as hush harbors, beyond white supervision and the laws against Black gatherings. Albert Raboteau's *Slave Religion* (1978) is the standard history.
+Philadelphia | Richard Allen and other Black worshippers walked out of St. George's Methodist Church over segregated seating. Allen dated it to 1787, and some historians argue for 1792. He founded Mother Bethel in 1794, and in 1816 the African Methodist Episcopal Church became an independent denomination with Allen as its first bishop.
+Charleston | The African church that became Emanuel AME was burned by white authorities in 1822 after Denmark Vesey, one of its founders, was accused of planning a revolt. Its members worshiped in secret until 1865. On June 17, 2015, a white supremacist killed nine people at a Bible study in the same church.
+What grew from it | C. Eric Lincoln and Lawrence Mamiya describe seven historically Black denominations (1990). The spirituals, the exodus as the central story, the preaching tradition and the civil rights movement's base in churches, from the Southern Christian Leadership Conference in 1957 to King's last sermon, all come out of this history.
+box: For TKC
+INTERPRETATION: Worship held out of sight of the authorities, in places the cameras don't reach. The Grace Bridge (CR) and the outer districts' kitchens (DOM) are the Empire's hush harbors. Douglass set "the slaveholding religion of this land" against "the Christianity of Christ," and Celeste's faith is on his side of that line. POSSIBLE: Aurelia's outer districts remember the hush harbors, the burned church at Charleston and the walkout at St. George's, and the Temple teaches none of it.
+/end
+prompt: Is there a hush harbor in Sector Seven? Who leads it, and has Eden been? | fill
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 5 OF 7" m="WHITEHEAD & PERRY, TAKING AMERICA BACK FOR GOD (2020); PRRI · BROOKINGS (FEB. 2023); HALL, CHRISTIAN REFLECTIONS ON CHRISTIAN NATIONALISM; WOLFE, THE CASE FOR CHRISTIAN NATIONALISM (2022); TKC: TL"
+# Christian nationalism
+CONTESTED, as a term and in its boundaries.
+rec:
+A definition | The sociologists Andrew Whitehead and Samuel Perry define it as "a cultural framework… that idealizes and advocates a fusion of Christianity with American civic life," and argue the "Christian" in it is more an identity than a faith.
+A measurement | A 2023 PRRI and Brookings survey built a scale from five statements about Christianity and American law and society. It classed about 10 percent of American adults as adherents and 19 percent as sympathizers, with 39 percent skeptics and 29 percent rejecters. Among white evangelical Protestants, 29 percent were adherents and 35 percent sympathizers.
+The objection | Critics, the political scientist Mark David Hall among them, argue the definitions are too broad and sweep in ordinary religious participation in politics.
+The embrace | Some on the right have taken the term for themselves. Stephen Wolfe's *The Case for Christian Nationalism* (2022) argues for it openly.
+box: For TKC
+INTERPRETATION: The Coalition, as the timeline describes it, megachurches, political action groups and militias running candidates at every level (TL), fits Whitehead and Perry's definition closely. That's a reading of your own invented history, and the real-world use of the term is CONTESTED.
+/end
+prompt: Who in the founding generation read Winthrop, Douglass and Rushdoony, and what they took from each | fill
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 6 OF 7" m="RUSHDOONY, INSTITUTES OF BIBLICAL LAW (1973); BAHNSEN, THEONOMY (1977); THEONOMY: A REFORMED CRITIQUE (1990); DIAMOND, SPIRITUAL WARFARE (1989); TAYLOR, THE VIOLENT TAKE IT BY FORCE (2024)"
+# Reconstruction, dominion, seven mountains
+rec:
+Christian Reconstructionism | R. J. Rushdoony founded the Chalcedon Foundation in 1965 and published *The Institutes of Biblical Law* in 1973, arguing that God's law in scripture, the Torah's case laws included, should be the standard for civil law. Greg Bahnsen's *Theonomy in Christian Ethics* (1977) gave the position its name, and Gary North extended it into economics. Its most distinctive claim is that the Mosaic civil penalties remain valid, and its writers listed the death penalty for offenses including adultery, homosexual acts, blasphemy and witchcraft. CONTESTED: How consistently Rushdoony applied the penalties. Most evangelical and Reformed theologians rejected theonomy, and Westminster Seminary's faculty published a critique in 1990. Rushdoony's influence on Christian schooling and homeschooling was large and is acknowledged on both sides.
+Dominionism | CONTESTED, as a label. Sara Diamond described "dominion theology" in 1989, and Frederick Clarkson and others used "dominionism" for Christian Right groups that read Genesis 1.28 as a mandate for Christian control of public life. Critics call it a smear used too loosely.
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 6 OF 7, CONTINUED" m="RUSHDOONY, INSTITUTES OF BIBLICAL LAW (1973); BAHNSEN, THEONOMY (1977); THEONOMY: A REFORMED CRITIQUE (1990); DIAMOND, SPIRITUAL WARFARE (1989); TAYLOR, THE VIOLENT TAKE IT BY FORCE (2024)"
+# Reconstruction, dominion, seven mountains, continued
+rec:
+The Seven Mountains | The mandate holds that Christians are called to influence or lead seven spheres: family, religion, education, media, arts and entertainment, government and business. Proponents trace it to a 1975 meeting where Loren Cunningham and Bill Bright each received the same list, framed as evangelism. After Lance Wallnau heard it from Cunningham in 2000 and was mentored by C. Peter Wagner of the New Apostolic Reformation, it took a more political turn. Some trace it back to Abraham Kuyper's "sphere sovereignty." Matthew D. Taylor traces the movement's networks and their role on January 6, 2021, including the Appeal to Heaven flag.
+box: For TKC
+POSSIBLE: Whoever named the Dominions held the dominionist reading of Genesis 1.28 and chose the word because of it. The Triune Rule puts three of the seven mountains, religion, government and media, into the constitution as the Temple, the Crown and the Broadcast (TL), and the founders may have thought of the Trials as taking the "family" mountain. The Covenant Court may cite theonomist arguments for Imperial penalties and quietly decline the parts of Mosaic law that would bind the Crown.
+/end
+prompt: Which of the seven mountains the Empire thinks it hasn't taken yet | fill
+
+@page rh="EMPIRE AND INTERPRETATION · V · AMERICAN HISTORY · 7 OF 7" m="DANVERS STATEMENT (1987–88); CBE, “MEN, WOMEN AND BIBLICAL EQUALITY” (1989); TKC: CR · DOM"
+# Headship, settled in 1987
+rec:
+Danvers | The Council on Biblical Manhood and Womanhood drafted the complementarian Danvers Statement in Danvers, Massachusetts, in December 1987 and published it in final form in November 1988.
+Christians for Biblical Equality | Founded in 1987. It published its egalitarian statement, "Men, Women and Biblical Equality," in 1989, and it reached a wide audience in *Christianity Today* in 1990.
+box: For TKC
+The Temple's official theology of marriage (CR) is the Danvers position written into civil law and enforced at the counter. INFERENCE: The egalitarian position has no legal standing in the Empire. OPEN QUESTION: Do its arguments survive in Meridian's Reading Circles or in Heartland's theological inquiry (DOM)?
+/end
+k: A timeline, 1630 to 2024
+tab:
+| Year | Event |
+| 1630 | Massachusetts Bay. "A city upon a hill." |
+| 1740 | South Carolina bans teaching enslaved people to write |
+| 1787 | The walkout at St. George's, Philadelphia |
+| 1807 | The "Slave Bible," London |
+| 1816 | The AME Church becomes independent |
+| 1822 | Vesey. Emanuel burned. Furman's exposition. |
+| 1845 | The Southern Baptist Convention, Augusta |
+| 1957 | The Southern Christian Leadership Conference |
+| 1973 | Rushdoony, *Institutes of Biblical Law* |
+| 1987 | Danvers. Christians for Biblical Equality. |
+| 1995 | The SBC apology, Atlanta |
+| 2015 | Emanuel AME, Charleston |
+| 2021 | January 6 |
+prompt: Where my timeline starts to diverge, and the first year that isn't ours | fill
+
+@page id="p4-tkc" rh="EMPIRE AND INTERPRETATION · VI · WORKING QUESTIONS" m="YOURS; OPEN QUESTIONS; PART IX LOG"
+# Working questions
+prompt: 1 · Which of the five biblical empires does Celeste compare the Covenant Empire to, and which one does the Temple? | 3
+prompt: 2 · What did Atlanta's Black churches do between 2033 and 2044, and what's left of them in Aurelia? | 3
+prompt: 3 · Does the Covenant Court ever cite Leviticus 20 or Deuteronomy 22 in a sentence? Write the case. | 3
+prompt: 4 · Who chose the word "Dominion," and did they read Genesis 1.28 the way dominionists do? | 3
+prompt: 5 · If a character found a full, unabridged Bible in 2104, what would she read first, and what would happen to her for owning it? | 3
+prompt: 6 · What would a Douglass of the Empire write in her appendix? | fill
