@@ -1,36 +1,10 @@
 # CHAPTER 5: SILAS
 
-Melena locked herself in the back room for about a minute before she unlocked it again to tell him the rules.
+Three hours on the step, and the only thing that had tried to kill Silas was the rain.
 
-"One," she said through the gap. "Nobody touches me without asking."
+It came off the cavern ceiling in long, steady ropes, soaked through his collar, and found every place Jerrick had hit him. His left shoulder locked up a little more every hour. Gutterlight roared somewhere behind the rooftops whenever a match ended, and in between, the street in front of the dark house stayed empty enough that his hand kept drifting toward his knife without being told.
 
-Silas was halfway to the front door. He turned around. "I caught you in Dante's office so you wouldn't eat the floor."
-
-"I'm aware of what you did."
-
-"You'd rather I let you fall?"
-
-"I'd rather you asked."
-
-"And if you're on fire?"
-
-Melena thought about it longer than he expected. The hood was down now, and her hair had come out of the last of its pins and gone everywhere, red as a warning lamp in the dark of the hall. "Ask quickly."
-
-He almost laughed. "There a two?"
-
-"I'll let you know."
-
-The door shut. The lock turned, and Camille's thread drew tight against the frame behind it. Silas stood in the hall and looked at that door for a second, the way you'd look at a dog that had just told you its name.
-
-He went outside and sat down in the rain.
-
----
-
-By the third hour on the step, he'd counted every person who walked past the dark house, and not one of them had been worth getting up for.
-
-A drunk Ring fan arguing with his own shadow. Two girls in work coats sharing an umbrella with a hole in it. A boy with a cart of empty bottles who looked at Silas's face, looked at the knife hand resting on his knee, and found a reason to cross the street. Gutterlight roared somewhere behind the rooftops every time a match ended, and the rain came down off the cavern ceiling in long, steady ropes that soaked through his collar and made his left shoulder lock up a little more every hour.
-
-He'd been in worse spots. He couldn't name one right now, but he was sure he had.
+He'd counted everybody who walked past. A drunk Ring fan arguing with his own shadow. Two girls in work coats sharing an umbrella with a hole in it. A boy with a cart of empty bottles who looked at Silas's face, looked at the knife hand resting on his knee, and found a reason to cross the street. Not one of them had been worth getting up for.
 
 His phone buzzed against his thigh.
 
@@ -56,21 +30,69 @@ Naturally, Lorraine did. Silas put the phone away before he had to think about h
 
 Jude hadn't texted at all, which meant the token was still on his bench and Jude was still bent over it with his glasses on top of his head, ignoring everybody, including God. Rhea hadn't texted either. That was normal. She texted when she wanted to know if he was alive and went quiet when she didn't want him knowing she cared.
 
-He shifted his shoulder against the doorframe and closed his eyes for exactly one breath.
+Behind him, the lock turned.
 
-Pell's lane came back before he could stop it. The girl from Ashvein with her hand jammed in her skirt like she had a whole bank in there, looking up at him like he'd personally dumped her salt in the puddle on purpose. Silver at the ends of her locs. A ring in her nose. Those two Ironcross rings, heavy enough to split a lip if she ever decided to swing.
+He was on his feet with the knife out before Camille's thread finished loosening. The door opened about four inches. Melena stood in the gap with the hood down and her hair out of its last pins, red as a warning lamp in the dark of the hall. She looked at the knife.
+
+He put it away.
+
+"You said you'd sit," she said.
+
+"I was sitting."
+
+"You've been sitting for three hours."
+
+"That's what sitting is."
+
+She didn't think that was funny. Rain blew in across the threshold and spotted the hem of the mourning dress, and she didn't step back from it. Down the street, the Ring went up in another roar, and her eyes cut toward the sound.
+
+"What *is* that?"
+
+"Gutterlight. Somebody's getting hit."
+
+"All night?"
+
+"Till somebody stops getting up."
+
+She took that in without blinking. He was starting to notice that about her. Whatever you handed her, she held it and looked at it before she decided what to do with it, like she'd been raised in a house where you didn't get to drop things.
+
+"I want to say something," she said. "Before I lose my nerve."
+
+"Go ahead."
+
+"In your father's office. You grabbed my wrist."
+
+"You were falling."
+
+"I'm aware of what I was doing."
+
+"You'd rather I let you eat the floor?"
+
+"I'd rather you asked." Her hand had found the edge of the door and was holding it tight. "I have one rule. Nobody touches me without asking. Not you. Not anyone."
+
+Silas looked at her. "And if you're on fire?"
+
+She thought about it longer than he expected. "Ask quickly."
+
+He almost laughed. "There a two?"
+
+"I'll let you know."
+
+The door shut. The lock turned, and the thread drew tight against the frame. Silas stood in the rain and looked at that door for a second, the way you'd look at a dog that had just told you its name.
+
+He sat back down.
+
+His shoulder settled against the doorframe, and he closed his eyes for exactly one breath, and Pell's lane came back before he could stop it. The girl from Ashvein with her hand jammed in her skirt like she had a whole bank in there, looking up at him like he'd personally dumped her salt in the puddle on purpose. Silver down the lengths of her locs. A ring in her nose. Those two Ironcross rings, heavy enough to split a lip if she ever decided to swing.
 
 *I ain't trying to have no debt tied to someone in Shadowmere.*
 
 Most people who got knocked into by a Graves in Gutterlight said sorry first and figured out why later. She'd cussed him out and turned down his money.
 
-He hadn't stopped thinking about it in six hours. That was a problem, and he didn't have time for problems with silver locs and a smart mouth. He had a princess, or whatever she was, behind a door, and a shoulder that wasn't going to be worth a damn by morning.
+He hadn't stopped thinking about it all night. That was a problem, and he didn't have time for problems with silver locs and a smart mouth. He had a girl from seven tiers up behind a door with rules, and a shoulder that wasn't going to be worth a damn by morning.
 
-The step was warm.
+An hour later, the step was warm.
 
-Silas opened his eyes.
-
-It wasn't his body heat. He'd been sitting on cold stone for three hours, and it had stayed cold the whole time. Now it was warm under his thighs and getting warmer, and a thin skin of steam was lifting off the wet stone around his boots.
+Silas sat up off the doorframe. It wasn't his body heat. He'd been sitting on cold stone for four hours, and it had stayed cold the whole time. Now it was warm under his thighs and getting warmer, and a thin skin of steam was lifting off the wet stone around his boots.
 
 Behind him, Camille's thread snapped.
 
