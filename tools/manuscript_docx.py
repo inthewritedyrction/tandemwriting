@@ -1,7 +1,8 @@
 """Build a manuscript .docx from chapter markdown files.
 
 Times New Roman 12, left aligned, no indents, 0 pt before/after,
-1.15 line spacing. Chapter headings are outline level 1. Scene breaks
+1.15 line spacing. Pass --indent for a 0.5" first-line indent on body
+paragraphs. Chapter headings are outline level 1. Scene breaks
 ("---") become a "#" line.
 """
 import re
@@ -16,12 +17,15 @@ from docx.shared import Pt, RGBColor
 FONT = "Times New Roman"
 
 
-def fmt(par):
+FIRST_LINE = Pt(0)
+
+
+def fmt(par, body=False):
     pf = par.paragraph_format
     pf.alignment = WD_ALIGN_PARAGRAPH.LEFT
     pf.left_indent = Pt(0)
     pf.right_indent = Pt(0)
-    pf.first_line_indent = Pt(0)
+    pf.first_line_indent = FIRST_LINE if body else Pt(0)
     pf.space_before = Pt(0)
     pf.space_after = Pt(0)
     pf.line_spacing_rule = WD_LINE_SPACING.MULTIPLE
@@ -87,9 +91,15 @@ def main(out, paths):
             else:
                 p = doc.add_paragraph()
                 add_inline(p, b)
+                fmt(p, body=True)
+                continue
             fmt(p)
     doc.save(out)
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2:])
+    args = sys.argv[1:]
+    if args and args[0] == "--indent":
+        FIRST_LINE = Pt(36)  # 0.5 inch
+        args = args[1:]
+    main(args[0], args[1:])
