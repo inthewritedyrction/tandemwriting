@@ -45,7 +45,18 @@ def style_run(run):
         fonts.set(qn(attr), FONT)
 
 
+def smart_quotes(text):
+    text = re.sub(r'(^|[\s(\[{\u2014\u2013-])"', '\\1\u201c', text)
+    text = text.replace('"', '\u201d')
+    text = re.sub(r"(^|[\s(\u201c])'(?=(?:[Cc]ause|em|til|bout|round|fore|nuff|cept|kay|n|[0-9]{2}s)\b)",
+                  '\\1\u2019', text)
+    text = re.sub(r"(^|[\s(\[{\u2014\u2013-])'", '\\1\u2018', text)
+    text = text.replace("'", "\u2019")
+    return text
+
+
 def add_inline(par, text):
+    text = smart_quotes(text)
     # **bold** and *italic*
     for tok in re.split(r"(\*\*[^*]+\*\*|\*[^*]+\*)", text):
         if not tok:
