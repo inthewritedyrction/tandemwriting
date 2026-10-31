@@ -1,0 +1,2860 @@
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.21 · PLOT STATE
+
+CONTINUED
+
+CH.
+
+POV
+
+BEAT
+
+15–18
+
+K/M
+
+Challenge One: jungle, lava, tundra; the rescue; Zephyr's two elements
+
+19–20
+
+K/M
+
+Challenge Two: the Breathbound Law and the Writ
+
+21–24
+
+K/M
+
+Challenge Three: the Maze; Beckett and Ivy die; the Remy memory
+
+25–26
+
+K
+
+Aftermath; Katherine and Atlas
+
+27–28
+
+M/K
+
+Toward and into Challenge Four; Atlas's black veins
+
+29
+
+M
+
+Med bay (partial)
+
+Chapter beats for 3–6, 10–11, and 25–27 are summarized from the map and targeted reads, not
+a full pass.
+SOURCE
+
+SEE ALSO
+
+TCD-001, TCD-034, TCD-042, TCD-050, TCD-052, TCD-058; FTE Beta (chapter map); Chapter
+29.docx; FTE 31–39.
+IV.1 Book Identity and Source Status · p.51
+
+IV.24 FTE Endgame Packet · p.187
+
+IV.25 FTE Open Development · p.190
+
+FTE › IV.21 PLOT STATE
+
+IV.21 / 2 · 180
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+KNOWLEDGE LEDGER · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.22
+
+KNOWLEDGE PROGRESSION
+Who knows what, when, across the book.
+
+FTE is two women learning, from opposite directions, that the official story about their family is
+wrong. It's also an Empire learning, in public, that one of its Queens has an element she
+shouldn't. Those are different knowledge problems, and the ledger keeps them separate.
+Seed ledger. Dated to where it's shown; nothing is promoted to a whole society.
+WHO
+
+WHEN
+
+KNOWS OR BELIEVES
+
+LANE
+
+Melena
+
+Ch. 2,
+before
+Caelum
+
+"There's nothing outside
+of Remnia anymore"
+
+Character belief
+
+CURRENT DRAFTED TEXT
+
+Melena
+
+Ch. 2,
+after
+Caelum
+
+Somnoria exists; Elias
+lives there as Thorne; the
+borders are closed but
+crossable
+
+Character
+knowledge:
+existence, route
+(claimed)
+
+CURRENT DRAFTED TEXT
+
+Katherine
+
+Ch. 13
+
+Michelle's caution looks
+like a fence
+
+Character
+knowledge
+(suspicion of her
+own life)
+
+CURRENT DRAFTED TEXT
+
+Melena
+
+Ch. 18
+
+Zephyr has two elements;
+tells Raven she saw
+nothing
+
+Character
+knowledge;
+deliberately
+withheld
+
+CURRENT DRAFTED TEXT
+
+Katherine
+
+Ch. 17
+
+Has seen Zephyr's two
+elements
+
+Character
+knowledge
+
+CURRENT DRAFTED TEXT
+
+Katherine
+
+Ch. 19
+
+The unmarked text
+resembles the
+Breathbound Law; she
+dismisses the thought
+
+Character
+knowledge, then
+chosen belief
+
+CURRENT DRAFTED TEXT
+
+London Town
+and Old
+Prosperity
+Pieces
+
+Ch. 11–13
+
+They're filmed, owned,
+and edited for broadcast
+
+Character
+knowledge
+
+CURRENT DRAFTED TEXT
+
+FTE › IV.22 KNOWLEDGE PROGRESSION · CONTINUES →
+
+STATUS
+
+IV.22 / 1 · 181
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.22 · KNOWLEDGE PROGRESSION
+
+CONTINUED
+
+WHO
+
+WHEN
+
+KNOWS OR BELIEVES
+
+LANE
+
+STATUS
+
+Sebastian
+
+Before
+FTE
+
+Zephyr is a Dyad
+
+Character
+knowledge
+
+SUPPORTED (31–39)
+
+Cordelia
+
+Ch. 38 of
+31–39
+
+Elias "vanished into a
+foreign country"; a sealed
+file on his "illness"
+
+Character
+knowledge?
+belief?
+
+SUPPORTED; see flag
+
+The Remnian
+public
+
+Any point
+
+Whether Somnoria is
+known at all
+
+Institutional /
+public
+
+OPEN
+
+The Remnian
+public
+
+Chapter
+29.docx
+
+The Prayer is "an ancient
+Frost binding ritual"
+
+Institutional /
+public
+
+SUPPORTED
+
+KNOWLEDGE FLAG
+
+Who in Remnia knows other lands exist?
+Melena's ch. 2 belief says a princess who has toured the provinces didn't. Cordelia in 31–39
+speaks of Elias vanishing "into a foreign country." The Remnian Timeline Before Story Start
+(repeated in the unaudited Imperial Lineage) gives the heir apparent the traditional title "Duke of
+Somnoria" "as a means of fostering relations with the neighboring empire." Those three can't all
+describe the same public. TCD-016 says awareness varies by class, institution, and time; it doesn't
+say how it varies in Remnia. OPEN · decide before any Remnian character names Somnoria onpage again.
+
+FTE › IV.22 KNOWLEDGE PROGRESSION · CONTINUES →
+
+IV.22 / 2 · 182
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.22 · KNOWLEDGE PROGRESSION
+
+CONTINUED
+
+GUARDRAIL
+
+Author knowledge doesn't travel into FTE heads. Katherine doesn't know she's Tobias's daughter,
+doesn't know what her magic objectively is, and doesn't know Selah exists. Melena doesn't know
+Katherine is her sister until her own investigation gives her reason to suspect it.
+TCD-016, TCD-032, TCD-040, TCD-050; FTE Beta chs. 2, 11–13, 17–19; FTE 31–39 ch. 38; Chapter
+29.docx; FTE Remnian Timeline Before Story Start; The Imperial Lineage (unaudited). Record:
+Knowledge of the Other Lands Matrix.
+
+SOURCE
+
+SEE ALSO
+
+I.5 Knowledge States · p.18
+
+II.4 Knowledge of the Other Lands · p.29
+
+VII.5 Cross-Land Knowledge Matrix → FTE concordance · p.216
+
+NOTES · IV.22
+
+FTE › IV.22 KNOWLEDGE PROGRESSION
+
+IV.22 / 3 · 183
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CONNECTION TABLE · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.23
+
+CROSS-BOOK CONNECTIONS
+Only supported links.
+
+FTE touches all three other books, and every touch has to be sourced. A connection exists when
+a ruling or a drafted page makes it. Everything else goes in the second table.
+CONNECTION
+
+BOOKS
+
+WHAT IT IS
+
+Remy's death
+and its memory
+
+3SL → FTE
+
+The gang leader kills Remy while
+he protects Melena; FTE carries
+her guilt and her version (ch. 22)
+
+Tiran Blackwood
+
+3SL → FTE
+
+STATUS
+CANON TCD-002, TCD-063;
+CURRENT DRAFTED TEXT
+
+(memory)
+
+Same man; his 3SL cleanup; his
+FTE rescue "on a run for Maven"
+
+CANON TCD-002;
+
+CURRENT DRAFTED TEXT
+
+Maven / Mother
+Rae
+
+3SL → FTE
+
+Shadowmere's route-keeper in
+both books
+
+Lucia's letter
+
+3SL → FTE
+
+"Find the woman with the silver
+bells. Tell her Lucia's daughter
+needs a passage to nowhere"
+(FTE ch. 2); 3SL ch. 3's letter and
+route phrase
+
+CURRENT DRAFTED TEXT
+
+(both)
+CURRENT DRAFTED TEXT
+
+(both)
+
+CURRENT DRAFTED TEXT (FTE
+
+Melena's two
+years in
+Shadowmere
+
+3SL → FTE
+
+She stays in the Underside
+through the interval
+
+Elias / Professor
+Thorne
+
+FTE ↔ ADST
+
+Voluntary double life;
+compromised by the Nightmare
+organization; missing from
+Remnia first
+
+CANON TCD-032, TCD-062
+
+Elias in
+Shadowmere
+
+FTE ↔ 3SL
+setting
+
+Melena last saw him there six
+months before FTE, with a gash
+(ch. 2)
+
+CURRENT DRAFTED TEXT
+
+Caelum
+
+FTE ↔ ADST
+(and 3SL
+setting)
+
+Independent cross-land actor;
+recruits Melena in Shadowmere;
+his cousin Cassius
+
+CANON TCD-031, TCD-043
+
+The Elders'
+Prayer
+
+3SL ↔ FTE
+
+Same inherited working, two
+independent performances
+
+CANON TCD-023, TCD-048,
+
+FTE › IV.23 CROSS-BOOK CONNECTIONS · CONTINUES →
+
+ch. 2); interval
+
+CANON TCD-013
+
+TCD-057
+
+IV.23 / 1 · 184
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.23 · CROSS-BOOK CONNECTIONS
+
+CONTINUED
+
+CONNECTION
+
+BOOKS
+
+WHAT IT IS
+
+STATUS
+
+The
+Breathbound
+Law beside the
+Writ
+
+FTE ↔ ADST
+(textual)
+
+First on-page comparison of two
+Shattered Veil descendants (ch.
+19)
+
+CURRENT DRAFTED TEXT;
+
+The Remnia–
+Underside
+crossing
+
+3SL ↔ FTE
+
+Exists near the London Town /
+Old Prosperity / Alea no-man'sland
+
+CANON TCD-027; coordinate
+
+Convergence
+
+All four
+
+Late FTE is a major Remnian
+manifestation, not yet a proven
+equal trigger; ADST's climax is T0
+
+CANON TCD-056
+
+Chronology
+
+FTE ↔ ADST
+
+FTE begins a couple of weeks
+after ADST opens; they end
+around the same time
+
+CANON TCD-013
+
+Handoff
+
+FTE → TSWK,
+next
+Shadowmere
+
+Direct rolling handoff; days or
+small weeks
+
+CANON TCD-054
+
+CANON TCD-047
+
+OPEN
+
+Not connections. These look like links and aren't, unless a ruling makes them one.
+RESEMBLANCE
+
+WHY IT DOESN'T COUNT
+
+General Gareth Thorne / Professor Alexander
+Thorne
+
+A shared surname in different books
+
+Director Rowan Mercer / Dante Mercer
+
+A shared surname in different books
+
+Zephyr Windrider (2092) / Zephyr Augustine
+
+A shared first name in a Supporting file
+
+The Factions file's "The Veil" / the Shattered Veil
+
+A shared noun
+
+"Aether" in Remy's access phrase / House Aether
+
+A shared noun; nothing rules a link
+
+FTE › IV.23 CROSS-BOOK CONNECTIONS · CONTINUES →
+
+IV.23 / 2 · 185
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+IV.23 · CROSS-BOOK CONNECTIONS
+
+CONTINUITY
+CONTINUED
+
+RESEMBLANCE
+
+WHY IT DOESN'T COUNT
+
+Old Prosperity's frozen no-man's-land / the TCD027 crossing's no-man's-land
+
+Both are border wastes; the ruling doesn't place the
+crossing on Old Prosperity's wall
+
+Selah's cold / Katherine's Frost
+
+Imagery; the Prayer isn't a Frost working (II.14)
+
+Katherine, Zephyr, Cassius as "Crossbloods"
+
+A contested label; each case stands alone (TCD036)
+
+TCD-002, TCD-013, TCD-016, TCD-023, TCD-027, TCD-031, TCD-032, TCD-036, TCD-043, TCD047, TCD-048, TCD-054, TCD-056, TCD-057, TCD-062, TCD-063; FTE Beta chs. 2, 8–9, 19, 22;
+3SL draft ch. 3.
+
+SOURCE
+
+SEE ALSO
+
+Part VII The Continuity Room → FTE concordance · p.216
+
+NOTES · IV.23
+
+FTE › IV.23 CROSS-BOOK CONNECTIONS
+
+IV.23 / 3 · 186
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+ENDGAME PACKET · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.24
+
+FTE ENDGAME PACKET
+
+Pages beside the manuscript while chs. 30–39 are rewritten.
+
+These are the pages that sit open beside the Duel. The rulings have fixed more of FTE's ending
+than of any other book's, so this packet is mostly non-negotiables and a short list of blanks.
+Stop points. The Beta stops in ch. 29 with Melena in the med bay after Challenge Four, told
+she's "the third most powerful person in Remnia." The development chapters stop after the
+Duel's first bout, with Katherine in the viewing box watching Houston kill Ellis. Everything
+between the two is provisional.
+CONDITIONS AT THE BETA'S STOP POINT.
+CHARACTER
+
+CONDITION
+
+Atlas
+
+Black veins to his cheekbones from the Conduit Trial (ch. 28)
+
+Melena
+
+In the med bay (ch. 29)
+
+Katherine
+
+Frost only; lover of Atlas since ch. 26; has seen Zephyr's two elements
+
+Old Prosperity
+
+Wins in Challenges One and Two; Beckett dead
+
+London Town
+
+Ivy dead; penalized in Challenge Two
+
+FTE › IV.24 FTE ENDGAME PACKET · CONTINUES →
+
+IV.24 / 1 · 187
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.24 · FTE ENDGAME PACKET
+
+CONTINUED
+
+NON-NEGOTIABLES
+
+Katherine's magic. Frost-dominant until the climax. Fire comes only when her Frost
+configuration catastrophically fails, and never from stress, heat, grief, or Melena. She's not
+Zephyr's kind of Dyad, whatever the Sanctum calls her. Heart's Mirror can foreshadow; she
+walks out of it Frost-dominant, and nothing inside it is proof of her past. (TCD-049, TCD058; author ruling, 2026-09-26)
+The reveal. Melena suspects before the Duel, from her own investigation. The Duel
+confirms nothing. Records prove it; Michelle explains it. (TCD-050)
+Katherine's reason. She saves or stabilizes Melena from her own moral arc, not only
+because they're sisters. (TCD-050)
+The forfeit. Melena chooses; Tiran supports; Maxim, alive and conscious, authorizes; the
+Sanctum accepts. (TCD-042, TCD-052)
+The title. Katherine is Conqueror. Atlas and Tiran draw by intervention. (TCD-034)
+Atlas. The injury started in the Trial. No earlier cause. (TCD-051)
+The Prayer. Restores a viable pattern; no resurrection, no regeneration, no echo of Selah.
+(TCD-048, TCD-057)
+Melena. Not the villain. (TCD-009)
+Minho. Not assumed dead. (TCD-009)
+Remy. The gang leader killed him. Melena's guilt is real and forensically wrong. (TCD-063)
+The count. The Tournament was built for seven; the Sanctum ends it at Six. (TCD-007)
+SCENE-LEVEL OPEN CHOICES BEFORE THE DUEL
+CHOICE
+
+BLOCKS THE DUEL?
+
+Katherine's exact sanctioned action for Melena
+
+Yes
+
+The beat that breaks Katherine's Frost
+
+Yes
+
+How Heart's Mirror foreshadows Katherine's capacity without activating it (ruled:
+foreshadowing only, 2026-09-26)
+
+Yes, for rewriting 31–
+39
+
+Melena's first clue and her pre-Duel evidence
+
+Yes
+
+Challenge Six's actual kill rules and the Sanctum's real policy
+
+Yes
+
+FTE › IV.24 FTE ENDGAME PACKET · CONTINUES →
+
+IV.24 / 2 · 188
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.24 · FTE ENDGAME PACKET
+
+CONTINUED
+
+CHOICE
+
+BLOCKS THE DUEL?
+
+What Challenge Seven would demand
+
+Yes, for Melena's
+choice
+
+When the Prayer for Atlas happens and what it costs
+
+Yes, if it's in
+Challenge Four
+
+Maxim's first response to Melena
+
+Only in the forfeit
+scene
+
+Atlas's condition at the Duel
+
+Likely
+
+Minho's arc
+
+Only if his bout is
+drafted
+
+Board seat powers
+
+No; aftermath
+
+TCD-007, TCD-009, TCD-034, TCD-042, TCD-048, TCD-049, TCD-050, TCD-051, TCD-052,
+TCD-057, TCD-058, TCD-063; FTE Beta chs. 17, 22, 26, 28–29; FTE 31–39 ch. 39.
+
+SOURCE
+
+SEE ALSO
+
+IV.10 Katherine's Elemental Anatomy · p.83
+
+IV.13 The Sister Reveal · p.153
+
+IV.20 The Endgame: Forfeit and Command Authority · p.176
+
+NOTES · IV.24
+
+FTE › IV.24 FTE ENDGAME PACKET
+
+IV.24 / 3 · 189
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+OPEN DEVELOPMENT · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.25 FTE OPEN DEVELOPMENT
+Every open FTE item in one place, sorted by when it has to be decided.
+ITEM
+
+FIXED
+
+UNDECIDED
+
+DECIDE BY
+
+Katherine's decisive
+act
+
+Saves or stabilizes Melena;
+creates the decisive state (TCD042)
+
+The act itself; whether
+it's a Prayer
+
+Before the Duel
+
+Frost failure and Fire
+
+Climax, catastrophic, rerouted
+(TCD-058); Heart's Mirror
+foreshadows only (author ruling,
+2026-09-26)
+
+The beat; switching;
+cost
+
+Before the Duel
+
+Melena's investigation
+
+Before the Duel; suspicion, not
+proof (TCD-050)
+
+First clue; evidence;
+Shadowmere
+knowledge
+
+Before her next
+chapter
+
+Challenge Six rules
+
+Mirrored single combat; decisive
+(TCD-007; 31–39)
+
+Kill policy; bout order;
+yield rules
+
+Before the Duel
+
+Challenge Seven
+
+Never held (TCD-007)
+
+What it would have
+been
+
+Before Melena's
+choice
+
+The Prayer for Atlas
+
+Katherine performs it (TCD-009)
+
+Timing; cost; marks;
+broadcast
+
+Before Chapter
+29.docx is
+rewritten
+
+Atlas's injury
+
+Trial origin (TCD-051)
+
+Pathology; progression
+after the Prayer
+
+Same
+
+Forfeit procedure
+
+Chain of agency (TCD-042, TCD052)
+
+Maxim's response;
+public procedure;
+emergency authority
+
+Before the forfeit
+scene
+
+Verification
+
+Authenticated record (TCD-050)
+
+Which record; who
+authenticates
+
+Before the
+verification scene
+
+Initial publicity of
+Katherine's birth
+
+Owners of each concealment
+layer (TCD-059)
+
+Was it ever public?
+
+Before anyone
+reacts to the
+Nicholas name
+
+FTE › IV.25 FTE OPEN DEVELOPMENT · CONTINUES →
+
+IV.25 / 1 · 190
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+IV.25 · FTE OPEN DEVELOPMENT
+
+CONTINUITY
+CONTINUED
+
+ITEM
+
+FIXED
+
+UNDECIDED
+
+DECIDE BY
+
+Remnian knowledge of
+other lands
+
+Varies by actor and time (TCD016)
+
+Who knows Somnoria
+exists
+
+Before a Remnian
+names Somnoria
+again
+
+How Melena classifies
+Shadowmere
+
+—
+
+Inside or outside
+Remnia, in her head
+
+Before a Melena
+POV names the
+Underside
+
+Caelum's mindpresence
+
+Nightmare magic; not Nightmare
+(TCD-031)
+
+Mechanism; range
+
+Before it enters
+canon prose
+
+Minho
+
+Not assumed dead (TCD-009)
+
+Arc; knowledge; fate
+
+Before his bout
+
+Challenge Three's
+result; Challenge Four's
+name
+
+Four's concept (TCD-008)
+
+Result; name
+
+Next revision
+
+Which one
+
+Next revision of
+either book
+
+Nineteen or twenty
+
+With the timeline
+
+Melena's eyes
+Melena's age
+
+CONFLICT amber versus green
+
+—
+
+Zenithia's leadership;
+London Town's royal
+house
+
+CONFLICT
+
+Which titles
+
+Before Tiran's
+title matters onpage
+
+Aracelia's name
+
+CONFLICT Mignonette versus
+
+Which
+
+Next revision
+
+Which
+
+Before his secret
+is exposed
+
+Lockwood versus Hastings line
+Zephyr's birth
+registration
+
+CONFLICT Flamer versus Frost
+
+"Regnant"; Rovencia;
+Easton/Estonian
+
+—
+
+Title and places
+
+Before 31–39 is
+rewritten
+
+Calendar
+
+None ruled (TCD-010)
+
+ER years; the "49th";
+Year 847
+
+With the Remnian
+timeline (VII.1)
+
+Conqueror bylaws;
+Board seat
+
+Katherine is Conqueror (TCD034)
+
+Powers and benefits
+
+Aftermath
+
+The Imperial Lineage
+
+—
+
+Audit status
+
+Next audit pass
+
+FTE › IV.25 FTE OPEN DEVELOPMENT · CONTINUES →
+
+IV.25 / 2 · 191
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+IV.25 · FTE OPEN DEVELOPMENT
+
+CONTINUITY
+CONTINUED
+
+MANUSCRIPT REVISION FLAGS (NOT OPEN CANON)
+FLAG
+
+CONTROLLING ANSWER
+
+REVISE WHERE
+
+"Six challenges"
+
+Seven-stage design, ended at Six
+
+"Months since the
+alley"
+
+About two years
+
+Death penalty for
+dualists
+
+Code Sixteen: removal and Imperial discipline (Beta)
+
+31–39 ch. 38
+
+Zephyr's secret as
+news to Katherine
+
+She saw it in ch. 17 (Beta)
+
+31–39 ch. 38
+
+Katherine's Fire
+before the climax;
+childhood heat
+
+TCD-058, clarified by author ruling 2026-09-26: the
+Mirror foreshadows only; remove childhood Fire, postMirror marks and casting, dual-element casting, and
+Zephyr-equivalence
+
+31–39 chs. 34, 36–
+39
+
+Mid-Duel sister
+realization
+
+Staged reveal
+
+The Challenges
+FTE Year C6
+
+"Elder's Prayer"
+
+Elders' Prayer
+
+Chapter 29.docx;
+The Challenges
+FTE Year
+
+"Nicolas"; "Remian
+Empire"
+
+Nicholas; Remnian
+
+Chapter 29.docx;
+Beta front matter
+
+Sine Cauldiste / Jin
+Wang; Ivy's age and
+siblings
+
+Placements names; one Ivy
+
+31–39 ch. 31, 33
+
+CANON TCD-007
+
+CANON TCD-013
+
+CANON TCD-050
+
+Beta front matter
+Beta, Tiran reunion
+
+Also flagged in IV.11: FTE 31–39's Mirror makes Tobias a Frost and Lucia a Flamer; the Beta's
+ch. 8 makes Lucia a powerful Frost and gives Melena her father's fire. The Beta controls; revise
+the Mirror scene.
+SOURCE
+
+SEE ALSO
+
+TCD-007, TCD-008, TCD-009, TCD-010, TCD-013, TCD-016, TCD-031, TCD-034, TCD-042, TCD050, TCD-051, TCD-052, TCD-058, TCD-059; FTE Beta; Chapter 29.docx; FTE 31–39; The
+Challenges FTE Year; 49th Placements; Character Bible; Welcome to Remnia; The Imperial
+Lineage (unaudited).
+VII.12 Open Canon Queue → FTE concordance · p.216
+
+FTE › IV.25 FTE OPEN DEVELOPMENT
+
+IV.25 / 3 · 192
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 1 OF 23 · FTE OPEN DEVELOPMENT · THE QUEUE
+
+IV.25
+
+FTE OPEN DEVELOPMENT
+Every open FTE item, with somewhere to work on it.
+
+GUARDRAIL
+
+Blockers get their own pages. Everything else waits
+until a scene needs it.
+
+OPEN STAYS OPEN.
+The queue repeats IV.25’s Fixed
+and Decide-by columns. Tick a
+box only when the prose or a
+ruling decides it.
+SAFE
+TO
+DEFER
+
+ITEM
+
+WHAT’S FIXED
+
+DECIDE BY
+
+Katherine's decisive
+act
+
+Saves or stabilizes Melena;
+creates the decisive state (TCD042)
+
+Before the Duel
+
+p.196–
+197
+
+Before the Duel
+
+p.92
+
+BLOCKS THE DUEL
+
+Climax, catastrophic, rerouted
+(TCD-058); Heart's Mirror
+foreshadows only (author ruling,
+2026-09-26)
+
+Melena's
+investigation
+
+Before the Duel; suspicion, not
+proof (TCD-050)
+
+Before her next
+
+p.198–
+199
+
+BLOCKS THE DUEL
+
+Frost failure and Fire
+
+chapter
+
+DECIDED WORK ON
+
+BLOCKS THE DUEL
+
+Challenge Six rules
+BLOCKS THE DUEL
+
+Mirrored single combat; decisive Before the Duel
+(TCD-007; 31–39)
+
+p.200–
+201
+
+Challenge Seven
+
+Never held (TCD-007)
+
+p.202
+
+choice
+
+BLOCKS THE DUEL
+
+The Prayer for Atlas
+
+Katherine performs it (TCD-009) Before Chapter
+29.docx is
+rewritten
+
+BLOCKS THE DUEL
+
+Atlas's injury
+
+Before Melena's
+
+p.203–
+204
+
+Trial origin (TCD-051)
+
+Same
+
+p.205
+
+Before the
+
+BLOCKS THE DUEL
+
+Chain of agency (TCD-042,
+TCD-052)
+
+p.206–
+207
+
+Verification
+
+Authenticated record (TCD-050)
+
+Before the
+
+BLOCKS THE DUEL
+
+Forfeit procedure
+
+forfeit scene
+
+verification
+
+BLOCKS THE DUEL
+
+p.208–
+209
+
+scene
+
+FTE › IV.25 · THE QUEUE · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 1 · 193
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+CONTINUED
+SAFE
+TO
+DEFER
+
+ITEM
+
+WHAT’S FIXED
+
+DECIDE BY
+
+DECIDED WORK ON
+
+Initial publicity of
+Katherine's birth
+
+Owners of each concealment
+layer (TCD-059)
+
+Before anyone
+
+Remnian knowledge
+of other lands
+
+Varies by actor and time (TCD016)
+
+Before a
+
+How Melena classifies
+Shadowmere
+
+—
+
+Caelum's mindpresence
+
+Nightmare magic; not
+Nightmare (TCD-031)
+
+Before it
+
+Minho
+
+Not assumed dead (TCD-009)
+
+Before his bout
+
+p.210–
+211
+
+Challenge Three's
+result; Challenge
+Four's name
+
+Four's concept (TCD-008)
+
+Next revision
+
+p.212–
+215
+
+Next revision
+
+p.137
+
+p.140
+
+reacts to the
+Nicholas name
+p.141
+
+Remnian names
+Somnoria again
+Before a Melena
+POV names the
+Underside
+
+Melena's eyes
+
+CONFLICT amber versus green
+
+enters canon
+prose
+
+p.210–
+211
+
+p.210–
+211
+
+of either book
+
+Melena's age
+
+—
+
+CONFLICT
+
+Before Tiran's
+
+p.142
+
+title matters
+on-page
+CONFLICT Mignonette versus
+Lockwood versus Hastings line
+
+Zephyr's birth
+registration
+"Regnant"; Rovencia;
+Easton/Estonian
+
+p.144
+
+timeline
+
+Zenithia's leadership;
+London Town's royal
+house
+Aracelia's name
+
+With the
+
+CONFLICT Flamer versus Frost
+
+Next revision
+
+p.137
+
+Before his
+secret is
+
+p.89–
+91
+
+exposed
+Before 31–39 is
+
+—
+
+rewritten
+
+p.212–
+215
+
+FTE › IV.25 · THE QUEUE · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 2 · 194
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+CONTINUED
+
+ITEM
+
+WHAT’S FIXED
+
+DECIDE BY
+
+Calendar
+
+None ruled (TCD-010)
+
+With the
+
+SAFE
+TO
+DEFER
+
+DECIDED WORK ON
+
+p.212–
+215
+
+Remnian
+timeline
+(VII.1)
+
+Conqueror bylaws;
+Board seat
+
+Katherine is Conqueror (TCD034)
+
+Aftermath
+
+p.212–
+215
+
+The Imperial Lineage
+
+—
+
+Next audit pass
+
+p.212–
+215
+
+ADDED IN DRAFTING · NAME IT, DATE IT, GIVE IT A PAGE
+
+ITEM
+
+WHAT’S FIXED
+
+DECIDE BY
+
+RESOLVED ITEMS MOVE TO APPENDIX A WITH A LOG NO.
+
+SAFE
+TO
+DEFER
+
+DECIDED WORK ON
+
+APPENDIX A · P.223
+
+FTE › IV.25 · THE QUEUE · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 3 · 195
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 4 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 THE DECISIVE ACT
+CANON
+
+FIXED · KATHERINE'S DECISIVE ACT
+
+Saves or stabilizes Melena; creates the decisive state
+(TCD-042)
+
+OPEN
+
+THE ACT ITSELF
+
+What does Katherine do for Melena in the climax that
+creates the decisive state? Name the action and the
+moment, and keep it inside her own moral arc, not only
+sisterhood (TCD-050).
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+UNDECIDED
+The act itself;
+whether it's a
+Prayer
+DECIDE BY
+Before the Duel
+
+TIED TO
+TCD-042 · TCD-050
+
+DATE
+
+FTE › IV.25 · BLOCKER · KATHERINE’S DECISIVE ACT · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 4 · 196
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+IS IT A PRAYER?
+
+Is the act a Prayer, or something else? If it’s a Prayer,
+square it with what the Prayer can and can’t do.
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-048 · TCD-057
+
+DATE
+
+FTE › IV.25 · BLOCKER · KATHERINE’S DECISIVE ACT · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 5 · 197
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 6 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 MELENA’S INVESTIGATION
+CANON
+
+FIXED · MELENA'S INVESTIGATION
+
+Before the Duel; suspicion, not proof (TCD-050)
+
+OPEN
+
+FIRST CLUE
+
+What is Melena’s first clue, where does she find it, and in
+which chapter?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+UNDECIDED
+First clue;
+evidence; Shadowmere
+knowledge
+DECIDE BY
+Before her next
+chapter
+
+TIED TO
+TCD-050 · IV.13
+
+DATE
+
+FTE › IV.25 · BLOCKER · MELENA’S INVESTIGATION · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 6 · 198
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+EVIDENCE BEFORE THE DUEL
+
+List what she holds by the Duel. For each item: what it
+suggests, and what it can’t prove.
+
+SAFE TO DEFER
+OPEN
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+WHAT SHADOWMERE GAVE HER
+
+What does she already know from Shadowmere and
+Lucia’s trail that points toward Katherine?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-050: suspicion,
+not proof
+
+DATE
+TIED TO
+IV.13 · IV.14
+
+DATE
+
+FTE › IV.25 · BLOCKER · MELENA’S INVESTIGATION · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 7 · 199
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 8 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 CHALLENGE SIX RULES
+CANON
+
+FIXED · CHALLENGE SIX RULES
+
+Mirrored single combat; decisive (TCD-007; 31–39)
+
+OPEN
+
+KILL POLICY
+
+What does the Sanctum actually allow in a bout, and what
+does it say in public?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+UNDECIDED
+Kill policy; bout
+order; yield rules
+DECIDE BY
+Before the Duel
+
+TIED TO
+TCD-007 · IV.7
+
+DATE
+
+FTE › IV.25 · BLOCKER · CHALLENGE SIX RULES · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 8 · 200
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+BOUT ORDER
+
+List the bouts in order: who fights whom, and why the
+Sanctum sets it that way.
+
+SAFE TO DEFER
+OPEN
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+YIELD RULES
+
+How does a bout end short of death, and who can call it?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+IV.6 roster
+
+DATE
+TIED TO
+IV.7
+
+DATE
+
+FTE › IV.25 · BLOCKER · CHALLENGE SIX RULES · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 9 · 201
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 10 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 CHALLENGE SEVEN
+CANON
+
+UNDECIDED
+What it would have
+been
+DECIDE BY
+Before Melena's
+choice
+
+FIXED · CHALLENGE SEVEN
+
+Never held (TCD-007)
+
+OPEN
+
+WHAT IT WOULD HAVE BEEN
+
+What would Challenge Seven have demanded? It has to
+be something Melena chooses to stop from happening.
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-007 · TCD-042
+
+DATE
+
+FTE › IV.25 · BLOCKER · CHALLENGE SEVEN · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 10 · 202
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 11 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 THE PRAYER FOR ATLAS
+CANON
+
+UNDECIDED
+Timing; cost; marks;
+broadcast
+DECIDE BY
+Before Chapter
+29.docx is rewritten
+
+FIXED · THE PRAYER FOR ATLAS
+
+Katherine performs it (TCD-009)
+
+OPEN
+
+TIMING
+
+When does Katherine perform the Prayer for Atlas? The
+candidate scene puts it at the end of Challenge Four
+(Chapter 29.docx).
+
+SAFE TO DEFER
+OPEN
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+What does the Prayer cost the caster?
+
+DECIDE BY
+
+DECIDED
+
+DATE
+TIED TO
+IV.17
+
+COST
+
+SAFE TO DEFER
+
+TIED TO
+TCD-009 · IV.17
+
+LOG
+
+DATE
+
+FTE › IV.25 · BLOCKER · THE PRAYER FOR ATLAS · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 11 · 203
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+TIED TO
+IV.17 · IV.5
+
+MARKS
+
+Does it leave marks, and where?
+
+SAFE TO DEFER
+OPEN
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+BROADCAST
+
+Does the broadcast show it? Who sees it, and what does
+the Sanctum learn?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DATE
+TIED TO
+IV.4 · IV.24
+
+DATE
+
+FTE › IV.25 · BLOCKER · THE PRAYER FOR ATLAS · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 12 · 204
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 13 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 ATLAS’S INJURY
+CANON
+
+UNDECIDED
+Pathology;
+progression after
+the Prayer
+DECIDE BY
+Same
+
+FIXED · ATLAS'S INJURY
+
+Trial origin (TCD-051)
+
+OPEN
+
+PATHOLOGY
+
+Is Atlas’s injury acute Element Rot or its own pathology?
+What is its anatomy?
+
+SAFE TO DEFER
+OPEN
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+PROGRESSION
+
+Why does it keep progressing after synchronization ends,
+and what does the Prayer change?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-051 · IV.16
+
+DATE
+TIED TO
+TCD-051 · IV.16
+
+DATE
+
+FTE › IV.25 · BLOCKER · ATLAS’S INJURY · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 13 · 205
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 14 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 FORFEIT PROCEDURE
+CANON
+
+UNDECIDED
+Maxim's response;
+public procedure;
+emergency authority
+DECIDE BY
+Before the forfeit
+scene
+
+FIXED · FORFEIT PROCEDURE
+
+Chain of agency (TCD-042, TCD-052)
+
+OPEN
+
+MAXIM’S RESPONSE
+
+What does Maxim say and do when Melena brings him the
+choice? He is alive and conscious, and he authorizes.
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-042 · TCD-052
+
+DATE
+
+FTE › IV.25 · BLOCKER · FORFEIT PROCEDURE · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 14 · 206
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+PUBLIC PROCEDURE
+
+How is a forfeit made official on the board, in front of the
+cameras?
+
+SAFE TO DEFER
+OPEN
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+EMERGENCY AUTHORITY
+
+Under what authority does a King forfeit mid-Challenge,
+and who could contest it?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+IV.8 · IV.20
+
+DATE
+TIED TO
+IV.3 · IV.20
+
+DATE
+
+FTE › IV.25 · BLOCKER · FORFEIT PROCEDURE · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 15 · 207
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 16 OF 23 · FTE OPEN DEVELOPMENT · BLOCKER
+
+IV.25 VERIFICATION
+CANON
+
+UNDECIDED
+Which record; who
+authenticates
+DECIDE BY
+Before the
+verification scene
+
+FIXED · VERIFICATION
+
+Authenticated record (TCD-050)
+
+OPEN
+
+WHICH RECORD
+
+Which record verifies the paternity, who made it, and
+where is it kept? The Sanctum keeps the records (TCD059).
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-050 · TCD-059
+
+DATE
+
+FTE › IV.25 · BLOCKER · VERIFICATION · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 16 · 208
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+WHO AUTHENTICATES
+
+Who authenticates it, and why is their word enough?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-050 · IV.13
+
+DATE
+
+FTE › IV.25 · BLOCKER · VERIFICATION · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 17 · 209
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 18 OF 23 · FTE OPEN DEVELOPMENT
+
+IV.25 MELENA, CAELUM, MINHO
+OPEN
+
+HOW MELENA CLASSIFIES SHADOWMERE · FIXED
+
+Nothing fixed.
+
+OPEN
+
+INSIDE OR OUTSIDE
+
+In Melena’s head, is Shadowmere inside Remnia, outside
+it, or no place a map would name?
+
+SAFE TO DEFER
+CANON
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+CAELUM'S MIND-PRESENCE · FIXED
+
+Nightmare magic; not Nightmare (TCD-031)
+
+OPEN
+
+MECHANISM AND RANGE
+
+How does Caelum’s presence reach Melena’s mind, and
+how far does it carry? It’s Nightmare magic; he isn’t
+Nightmare.
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DECIDE BY
+Before a Melena POV
+names the Underside
+
+TIED TO
+IV.2 knowledge flag
+
+DATE
+DECIDE BY
+Before it enters
+canon prose
+
+TIED TO
+TCD-031 · IV.15
+
+DATE
+
+FTE › IV.25 · MELENA, CAELUM, MINHO · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 18 · 210
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+CANON
+
+CONTINUED
+
+DECIDE BY
+Before his bout
+
+MINHO · FIXED
+
+Not assumed dead (TCD-009)
+OPEN
+
+ARC, KNOWLEDGE, FATE
+
+What does Minho want in FTE, what does he know about
+Katherine, and where does he end? His death isn’t
+assumed.
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-009 · IV.19
+
+DATE
+
+FTE › IV.25 · MELENA, CAELUM, MINHO · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 19 · 211
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING PAGES · 20 OF 23 · FTE OPEN DEVELOPMENT
+
+CHALLENGES, TITLES, CALENDAR,
+BOARD
+
+IV.25
+CANON
+
+CHALLENGE THREE'S RESULT; CHALLENGE FOUR'S NAME ·
+FIXED
+
+DECIDE BY
+Next revision
+
+Four's concept (TCD-008)
+OPEN
+
+RESULT AND NAME
+
+Who wins Challenge Three? What is Challenge Four’s
+canon name? (“The Conduit Trials” is a working title.)
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-008 · IV.7
+
+DATE
+
+FTE › IV.25 · CHALLENGES, TITLES, CALENDAR, BOARD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 20 · 212
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+"REGNANT"; ROVENCIA; EASTON/ESTONIAN · FIXED
+
+Nothing fixed.
+
+OPEN
+
+TITLE AND PLACES
+
+Is “Regnant” a real Remnian title? Is Rovencia a
+province? Easton or “Estonian”?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DECIDE BY
+Before 31–39 is
+rewritten
+
+TIED TO
+IV.2 · IV.3. New
+evidence: BSS and
+TLE use “Regnant”
+for faction leaders;
+TLE lists Rovencia
+among seventeen
+provinces (SUPPORTED
+/ LEGACY)
+
+DATE
+
+FTE › IV.25 · CHALLENGES, TITLES, CALENDAR, BOARD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 21 · 213
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+CANON
+
+CONTINUED
+
+DECIDE BY
+With the Remnian
+timeline (VII.1)
+
+CALENDAR · FIXED
+
+None ruled (TCD-010)
+
+OPEN
+
+THE ER CALENDAR
+
+What year is FTE in ER, what is the “49th,” and where
+does Year 847 sit?
+
+SAFE TO DEFER
+CANON
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+CONQUEROR BYLAWS; BOARD SEAT · FIXED
+
+Katherine is Conqueror (TCD-034)
+OPEN
+
+POWERS AND BENEFITS
+
+What can a Conqueror do with the one-year Board seat,
+and what does it give Old Prosperity?
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+TIED TO
+TCD-010. TLE makes
+2038 Year 13 ER but
+dates other births
+“2024 ER”; BSS runs
+to 2096
+
+DATE
+DECIDE BY
+Aftermath
+
+TIED TO
+TCD-034 · IV.8
+
+DATE
+
+FTE › IV.25 · CHALLENGES, TITLES, CALENDAR, BOARD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 22 · 214
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.25 · WORKING PAGES
+
+OPEN
+
+CONTINUED
+
+DECIDE BY
+Next audit pass
+
+THE IMPERIAL LINEAGE · FIXED
+
+Nothing fixed.
+OPEN
+
+AUDIT STATUS
+
+Give The Imperial Lineage an audit status.
+
+TIED TO
+This volume uses it
+for comparison only;
+every claim the
+Content Master
+quotes from it is in
+BSS (record, R-12)
+
+SAFE TO DEFER
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DATE
+
+FTE › IV.25 · CHALLENGES, TITLES, CALENDAR, BOARD
+MS CHECK · CH.
+
+DATE
+
+IV.25·W / 23 · 215
+
+

@@ -1,0 +1,3582 @@
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING RECORD · 1 OF 48 · REMNIAN IMPERIAL + ROYAL LINEAGE
+
+IV.11
+
+REMNIAN LINEAGE: THE
+WORKING RECORD
+
+Rebuilt from the evidence, 2026-10-09. A derived record, not a source.
+
+This record rebuilds the Remnian imperial and royal lineage from the sources, claim by claim.
+Each line names the source it comes from and carries the status that source earns under the
+authority order: rulings, then the Beta, then current author decisions, development, reference,
+shared lore, supporting artifacts, and legacy. It isn’t a source itself, and it settles nothing a
+ruling leaves open.
+Five layers stay apart, as IV.11 requires: biological, legal family status, public and recorded, title,
+and succession. A parent never fills a succession slot, and a title never proves a parent. Where
+two sources disagree, both stay on the page with their sources, and the disagreement gets a
+number (LC-nn) and a working block in lane D.
+LOCKED ANCHOR ·
+
+CANON TCD-040
+
+Tobias Lockwood is the biological father of Katherine (with Michelle Nicholas) and of Melena
+(with Lucia Hastings-Lockwood). Katherine and Melena are paternal half-sisters.
+That doesn’t make Katherine legally acknowledged, a Lockwood by law, a princess, publicly
+known, or an heir. TCD-059 governs the concealment only.
+GUARDRAIL
+
+Agreement between two weak sources isn’t canon. Two timelines that agree are still
+two timelines.
+IN THIS RECORD
+PART
+
+PAGE
+
+A
+
+Genealogy spread: the imperial line; London Town
+
+p.106
+
+B
+
+Lineage ledger, by person and layer; collateral lines; name checks
+
+p.108–
+125
+
+C
+
+Succession lane: current and historical, kept apart from the tree
+
+p.126–
+128
+
+FTE › IV.11 · LINEAGE RECORD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 1 · 102
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+PART
+
+D
+
+PAGE
+
+Open and conflict lane: the conflict ledger, then working space for each decision
+
+p.129–
+136
+
+SOURCE KEY · AUTHORITY TREATMENT IN THIS RECORD
+LABEL
+
+FILE · AVAILABILITY
+
+AUTHORITY IN THIS RECORD
+
+Beta
+
+FTE Official Beta Reader Copy
+
+Controlling FTE prose (TCD-001). Statuses: CURRENT
+DRAFTED TEXT.
+
+Not in this session; its lineage
+facts are taken as the Content
+Master records them, with chapter.
+
+31–39
+
+FTE 31–39 (development chapters)
+Through the Content Master. The
+
+Supporting; rewrite required before any line is canon
+(TCD-001).
+
+uploaded FTE 2025 FINAL file
+contains the same passages.
+
+BSS
+
+FTE Remnian Timeline Before Story
+Start
+Uploaded 2026-10-09; read in full.
+
+TLE
+
+FTE Remnian Timeline Early
+Uploaded 2026-10-09; read in full
+(it ends in 2066 ER).
+
+F2025
+
+FTE 2025 FINAL
+Uploaded 2026-10-09; searched for
+
+Historical/development pool, claim by claim. Latest
+expanded ER generation; Supporting / needs ruling
+(audit). Never controls chronology (TCD-010).
+Earlier pool for genealogy, old succession and names;
+every later source outranks it. Claims only it makes are
+LEGACY until separately supported (audit).
+Legacy prose (TCD-001). Corroboration only; never
+establishes a claim.
+
+every lineage passage.
+
+F4
+
+Full 4 Series Flesh Out
+Uploaded 2026-10-09; searched for
+every lineage passage.
+
+CB
+
+Character Bible
+Not in this session; through the
+
+Shared lore pool / legacy recovery source (TCD-022).
+Claim by claim; cross-series mechanisms are not
+imported.
+Supporting by claim (audit). Its Michelle/Tobias and
+Lucia/Tobias parentage is confirmed by TCD-040.
+
+Content Master.
+
+WTR
+
+Welcome to Remnia
+
+Supporting.
+
+Not in this session; through the
+Content Master.
+
+3SL
+
+3 Shadowmere Lane draft
+
+Controlling 3SL prose.
+
+Through the Content Master.
+
+Placement
+
+49th Placements
+
+s
+
+Through the Content Master.
+
+Supporting.
+
+FTE › IV.11 · LINEAGE RECORD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 2 · 103
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LABEL
+
+FILE · AVAILABILITY
+
+AUTHORITY IN THIS RECORD
+
+IL
+
+The Imperial Lineage (unaudited)
+
+Comparison only. Not imported.
+
+Not in this session; the Content
+Master quotes it.
+
+TCD-nnn
+
+Canon Decision Log rulings
+
+Highest authority. The only route to CANON.
+
+Audit, Sep 26, 2026 (Appendix A).
+
+Status words: DRAFTED = CURRENT DRAFTED TEXT; LEGACY = LEGACY / SUPERSEDED. In the genealogy,
+each line in a box carries a status letter:
+
+C
+
+D
+
+S
+
+P
+
+O
+
+X
+
+L.
+
+FTE › IV.11 · LINEAGE RECORD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 3 · 104
+
+SPINE
+
+3SL
+
+FTE
+
+IV.11 · LINEAGE RECORD
+
+ADST
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+NOTES · IV.11
+
+FTE › IV.11 · LINEAGE RECORD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 4 · 105
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+WORKING RECORD · 5 OF 48 · A · GENEALOGY · SPREAD →
+
+IV.11
+
+THE IMPERIAL LINE
+Eden Genesis
+
+ALTERNATIVE
+
+Caliane Azira Hastings
+
+L Founding Empress
+
+L F2025 only; line not
+
+S Precedes Aracelia
+
+stated
+
+LC-04
+
+LC-05
+
+LC-04 · LC-05
+
+Richard Hastings
+
+Aracelia
+
+EARLIER POOL
+
+S Great-uncle of Elias
+
+D Empress at FTE
+
+LC-13
+
+S b. 2038
+
+ONLY
+
+Jackson Harper
+
+Alistair & Rowena Lockwood
+S Tobias’s parents
+
+L Lucia’s father
+
+LC-02 · 04
+
+LC-14
+
+LC-03
+
+LC-14
+
+Lucia HastingsLockwood
+
+Tobias Lockwood
+m.
+
+S Crown Princess
+
+Michelle Nicholas
+
+S Prince Consort
+
+D Former En Guard
+
+Captain
+
+S Dead before FTE
+
+X b. 2047 or 2055
+
+LC-18
+
+LC-14 · 17 · 21
+
+LC-03 · 06 · 08 ·
+16 · 20 · 21
+
+TCD-040
+
+Elias Lockwood
+
+Melena
+Lockwood
+
+C Crown Prince
+
+Cordelia
+Lockwood
+
+Louis
+Lockwood
+
+D 2nd in line
+
+S 3rd in line
+
+LC-09 · 10
+
+D Flamer
+
+D Frost
+
+line
+
+LC-01 · 15 ·
+20
+
+LC-01
+
+LC-08
+
+O Not in the recorded
+
+× SUPERSEDED
+
+CANON TCD-040
+
+SUPERSEDED LINK
+
+KEY
+CANON link (ruling)
+SUPPORTED link
+LC-nn: conflict, see D
+C
+
+D Registered Frost
+
+C Missing at FTE
+
+PATERNAL HALF-SISTERS ·
+
+S 4th in line
+
+Katherine Nicholas
+
+D
+
+S
+
+P
+
+O
+
+X
+
+alternative person
+
+DRAFTED link
+LEGACY / earlier pool only
+
+L status of each line in a box
+
+earlier pool only
+
+Ethan
+X Medina or Nicholas
+L Bio. father:
+
+superseded
+
+LC-18
+
+FTE › IV.11 RECORD · A · GENEALOGY · SPREAD → · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 5 · 106
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+WORKING RECORD · 6 OF 48 · A · GENEALOGY · ← SPREAD · KINROSS AND
+AUGUSTINE
+
+IV.11
+
+LONDON TOWN
+
+Edward Kinross
+
+EARLIER POOL ONLY
+
+Samantha Kinross
+
+S King; “Edward XVIII”
+
+L First Queen; TLE only
+
+LC-12
+
+LC-12
+
+LC-12
+
+Nathaniel Kinross
+
+Dalia
+
+S King 2058–2090
+
+S Queen from 2090
+
+S Abdicated
+
+S b. 2038
+
+m.
+
+David Augustine
+S Prince Consort
+
+LC-11
+
+ALTERNATIVE
+
+King William
+X WTR, instead of
+
+David
+
+LC-11
+
+LC-11
+LC-19: order of succession
+
+Maxim
+
+Minho
+
+Zephyr
+
+Zoe
+
+Sebastian
+
+S Crown
+
+S Gave up
+
+C Fire/Frost
+
+S Twin of
+
+S Gave up
+
+D Terrain
+
+D Blocker
+
+S Twin of Zoe
+
+S BSS only
+
+D Flamer
+
+LC-19
+
+LC-19
+
+LC-19
+
+LC-19
+
+LC-19
+
+Prince
+
+claim
+
+Dyad
+
+Zephyr
+
+Orion
+S b. 2090
+
+claim
+
+S BSS only
+
+KEY
+
+Arielle Monet Kinross
+S The Princess Royal
+
+CANON link (ruling)
+
+O Parent not named · O-05
+
+SUPPORTED link
+
+DRAFTED link
+LEGACY / earlier pool
+only
+
+LC-nn: conflict, see D
+C
+
+D
+S
+P
+O
+X
+L status of each line in a box
+alternative person
+earlier pool only
+
+The tree shows parentage only. Who rules and who is next is in lane C, and nothing in the tree is evidence for
+it. Collateral lines that only the earlier timeline records (Eden’s other children, Lucia’s sisters, Dalia’s sisters)
+are in the ledger, not the tree.
+
+FTE › IV.11 RECORD · A · ← SPREAD · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 6 · 107
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+WORKING RECORD · 7 OF 48 · B · LINEAGE LEDGER
+
+IV.11
+LAYER · FIELD
+
+LINEAGE LEDGER
+
+Every claim, by person and layer, with its source and status.
+CLAIM
+
+STATUS
+
+SOURCE
+
+NOTE
+
+Eden Genesis HOUSE · Hastings (also styled Mignonette) · also Eden Genesis Hastings (TLE); Eden
+Mignonette / Migonnette (TLE); Eden Genesis (BSS)
+BIOLOGICAL
+
+Spouse
+BIOLOGICAL
+
+Children
+
+Stephen Abraham Hastings, Emperor
+Consort
+
+LEGACY
+
+TLE
+
+Richard, Madeleine, Victoria, and the
+twins Aracelia and Alexandria
+
+LEGACY
+
+TLE
+
+Richard and
+Alexandria are
+also in BSS;
+their parentage
+there is not
+stated.
+
+BIOLOGICAL
+
+“Deceased for decades” by 2091
+
+SUPPORTED
+
+BSS
+
+Death
+
+LC-04: the same
+file has her
+reigning and
+blessing
+Lucia’s decree
+in 2073–76
+
+BIOLOGICAL
+
+Generation
+TITLE
+
+Public title
+SUCCESSION
+
+Dynastic position
+
+Elias’s grandmother (BSS 2073) vs
+great-grandmother (TLE, WTR line)
+Founding Empress of Remnia (Year 1
+ER)
+Predecessor of Aracelia on the throne;
+matrilineal line Eden → Aracelia → Lucia
+→ Elias
+
+CONFLICT
+
+BSS · TLE
+
+LC-04
+
+· WTR
+LEGACY
+
+TLE
+
+SUPPORTED
+
+WTR · TLE
+
+LC-04
+
+CONFLICT
+
+F2025
+
+LC-05: TLE and
+
+Caliane Azira Hastings HOUSE · Hastings
+BIOLOGICAL
+
+Melena’s great-grandmother
+
+Generation
+
+WTR put Eden in
+that place
+
+TITLE
+
+Public title
+
+Empress; signed the Tournament
+augmentation law
+
+LEGACY
+
+F2025
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 7 · 108
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+CONTINUED
+STATUS
+
+SOURCE
+
+NOTE
+
+Aracelia HOUSE · Hastings (house) · surname in conflict · also Aracelia Meson Mignonette;
+Aracelia Mignonette Hastings; Aracelia Meson Mignonette Hastings; Aracelia Lockwood (31–39)
+BIOLOGICAL
+
+Parents
+
+Empress Eden and Emperor Consort
+Stephen
+
+LEGACY
+
+TLE
+
+Matrilineal
+Eden → Aracelia
+in WTR
+
+BIOLOGICAL
+
+Born
+
+7 October 2038, elder twin of
+Alexandria
+
+SUPPORTED
+
+TLE · BSS
+
+BSS gives her
+age as 57 in
+2095; it agrees
+with TLE. Not
+canon (TCD010).
+
+BIOLOGICAL
+
+Spouse
+
+Duke Jackson Harper (married 9 Sept
+2060)
+
+LEGACY
+
+TLE
+
+No later source
+names her
+husband
+
+BIOLOGICAL
+
+Children
+
+Lucia (with Charlotte, twins), Elaine,
+Arianne
+
+LEGACY
+
+TLE
+
+Lucia as her
+daughter is
+supported: BSS
+calls the
+Lockwood
+children her
+grandchildren;
+WTR line
+
+BIOLOGICAL
+
+Frost (attunement shown 2060)
+
+LEGACY
+
+TLE
+
+Element
+PUBLIC /
+RECORDED
+
+Grandmother of
+the Lockwood
+heirs
+
+Melena’s grandmother; guardianship
+orders for the children after Lucia’s
+death (11 Sept 2094)
+
+DRAFTED
+
+Beta · BSS
+
+Grandmother:
+Beta.
+Guardianship
+orders: BSS
+only
+(SUPPORTED).
+
+PUBLIC /
+
+Not ruled
+
+OPEN
+
+TCD-059
+
+Aracelia’s role
+
+RECORDED
+
+in the
+
+Knowledge of
+Katherine
+
+concealment is
+
+TITLE
+
+open
+
+Empress; reigns during FTE
+
+DRAFTED
+
+Beta
+
+Public title
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 8 · 109
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LAYER · FIELD
+
+CLAIM
+
+TITLE
+
+“Aracelia Meson Mignonette” (Beta
+letter) · “Aracelia Meson Mignonette
+Hastings” (BSS) · “Aracelia Mignonette
+Hastings” (TLE) · “Empress Aracelia
+Lockwood” (31–39)
+
+CONFLICT
+
+Reigning Empress at FTE opening
+
+DRAFTED
+
+Beta
+
+Reigned while Lucia preceded Elias in
+succession
+
+CANON
+
+TCD-032
+
+Styled name
+
+SUCCESSION
+
+STATUS
+
+SOURCE
+
+NOTE
+
+Beta · BSS
+
+LC-02
+
+· TLE ·
+31–39
+
+Dynastic position
+SUCCESSION
+
+Accession
+
+Accession date
+OPEN (LC-04)
+
+Jackson Harper HOUSE · Harper · also Duke Jackson Hastings (TLE, once)
+BIOLOGICAL
+
+Aracelia (married 2060)
+
+LEGACY
+
+TLE
+
+Lucia, Charlotte, Elaine, Arianne
+
+LEGACY
+
+TLE
+
+Duke; styled “The Crown Prince” on
+marriage
+
+LEGACY
+
+TLE
+
+Spouse
+BIOLOGICAL
+
+Children
+TITLE
+
+Public title
+
+Richard David Elliot Hastings HOUSE · Hastings · also Richard David Elliot (TLE)
+BIOLOGICAL
+
+Parents
+BIOLOGICAL
+
+Relation
+
+BIOLOGICAL
+
+Empress Eden and Emperor Consort
+Stephen (eldest child)
+
+LEGACY
+
+Elias’s and Louis’s great-uncle; “the
+only male born into a line of powerful
+sisters”
+
+SUPPORTED
+
+Princess Ember
+
+SUPPORTED
+
+TLE
+
+BSS
+
+Consistent with
+TLE (Aracelia’s
+brother)
+
+TLE · BSS
+
+Spouse
+BIOLOGICAL
+
+Olympia (2058), Estelle (2059)
+
+LEGACY
+
+TLE
+
+Children
+BIOLOGICAL
+
+Born
+LEGAL FAMILY
+
+Guardianship
+
+3 September 2024 (TLE) vs about
+2039 (BSS: 55 in 2094)
+
+CONFLICT
+
+TLE · BSS
+
+Files for Elias’s guardianship (2094);
+granted guardianship of Louis (11 Sept
+2094)
+
+SUPPORTED
+
+BSS
+
+LC-13
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 9 · 110
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LAYER · FIELD
+
+CLAIM
+
+STATUS
+
+SOURCE
+
+NOTE
+
+TITLE
+
+Prince; Crown Prince at birth (TLE)
+
+LEGACY
+
+TLE
+
+Displaced as
+
+Public title
+
+heir by
+Aracelia in
+2055 (TLE)
+
+Alexandria Melena Mignonette HOUSE · Hastings (by marriage to Clyde Hastings)
+Parents
+
+Empress Eden and Emperor Consort
+Stephen; younger twin of Aracelia
+
+BIOLOGICAL
+
+Lord Clyde Hastings (d. Nov 2096)
+
+SUPPORTED
+
+TLE · BSS
+
+Amalia Danyelle (b. 2 May 2062),
+Evangeline Kelly (b. 4 Aug 2063)
+
+SUPPORTED
+
+TLE · BSS
+
+BIOLOGICAL
+
+LEGACY
+
+TLE
+
+Spouse
+BIOLOGICAL
+
+Children
+
+BSS ages (34,
+33 in 2096)
+match TLE
+
+TITLE
+
+Princess of Remnia, Duchess of Alleia
+
+SUPPORTED
+
+TLE · BSS
+
+Public title
+
+Lucia Noelle Marie Hastings-Lockwood HOUSE · Hastings; Lockwood by marriage · also Lucia
+Hastings (BSS 2073); Lucia Noelle Marie (TLE)
+BIOLOGICAL
+
+Aracelia and Jackson Harper
+
+LEGACY
+
+TLE
+
+Parents
+
+Aracelia as
+mother:
+SUPPORTED (BSS,
+WTR)
+
+2047 (BSS: 47 at death) vs 26 October
+2055 (TLE)
+
+CONFLICT
+
+BSS · TLE
+
+Born
+BIOLOGICAL
+
+Tobias Lockwood, Prince Consort
+
+SUPPORTED
+
+BSS · CB
+
+Melena (with Tobias)
+
+CANON
+
+TCD-040
+
+Elias, Cordelia, Louis (with Tobias)
+
+SUPPORTED
+
+BSS
+
+BIOLOGICAL
+
+LC-03
+
+Spouse
+BIOLOGICAL
+
+Children
+BIOLOGICAL
+
+Children
+
+Elias, Cordelia
+and Louis as
+Lucia’s
+children are
+also the Beta’s
+family
+(Melena’s
+siblings)
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 10 · 111
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+BIOLOGICAL
+
+Frost: “one of the most powerful” in the
+empire
+
+Element
+
+CONTINUED
+STATUS
+DRAFTED
+
+SOURCE
+
+NOTE
+
+Beta
+
+31–39 makes her
+a Flamer:
+REVISION FLAG
+(LC-21)
+
+BIOLOGICAL
+
+Dead before FTE
+
+DRAFTED
+
+Beta
+
+7 Sept 2094, Imperial Palace,
+“nighttime medical crisis” (BSS) vs a
+car accident (31–39)
+
+CONFLICT
+
+BSS · 31–
+
+Originated Katherine’s public/legal and
+dynastic erasure
+
+CANON
+
+TCD-059
+
+Treason decree on discussion of
+Katherine’s birth; legal action leaving
+her no claim; forbade her raising in
+London Town
+
+SUPPORTED
+
+BSS
+
+2076 decree: daughters keep their
+place regardless of younger brothers
+
+SUPPORTED
+
+BSS
+
+LC-06
+
+Crown Princess; “Duchess of Zenithia”
+
+SUPPORTED
+
+BSS
+
+Crown Princess
+
+Death
+BIOLOGICAL
+
+Death · when, how
+
+LEGAL FAMILY
+
+Act
+LEGAL FAMILY
+
+Act (as drafted in
+BSS)
+
+LEGAL FAMILY
+
+Act (as drafted in
+BSS)
+TITLE
+
+LC-16
+
+39
+
+Mechanism
+SUPPORTED only;
+publicity OPEN
+(LC-08)
+
+Public title
+
+also CB, WTR;
+Zenithia title:
+LC-20
+
+Earlier style
+
+The Princess Imperial (from birth,
+2055)
+
+SUCCESSION
+
+Heir to Aracelia; preceded Elias
+
+TITLE
+
+LEGACY
+
+TLE
+
+CANON
+
+TCD-032
+
+Tobias
+
+SUPPORTED
+
+BSS
+
+Duchess Rowena Lockwood
+
+SUPPORTED
+
+BSS
+
+Position
+
+Alistair Lockwood HOUSE · Lockwood
+BIOLOGICAL
+
+Children
+BIOLOGICAL
+
+Spouse
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 11 · 112
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+BIOLOGICAL
+
+About 2027 (67 in 2094)
+
+CONTINUED
+STATUS
+CONFLICT
+
+SOURCE
+
+NOTE
+
+BSS
+
+LC-14: about
+
+Born
+
+eight at
+Tobias’s TLE
+birth date
+SUPPORTED
+
+BSS
+
+Guardianship
+
+Petitions for Elias (July 2094, delayed
+by the Sanctum); granted Cordelia with
+Rowena (11 Sept 2094)
+
+TITLE
+
+Duke
+
+SUPPORTED
+
+BSS
+
+Alistair Lockwood · Tobias
+
+SUPPORTED
+
+BSS
+
+Duchess
+
+SUPPORTED
+
+BSS
+
+CANON
+
+TCD-040
+
+Children
+
+Katherine (with Michelle Nicholas) and
+Melena (with Lucia)
+
+BIOLOGICAL
+
+Elias, Cordelia, Louis (with Lucia)
+
+SUPPORTED
+
+BSS
+
+Duke Alistair and Duchess Rowena
+Lockwood
+
+SUPPORTED
+
+BSS
+
+LEGAL FAMILY
+
+Public title
+
+Rowena Lockwood HOUSE · Lockwood
+BIOLOGICAL
+
+Spouse · children
+TITLE
+
+Public title
+
+Tobias Lockwood HOUSE · Lockwood
+BIOLOGICAL
+
+LOCKED ANCHOR
+
+Children
+BIOLOGICAL
+
+Parents
+BIOLOGICAL
+
+Born
+BIOLOGICAL
+
+Element
+
+2 August 2035, Lockwood Manor,
+Highcrest
+Fire, by implication: Melena “took after
+their father — fire running through her
+veins”
+
+LEGACY
+
+DRAFTED
+
+TLE
+
+LC-14
+
+Beta
+
+31–39 Mirror:
+Tobias calls
+himself a Frost
+(REVISION FLAG,
+LC-21)
+
+BIOLOGICAL
+
+Dead before FTE
+
+SUPPORTED
+
+CB · 31–39
+
+Six months after Lucia; officially a fall
+on wet stairs; Melena believes suicide
+
+SUPPORTED
+
+31–39
+
+Death
+BIOLOGICAL
+
+Death · when, how
+
+LC-17: BSS
+never places
+him in 2094–96
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 12 · 113
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LAYER · FIELD
+
+CLAIM
+
+STATUS
+
+SOURCE
+
+LEGAL FAMILY
+
+Lucia’s husband; Prince Consort
+
+SUPPORTED
+
+BSS · CB
+
+Cooperates by non-acknowledgment;
+not established as the architect
+
+CANON
+
+TCD-059
+
+“Tried to make it work for years”; Dalia
+was one of three people who knew
+
+SUPPORTED
+
+31–39
+
+Prince Consort
+
+SUPPORTED
+
+NOTE
+
+Marriage
+LEGAL FAMILY
+
+Role in
+Katherine’s
+concealment
+PUBLIC /
+RECORDED
+
+F2025 has the
+same passage
+
+Relationship with
+Michelle
+TITLE
+
+CB · BSS
+
+Public title
+
+TLE styles him
+“Head of the
+Lockwood House”
+from birth
+(LEGACY; LC-14)
+
+Celeste (Tobias’s late aunt) HOUSE · Lockwood side · surname not given
+BIOLOGICAL
+
+Relation
+
+Tobias’s aunt, dead by 2076;
+Katherine’s middle name honours her
+
+SUPPORTED
+
+BSS
+
+Not Lady
+Celeste
+Blackwood: NV02
+
+Elias Louis Alexander Lockwood HOUSE · Lockwood
+BIOLOGICAL
+
+Lucia and Tobias
+
+SUPPORTED
+
+BSS · WTR
+
+Parents
+
+Melena’s
+brother (Beta);
+full parentage
+not ruled
+
+BIOLOGICAL
+
+Born
+
+3 October 2073, Imperial Palace,
+London Town
+
+SUPPORTED
+
+BSS
+
+Calendar
+unruled (TCD010)
+
+BIOLOGICAL
+
+Eyes
+PUBLIC /
+RECORDED
+
+Status at FTE
+
+Golden, “associated with the Lockwood
+lineage”
+
+SUPPORTED
+
+BSS
+
+Missing from Remnia: failed to return
+on pattern; Professor Alexander Thorne
+in Somnoria
+
+CANON
+
+TCD-032 ·
+
+IL repeats it
+
+TCD-013
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 13 · 114
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+TITLE
+
+Crown Prince, after Lucia’s death
+
+CONTINUED
+STATUS
+
+SOURCE
+
+CANON
+
+TCD-032
+
+NOTE
+
+Public title
+TITLE
+
+“Crown Prince of Remnia” from 2073
+
+LEGACY
+
+BSS
+
+Superseded by
+
+Title at birth
+
+TCD-032 (LC-09)
+
+Duke of Somnoria, the heir apparent’s
+“traditional title”
+
+SUPPORTED
+
+BSS
+
+First in line (heir apparent) at FTE
+opening
+
+CANON
+
+TCD-032
+
+CANON
+
+TCD-040
+
+Parents
+
+Lucia Hastings-Lockwood and Tobias
+Lockwood
+
+BIOLOGICAL
+
+Paternal half-sister
+
+CANON
+
+TCD-040
+
+CONFLICT
+
+BSS · CB
+
+Born
+
+9 Sept 2076 (BSS) vs 2077 (CB); age
+unstated in the Beta
+
+BIOLOGICAL
+
+Flamer; volatile
+
+DRAFTED
+
+Beta
+
+Amber (Beta) vs green (3SL, BSS, CB,
+31–39)
+
+CONFLICT
+
+Beta · 3SL
+
+TITLE
+
+Public title
+SUCCESSION
+
+Position
+
+LC-09, LC-10
+
+Melena Elizabeth Beatrix Lockwood HOUSE · Lockwood
+BIOLOGICAL
+
+LOCKED ANCHOR
+
+Relation to
+Katherine
+BIOLOGICAL
+
+LC-15
+
+Element
+BIOLOGICAL
+
+Eyes
+
+LC-01
+
+· BSS · CB
+· 31–39
+SUPPORTED
+
+BSS
+
+Guardianship
+
+Granted to Lorelei and Lady Helena’s
+household (11 Sept 2094)
+
+PUBLIC /
+
+Nothing on the page in chs. 1–29
+
+DRAFTED
+
+Beta
+
+Princess
+
+DRAFTED
+
+Beta
+
+Duchess of Avalon
+
+SUPPORTED
+
+BSS
+
+LEGAL FAMILY
+
+RECORDED
+
+Knows Katherine
+is her sister
+TITLE
+
+Public title
+TITLE
+
+Further title
+
+No province of
+that name in
+TLE’s seventeen
+(LC-20)
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 14 · 115
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+SUCCESSION
+
+Second in line, after Elias
+
+CONTINUED
+STATUS
+
+SOURCE
+
+DRAFTED
+
+Beta
+
+SUPPORTED
+
+BSS
+
+NOTE
+
+Position
+
+Cordelia Gwendolyn Marie Lockwood HOUSE · Lockwood
+BIOLOGICAL
+
+Lucia and Tobias
+
+Parents
+BIOLOGICAL
+
+Melena’s sister
+(Beta)
+
+2 September 2079
+
+SUPPORTED
+
+BSS
+
+Born
+
+Beta: seventeen
+at FTE.
+Consistent.
+
+Frost, inherited from Lucia (“Second
+generation”)
+
+DRAFTED
+
+Beta
+
+Amber eyes and crimson hair, like
+Melena’s
+
+DRAFTED
+
+Beta
+
+SUPPORTED
+
+BSS
+
+Guardianship
+
+Granted to Duke Alistair and Duchess
+Rowena Lockwood (11 Sept 2094)
+
+TITLE
+
+Princess of Remnia
+
+SUPPORTED
+
+BSS
+
+Third in line
+
+SUPPORTED
+
+BSS
+
+BIOLOGICAL
+
+Element
+BIOLOGICAL
+
+Eyes · hair
+LEGAL FAMILY
+
+LC-01
+
+Public title
+SUCCESSION
+
+Position
+
+Consistent with
+the Beta’s
+Melena second
+
+Louis Reginald Henry Lockwood HOUSE · Lockwood · also Louis Reginal Henry (BSS, once)
+BIOLOGICAL
+
+Lucia and Tobias
+
+SUPPORTED
+
+BSS
+
+14 May 2081
+
+SUPPORTED
+
+BSS
+
+Parents
+BIOLOGICAL
+
+Born
+
+(CM: SUPPORTED)
+SUPPORTED
+
+BSS
+
+Guardianship
+
+Granted to Prince Richard Hastings,
+his great-uncle (11 Sept 2094)
+
+TITLE
+
+Prince of Remnia
+
+SUPPORTED
+
+BSS
+
+Fourth in line
+
+SUPPORTED
+
+BSS
+
+LEGAL FAMILY
+
+The youngest
+
+Public title
+SUCCESSION
+
+Position
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 15 · 116
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+CONTINUED
+STATUS
+
+SOURCE
+
+NOTE
+
+Katherine (with Tobias Lockwood)
+
+CANON
+
+TCD-040
+
+LOCKED ANCHOR
+
+Her maternal grandmother is the
+“Medina” of Katherine’s name
+
+SUPPORTED
+
+BSS
+
+LC-18
+
+Raises and protects Katherine inside
+imposed constraints; not the architect
+
+CANON
+
+TCD-059
+
+Queen Dalia was one of three people
+who knew of the relationship
+
+SUPPORTED
+
+31–39
+
+Michelle Nicholas HOUSE · Nicholas
+BIOLOGICAL
+
+Children
+BIOLOGICAL
+
+Family
+LEGAL FAMILY
+
+Role in the
+concealment
+PUBLIC /
+RECORDED
+
+Whether Dalia
+knows Katherine
+
+Who knew of her
+and Tobias
+
+is Tobias’s
+child is
+unstated
+
+TITLE
+
+Rank
+
+Lieutenant; former Captain of the En
+Guard, stepped down two months
+before ch. 1
+
+DRAFTED
+
+Beta
+
+BSS: Captain of
+the En Guard in
+2076
+
+Ethan HOUSE · surname in conflict · also Ethan Medina (WTR); Ethan Nicholas (TLE); Ethan (F2025)
+BIOLOGICAL
+
+Superseded
+
+LEGACY
+
+TCD-040
+
+18 Nov 2035, Nicholas Estate,
+Meridion; “Head of the Nicholas
+House”
+
+LEGACY
+
+TLE
+
+Katherine’s
+biological father
+BIOLOGICAL
+
+Born
+
+POSSIBLE
+
+Social or naming
+role
+
+“Gave Katherine his name” (WTR); sits
+beside Michelle as “her father, Ethan”
+(F2025)
+
+TITLE
+
+Medina (WTR) vs Nicholas (TLE)
+
+LEGAL FAMILY
+
+WTR ·
+
+No ruling (CM
+
+F2025
+
+IV.9)
+
+CONFLICT
+
+WTR · TLE
+
+LC-18
+
+CANON
+
+TCD-040
+
+LOCKED ANCHOR
+
+Surname
+
+Katherine Medina Celeste Nicholas HOUSE · Nicholas
+BIOLOGICAL
+
+Parents
+
+Michelle Nicholas and Tobias
+Lockwood
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 16 · 117
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+BIOLOGICAL
+
+CONTINUED
+STATUS
+
+SOURCE
+
+Paternal half-sister
+
+CANON
+
+TCD-040
+
+2076 (CB); 14 July 2076, Military
+Hospital, Old Prosperity (BSS)
+
+SUPPORTED
+
+CB · BSS
+
+NOTE
+
+Relation to
+Melena
+BIOLOGICAL
+
+Born
+
+Before Melena
+in both
+sources: O-01
+
+BIOLOGICAL
+
+Element
+
+Registered Frost; objectively one
+ancestral capacity, Frost-dominant,
+Fire by later reroute
+
+CANON
+
+Beta ·
+
+Registered
+
+TCD-049 ·
+
+Frost: DRAFTED.
+
+TCD-058
+
+Which parent
+the capacity
+comes from:
+OPEN
+
+Not ruled: legitimacy, name at law,
+royal or not
+
+OPEN
+
+Corporal Katherine Medina Celeste
+Nicholas
+
+DRAFTED
+
+Public/legal and dynastic erasure
+originated by Lucia / the Lockwood
+Crown; the Sanctum enforces and
+keeps the records
+
+CANON
+
+TCD-059
+
+Not ruled; sources conflict
+
+OPEN
+
+TCD-059
+
+LC-08
+
+SUPPORTED
+
+BSS
+
+Not adopted
+
+As BSS drafts it
+
+“Highly publicized” birth; treason
+decree; 2091 Sanctum suppression
+order; “legally protected identity”
+
+PUBLIC /
+
+Nothing on the page in chs. 1–29
+
+DRAFTED
+
+Beta
+
+None. Not a princess, not a Lockwood
+by law
+
+OPEN
+
+TCD-040
+
+LEGAL FAMILY
+
+Legal status
+LEGAL FAMILY
+
+Name on her
+orders
+LEGAL FAMILY
+
+Erasure
+
+PUBLIC /
+
+TCD-040
+
+Biology settles
+none of it
+
+Beta
+
+BSS gives the
+same full name
+
+RECORDED
+
+Public knowledge
+PUBLIC /
+RECORDED
+
+(LC-08)
+
+RECORDED
+
+Knows Tobias is
+her father
+TITLE
+
+Title
+
+Each is a
+separate
+decision
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 17 · 118
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LAYER · FIELD
+
+CLAIM
+
+STATUS
+
+SOURCE
+
+NOTE
+
+TITLE
+
+Legacy naming
+
+LEGACY
+
+F4
+
+Rejected: R-01
+
+“Katherine
+Lockwood”
+Position
+
+Not in the recorded line; any claim at
+law not ruled
+
+SUCCESSION
+
+Legacy sequel plot
+
+SUCCESSION
+
+OPEN
+
+TCD-040 ·
+TCD-059
+
+LEGACY
+
+F4
+
+Rejected: R-02
+
+TLE
+
+LC-12
+
+TLE
+
+Dalia and
+
+Named heir
+apparent (Book 3)
+
+Samantha Ruby Kinross HOUSE · Kinross
+BIOLOGICAL
+
+Spouse
+BIOLOGICAL
+
+Children
+
+King Edward Kinross (2038 entry) vs
+King Brenton (2058 entry)
+Lauren, Angelica, Dalia, Nathaniel,
+Fallon
+
+CONFLICT
+
+LEGACY
+
+Nathaniel as
+siblings:
+SUPPORTED (BSS)
+
+TITLE
+
+Public title
+
+First Queen of London Town; “what will
+later become the House of Augustine”
+
+LEGACY
+
+TLE
+
+Edward Kinross HOUSE · Kinross · also King Edward XVIII (BSS)
+BIOLOGICAL
+
+Dalia, Nathaniel
+
+SUPPORTED
+
+TLE · BSS
+
+Children
+
+BSS: Maxim’s
+maternal
+grandfather
+“King Edward
+XVIII”;
+Nathaniel is
+Dalia’s brother
+in both
+
+TITLE
+
+King (of London Town)
+
+SUPPORTED
+
+TLE · BSS
+
+SUPPORTED
+
+TLE · BSS
+
+LC-12
+
+Public title
+
+Nathaniel Reece Isaiah Kinross HOUSE · Kinross
+Parents
+
+Queen Samantha and King Edward
+Kinross; Dalia’s younger brother
+
+BIOLOGICAL
+
+24 November 2039
+
+BIOLOGICAL
+
+LEGACY
+
+TLE
+
+Born
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 18 · 119
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LAYER · FIELD
+
+CLAIM
+
+LEGAL FAMILY
+
+2090 decree: daughters keep their
+place regardless of birth order, if born
+to the Queen and Prince Consort
+
+SUPPORTED
+
+BSS
+
+King of London Town (from 2058, TLE)
+until his abdication (15 June 2090,
+BSS)
+
+SUPPORTED
+
+TLE · BSS
+
+Act
+
+TITLE
+
+Public title
+
+STATUS
+
+SOURCE
+
+NOTE
+
+Dalia Clementine Lexington HOUSE · Kinross (birth); Augustine (marriage) · also Dalia Clementine
+Lexington Kinross (BSS); Queen Dalia Augustine (WTR)
+BIOLOGICAL
+
+Parents
+
+Queen Samantha and King Edward
+Kinross
+
+SUPPORTED
+
+TLE · BSS
+
+Edward: both.
+Samantha: TLE
+only
+
+BIOLOGICAL
+
+31 October 2038
+
+SUPPORTED
+
+TLE · BSS
+
+BSS: 34 in 2072
+
+David Augustine, Prince Consort (BSS,
+CB) vs King William (WTR)
+
+CONFLICT
+
+BSS · CB ·
+
+LC-11
+
+Maxim, Minho, Zephyr and Zoe (twins),
+Sebastian, Orion
+
+SUPPORTED
+
+Born
+BIOLOGICAL
+
+Spouse
+BIOLOGICAL
+
+Children
+
+WTR
+BSS
+
+The four sons:
+Beta (Augustine
+brothers). Zoe
+and Orion: BSS
+only
+
+PUBLIC /
+RECORDED
+
+Knowledge
+TITLE
+
+Public title at FTE
+
+Knew of Michelle and Tobias; whether
+she knows Katherine’s paternity is
+unstated
+
+SUPPORTED
+
+31–39
+
+Queen of London Town (from 30 June
+2090)
+
+SUPPORTED
+
+BSS · 31–
+
+CB: Crown
+
+39
+
+Princess (LC11)
+
+SUCCESSION
+
+Accession
+
+Nathaniel abdicates in her favour (15
+June 2090)
+
+SUPPORTED
+
+BSS
+
+SUPPORTED
+
+BSS · CB
+
+David Augustine HOUSE · Augustine
+BIOLOGICAL
+
+Dalia
+
+Spouse
+
+WTR names King
+William instead
+(LC-11)
+
+BIOLOGICAL
+
+Parents
+
+Lord Alexander Augustine (father); Lord
+George Augustine is his uncle
+
+SUPPORTED
+
+BSS
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 19 · 120
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+TITLE
+
+Prince Consort
+
+CONTINUED
+STATUS
+
+SOURCE
+
+NOTE
+
+SUPPORTED
+
+BSS · CB
+
+LC-11
+
+CONFLICT
+
+WTR
+
+LC-11
+
+Public title
+
+William HOUSE · Augustine (as WTR names him)
+TITLE
+
+Public title
+
+King of London Town, with Queen Dalia
+Augustine
+
+Maximillian Edward George Augustine HOUSE · Augustine · also Maxim
+BIOLOGICAL
+
+Dalia and David Augustine
+
+SUPPORTED
+
+BSS
+
+7 September 2072
+
+SUPPORTED
+
+BSS
+
+Parents
+BIOLOGICAL
+
+Born
+
+Eldest of the
+brothers (F2025
+agrees)
+
+BIOLOGICAL
+
+Terrain
+
+DRAFTED
+
+Beta
+
+Crown Prince of London Town
+
+SUPPORTED
+
+BSS
+
+First in London Town’s line
+
+SUPPORTED
+
+BSS
+
+Dalia and David Augustine
+
+SUPPORTED
+
+BSS
+
+12 August 2074 (BSS); 2074 (CB)
+
+SUPPORTED
+
+BSS · CB
+
+Blocker
+
+DRAFTED
+
+Beta
+
+En Guard Captain; Old Prosperity’s
+King Piece
+
+DRAFTED
+
+Beta
+
+Gave up his claim to join Old
+Prosperity’s military (CB); relinquished
+3 March 2091 (BSS)
+
+SUPPORTED
+
+CB · BSS
+
+Element
+TITLE
+
+Public title
+SUCCESSION
+
+LC-19
+
+Position
+
+Minho Alexander David Augustine HOUSE · Augustine
+BIOLOGICAL
+
+Parents
+BIOLOGICAL
+
+Born
+BIOLOGICAL
+
+Element
+TITLE
+
+Rank
+SUCCESSION
+
+Position
+
+F2025
+corroborates;
+LC-19
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 20 · 121
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+LAYER · FIELD
+
+CLAIM
+
+CONTINUED
+STATUS
+
+SOURCE
+
+NOTE
+
+Zephyr David Augustine HOUSE · Augustine
+BIOLOGICAL
+
+Dalia and David Augustine; twin of Zoe
+
+SUPPORTED
+
+BSS
+
+7 September 2075
+
+SUPPORTED
+
+BSS
+
+Genuine modern Fire/Frost Dyad;
+registered Flamer (registration in
+conflict)
+
+CANON
+
+TCD-049 ·
+
+Registration:
+
+Placements
+
+CONFLICT
+
+Fourth in the 2090 list; “sixth” at birth
+
+CONFLICT
+
+BSS
+
+Dalia and David Augustine; twin of
+Zephyr
+
+SUPPORTED
+
+BSS
+
+“Princess Zoe Dalia Lockwood
+Augustine”, styled “Princess Dalia”
+
+OPEN
+
+BSS
+
+Parents
+BIOLOGICAL
+
+Born
+BIOLOGICAL
+
+Element
+
+SUCCESSION
+
+(IV.10)
+LC-19
+
+Position
+
+Zoe Dalia Augustine HOUSE · Augustine
+BIOLOGICAL
+
+Parents
+TITLE
+
+Styled name
+
+NV-14: no
+Lockwood parent
+is given
+
+SUCCESSION
+
+Fifth in the 2090 list
+
+CONFLICT
+
+BSS
+
+LC-19
+
+Position
+
+Sebastian Bartholomew Dominic Augustine HOUSE · Augustine
+BIOLOGICAL
+
+Dalia and David Augustine
+
+SUPPORTED
+
+BSS
+
+15 August 2076
+
+SUPPORTED
+
+BSS
+
+Flamer
+
+DRAFTED
+
+Beta
+
+Third in the 2090 list; relinquished (9
+April 2095)
+
+SUPPORTED
+
+BSS
+
+SUPPORTED
+
+BSS
+
+Parents
+BIOLOGICAL
+
+Born
+BIOLOGICAL
+
+Element
+SUCCESSION
+
+Position
+
+LC-19
+
+Orion Nathaniel Augustine HOUSE · Augustine
+BIOLOGICAL
+
+Dalia and David Augustine
+
+Parents
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 21 · 122
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+LAYER · FIELD
+
+CLAIM
+
+STATUS
+
+SOURCE
+
+NOTE
+
+BIOLOGICAL
+
+1 October 2090
+
+SUPPORTED
+
+BSS
+
+“Orion Nathaniel Lockwood Augustine”
+
+OPEN
+
+BSS
+
+NV-14
+
+OPEN
+
+BSS
+
+Which son is
+
+Parents
+
+“Eldest daughter of a son of the
+crown”; Dalia’s niece
+
+TITLE
+
+The Princess Royal
+
+SUPPORTED
+
+BSS
+
+Placed before Dalia’s unborn son
+(2090)
+
+SUPPORTED
+
+BSS
+
+Born
+TITLE
+
+Styled name
+
+Arielle Monet Kinross HOUSE · Kinross
+BIOLOGICAL
+
+not named
+
+Public title
+SUCCESSION
+
+Position
+
+COLLATERAL LINES · KEPT, NOT CHARTED
+PERSON
+
+WHAT THE SOURCE SAYS
+
+STATUS
+
+SOURCE
+
+Stephen Abraham Hastings
+
+Eden’s spouse; Emperor Consort; once Flamer
+Regnant
+
+LEGACY
+
+TLE
+
+Madeleine Beatrix
+
+Eden’s second child (b. 2028); m. Lord Felix
+D’Arcy; daughters Aveline, Isabella, Arabella
+
+LEGACY
+
+TLE
+
+Victoria Cassiopeia
+
+Eden’s third child (b. 2035); Flamer; m. Lord
+Adrian Wells; daughter Fiona
+
+LEGACY
+
+TLE
+
+Charlotte Elizabeth Anai
+
+Lucia’s younger twin (b. 26 Oct 2055)
+
+LEGACY
+
+TLE
+
+Elaine Marie Hastings
+
+Aracelia’s third daughter (b. 21 Nov 2056)
+
+LEGACY
+
+TLE
+
+Arianne Jessamine
+Hastings
+
+Aracelia’s fourth daughter (b. 2 April 2066)
+
+LEGACY
+
+TLE
+
+Ember Hastings
+
+Richard’s wife (53 in 2094); daughters
+Olympia (b. 2058), Estelle (b. 2059)
+
+SUPPORTED
+
+TLE · BSS
+
+Clyde Hastings
+
+Alexandria’s husband; dies Nov 2096
+
+SUPPORTED
+
+TLE · BSS
+
+Amalia Danyelle ·
+Evangeline Kelly Hastings
+
+Alexandria and Clyde’s daughters (b. 2062,
+2063)
+
+SUPPORTED
+
+TLE · BSS
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 22 · 123
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+PERSON
+
+WHAT THE SOURCE SAYS
+
+STATUS
+
+SOURCE
+
+Lauren Felicity · Angelica
+Demeter · Fallon Valentina
+Kinross
+
+Dalia’s sisters (b. 2024, 2035, 2040)
+
+LEGACY
+
+TLE
+
+Brenton
+
+King whose death in 2058 makes Nathaniel
+King; relation to Samantha unstated
+
+LEGACY
+
+TLE
+
+DUPLICATE-PERSON AND NAME-VARIANT CHECKS
+CHECK
+
+WHAT THE SOURCES NAME
+
+HOW THE RECORD TREATS IT
+
+NV-01
+
+Duke Alistair Lockwood (BSS, Tobias’s father) · Duke
+Alistair Blackwood “of London Town” (BSS, Tiran’s
+father) · High Chancellor Alistair Blackwood (TLE,
+Year 2 ER)
+
+Kept as three people. No source
+makes any two of them one
+person; Lockwood and
+Blackwood aren’t merged on
+spelling.
+
+Tobias’s late aunt (BSS; Katherine’s middle name) ·
+Lady Celeste Blackwood (BSS, alive 2072) · Celeste
+Morningstar (TLE, Dawner Regnant 2064)
+
+Kept apart. No source connects
+them.
+
+Ethan Medina (WTR) · Ethan Nicholas (TLE) · “her
+father, Ethan” (F2025)
+
+One slot with a surname conflict
+(LC-18): each is Katherine’s
+father figure in its own
+generation.
+
+Meson Mignonette · Mignonette Hastings · Meson
+Mignonette Hastings · Lockwood
+
+One person (LC-02).
+
+Eden Genesis Hastings · Eden Mignonette ·
+“Migonnette” · Eden Genesis
+
+One person; spelling and house
+drift inside TLE.
+
+Duke Jackson Harper · “Duke Jackson Hastings”
+(TLE, once)
+
+One person; TLE spelling drift.
+
+Richard David Elliot (TLE) · Richard David Elliot
+Hastings (BSS)
+
+One person; birth year in
+conflict (LC-13).
+
+Louis Reginald Henry · “Louis Reginal Henry” (BSS,
+once)
+
+One person; typo.
+
+Alistair
+
+NV-02
+
+Celeste
+NV-03
+
+Ethan
+
+NV-04
+
+Aracelia
+NV-05
+
+Eden
+NV-06
+
+Jackson
+NV-07
+
+Richard
+NV-08
+
+Louis
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 23 · 124
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.11 · LINEAGE RECORD
+
+CONTINUED
+
+CHECK
+
+WHAT THE SOURCES NAME
+
+HOW THE RECORD TREATS IT
+
+NV-09
+
+Lord Commander Gareth Thorne (TLE, Old
+Prosperity) · General Gareth Thorne (WTR) ·
+Professor Alexander Thorne (Elias’s alias, TCD-032)
+
+No connection established.
+Don’t infer one.
+
+Elder Zephyr Windrider (TLE, Dawners) · the
+Factions file’s 2092 survivor Zephyr Windrider ·
+Zephyr Augustine
+
+Not the same person (IV.5
+guardrail).
+
+Flight Regnant Elias Windwalker (TLE, 2063) · Elias
+Lockwood
+
+Not connected.
+
+Duke Jackson Harper (TLE) · Elite Regnant
+Annemarie Harper (TLE 2061; BSS 2091)
+
+No family link stated.
+
+Alexandria Melena Mignonette · Madeleine Beatrix ·
+Melena Elizabeth Beatrix Lockwood
+
+Possible namesakes; no source
+says so.
+
+“Princess Zoe Dalia Lockwood Augustine” · “Orion
+Nathaniel Lockwood Augustine” (BSS)
+
+No Lockwood parent is given in
+the Augustine line. Flagged, not
+inferred.
+
+Thorne
+
+NV-10
+
+Zephyr
+
+NV-11
+
+Elias
+NV-12
+
+Harper
+NV-13
+
+Melena /
+Beatrix
+NV-14
+
+“Lockwood” in
+Augustine
+names
+
+FTE › IV.11 RECORD · B · LEDGER · CONTINUES →
+MS CHECK · CH.
+
+DATE
+
+IV.11·R / 24 · 125
+
+

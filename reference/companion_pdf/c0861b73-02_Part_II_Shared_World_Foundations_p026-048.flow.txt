@@ -1,0 +1,1954 @@
+3SL
+
+SPINE
+
+II
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+PART II · BUILD 2
+
+THE SHARED TANDEM SPINE
+
+This is what holds across all four books before any single story gets its own dossier. Nearly all
+of it comes straight from author rulings, which is why it can be written with confidence now. Its
+open slots are mostly cartographic and deep-historical: the Companion knows how the lands
+relate and how the ancient break worked in outline, and it doesn't yet know coastlines, dates, or
+the rupture's actual cause.
+§
+
+SECTION
+
+PAGE TYPE
+
+PAGE
+
+II.2
+
+Macro Geography
+
+SCHEMATIC
+
+27
+
+II.4
+
+Knowledge of the Other Lands
+
+EXPLAINER · LADDER
+
+29
+
+II.5
+
+Shared Magical Ancestry
+
+EXPLAINER · TABLE
+
+32
+
+II.6
+
+Crossblood: A Label, Not a Biology
+
+EXPLAINER · NOT THE SAME AS
+
+35
+
+II.13
+
+The Shattered Veil and Its Descendants
+
+COMPARISON · VARIANT TEXTS
+
+37
+
+II.14
+
+The Elders' Prayer
+
+EXPLAINER · CAN/CANNOT
+
+42
+
+II.15
+
+Recurring Institutional Misreadings
+
+MISREADING TABLE
+
+45
+
+II.16
+
+Shared Chronology
+
+TIMELINE
+
+47
+
+This volume prints the Part II sections FTE stands on. II.1, II.3, and II.7–II.12 are in the full Tandem
+Companion.
+GUARDRAIL
+
+No symmetry assumed across the four lands.
+
+SPINE › PART II
+
+PART II · 26
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+SCHEMATIC · PART II · THE SHARED TANDEM SPINE
+
+II.2
+
+MACRO GEOGRAPHY
+
+Place the lands relative to each other without inventing cartography.
+
+The four lands occupy multiple major landmasses and regions in one world.
+
+CANON TCD-025.
+
+Four placements are fixed:
+Remnia and Somnoria are separate continental landmasses with ocean between them.
+The Underside attaches to the Zenithia side, or corner, of Remnia's broader geography and
+descends from there. CANON TCD-025, TCD-026
+Thalara, primarily underwater, lies farther outward in the island and sea region.
+Relative position is described by a Spain / France / Italy / Greek-islands comparison. That
+comparison controls relative placement only.
+GUARDRAIL
+
+What the analogy does not mean.
+It doesn't import real borders, coastlines, scale, distances, climate, culture, languages, or history.
+It doesn't make any land a disguised version of a real country. It doesn't settle which way
+anything faces on a map. It tells you roughly where the lands sit in relation to one another, and
+nothing more.
+
+The Underside's placement deserves its own sentence because it's the easiest to get wrong. It
+isn't a buried continent lying flat beneath Remnia. It's a vertically tiered nation that begins at or
+near the surface off Zenithia's side and descends. Its top tiers, Crownlight and Dawnveil, are
+above ground; by Ironcross the descent is fully subterranean. CANON TCD-026. Part III builds
+the full cross-section.
+
+SPINE › II.2 MACRO GEOGRAPHY · CONTINUES →
+
+II.2 / 1 · 27
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.2 · MACRO GEOGRAPHY
+
+CONTINUED
+
+Schematic, not a map. Until Danyelle's canonical Remnia map is reviewed, the Companion
+uses a relative-position schematic: two continental masses separated by ocean, the Underside
+marked as a descending column off one side of Remnia near Zenithia, and Thalara marked as a
+sea region farther out with its territory below the surface. The schematic carries no coastlines,
+scale bar, compass rose, or place names beyond these.
+SCHEMATIC · PLACEHOLDER
+
+Relative-position schematic pending review of Danyelle’s canonical Remnia map.
+No coastlines, scale, compass, or place names are drawn in this volume.
+
+OPEN DEVELOPMENT · MACRO CARTOGRAPHY ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+One world; the four placements above; the
+Underside's vertical attachment off Zenithia's
+side (TCD-015, TCD-025, TCD-026).
+
+Coastlines, names of landmasses and oceans,
+scale, distances, islands, and borders.
+Zenithia's exact political classification is
+confirmed against the Remnian province index
+in Part IV rather than assumed here.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+Distance sets travel time, and travel time sets
+how long news takes to cross (VII.2).
+
+Remnia layer when the Remnia map is
+reviewed; other layers safe to defer until a
+scene needs a distance.
+
+Why it matters: geography is where cross-book continuity breaks quietly. A character who
+reaches Somnoria "by nightfall" has just committed the Companion to a distance, whether
+anyone meant to.
+SOURCE
+SEE ALSO
+
+TCD-015, TCD-025, TCD-026. Record: Tandem Macro Geography Map (schematic stage).
+III.3 The Underside: A Vertical Nation → FTE concordance · p.216
+
+IV.2 Remnia at a Glance · p.54
+
+SPINE › II.2 MACRO GEOGRAPHY
+
+VI.2 Thalara at a Glance †
+
+II.2 / 2 · 28
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+EXPLAINER · LADDER · PART II · THE SHARED TANDEM SPINE
+
+II.4
+
+KNOWLEDGE OF THE OTHER
+LANDS
+Kill universal-awareness shortcuts.
+
+There's no universal answer to "do people know about the other lands?" Awareness varies by
+nation, class, institution, profession, network, person, and time. CANON TCD-016. A smuggler, a
+Sanctum archivist, and a miner's kid in the same land can hold three different pictures, and all
+three can change between chapter 5 and chapter 25.
+The six levels from I.5 do the sorting: existence, location, functional, route, historical, and true
+Tandem knowledge. None implies another. Someone can know Somnoria's name and nothing
+about where it is. Someone can use a route without knowing what's on the far side of the
+boundary it crosses. Someone can know a land's history as their own institution teaches it,
+which may be the least reliable version available.
+Four kinds of source feed a character's picture, and the Companion tracks them separately:
+what their institution teaches or officially claims, what their network passes around as rumor or
+trade knowledge, what's been suppressed or rewritten, and what they've learned firsthand. An
+error counts as knowledge for drafting purposes. A character acts on what she believes, and the
+Companion records the belief with its lane label.
+What the drafted pages already establish. These are seed entries for the full matrix in VII.5.
+Every row is dated to its chapter; none is a claim about what the character's whole society
+knows.
+CHARACTER
+
+CHAPTER
+
+KNOWLEDGE ON-PAGE
+
+LEVEL
+
+Silas Graves
+
+3SL ch.
+3
+
+Reads Melena's fire as proof
+she's Remnian; believes
+nobody born in the
+Underside carries fire
+
+Functional (as
+belief)
+
+CURRENT DRAFTED TEXT
+
+Silas Graves
+
+3SL ch.
+11
+
+Knows Somnoria by name;
+hopes Melena won't ask
+what it is
+
+Existence
+
+CURRENT DRAFTED TEXT
+
+SPINE › II.4 KNOWLEDGE OF THE OTHER LANDS · CONTINUES →
+
+STATUS
+
+II.4 / 1 · 29
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.4 · KNOWLEDGE OF THE OTHER LANDS
+
+CONTINUED
+
+CHARACTER
+
+CHAPTER
+
+KNOWLEDGE ON-PAGE
+
+LEVEL
+
+STATUS
+
+Remy
+
+3SL ch.
+11
+
+Names Somnoria in a joke
+about distance
+
+Existence; the joke
+implies he thinks
+it's far
+
+CURRENT DRAFTED TEXT
+
+Dante Mercer
+
+3SL ch.
+3
+
+Knows Melena is Remnia's
+Imperial Princess and
+Lucia's daughter; expects
+Remnia to treat her
+discovery as an act of war
+
+Functional
+(Remnian politics);
+historical
+(personal, through
+Lucia)
+
+CURRENT DRAFTED TEXT
+
+Mother Rae
+(Maven Renae
+Vellum)
+
+3SL chs.
+3, 11
+
+Knew Lucia; Lucia's final
+letter gave Melena Rae's
+name and a route phrase
+that should've been dead
+twenty years
+
+Route (at least one
+route phrase)
+
+CURRENT DRAFTED TEXT
+
+Caelum
+
+Serieslevel
+
+Deep access to Nightmareadjacent information,
+people, routes, and markets
+across lands
+
+Varies by domain;
+not omniscient
+
+CANON TCD-031
+
+Elias
+Lockwood
+
+Serieslevel
+
+Knows both Remnia and
+Somnoria from inside,
+having lived as Professor
+Alexander Thorne for years
+
+Location, route,
+functional
+(personal)
+
+CANON TCD-032
+
+GUARDRAIL
+
+One character's knowledge never becomes their land's knowledge. Dante knowing Remnian
+politics says nothing about what the Synod teaches, and the Synod's teaching says nothing about
+what Gutterlight knows.
+
+Why it matters: cross-land knowledge is the series' pressure valve. When isolation holds, each
+book can stay intimate and local. When knowledge starts leaking, the leak itself is plot, and it
+only reads as plot if the Companion knows exactly who knew what before.
+SOURCE
+
+TCD-016, TCD-031, TCD-032; 3SL draft chs. 3, 11. Record: Knowledge of the Other Lands Matrix
+(seeded).
+
+SPINE › II.4 KNOWLEDGE OF THE OTHER LANDS · CONTINUES →
+
+II.4 / 2 · 30
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+II.4 · KNOWLEDGE OF THE OTHER LANDS
+SEE ALSO
+
+CONTINUITY
+CONTINUED
+
+I.5 Knowledge States · p.18
+
+VII.2 Event Chronology vs Information Chronology → FTE concordance · p.216
+VII.5 Cross-Land Knowledge Matrix → FTE concordance · p.216
+
+SPINE › II.4 KNOWLEDGE OF THE OTHER LANDS
+
+II.4 / 3 · 31
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+EXPLAINER · TABLE · PART II · THE SHARED TANDEM SPINE
+
+SHARED MAGICAL ANCESTRY
+
+II.5
+
+Explain shared deep origin without making magics interchangeable.
+
+All four modern magical traditions ultimately draw from one primordial magical source or
+substrate that predates the modern division of the Tandem world. CANON TCD-035. The Divide
+didn't create four unrelated magics. Geography, environment, bodies, bloodlines, culture,
+survival, history, and institutions reshaped one shared power into systems that are now
+genuinely distinct, with their own access, costs, classifications, and cultural explanations.
+Both halves of that ruling carry weight. The shared root means cross-land resonance is possible
+without anyone inventing a coincidence. The genuine distinctness means a Somnorian dream
+technique doesn't work in Remnia just because both descend from the same source, and a
+Thalaran seal cadence isn't a Silencecraft seal with a different accent. Long isolation after the
+Divide accelerated the specialization. CANON TCD-045
+THE FOUR MODERN BRANCHES
+
+LAND
+
+MODERN
+BRANCH
+
+Life, death,
+The
+Underside grief, and
+memory
+magic,
+formally
+organized
+as the Six
+Disciplines
+
+KNOWN PRACTICES AND TERMS
+
+WHO CLASSIFIES IT
+
+Thanomancy, Lamentcraft,
+Silencecraft, Underchant Cant,
+Funereal Engineering, Mycelial
+Memory (
+SUPPORTED / PROVISIONAL,
+3SL Full Worldbuilding). Onpage: Silencecraft and Silence
+seals, Quietcasters, Shrouds,
+funeral and grief thread, Hush,
+Underchant markings (
+CURRENT DRAFTED TEXT, 3SL
+chs. 1–12). Graveshand is
+inherited Graves-family magic
+outside the Six Disciplines.
+CANON TCD-004
+
+The Synod regulates and
+enforces (
+
+SPINE › II.5 SHARED MAGICAL ANCESTRY · CONTINUES →
+
+CURRENT DRAFTED TEXT)
+
+FALSE
+EQUIVALENCE
+TO AVOID
+
+Graveshand
+is not a
+seventh
+Discipline.
+
+II.5 / 1 · 32
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.5 · SHARED MAGICAL ANCESTRY
+
+LAND
+
+MODERN
+BRANCH
+
+CONTINUED
+
+KNOWN PRACTICES AND TERMS
+
+WHO CLASSIFIES IT
+
+FALSE
+EQUIVALENCE
+TO AVOID
+
+Remnia
+
+Elemental
+magic
+
+Fire and Frost confirmed onpage; the full elemental roster
+is confirmed against FTE
+Elemental Factions in Part IV.
+Modern Dyads exist; Zephyr is
+a genuine Fire/Frost Dyad.
+CANON TCD-049
+
+The Sanctum, within its
+semi-autonomous magicalregulation domain. CANON
+TCD-041
+
+Katherine is
+not Zephyr's
+kind of Dyad
+(TCD-049,
+TCD-058).
+
+Somnoria
+
+Dream
+magic
+
+Dreamwalking, licensing,
+Remote Viewing, natural
+conduits, the Dream Network.
+CANON TCD-029
+
+The Dream Master's Guild
+regulates professional dream
+practice. CANON TCD-021
+
+Somnoria's
+Network uses
+of the
+Oneiros
+Prism are not
+the Prism's
+original
+purpose
+(TCD-019).
+
+Thalara
+
+Seamwork
+and the
+Seal Song
+
+The Seal Song works through
+breath and resonance; its
+components include the
+Breathline, the Anchor Verse,
+and the Seal Cadence;
+Sealhands and Seamworkers
+operate it (
+SUPPORTED / PROVISIONAL,
+Thalara Worldbuilding)
+
+Skyhold controls the
+sanctioned version and
+censors others (
+
+The Seal
+Song is not
+the Drowned
+Canticle
+(TCD-028).
+Dren
+compatibility
+is not
+Leviathan
+identity
+(TCD-064).
+
+SUPPORTED / PROVISIONAL)
+
+NOT THE SAME AS
+
+repeated nouns across branches.
+Several words recur across the four magics, and none of them proves a shared mechanism.
+"Tether" names Silas and Isola's involuntary bond, the death tethers the Pit Wardens search for,
+and the tether-lines Silencecraft's Severing cuts. "Anchor" names Thalara's Anchor Verse, House
+Dren's Anchor program, and the ADST organization's living conduit/anchor configuration.
+"Severing" in the Silencecraft section of the worldbuilding and Graveshand Severance in 3SL are
+separate things until a source joins them. Each term is defined inside its own branch.
+
+SPINE › II.5 SHARED MAGICAL ANCESTRY · CONTINUES →
+
+II.5 / 2 · 33
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+II.5 · SHARED MAGICAL ANCESTRY
+
+CONTINUITY
+CONTINUED
+
+Resemblance isn't inheritance. The Underside treats memory as currency and names as
+anchors; Thalara's sea began holding memory after the Drowning, and shells hold impressions.
+The rhyme is real on the page. It isn't evidence of a shared mechanism, a shared origin event,
+or a transfer between lands. CANON Production Master A6
+OPEN DEVELOPMENT · THE PRIMORDIAL LAYER ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+One shared substrate; four genuinely distinct
+modern branches; isolation after the Divide
+accelerated specialization (TCD-035, TCD045).
+
+What the substrate was, how it was used
+before the Divide, the mechanism of
+divergence, which old principles survive in
+which branch, how branches interact when they
+meet, and which culture's theory of magic is
+most historically accurate.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+Katherine's ancestral reversion (TCD-049) and
+every future cross-branch encounter lean on
+this layer.
+
+Safe to defer until a scene has to explain a
+cross-branch interaction rather than just show
+one.
+
+Why it matters: shared ancestry gives the series its deep logic, and false equivalence is the
+fastest way to ruin it. When two lands' magics meet on-page, the scene should feel like two
+dialects of a lost language, mutually strange, not two brands of the same tool.
+SOURCE
+
+SEE ALSO
+
+TCD-004, TCD-019, TCD-021, TCD-028, TCD-029, TCD-035, TCD-041, TCD-045, TCD-049, TCD058, TCD-064; 3SL Full Worldbuilding (Six Disciplines); Thalara Worldbuilding (Seal Song
+structure); 3SL draft chs. 1–12. Record: Tandem Magic Ancestry Map.
+II.6 Crossblood: A Label, Not a Biology · p.35
+
+III.8 Graveshand, Deathwork, and Severance †
+V.4 Dream Magic and the Dream Network †
+
+SPINE › II.5 SHARED MAGICAL ANCESTRY
+
+III.7 The Six Disciplines †
+
+IV.5 Elemental Magic · p.65
+
+VI.3 The Seal Song and the Drowned Canticle †
+
+II.5 / 3 · 34
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+EXPLAINER · NOT THE SAME AS · PART II · THE SHARED TANDEM SPINE
+
+II.6
+
+CROSSBLOOD: A LABEL, NOT A
+BIOLOGY
+Stop one institutional theory from becoming taxonomy.
+
+"Crossblood" is an institutional, scholarly, political, or historical label for people believed to
+carry inheritance associated with more than one separated Tandem tradition. It isn't an
+objectively correct universal biological category. CANON TCD-036. Institutions may define it
+differently through incomplete theory, bloodline politics, fear, or propaganda, and the label
+never establishes what a person's magic objectively is.
+The older two-world lore treated Crossbloods as a settled pre-fracture biology and offered a
+candidate list that grouped Katherine, Cassius, and Zephyr. That list is LEGACY / SUPERSEDED. Its
+three names don't share an anomaly: the rulings now explain Katherine and Zephyr in
+incompatible ways, and nothing established about Cassius puts him in either of their
+categories.
+NOT THE SAME AS
+
+Rare, ancient, hybrid, inherited, or anomalous magic is not Crossblood magic. "Crossblood" is a
+claim someone makes about a person. Whether it's true is a separate question, answered case by
+case.
+
+Case table. Every row stays unclassified until a case earns evidence. The "what's actually
+established" column shows why each person needs individual review instead of a shared label.
+PERSON
+
+WHAT'S ACTUALLY ESTABLISHED ABOUT THEIR MAGIC
+
+Katherine
+Nicholas
+
+Ancestral reversion to a less-specialized earlier
+Remnian elemental inheritance; Frost-dominant, with
+Fire as a rerouted alternative expression. CANON TCD049, TCD-058
+
+Zephyr
+
+A genuine modern Fire/Frost Dyad.
+
+CANON TCD-049
+
+OPEN · no case evidence
+
+Cassius Aether
+
+House Aether heir; his Labyrinth scar regulates bond
+synchronization. CANON TCD-030
+
+OPEN · no case evidence
+
+Reverie Hollow
+
+Dreamwalker, natural dream conduit, and Remote
+Viewer. CANON TCD-029
+
+OPEN · no case evidence
+
+SPINE › II.6 CROSSBLOOD: A LABEL, NOT A BIOLOGY · CONTINUES →
+
+CROSSBLOOD STATUS
+OPEN · no case evidence;
+
+her ruled anatomy is a
+Remnian ancestral
+inheritance
+
+II.6 / 1 · 35
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.6 · CROSSBLOOD: A LABEL, NOT A BIOLOGY
+
+CONTINUED
+
+PERSON
+
+WHAT'S ACTUALLY ESTABLISHED ABOUT THEIR MAGIC
+
+Silas Graves
+
+Graveshand: inherited Graves-family magic outside the
+Six Disciplines. CANON TCD-004
+
+OPEN · no case evidence
+
+Levi
+(Leviathan
+Caelis Dren)
+
+Fully human; inherited Dren compatibility with seal
+infrastructure. CANON TCD-064
+
+OPEN · no case evidence
+
+OPEN DEVELOPMENT · CROSSBLOOD AS AN INSTITUTION ·
+
+CROSSBLOOD STATUS
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+It's a contested label, not biology; the legacy
+candidate list doesn't control (TCD-036).
+
+Which institutions use the term, how each
+defines it, what legal or social consequences
+follow, what each land calls the idea, and
+whether any real case ever fits.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+A label with consequences is a plot engine.
+Someone called Crossblood by the Sanctum
+faces different stakes than someone called
+Crossblood by a Somnorian scholar.
+
+The first scene in which an institution applies
+the label to a named character.
+
+Why it matters: a catch-all label is seductive because it explains everything unusual at once.
+That's exactly what makes it dangerous in a series built on distinct magics. The Companion lets
+characters and institutions use the word. It doesn't let the narration believe them.
+SOURCE
+
+SEE ALSO
+
+TCD-004, TCD-029, TCD-030, TCD-036, TCD-049, TCD-058, TCD-064; Audit inventory note on
+Full Tandem Lore Document\. Record: Crossblood Classification Record.\
+II.5 Shared Magical Ancestry · p.32
+
+II.15 Recurring Institutional Misreadings · p.45
+IV.10 Katherine's Elemental Anatomy · p.83
+
+SPINE › II.6 CROSSBLOOD: A LABEL, NOT A BIOLOGY
+
+II.6 / 2 · 36
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+COMPARISON · VARIANT TEXTS · PART II · THE SHARED TANDEM SPINE
+
+II.13
+
+THE SHATTERED VEIL AND ITS
+DESCENDANTS
+Separate author-level text from in-world textual history.
+
+A complete Prophecy of the Shattered Veil exists at the author and universe level.
+
+CANON TCD-
+
+006. No intact, authoritative master copy of it is presently known in-world. CANON TCD-047.
+What the four lands have instead are four divergent historical descendants: Remnia's
+Breathbound Law, Somnoria's Dreamwalker's Writ, the Underside's Mourning Verse, and
+Thalara's Drowned Canticle. They aren't four physical pieces of one document. Nobody can
+assemble the prophecy by collecting them.
+What characters can do is reconstruct. Comparing the variants against historical, magical,
+material, and testimonial evidence can recover wording, underlying truth, or both. No national
+version is presumed untouched. CANON TCD-047
+The author-level text. Reproduced exactly from The Poems. This is universe canon. It isn't in
+any character's hands.
+```text
+The Prophecy of the Shattered Veil
+Before the stars were taught to burn,
+Before the tide was told to turn,
+A voice was born in blood and breath—
+A crown was forged, a vow to Death.
+The Order rose with chains of grace,
+To bind the world in rightful place.
+But power kept is power sown,
+And rot will bloom in gardens grown.
+They danced beneath a gilded stage,
+Their laughter hiding quiet rage.
+
+SPINE › II.13 THE SHATTERED VEIL AND ITS DESCENDANTS · CONTINUES →
+
+II.13 / 1 · 37
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+II.13 · THE SHATTERED VEIL AND ITS DESCENDANTS
+
+CONTINUITY
+CONTINUED
+
+They begged the flame to make things right,
+Then fed it truth and turned from light.
+They whispered wrongs they dared not speak,
+And carved their grief into the weak.
+They rose with crowns not earned but given—
+A curse beneath their blood was written.
+A dream unspooled across the sky,
+A mirror cracked, a perfect lie.
+A fate once fractured found its thread,
+But stitched its hope through knots of dread.
+These hollowed walls, now wrapped in mold,
+Remember what they can't behold.
+And from the ashes, sharp and bare—
+The truth still waits, but never fair.
+Four truths were cast to four-born lands,
+Each gripped by time's decaying hands.
+One held the storm with breath and bone—
+Their names were laws, their heirs were known.
+One broke the night to mine their dreams,
+And built their gods from shattered schemes.
+One walked where waves devoured the past,
+With songs too cursed to ever last.
+One slept beneath the smoking stone,
+And taught the dead to die alone.
+
+SPINE › II.13 THE SHATTERED VEIL AND ITS DESCENDANTS · CONTINUES →
+
+II.13 / 2 · 38
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+II.13 · THE SHATTERED VEIL AND ITS DESCENDANTS
+
+CONTINUITY
+CONTINUED
+
+Four branches bent by shadow's thread,
+Each blind to how the roots had bled.
+When time unravels spine from soul,
+When suns go dark and rivers toll,
+When every oath is stripped of name,
+And kin bear crowns they cannot claim—
+The veil will split. The mask will fall.
+No land will thrive. No voice will call.
+But in the ruin, cracked and cold,
+A single page remains to hold.
+Not war, nor flame, nor faith will win—
+But what was lost remembered in.
+And those who rise with open eyes
+Will curse the stars—and still survive.
+```
+(In the source file, "remembered" in the final stanza is italicized.)
+Four witnesses. The comparison below describes each text as a document. It doesn't claim
+what any line means in the story world.
+
+In-text
+attribution
+
+THE BREATHBOUND
+LAW (REMNIA)
+
+THE DREAMWALKER'S
+WRIT (SOMNORIA)
+
+THE MOURNING VERSE
+(UNDERSIDE)
+
+THE DROWNED
+CANTICLE
+(THALARA)
+
+"From the Imperial
+Collection: Verse III
+– Author Unknown"
+
+"Excerpted from the
+Somnorian Council of
+Abstract Futures,
+Archive 9.61A"
+
+"Passed from Keeper
+to Keeper. Never
+written down."
+
+"Collected by the
+Shellkeepers of
+Thalara."
+
+SPINE › II.13 THE SHATTERED VEIL AND ITS DESCENDANTS · CONTINUES →
+
+II.13 / 3 · 39
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.13 · THE SHATTERED VEIL AND ITS DESCENDANTS
+
+CONTINUED
+
+THE DREAMWALKER'S
+WRIT (SOMNORIA)
+
+THE MOURNING VERSE
+(UNDERSIDE)
+
+THE DROWNED
+CANTICLE
+(THALARA)
+
+Keeps the first
+Relation to
+the master's stanza and "The
+Order rose…"
+wording
+
+Almost entirely
+different wording;
+shares motifs, not
+lines
+
+Closest to the
+master; nearly linefor-line
+
+Different wording
+throughout; shares
+motifs
+
+Notable
+additions
+
+"And power kept by
+blood alone / Shall
+guard the heart of
+every throne"; a
+traitor's rage; closes
+on keeping the flame
+
+"There were four—
+there are four— /
+There may be none,
+or maybe more";
+"Time is spiral, not a
+line"
+
+None identified
+
+Directional lines
+(north, east, south,
+west, the deep);
+"The sea will keep
+what stars would
+hide"
+
+Notable
+omissions
+
+The four-lands
+section and the veilsplitting ending
+
+The master's
+structure as a whole
+
+The "mirror cracked"
+couplet and "found
+its thread" couplet,
+compressed into "A
+fate once fractured
+born from lies"
+
+The master's
+structure as a
+whole
+
+Custody
+form
+
+Imperial written
+collection
+
+Institutional archive
+
+Oral, keeper to
+keeper
+
+Collected by
+Shellkeepers
+
+THE BREATHBOUND
+LAW (REMNIA)
+
+couplet, then
+departs
+
+Who knows
+it, when
+
+OPEN · tracked in
+
+OPEN
+
+OPEN
+
+OPEN
+
+VII.8
+
+The Drowned Canticle is Thalara's Shattered Veil descendant, and it survives within or
+alongside the broader Seal Song tradition as a historical and prophetic strand. It isn't the whole
+Seal Song.
+
+CANON TCD-028
+
+GUARDRAIL
+
+Readings are not rulings.
+The master's four "one…" couplets invite an obvious land-by-land mapping. No ruling confirms it;
+treat any mapping as POSSIBLE. The Canticle's north/east/south/west lines are not cartography
+and don't set any land's compass position (II.2). "The Order" in the master text isn't identified with
+any institution in any book. Nothing in these texts may be paraphrased into new verse and
+presented as canon.
+
+SPINE › II.13 THE SHATTERED VEIL AND ITS DESCENDANTS · CONTINUES →
+
+II.13 / 4 · 40
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+II.13 · THE SHATTERED VEIL AND ITS DESCENDANTS
+OPEN DEVELOPMENT · RECONSTRUCTION ·
+
+CONTINUITY
+CONTINUED
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+Complete author-level text; no known intact inworld master; four divergent descendants;
+reconstruction by comparison plus evidence
+(TCD-006, TCD-047).
+
+Each text's provenance chain; who first
+suspects a shared origin; who attempts
+reconstruction; what evidence thresholds
+recover wording versus truth; whether exact
+wording is recoverable at all; how reliable the
+prophecy is.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+The moment a character lines up two versions
+and notices the same first stanza, the series
+has changed. That moment needs a date, a
+person, and a reason.
+
+Overdue in part. FTE Beta ch. 19 already sets
+the Breathbound Law beside an unmarked text
+carrying Writ lines, and Katherine registers the
+resemblance before dismissing it (IV.7).
+Decide that text's provenance before ch. 19 is
+next revised; the rest before any character
+compares versions deliberately.
+
+SOURCE
+
+SEE ALSO
+
+TCD-006, TCD-028, TCD-046, TCD-047; The Poems (all five texts and attributions). Record:
+Shattered Veil Reconstruction Dossier (workspace in VII.8).
+IV.7 The Challenges · p.72
+
+VI.3 The Seal Song and the Drowned Canticle †
+
+VII.8 Shattered Veil Reconstruction Workspace → FTE concordance · p.216
+
+SPINE › II.13 THE SHATTERED VEIL AND ITS DESCENDANTS
+
+II.13 / 5 · 41
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+EXPLAINER · CAN/CANNOT · PART II · THE SHARED TANDEM SPINE
+
+THE ELDERS' PRAYER
+
+II.14
+
+Define one inherited working across cultures.
+
+The Elders' Prayer is one inherited magical working that survives in more than one culture
+under different language and ritual expression. CANON TCD-023. Its objective function is
+specific: it restores a living person's viable magical and life pattern when that pattern has been
+severed, corrupted, or catastrophically dysregulated. CANON TCD-057. Restored magical
+continuity can stabilize secondary bodily functions and call someone back from active dying, as
+long as a viable living pattern remains.
+It has hard edges. It can't resurrect completed death. It can't regenerate destroyed anatomy.
+CANON TCD-057
+WHAT THE PRAYER CAN AND CAN'T DO
+CAN
+
+CAN'T
+
+Restore a viable living magical/life pattern that's been
+severed, corrupted, or catastrophically dysregulated
+
+Resurrect someone whose death is complete
+
+Stabilize secondary bodily functions when magical
+disruption is causal
+
+Regenerate destroyed anatomy. Isola's leg
+remains ruined despite life-saving
+stabilization.
+
+Call someone back from active dying while a viable
+pattern remains
+
+Redistribute a burden automatically and
+universally from one person to another
+
+Work through different cultural presentations with the
+same objective function
+
+Serve as a Frost-only ritual
+
+Two performances, about two years apart. Selah and Katherine perform the same inherited
+working independently, roughly two years apart.
+
+CANON TCD-048
+
+SELAH WRAITHMOOR
+
+KATHERINE NICHOLAS
+
+Book
+
+3SL
+
+FTE
+
+Recipients
+
+Silas and Isola
+
+Atlas
+
+Cultural
+form
+
+Underside presentation
+
+Remnian presentation
+
+SPINE › II.14 THE ELDERS' PRAYER · CONTINUES →
+
+II.14 / 1 · 42
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+II.14 · THE ELDERS' PRAYER
+
+CONTINUITY
+CONTINUED
+
+SELAH WRAITHMOOR
+
+KATHERINE NICHOLAS
+
+Ruled
+outcome
+
+Silas's returning breath and pulse is
+recovery of living function, not resurrection.
+Isola's leg stays ruined.
+
+Effects on Atlas, and on Melena, remain
+open.
+
+Drafting
+state
+
+Performance record confirmed against the
+3SL draft in III.16
+
+Undrafted in the controlling generation; a
+rewrite-required candidate exists in
+Chapter 29.docx (IV.17)
+
+Governing
+rulings
+
+CANON TCD-048, TCD-057
+
+CANON TCD-009, TCD-048, TCD-057
+
+GUARDRAIL
+
+No echo.
+Selah's act leaves no specific echo, reservoir, transmitted route, or power that Katherine later
+accesses. The two performances are connected by shared magical ancestry and ritual tradition,
+not by causation. Katherine doesn't need to know Selah exists, or that the Prayer has an
+Underside form, or its history. (TCD-023, TCD-048)
+NOT THE SAME AS
+
+Selah's cold, which the 3SL draft shows fogging metal and spreading frost across a table (chs. 2,
+6, 12), isn't evidence that the Prayer is a Frost working or that Selah and Katherine share an
+elemental affinity. The Frost-only reading of the ritual is superseded (TCD-057). Similar imagery
+isn't evidence.
+OPEN DEVELOPMENT · THE PRAYER'S MECHANICS ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+Objective function; the death boundary; the
+anatomy boundary; two independent
+performances; no direct causation (TCD-023,
+TCD-048, TCD-057).
+
+Eligibility; what serves as the original-pattern
+reference; whether a bond or physical contact
+is required; the exact death threshold; the
+caster's cost; the transmission history; whether
+and how the working survives in Somnoria and
+Thalara; who recognizes it across cultures.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+Katherine's performance for Atlas has to obey
+the same limits Selah's did. If Atlas's injury has
+already destroyed anatomy, the Prayer can
+stabilize him but can't make him whole.
+
+Before the FTE endgame drafts Katherine's
+performance; caster cost before either
+performance is revised.
+
+SPINE › II.14 THE ELDERS' PRAYER · CONTINUES →
+
+II.14 / 2 · 43
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.14 · THE ELDERS' PRAYER
+
+SOURCE
+
+SEE ALSO
+
+CONTINUED
+
+TCD-009, TCD-023, TCD-048, TCD-057; 3SL draft chs. 2, 6, 12 (Selah's cold). Record: Elders'
+Prayer Transmission + Variant / Functional Anatomy Record (registry in VII.7).
+III.16 Selah and the Elders' Prayer in 3SL → FTE concordance · p.216
+
+IV.17 The Elders' Prayer in FTE · p.166
+VII.7 Repeated Working and Ritual Registry → FTE concordance · p.216
+
+SPINE › II.14 THE ELDERS' PRAYER
+
+II.14 / 3 · 44
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+MISREADING TABLE · PART II · THE SHARED TANDEM SPINE
+
+II.15
+
+RECURRING INSTITUTIONAL
+MISREADINGS
+Collect the ruled cases where an institution's label diverges from
+objective truth, so the pattern is visible.
+
+Across all four books, institutions and powerful people keep naming things they don't fully
+understand, and the names outlive the misunderstanding. The rulings have already caught
+enough of these that the pattern deserves its own page. Each row below is a case where a label
+circulating in-world diverges from objective truth.
+CLAIM IN CIRCULATION
+
+WHO HOLDS IT
+
+OBJECTIVE TRUTH
+
+RULING
+
+Katherine is a Dyad.
+
+The Sanctum
+(likely)
+
+One less-specialized ancestral Remnian
+capacity, Frost-dominant, with Fire as a
+rerouted alternative expression. Not
+Zephyr's kind of Dyad.
+
+TCD-049, TCD058
+
+The House Aether
+piece is the original,
+whole Oneiros Prism.
+
+House Aether;
+some records
+
+One significant surviving piece of a
+fragmented artifact
+
+TCD-018
+
+The Prism is
+Nightmare's cage.
+
+House Aether
+
+The entity exists beyond or behind a
+boundary the Prism helps maintain; it
+isn't inside the artifact
+
+TCD-038
+
+The Prism is dream
+infrastructure.
+
+Somnorian
+working
+knowledge
+
+Accurate within scope, but a later
+application of a cross-land boundary
+artifact
+
+TCD-019
+
+Crossblood is a
+biological category.
+
+Institutions
+and scholars
+
+A contested label, not proven biology
+
+TCD-036
+
+The First Anchor was a
+willing adult.
+
+House Dren
+mythology
+
+The first currently established Anchor,
+Caelen, was twelve
+
+TCD-064
+
+The fragment belongs
+to House Dren.
+
+Caelus
+
+A claim, not automatic objective truth
+
+TCD-039
+
+The Drowning was one
+clean event that came
+without warning.
+
+Skyhold's
+official
+curriculum
+
+A staged regional catastrophe shaped
+by instability and political decisions
+
+TCD-055; Thalara
+Worldbuilding
+
+SPINE › II.15 RECURRING INSTITUTIONAL MISREADINGS · CONTINUES →
+
+II.15 / 1 · 45
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.15 · RECURRING INSTITUTIONAL MISREADINGS
+
+CONTINUED
+
+CLAIM IN CIRCULATION
+
+WHO HOLDS IT
+
+OBJECTIVE TRUTH
+
+RULING
+
+The Leviathan is a
+symbol.
+
+Skyhold's
+official
+curriculum
+
+A living pressure entity bound into seal
+infrastructure
+
+TCD-037, TCD055
+
+Melena is Caelum's
+asset.
+
+Caelum
+
+A transactional alliance with coercive
+leverage on both sides
+
+TCD-043
+
+The other lands are
+other worlds or realms.
+
+Isolated
+cultures
+
+One physical world; separate nations
+and territories
+
+TCD-015
+
+Why the pattern matters for drafting: an institutional misreading is a knowledge state with a
+budget and an enforcement arm. The Sanctum doesn't just believe Katherine is a Dyad; it tests,
+files, and treats her as one. When the truth surfaces, the scene isn't only a revelation. It's an
+institution discovering that its own paperwork was wrong, and deciding what to do about the
+people who saw.
+GUARDRAIL
+
+Characters and institutions may use these labels freely in dialogue, documents, and POV
+narration filtered through them. The Companion's own narration never adopts them.
+OPEN DEVELOPMENT · WHY EACH INSTITUTION HOLDS ITS VERSION ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+The objective truth in every row.
+
+Motive, where unruled: whether each
+misreading is honest error, convenient
+simplification, or deliberate suppression.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+An honest error gets corrected when evidence
+arrives. A deliberate one gets defended.
+
+Before each institution's misreading is
+challenged on-page.
+
+SOURCE
+
+SEE ALSO
+
+TCD-015, TCD-018, TCD-019, TCD-036, TCD-037, TCD-038, TCD-039, TCD-043, TCD-049, TCD055, TCD-058, TCD-064; Thalara Worldbuilding (official record).
+I.5 Knowledge States · p.18
+
+VII.10 Continuity Translation Pages → FTE concordance · p.216
+
+SPINE › II.15 RECURRING INSTITUTIONAL MISREADINGS
+
+II.15 / 2 · 46
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+TIMELINE · PART II · THE SHARED TANDEM SPINE
+
+SHARED CHRONOLOGY
+
+II.16
+
+Place the books in time without chapter lockstep.
+
+The books are placed in time by macro windows, not by chapter lockstep.
+
+CANON TCD-013. 3SL
+
+happens about two years before the main concurrent period. ADST begins when Elias goes
+missing, and FTE begins a couple of weeks later. The two then run largely concurrently and end
+around the same time, without requiring their chapters to line up one for one.
+TSWK and the next Shadowmere installment form the next concurrent window. They begin
+directly after FTE and ADST, with no meaningful gap of months or years; a few days or small
+weeks for logistics are fine. They overlap each other substantially without needing identical
+opening dates.
+
+CANON TCD-014, TCD-024, TCD-054. The handoff is rolling: conditions for the
+
+later plots may already be active during late FTE and ADST, and still-later stories may begin
+activating before the prior pair fully resolves.
+Four bands per book. Every book is tracked by four separate dates, because "when does it
+happen?" has four answers.
+BOOK
+
+3SL
+
+BACKGROUND ACTIVATION
+OPEN
+
+ADST
+
+Elias's years-long double
+life as Thorne; the
+organization's
+compromise of his
+research and dream
+functioning (TCD-032,
+TCD-062)
+
+FTE
+
+OPEN beyond the 3SL
+
+aftermath and the Elias
+clock
+
+NARRATIVE
+OPENING
+
+CLIMAX
+
+RESOLUTION
+
+About two years
+before the
+FTE/ADST
+window; exact
+date OPEN
+
+Remy's death and
+Melena's catastrophic
+Fire; Tiran's cleanup
+follows (TCD-002, TCD063)
+
+Silas and Isola
+on separate
+immediate
+paths (TCD044)
+
+When Elias goes
+missing (TCD013)
+
+The Nightmare
+organization's
+attempted Network
+rupture; the first
+established
+Convergence threshold,
+T0 (TCD-056, TCD-060)
+
+Around the
+same time as
+FTE's (TCD013)
+
+A couple of
+weeks after
+ADST opens
+(TCD-013)
+
+Challenge Six; the
+London Town forfeit
+(TCD-034, TCD-042,
+TCD-052)
+
+Around the
+same time as
+ADST's (TCD013)
+
+SPINE › II.16 SHARED CHRONOLOGY · CONTINUES →
+
+II.16 / 1 · 47
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+II.16 · SHARED CHRONOLOGY
+
+CONTINUED
+
+BOOK
+
+BACKGROUND ACTIVATION
+
+NARRATIVE
+OPENING
+
+TSWK
+
+May predate page one:
+the crackdown, Azrine's
+sanctuary, Levi's
+assignment (TCD-054)
+
+Directly after
+FTE/ADST; days
+or small weeks
+(TCD-054)
+
+OPEN (TCD-012)
+
+Next
+Shadowmere
+book
+
+May predate page one,
+including its character's
+continuing two-year life
+(TCD-054)
+
+Directly after
+FTE/ADST;
+overlaps TSWK
+substantially
+(TCD-054)
+
+OPEN
+
+CLIMAX
+
+RESOLUTION
+OPEN (TCD-
+
+012)
+
+OPEN
+
+GUARDRAIL
+
+Temporal proximity isn't causation. Books that overlap in time don't cause each other's events
+unless a source says so. Local conflicts in TSWK and the next Shadowmere book stay
+independently rooted (TCD-054).
+OPEN DEVELOPMENT · THE CALENDAR ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+The macro windows, the two-year interval, the
+FTE/ADST sequence, the direct rolling handoff,
+the Shadowmere 3 / 5 / 7 numbering pattern
+(TCD-013, TCD-014, TCD-054).
+
+A calendar anchor; exact dates in every band;
+the next Shadowmere installment's title and
+plot engine; the new canonical Remnian
+timeline (TCD-010).
+
+WHY IT MATTERS
+
+DECIDE BY
+
+Information travels at the speed of routes.
+Without dates, the Companion can't say
+whether a character could have heard news by
+a given chapter (VII.2).
+
+Remnian timeline before the FTE endgame
+fixes ages or years; the rest safe to defer until
+a cross-book appearance needs a date.
+
+SOURCE
+
+SEE ALSO
+
+TCD-002, TCD-010, TCD-012, TCD-013, TCD-014, TCD-024, TCD-032, TCD-034, TCD-042, TCD044, TCD-052, TCD-054, TCD-056, TCD-060, TCD-062, TCD-063. Record: Tandem Master
+Synchronization Timeline (full grid in VII.1).
+VII.1 Master Synchronization Timeline → FTE concordance · p.216
+
+VII.2 Event Chronology vs Information Chronology → FTE concordance · p.216
+
+SPINE › II.16 SHARED CHRONOLOGY
+
+II.16 / 2 · 48
+
+

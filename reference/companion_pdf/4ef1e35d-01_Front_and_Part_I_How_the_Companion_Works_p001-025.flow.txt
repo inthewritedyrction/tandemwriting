@@ -1,0 +1,1963 @@
+THE TANDEM COMPANION · BUILD 2
+
+FOR THEIR
+ENTERTAINMENT
+REMNIA
+
+Standalone FTE Companion · Reference, Working Pages, and the Remnian
+Lineage Record
+
+AUTHORED COPY
+
+The Tandem Companion — Content Master, Stage 3 · Sep 26, 2026
+
+PRODUCTION SYSTEM
+
+The Tandem Companion — Production Master · Direction C
+
+SOURCE AUTHORITY
+
+Tandem Source Authority Audit — Working Record · Sep 26, 2026
+
+AUTHOR RULINGS
+
+TCD-001–064 · TCD-058 clarification (2026-09-26) · IV.2 / IV.3 status
+corrections (2026-10-09)
+
+LINEAGE RECORD
+
+Rebuilt from evidence, 2026-10-09. A derived record, not a source.
+
+ASSEMBLED
+
+2026-10-09
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+VOLUME NOTE · BUILD 2
+
+B2
+
+ABOUT THIS VOLUME
+What this standalone volume holds, and how to read its references.
+
+This is Build 2 of the Tandem Companion: a standalone working volume for For Their
+Entertainment and Remnia. It carries Part I (how the Companion works) in full, the Part II
+sections FTE depends on, and all of Part IV, with working pages for IV.10 and IV.25 and a
+rebuilt working record of the Remnian imperial and royal lineage after IV.11. The copy is the
+locked Stage 3 Content Master; this volume lays it out and adds working pages. It doesn’t add
+canon.
+Some pages point to sections that live only in the full Tandem Companion. Two conventions
+keep those pointers honest:
+Continuity Room and 3SL pointers resolve here. References to VII.1, VII.2, VII.5, VII.7,
+VII.8, VII.10, VII.12 and Part VII, and to the 3SL sections III.3, III.13–III.16, III.18, III.20
+and Part III, lead to the FTE Continuity Room concordance near the end of this volume,
+which names where the FTE information already sits in these pages.
+Everything else outside the volume carries a dagger (†). A reference marked † is to a
+section of the full Tandem Companion that isn’t printed here.
+Page numbers. “See also” chips give the page where each in-volume section starts.
+CORRECTIONS APPLIED IN THIS VOLUME
+
+Two author status corrections post-date the Content Master and are applied where the claims
+appear (IV.2, IV.3). The lineage reconstruction also corrected one status and several source
+attributions in IV.11, IV.12 and IV.22; each is logged in the QA report with the exact text it
+replaces. Rulings without a TCD number are listed in Appendix A.
+
+BUILD 2 › ABOUT THIS VOLUME · CONTINUES →
+
+ABOUT / 1 · 2
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+ABOUT THIS VOLUME
+
+CONTINUITY
+CONTINUED
+
+AUTHOR CORRECTION · 2026-10-09 · IV.2 AND IV.3
+
+CANON
+
+Remnia is an empire on its own continental landmass,
+separated from Somnoria by ocean; the Crown sits at
+the highest public civil/dynastic level of the Remnian
+sovereignty structure.
+
+TCD-025 · TCD-041
+
+Remnia has seventeen provinces.
+
+FTE Beta (ch. 2 and
+two further
+passages; IV.2)
+
+The military structure (the Legion, the Vanguard, the En
+Guard). TCD-041 is the layered sovereignty framework,
+not the military’s place in it.
+
+FTE Beta chs. 1, 5,
+26
+
+DRAFTED
+
+DRAFTED
+
+THE LINEAGE RECORD
+
+The pages after IV.11 rebuild the Remnian imperial and royal lineage from the sources, claim by
+claim. Each claim carries its source and the status that source earns. Biology, legal family
+status, the public record, titles and succession are kept in separate layers. The record is a
+derived working record, not a new source, and it settles nothing the rulings leave open. The
+unaudited Imperial Lineage was used only for comparison.
+WHAT ISN’T IN THIS VOLUME
+
+Part III and Parts V–VII (3SL, ADST, TSWK and the full Continuity Room); the Part II sections
+FTE doesn’t stand on (II.1, II.3, II.7–II.12); and Appendix D. The appendices printed here are
+FTE slices: the rulings, conflicts, sources and terms this volume cites.
+
+BUILD 2 › ABOUT THIS VOLUME
+
+ABOUT / 2 · 3
+
+SPINE
+
+B2
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CONTENTS · BUILD 2
+
+CONTENTS
+
+FRONT
+
+About This Volume
+PART I
+
+2
+6
+
+I.1
+
+What the Tandem Companion Is
+
+7
+
+I.2
+
+The Manuscript Outranks the Companion
+
+10
+
+I.3
+
+How Source Authority Works
+
+12
+
+I.4
+
+Reading a Claim: Status Markers
+
+15
+
+I.5
+
+Knowledge States
+
+18
+
+I.6
+
+Open Canon, Decisions, and Updates
+
+21
+
+I.7
+
+Using the Companion While Drafting
+
+24
+
+PART II
+
+26
+
+II.2
+
+Macro Geography
+
+27
+
+II.4
+
+Knowledge of the Other Lands
+
+29
+
+II.5
+
+Shared Magical Ancestry
+
+32
+
+II.6
+
+Crossblood: A Label, Not a Biology
+
+35
+
+II.13
+
+The Shattered Veil and Its Descendants
+
+37
+
+II.14
+
+The Elders' Prayer
+
+42
+
+II.15
+
+Recurring Institutional Misreadings
+
+45
+
+II.16
+
+Shared Chronology
+
+47
+
+PART IV
+
+49
+
+IV.1
+
+Book Identity and Source Status
+
+51
+
+IV.2
+
+Remnia at a Glance
+
+54
+
+IV.3
+
+Power and Jurisdiction
+
+57
+
+IV.4
+
+The Sanctum
+
+62
+
+IV.5
+
+Elemental Magic
+
+65
+
+IV.6
+
+The Tournament: Structure and Purpose
+
+69
+
+IV.7
+
+The Challenges
+
+72
+
+BUILD 2 › CONTENTS · CONTINUES →
+
+CONTENTS / 1 · 4
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+CONTENTS
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+IV.8
+
+Conqueror Rules
+
+77
+
+IV.9
+
+Katherine Nicholas
+
+80
+
+IV.10
+
+Katherine's Elemental Anatomy
+
+83
+
+IV.10
+
+Your Pages: Katherine’s Elemental Anatomy
+
+87
+
+IV.11
+
+Lineage: Biology, Law, Record, Succession
+
+98
+
+IV.11
+
+Record: Remnian Imperial + Royal Lineage
+
+102
+
+IV.12
+
+Katherine's Concealment
+
+150
+
+IV.13
+
+The Sister Reveal
+
+153
+
+IV.14
+
+Melena Lockwood
+
+157
+
+IV.15
+
+Caelum and Melena: The Leverage Ledger
+
+160
+
+IV.16
+
+Atlas: The Synchronization Injury
+
+163
+
+IV.17
+
+The Elders' Prayer in FTE
+
+166
+
+IV.18
+
+Supporting Cast
+
+169
+
+IV.19
+
+Minho Augustine
+
+173
+
+IV.20
+
+The Endgame: Forfeit and Command Authority
+
+176
+
+IV.21
+
+Plot State
+
+179
+
+IV.22
+
+Knowledge Progression
+
+181
+
+IV.23
+
+Cross-Book Connections
+
+184
+
+IV.24
+
+FTE Endgame Packet
+
+187
+
+IV.25
+
+FTE Open Development
+
+190
+
+IV.25
+
+Working Pages: FTE Open Development
+
+193
+
+CONTINUITY ROOM · FTE
+
+VII·FTE
+
+Continuity Room: FTE Concordance
+
+216
+
+APPENDICES · FTE SLICES
+
+A · Canon Decision Log
+
+223
+
+B · High-Impact Conflict Register
+
+251
+
+C · Source Authority Inventory
+
+260
+
+E · Terminology Register
+
+267
+
+BUILD 2 › CONTENTS
+
+CONTENTS / 2 · 5
+
+3SL
+
+SPINE
+
+I
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+PART I · BUILD 2
+
+HOW THIS COMPANION WORKS
+
+This Part teaches you to trust a page in under ten minutes. Every later Part assumes you know
+what a status marker permits, which source wins in which domain, and why a character can't
+know something just because you do.
+§
+
+SECTION
+
+PAGE TYPE
+
+I.1
+
+What the Tandem Companion Is
+
+ORIENTATION
+
+7
+
+I.2
+
+The Manuscript Outranks the Companion
+
+RULE
+
+10
+
+I.3
+
+How Source Authority Works
+
+SOURCE AUTHORITY
+
+12
+
+I.4
+
+Reading a Claim: Status Markers
+
+STATUS KEY
+
+15
+
+I.5
+
+Knowledge States
+
+EXPLAINER
+
+18
+
+I.6
+
+Open Canon, Decisions, and Updates
+
+PROTOCOL
+
+21
+
+I.7
+
+Using the Companion While Drafting
+
+CHECKLIST
+
+24
+
+SPINE › PART I
+
+PAGE
+
+PART I · 6
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+ORIENTATION · PART I · HOW THIS COMPANION WORKS
+
+I.1
+
+WHAT THE TANDEM COMPANION
+IS
+Frame the book as a working writer-room reference, not a wiki or
+workbook.
+
+The Tandem Companion is the working reference for four novels set in one physical world: 3
+Shadowmere Lane, For Their Entertainment, A Dream So Twisted, and The Sea Will Keep. It
+holds the canon those books have already committed to, the rulings that settled their
+contradictions, and the open questions they haven't answered yet. It sits beside the manuscript
+while you draft. It isn't a replacement for it.
+The Companion does five jobs. It remembers what's been ruled and drafted so you don't have
+to reread three generations of files to find out. It distinguishes things a drafter will blur: the
+Nightmare organization from the ancient entity, Katherine's Frost from Zephyr's, the forensic
+record of Remy's death from Melena's guilt about it. It connects the books only where a ruling
+or source connects them. It protects chronology and knowledge, so nobody in 3SL behaves as
+if they've read ADST. And it catches resurrected ideas, the retired concepts that keep sneaking
+back because they were once written down with confidence.
+It refuses a few jobs on purpose. It won't fill a gap because the gap looks awkward in print. It
+won't pick the nicer version of a conflict. It won't invent a sigil, a motto, a date, a map
+coordinate, or a line of scripture to make a page feel finished. It isn't a fan wiki, a marketing
+synopsis, or a workbook of blank lines waiting for you to do the thinking. When the sources
+don't know something, the Companion says so plainly, and that sentence is worth more than a
+confident guess.
+
+SPINE › I.1 WHAT THE TANDEM COMPANION IS · CONTINUES →
+
+I.1 / 1 · 7
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+I.1 · WHAT THE TANDEM COMPANION IS
+
+CONTINUITY
+CONTINUED
+
+FOUR BOOKS, FOUR LANDS
+CONTROLLING
+GENERATION
+
+WHERE THE
+DRAFTING STANDS
+
+Alternating Silas Graves /
+Isola Wraithmoor chapters (
+CURRENT DRAFTED TEXT)
+
+3 Shadowmere Lane
+First Draft, 22
+chapters, revised
+through 2026-08-19
+
+Drafted through ch.
+22; the draft stops
+with Remy alive and
+the transit route
+unresolved. The 32chapter outline
+controls only its
+fixed anchors (TCD002).
+
+Katherine Nicholas / Melena
+Lockwood chapters (
+CURRENT DRAFTED TEXT)
+
+FTE Official Beta
+Reader Copy,
+through ch. 29
+
+Endgame heavily
+ruled but undrafted
+in the controlling
+generation. The
+Chapter 29
+fragment and chs.
+31–39 require
+rewrite before they
+count (TCD-001).
+
+Somnoria
+A Dream So
+Twisted (ADST)
+
+Reverie Hollow chapters
+confirmed on-page; any
+additional POV is confirmed
+in Part V†
+
+ADST, 19 chapters
+
+Draft ends before
+the rebuilt Networkrupture climax,
+which is ruled at
+outcome level
+(TCD-060–061).
+
+The Sea Will
+Keep (TSWK)
+
+Dual Azrine / Levi
+(established premise)
+
+No manuscript.
+Thalara
+Worldbuilding and
+Azrine and Levi
+govern; the July
+2026 44-chapter
+blueprint is
+provisional by claim
+
+Ending open (TCD012).
+
+BOOK
+
+LAND
+
+POINT OF VIEW
+
+3 Shadowmere
+Lane (3SL)
+
+The
+Underside
+
+For Their
+Entertainment
+(FTE)
+
+Remnia
+
+Thalara
+
+SPINE › I.1 WHAT THE TANDEM COMPANION IS · CONTINUES →
+
+I.1 / 2 · 8
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+I.1 · WHAT THE TANDEM COMPANION IS
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+Why the table matters: a drafter who asks "what's true?" has to ask it about a specific book,
+because each book stands at a different stage. 3SL has a controlling draft and a partly retired
+outline. TSWK has no draft at all, so its most detailed plan is still only a plan. The same kind of
+question gets a different kind of answer depending on the row.
+SOURCE
+
+SEE ALSO
+
+Audit, Source Inventory; TCD-001, TCD-002, TCD-003, TCD-012; 3SL draft chs. 1–12 (POV
+headings); FTE Beta chs. 8, 18 (POV headings); ADST ch. 18 (POV heading).
+I.2 The Manuscript Outranks the Companion · p.10
+
+I.3 How Source Authority Works · p.12
+
+SPINE › I.1 WHAT THE TANDEM COMPANION IS
+
+I.1 / 3 · 9
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+RULE · PART I · HOW THIS COMPANION WORKS
+
+I.2
+
+THE MANUSCRIPT OUTRANKS THE
+COMPANION
+State the single rule that keeps the Companion subordinate to the
+books.
+
+Drafted prose controls drafted events. If a chapter in the controlling generation shows
+something happening, it happened, and the Companion records it. If that chapter deliberately
+changes something the Companion already printed, the Companion changes. A printed page
+never gets to veto a scene.
+That rule has limits that matter as much as the rule. The manuscript controls what it actually
+shows: POV, scene order, revealed identities, performed magic, relationships, and immediate
+consequences. It doesn't automatically control national geography, deep history, or magical
+taxonomy just because a character says something about them. When Silas thinks nobody born
+in the Underside carries fire, that's a drafted fact about what Silas believes. It becomes worldlevel canon only if a ruling or the governing worldbuilding agrees. A manuscript can also be
+wrong by accident. A typo, a stray name from an older generation, or a detail that contradicts a
+ruling isn't a deliberate change; it's a drafting flag, and the Companion logs it as one instead of
+rewriting canon around it.
+Open and provisional material works the other way. Where the Companion marks something
+OPEN or
+SUPPORTED / PROVISIONAL, drafting is allowed to settle it. When a scene commits to an
+answer on purpose, that commitment becomes the new record, and the Companion's update
+protocol (I.6) moves the old version to the Legacy Recovery Index rather than deleting it.
+GUARDRAIL
+
+Never bend a scene to match a Companion page. If the scene is right and the page is wrong, fix
+the page. If the scene contradicts an author ruling (a TCD), stop and decide which one you mean;
+don't let either quietly win.
+
+Why it matters: the Companion is only trustworthy if it can't become a second, rival manuscript.
+The moment a printed entry starts dictating prose, the books stop being written and start being
+transcribed from an index.
+
+SPINE › I.2 THE MANUSCRIPT OUTRANKS THE COMPANION · CONTINUES →
+
+I.2 / 1 · 10
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+I.2 · THE MANUSCRIPT OUTRANKS THE COMPANION
+
+SOURCE
+
+SEE ALSO
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+Audit, Preliminary Domain-Based Source Authority Map, rule 2; Production Master A1; 3SL draft
+ch. 3 (Silas's belief about Underside fire).
+I.6 Open Canon, Decisions, and Updates · p.21
+
+VII.12 Open Canon Queue → FTE concordance · p.216
+
+SPINE › I.2 THE MANUSCRIPT OUTRANKS THE COMPANION
+
+I.2 / 2 · 11
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+SOURCE AUTHORITY · PART I · HOW THIS COMPANION WORKS
+
+I.3
+
+HOW SOURCE AUTHORITY WORKS
+Teach the domain-specific ladder so a reader knows why a claim is
+trusted.
+
+Authority is domain-specific. A source can settle one kind of fact and have no say over another.
+The 3SL draft is the last word on what happens in Dante Mercer's office in chapter 3; it isn't the
+last word on how far Crownlight sits above sea level. The Thalara worldbuilding file governs
+Thalaran geography; it can't overrule a ruling about the Drowning. Every claim in this book is
+trusted because of the rung it stands on in its own domain.
+THE AUTHORITY LADDER
+RUNG
+
+SOURCE TYPE
+
+WHAT IT CONTROLS
+
+WHAT IT CAN'T DO
+
+1
+
+Explicit author rulings (Canon
+Decision Log, TCD-001
+onward)
+
+Every domain a ruling addresses
+
+Nothing outranks it
+except a later ruling
+
+2
+
+Current manuscript pages
+
+What happened on-page: POV, scene
+chronology, revealed identity,
+performed magic, relationships,
+immediate consequences
+
+Settle geography,
+history, or taxonomy
+by a character's sayso
+
+3
+
+Locked constraints (Novel
+Constraints, as corrected by
+rulings)
+
+Intended premise and undrafted core
+engine
+
+Override a drafted
+scene or a later ruling
+
+4
+
+Current outlines and chapter
+plans
+
+Undrafted plot, once their generation
+is confirmed
+
+Overwrite anything
+already drafted
+
+5
+
+Current book-specific
+worldbuilding, character,
+magic, and institutional files
+
+Geography, institutions, culture,
+baseline magic, backstory where the
+manuscript is silent
+
+Contradict a ruling or
+an on-page event
+
+6
+
+Shared Tandem lore
+
+Its claims one at a time, only where
+they survive review
+
+Serve as a blanket
+master plan
+
+7
+
+Supporting artifacts (timelines,
+placement tables, genealogy
+workbooks, poems, quote
+maps)
+
+Their narrow domain, after consistency
+checks
+
+Fill gaps outside that
+domain
+
+8
+
+Marketing files
+
+Positioning language
+
+Establish any canon
+
+SPINE › I.3 HOW SOURCE AUTHORITY WORKS · CONTINUES →
+
+I.3 / 1 · 12
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.3 · HOW SOURCE AUTHORITY WORKS
+
+CONTINUED
+
+RUNG
+
+SOURCE TYPE
+
+WHAT IT CONTROLS
+
+WHAT IT CAN'T DO
+
+9
+
+Legacy drafts and plans
+
+Creative history and recovery leads
+
+Answer a current
+question
+
+10
+
+TKC Companion materials
+
+Structural and philosophical models
+only
+
+Contribute any
+Tandem canon, ever
+
+Two rules sit above the ladder. First, the Tandem Source Authority Audit's rulings override
+conflicting source material wherever they speak. Second, filenames and dates confer nothing.
+"FINAL," "Official," "New," and a recent year are labels a file picked up along the way. FTE 2025
+FINAL is Legacy. New FTE Chapters predates the modern Remnia execution. A later date on
+the TSWK blueprint doesn't make it a ruling.
+Worked example: the Beta versus the 2025 FINAL. FTE 2025 FINAL is a complete 47chapter manuscript. The FTE Official Beta Reader Copy stops at chapter 29. A reader who
+trusts completeness picks the FINAL and gets the ending for free. TCD-001 says no: the Beta is
+the controlling prose generation, and nothing outside it becomes canon until it's rewritten into
+that generation. The FINAL still earns its shelf space as planning evidence for the unfinished
+half, but its simple Dyad/Crossblood explanation, its reveal shortcut, its cause for Atlas's
+deterioration, and its Tiran-only forfeit are all superseded by TCD-049 through TCD-052. The
+complete file lost to the incomplete one because the incomplete one is the book being written.
+CURRENT CONTROLLING GENERATIONS AT A GLANCE
+CONTROLS DRAFTED
+EVENTS
+
+SUPPORTS UNDRAFTED WORK
+
+STATUS OF THE REST
+
+3SL
+
+3 Shadowmere Lane
+First Draft, 22
+chapters
+
+32-chapter outline for fixed anchors
+only; 3SL Character Outlines; 3SL Full
+Worldbuilding
+
+The outline's chapter map no
+longer controls (TCD-002)
+
+FTE
+
+FTE Official Beta
+Reader Copy,
+through ch. 29
+
+Chapter 29 fragment and chs. 31–39
+(rewrite required); The Challenges FTE
+Year; 49th Chess Tournament
+Placements
+
+Every pre-Beta generation is
+Legacy (TCD-001)
+
+ADST
+
+ADST, 19 chapters
+
+Revised 17-chapter plan; retained
+climax components from the older 42chapter plan
+
+The older plan's early
+execution and ending outcome
+are superseded (TCD-003,
+TCD-053)
+
+BOOK
+
+SPINE › I.3 HOW SOURCE AUTHORITY WORKS · CONTINUES →
+
+I.3 / 2 · 13
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.3 · HOW SOURCE AUTHORITY WORKS
+
+BOOK
+
+CONTROLS DRAFTED
+EVENTS
+
+TSWK No manuscript
+
+CONTINUED
+
+SUPPORTS UNDRAFTED WORK
+
+STATUS OF THE REST
+
+Thalara Worldbuilding; Azrine and Levi;
+July 2026 44-chapter blueprint,
+provisional by claim
+
+Ending open (TCD-012)
+
+SOURCE NOTE
+
+The Project copies of several files carry names without the version suffixes the audit used (3
+Shadowmere Lane First Draft rather than First Draft(9); ADST rather than ADST(3)). The
+Companion treats each as the audited generation because its content matches the audit's
+description. The Imperial Lineage appears in the Project but not in the audit inventory, so it holds
+no assigned authority until it's classified; nothing in Parts I–III relies on it.
+
+Why it matters: most canon errors in a four-book universe aren't invented facts. They're real
+facts pulled from the wrong generation or the wrong domain. The ladder is how the Companion
+answers "which file?" before it answers "what's true?"
+SOURCE
+
+SEE ALSO
+
+Audit, Preliminary Domain-Based Source Authority Map; Production Master A2; TCD-001, TCD002, TCD-003, TCD-010, TCD-012.
+Appendix C Source Authority Inventory · p.260
+
+SPINE › I.3 HOW SOURCE AUTHORITY WORKS
+
+I.3 / 3 · 14
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+STATUS KEY · PART I · HOW THIS COMPANION WORKS
+
+I.4
+
+READING A CLAIM: STATUS
+MARKERS
+Teach the eight markers and the wording each allows.
+
+A status marker attaches to a claim, not to a page. One dossier page can hold settled canon, a
+drafted fact, a plan, and an open question side by side, and each keeps its own label. The
+marker also controls the grammar. A POSSIBLE claim written in confident present tense is a
+canon error even with the POSSIBLE sitting next to it, because readers believe sentences
+before they believe badges.
+STATUS KEY
+MARKER
+
+MEANING
+
+PERMITTED WORDING
+
+FORBIDDEN WORDING
+
+CANON
+
+Established by an
+author ruling or a
+controlling source in
+its domain
+
+Plain declarative present
+tense, with the TCD or
+source cited
+
+Hedging that
+makes settled
+canon look
+optional
+
+CURRENT DRAFTED TEXT
+
+Established on-page in
+the controlling
+manuscript generation
+
+"On-page, …" · "As drafted,
+…" · "In ch. 7, …"
+
+Treating it as
+immune to revision
+
+SUPPORTED / PROVISIONAL
+
+A current plan, bible,
+blueprint, or artifact
+that hasn't become
+drafted canon
+
+"The outline plans…" · "The
+blueprint proposes…" ·
+"The worldbuilding file
+describes…"
+
+Present-tense
+narration of events
+as though they
+happened
+
+POSSIBLE
+
+A live candidate or
+recovery idea, not
+approved
+
+"A candidate is…" · "One
+viable reading…" · "If
+recovered, …"
+
+"Is," "will," or "does"
+about the story
+world
+
+OPEN
+
+Unresolved; an author
+decision is needed if
+and when drafting
+forces it
+
+State what's fixed, then
+name exactly what isn't
+
+Filling the gap with
+a plausible answer
+
+CONFLICT
+
+Current sources
+disagree and no ruling
+settles it
+
+Name both sources and
+both claims
+
+Picking the nicer
+version silently
+
+SPINE › I.4 READING A CLAIM: STATUS MARKERS · CONTINUES →
+
+I.4 / 1 · 15
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+I.4 · READING A CLAIM: STATUS MARKERS
+MARKER
+RESEARCH
+
+LEGACY / SUPERSEDED
+
+CONTINUITY
+CONTINUED
+
+MEANING
+
+PERMITTED WORDING
+
+FORBIDDEN WORDING
+
+Needs outside factual
+research
+
+State the research
+question
+
+Presenting a guess
+as fact
+
+Creative history that
+no longer controls
+
+Past tense, source named:
+"The 2025 FINAL had…"
+
+Using it to answer
+a current question
+
+HOW TO READ A CLAIM: SIX WORKED EXAMPLES
+CLAIM AS PRINTED
+
+STATUS
+
+WHY IT'S LABELED THIS WAY
+
+Katherine Nicholas is the current
+Tournament's Conqueror.
+
+CANON · TCD-034
+
+An author ruling fixes it, so it
+takes plain present tense even
+though the scene that earns it
+isn't drafted yet. The ruling
+controls the outcome; the
+manuscript still has to build the
+causal path.
+
+On-page, Katherine's
+Examination puts her through
+severe Fire trauma and still
+produces only Frost.
+
+CURRENT DRAFTED TEXT · FTE
+
+The Beta shows it. TCD-058 later
+explains why it happens (dominant
+Frost configuration, no ordinary
+stress trigger), but the event itself
+is anchored in drafted prose.
+
+The July 2026 blueprint plans
+Azrine's ordination near the end
+of Book One.
+
+Beta; TCD-058
+
+SUPPORTED / PROVISIONAL ·
+
+blueprint, per audit HC-061
+
+The most detailed TSWK plan
+proposes it. No ruling has adopted
+it, so it's written as a plan, never
+as "Azrine is ordained."
+
+The Conduit Trials' final canon
+name hasn't been chosen.
+
+OPEN · TCD-008
+
+The concept and mechanics are
+current. The name is a working
+title, and every page that uses it
+flags it.
+
+The blueprint's chapter 29 credits
+"Cael Dren" with designing the
+sacrificial route and First Anchor,
+while its chapters 38–39 identify
+twelve-year-old Caelen as the
+first sacrificed Anchor.
+
+CONFLICT · HC-059
+
+Two passages in one plan
+disagree. The Companion names
+both and protects TCD-064's
+twelve-year-old Caelen without
+deciding who designed the route.
+
+SPINE › I.4 READING A CLAIM: STATUS MARKERS · CONTINUES →
+
+I.4 / 2 · 16
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.4 · READING A CLAIM: STATUS MARKERS
+
+CONTINUED
+
+CLAIM AS PRINTED
+
+STATUS
+
+WHY IT'S LABELED THIS WAY
+
+The 2025-era lore treated the
+Echo Gate as the singular sealed
+crossing between Remnia and
+Somnoria.
+
+LEGACY / SUPERSEDED · TCD-027
+
+Past tense, source named. Its
+seal, spiral or mirrored glyph, and
+ancient-crossing imagery may
+come back only as POSSIBLE.
+
+RESEARCH appears when a scene needs real-world fact the sources can't supply. The clearest
+
+current case is the Remy death scene: once the weapon and wound are chosen, the blood-loss
+timing Melena works against is a research question, not a canon question (TCD-063 leaves
+weapon and anatomy open).
+PAGE FURNITURE YOU'LL SEE THROUGHOUT
+
+Source — lines close each section. They're margin provenance in the manuscript and
+become small-type margin notes in layout.
+GUARDRAIL boxes hold locked constraints a drafter could break without noticing.
+NOT THE SAME AS callouts separate paired terms readers merge.
+OPEN DEVELOPMENT boxes carry four lines: Fixed / Undecided / Why it matters / Decide
+by.
+TANDEM CANON DECISION blocks appear only where a page genuinely can't proceed.
+See also lines point to related sections by number.
+Why it matters: the status system is the reason this book can be trusted at 2 a.m. in the middle
+of a chapter. If a claim has no marker and no qualifying grammar, you're meant to be able to
+rely on it without checking.
+SOURCE
+
+SEE ALSO
+
+Production Master A3, V6; TCD-008, TCD-027, TCD-034, TCD-058, TCD-063, TCD-064; Audit
+HC-059, HC-061.
+Appendix A Canon Decision Log · p.223
+
+SPINE › I.4 READING A CLAIM: STATUS MARKERS
+
+Appendix E Terminology Register · p.267
+
+I.4 / 3 · 17
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+EXPLAINER · PART I · HOW THIS COMPANION WORKS
+
+KNOWLEDGE STATES
+
+I.5
+
+Prevent backward knowledge promotion.
+
+No later revelation travels backward into an earlier head. That sounds obvious until the fourth
+book is drafted and a character in the first one starts making choices that only make sense if
+she's read the Canon Decision Log. The Companion prevents that by keeping seven lanes of
+knowledge apart wherever a secret, identity, reveal, or piece of history is involved.
+THE SEVEN LANES
+LANE
+
+WHAT IT RECORDS
+
+EXAMPLE OF THE LANE IN USE
+
+Objective truth
+
+What is true in the universe
+
+The gang leader's wound kills Remy (TCD063).
+
+Author
+knowledge
+
+What Danyelle has ruled or knows,
+whether or not anyone on-page does
+
+Katherine and Melena are paternal halfsisters through Tobias (TCD-040), long before
+either sister proves it.
+
+Reader
+knowledge
+
+What a reader knows at a specific
+point in a specific book
+
+Tracked per chapter in each book's knowledge
+ledger; never assumed from author
+knowledge.
+
+Character
+knowledge
+
+What a named character knows, and
+from when
+
+Melena enters the Challenge Six Duel with
+substantial suspicion about Katherine and no
+proof (TCD-050).
+
+Character belief
+
+What a character thinks is true when
+it's wrong or incomplete
+
+Early Reverie believes she's an illegal,
+unlicensed Dreamwalker with a rare gift; she's
+also a natural conduit (TCD-029).
+
+Institutional /
+public version
+
+What Houses, the Sanctum, the
+Synod, Skyhold, schools, or
+governments teach or record
+
+The Sanctum's likely "Dyad" label for
+Katherine, which is incomplete (TCD-049).
+
+Suppressed /
+rewritten
+
+What's sealed, censored, misfiled,
+mythologized, redacted, or lost
+
+House Dren's willing-adult First Anchor
+mythology versus twelve-year-old Caelen
+(TCD-064).
+
+The six levels of cross-land knowledge. Knowing another land exists doesn't mean knowing
+where it is, how its magic works, how to reach it, what its history is, or how the four lands
+actually relate. TCD-016 separates these into six levels, and none implies another:
+
+SPINE › I.5 KNOWLEDGE STATES · CONTINUES →
+
+I.5 / 1 · 18
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.5 · KNOWLEDGE STATES
+
+CONTINUED
+
+1. Existence — the land is real.
+2. Location — where it is.
+3. Functional — how its people, magic, or institutions work.
+4. Route — how to get there.
+5. Historical — what happened between the lands.
+6. True Tandem knowledge — the objective relationship among all four.
+A drafted 3SL example shows why the ladder matters. In chapter 11, Remy jokes that the only
+place Melena can't reach the blackroot is Somnoria, and Silas hopes she won't ask what
+Somnoria is. On-page, that establishes that both men know Somnoria by name. It doesn't
+establish that either knows where it is, how to get there, or anything about dream magic. In
+chapter 3, Silas reads Melena's fire as proof she's Remnian because "fire belonged to Remnia."
+That's functional knowledge about one feature of Remnian magic, held as Silas's belief, and it
+says nothing about what the Synod teaches or what Silas knows of Remnian history.
+CURRENT DRAFTED TEXT (3SL chs. 3, 11).
+Worked example: two clocks for one missing man. Elias Lockwood and Professor Alexander
+Thorne are one person with two public lives, and the two lives go missing on different
+schedules.
+LANE
+
+ELIAS LOCKWOOD / PROFESSOR ALEXANDER THORNE
+
+STATUS
+
+Objective truth
+
+Elias voluntarily created and maintained Thorne as an established
+Somnorian researcher and instructor for years. The Nightmare
+organization targets Thorne's boundary/Network research and
+exploits the vulnerability it creates, compromising his dream and
+magical functioning so that ordinary return to Remnia becomes
+unsafe or impossible.
+
+CANON TCD032, TCD-062
+
+Author
+knowledge
+
+The failure-to-return cause is fixed. The exact compromise
+technique, first crossing, alias credentials, helpers, later captivity,
+and physical status are not.
+
+Institutional /
+public version,
+Remnia
+
+Remnia notices Elias missing first, because he fails to return on
+pattern.
+
+SPINE › I.5 KNOWLEDGE STATES · CONTINUES →
+
+OPEN
+
+CANON TCD-
+
+062
+
+I.5 / 2 · 19
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.5 · KNOWLEDGE STATES
+
+CONTINUED
+
+LANE
+
+ELIAS LOCKWOOD / PROFESSOR ALEXANDER THORNE
+
+STATUS
+
+Institutional /
+public version,
+Somnoria
+
+Thorne initially remains publicly present but deteriorating; his
+Somnorian disappearance comes later.
+
+062
+
+Character belief
+
+Breakdown rumors circulate in Somnoria. They reflect a real,
+patterned compromise, not the whole truth.
+
+062
+
+Character
+knowledge
+
+Reverie encounters Thorne's collapsing dream. Whether and when
+she learns Thorne is Elias isn't established here.
+
+CANON TCD-
+
+CANON TCD-
+
+Encounter
+CANON TCD062; identity
+knowledge
+OPEN
+
+Reader
+knowledge
+
+Set chapter by chapter in the ADST and FTE knowledge ledgers
+(V.16†, IV.22).
+
+Tracked, not
+assumed
+
+Why it matters: the two clocks are the whole trick of this plotline. Remnia is already searching
+while Somnoria still sees Thorne teaching. Collapse the lanes and one country reacts to news it
+hasn't received.
+GUARDRAIL
+
+In-world language survives as perspective, never as cosmology. A Somnorian calling Remnia
+"another world" is Somnorian framing (TCD-015). House Aether calling the Prism a "cage" is
+House Aether's interpretation (TCD-038). Caelum calling Melena his "asset" is Caelum's framing
+(TCD-043).
+
+SOURCE
+
+SEE ALSO
+
+TCD-015, TCD-016, TCD-029, TCD-032, TCD-038, TCD-040, TCD-043, TCD-049, TCD-050, TCD062, TCD-063, TCD-064; Production Master A5; 3SL draft chs. 3, 11.
+II.4 Knowledge of the Other Lands · p.29
+
+VII.5 Cross-Land Knowledge Matrix → FTE concordance · p.216
+VII.10 Continuity Translation Pages → FTE concordance · p.216
+
+SPINE › I.5 KNOWLEDGE STATES
+
+I.5 / 3 · 20
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+PROTOCOL · PART I · HOW THIS COMPANION WORKS
+
+I.6
+
+OPEN CANON, DECISIONS, AND
+UPDATES
+Show how open material is displayed and how rulings enter the book.
+
+Open stays open. The Companion doesn't close a question because a page looks unfinished
+with it, and it doesn't ask for a ruling just because the book reached that topic. It asks only
+when a page, a scene, or a publication-level commitment can't be written accurately without an
+answer.
+The OPEN DEVELOPMENT box. Wherever an open point sits beside settled canon, it gets a
+four-line box. Here's a live one, reproduced from Part II:
+OPEN DEVELOPMENT · THE REMNIA–UNDERSIDE CROSSING ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+A current crossing exists near the London
+Town edge, in the no-man's-land associated
+with London Town, Old Prosperity, and Alea.
+It's physical-magical transit, not a portal. The
+singular Echo Gate is Legacy. (TCD-017, TCD027)
+
+Its precise map coordinate, and whether it
+arrives directly in Shadowmere, Tier 7.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+Arrival tier decides who controls the Underside
+end, who can trace a crossing, and how
+Melena's route from Remnia into Shadowmere
+reads on-page.
+
+When Danyelle's Remnia map is reviewed, or
+earlier if a 3SL scene has to show the arrival
+point.
+
+The "Decide by" line is the useful one. It names the actual drafting moment that forces the
+answer. If nothing forces it, the line says "safe to defer," and that's a complete answer.
+The TANDEM CANON DECISION block. When a page truly can't proceed, the Companion
+uses this format and nothing looser: the exact issue, the sources creating it, options A through
+D where the evidence offers them, E for "Something else / I want to explain," one line of
+implication under each option, and a labeled recommendation only when the evidence strongly
+favors one path. No more than five at once; one to three is better. A recommendation is never
+canon until ruled.
+
+SPINE › I.6 OPEN CANON, DECISIONS, AND UPDATES · CONTINUES →
+
+I.6 / 1 · 21
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.6 · OPEN CANON, DECISIONS, AND UPDATES
+
+CONTINUED
+
+TANDEM CANON DECISION — SPECIMEN (FORMAT ONLY; NOT ASKED NOW)
+
+Issue: Who designed First Shellward's sacrificial route and First Anchor?
+Sources: July 2026 TSWK blueprint ch. 29 ("Cael Dren" as designer) versus chs. 38–39 (twelveyear-old Caelen as first sacrificed Anchor); TCD-064.
+A. Forged credit. House record credits a figure who didn't design it. Implication: the tablet
+becomes evidence of rewritten history.
+B. Distinct adult designer. Cael Dren and Caelen are different people. Implication: two names
+need separate provenance.
+C. Drafting error. The blueprint conflated names. Implication: one passage is corrected; no inworld lie.
+E. Something else / I want to explain.
+Recommendation: None. The evidence doesn't strongly favor one option, and HC-059 is
+deferred to the TSWK draft.
+
+How a ruling enters the book. When a new ruling lands or drafted prose deliberately changes
+something:
+1. Log it in the Canon Decision Log with its date, what it supersedes, and its downstream
+implications.
+2. Update the High-Impact Conflict Register if it resolves or opens a conflict.
+3. Update every Companion page listed in the ruling's affected-sections field.
+4. Move superseded claims to the Legacy Recovery Index rather than deleting them.
+5. Re-run the integrity checks on every touched page: no Legacy claim presented as canon, no
+POSSIBLE or
+
+SUPPORTED claim in declarative story-world tense, no conflict silently
+
+harmonized, no knowledge promoted backward, no symmetry assumed across the four
+lands, no duplicate or contradictory table, no invented canon, no open question phrased as
+settled, no TKC content imported.
+GUARDRAIL
+
+Asking a question assigns no TCD number. The audit's proposed TCD-065 through TCD-074 were
+never answered or adopted, so none of them is canon and none of those numbers is reserved.
+
+SPINE › I.6 OPEN CANON, DECISIONS, AND UPDATES · CONTINUES →
+
+I.6 / 2 · 22
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+I.6 · OPEN CANON, DECISIONS, AND UPDATES
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+Why it matters: an open question that's clearly marked is safe to draft around. An open question
+that's been quietly answered by whoever wrote the page last is how three versions of the same
+backstory end up in print.
+SOURCE
+
+SEE ALSO
+
+Production Master A8–A10, A12; Audit, Architecture Handoff; TCD-017, TCD-027, TCD-064; Audit
+HC-059.
+VII.12 Open Canon Queue → FTE concordance · p.216
+
+Appendix A Canon Decision Log · p.223
+
+Appendix B High-Impact Conflict Register · p.251
+
+SPINE › I.6 OPEN CANON, DECISIONS, AND UPDATES
+
+I.6 / 3 · 23
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CHECKLIST · PART I · HOW THIS COMPANION WORKS
+
+I.7
+
+USING THE COMPANION WHILE
+DRAFTING
+Make the book fast to use mid-scene.
+
+Start with the book's draft-forward packet, not the front of the Companion. Each dossier ends
+with pages built to sit open beside the manuscript: III.19† for 3SL, IV.24 for FTE, V.17† for
+ADST, VI.13† for TSWK. They condense the locked beats, the current knowledge states, and the
+scene-level open choices, and they cross-reference the full sections behind them.
+BEFORE A SCENE
+
+Check the packet for any GUARDRAIL that touches the characters or magic in the scene.
+Check the knowledge ledger for what each POV character knows at this chapter, not at the
+end of the book.
+Check whether the scene touches a
+
+CANON ruling. If it does, the outcome is fixed and the
+
+scene's job is to earn it.
+Check whether the scene touches an
+keep drafting.
+
+OPEN item. If the open item doesn't affect this scene,
+
+WHILE DRAFTING
+
+An open question that doesn't touch the next scene doesn't stop the next scene.
+If the scene needs an answer to an open item, make the choice in prose and flag it. You
+don't need a ruling first; you need a record afterward.
+If the scene seems to need something that contradicts a ruling, stop. That's the one case
+where the draft waits.
+Don't pull a fact from a Legacy file to fill a gap, however well it fits. Check the Legacy
+Recovery Index; if the idea is listed there as recoverable, it comes back as
+
+POSSIBLE and
+
+gets ruled on like anything new.
+
+SPINE › I.7 USING THE COMPANION WHILE DRAFTING · CONTINUES →
+
+I.7 / 1 · 24
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+I.7 · USING THE COMPANION WHILE DRAFTING
+
+CONTINUED
+
+AFTER THE SCENE
+
+If the prose settled an open item on purpose, log it through the update protocol (I.6).
+If the prose changed a knowledge state, update the book's knowledge ledger.
+If the prose introduced a new name, place, route, or rule, add it to the relevant dossier with
+its chapter as provenance.
+Navigation conventions. Sections are numbered Part.section (III.8†, VII.5), so insertions
+don't renumber the book. "See also" lines at each section's foot point outward. Rulings are cited
+by TCD number, conflicts by HC number, and manuscript facts by book and chapter.
+Why it matters: the Companion should cost you seconds mid-scene, not an evening. If using it
+slows drafting down more than it protects the draft, the page is built wrong, and that's a
+Companion problem to fix.
+SOURCE
+SEE ALSO
+
+Production Master I.7, A8; Audit, Architecture Handoff.
+III.19 3SL Draft-Forward Packet †
+
+V.17 ADST Climax Packet †
+
+IV.24 FTE Endgame Packet · p.187
+
+VI.13 TSWK Blueprint-to-Rulings Reconciliation Packet †
+
+SPINE › I.7 USING THE COMPANION WHILE DRAFTING
+
+I.7 / 2 · 25
+
+

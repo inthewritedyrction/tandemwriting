@@ -1,0 +1,2755 @@
+SPINE
+
+3SL
+
+IV
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+PART IV · BUILD 2
+
+FOR THEIR ENTERTAINMENT /
+REMNIA
+
+FTE is the book with the most canon fixed ahead of its own pages. The Beta has drafted twentyeight and a half chapters; the rulings have already decided who wins, how, why London Town
+forfeits, what Katherine's magic is, how the sisters find each other, and where Atlas's injury
+comes from. What the rulings haven't done is write the scenes. This dossier holds both halves:
+the drafted book as it stands, and the ruled endgame it still has to reach.
+SOURCE NOTE FOR ALL OF PART IV
+
+The FTE Official Beta Reader Copy was read by chapter map and targeted passage search, not in
+one linear pass; chapter placements below come from that map and should be verified in a full
+read. Chapter 29.docx, FTE 31–39, The Challenges FTE Year, 49th Chess Tournament Placements,
+FTE Elemental Factions, Welcome to Remnia, and Character Bible were read in full. Files the audit
+inventories but that aren't in this Project: FTE 2025 FINAL, the late chs. 44–48 plan, Chess
+Tournament Guidelines and Schedules, Education System in Old Prosperity, Events Leading Up To
+Novel Start, both FTE Remnian Timelines, Notable Figures, The Royal Lineage, The Remnian
+Provinces, and Novel Constraints. Where Part IV mentions them, it relies on the audit's record, not
+the file. (Build 2 note, 2026-10-09: FTE 2025 FINAL, both FTE Remnian Timelines, and Full 4
+Series Flesh Out have since been supplied. The IV.11 lineage record uses them claim by claim,
+and IV.11, IV.12, and IV.22 now cite the Before Story Start timeline where they had relied on the
+audit's record or the unaudited Imperial Lineage.) The same goes for New Opening, which the
+audit and Production Master carry as a live alternative to the Beta's opening CONFLICT; it isn't in
+this Project, so the Companion can't compare the two.
+§
+
+SECTION
+
+PAGE TYPE
+
+IV.1
+
+Book Identity and Source Status
+
+STATUS & PROVENANCE SHEET
+
+51
+
+IV.2
+
+Remnia at a Glance
+
+PLACE DOSSIER
+
+54
+
+IV.3
+
+Power and Jurisdiction
+
+POWER MAP
+
+57
+
+IV.4
+
+The Sanctum
+
+INSTITUTION DOSSIER
+
+62
+
+IV.5
+
+Elemental Magic
+
+FACTION TABLE
+
+65
+
+IV.6
+
+The Tournament: Structure and Purpose
+
+SYSTEM EXPLAINER
+
+69
+
+FTE › PART IV · CONTINUES →
+
+PAGE
+
+PART IV / 1 · 49
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+PART IV
+
+CONTINUED
+
+§
+
+SECTION
+
+PAGE TYPE
+
+IV.7
+
+The Challenges
+
+CHALLENGE TABLE
+
+72
+
+IV.8
+
+Conqueror Rules
+
+RULES TABLE
+
+77
+
+IV.9
+
+Katherine Nicholas
+
+DOSSIER · PROTAGONIST
+
+80
+
+IV.10
+
+COMPARISON SPREAD
+
+83
+
+YOUR PAGES
+
+87
+
+IV.11
+
+Katherine's Elemental Anatomy
+Your Pages: Katherine’s Elemental
+Anatomy
+Lineage: Biology, Law, Record, Succession
+
+LINEAGE · FIVE LAYERS
+
+98
+
+IV.11
+
+Record: Remnian Imperial + Royal Lineage
+
+WORKING RECORD
+
+102
+
+IV.12
+
+Katherine's Concealment
+
+CONCEALMENT MATRIX
+
+150
+
+IV.13
+
+The Sister Reveal
+
+EVIDENCE CHAIN
+
+153
+
+IV.14
+
+Melena Lockwood
+
+DOSSIER · PROTAGONIST
+
+157
+
+IV.15
+
+Caelum and Melena: The Leverage Ledger
+
+LEVERAGE LEDGER
+
+160
+
+IV.16
+
+Atlas: The Synchronization Injury
+
+MECHANICS EXPLAINER
+
+163
+
+IV.17
+
+The Elders' Prayer in FTE
+
+PERFORMANCE RECORD
+
+166
+
+IV.18
+
+Supporting Cast
+
+CAST TABLE
+
+169
+
+IV.19
+
+DOSSIER · ARC WORKSHEET
+
+173
+
+CAUSAL CHAIN
+
+176
+
+IV.21
+
+Minho Augustine
+The Endgame: Forfeit and Command
+Authority
+Plot State
+
+PLOT STATE
+
+179
+
+IV.22
+
+Knowledge Progression
+
+KNOWLEDGE LEDGER
+
+181
+
+IV.23
+
+Cross-Book Connections
+
+CONNECTION TABLE
+
+184
+
+IV.24
+
+FTE Endgame Packet
+
+ENDGAME PACKET
+
+187
+
+IV.25
+
+FTE Open Development
+
+OPEN DEVELOPMENT
+
+190
+
+IV.25
+
+Working Pages: FTE Open Development
+
+WORKING PAGES
+
+193
+
+VII·FTE
+
+Continuity Room: FTE Concordance
+
+CONCORDANCE
+
+216
+
+IV.10
+
+IV.20
+
+FTE › PART IV
+
+PAGE
+
+PART IV / 2 · 50
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+STATUS & PROVENANCE SHEET · PART IV · FOR THEIR ENTERTAINMENT /
+REMNIA
+
+IV.1
+
+BOOK IDENTITY AND SOURCE
+STATUS
+Separate canonized prose from usable development.
+
+The Beta is the book. CANON TCD-001. Everything outside it, including the two newest
+development files, has to be rewritten into the Beta's generation before it becomes canon. That
+rule does real work in FTE, because the development chapters are good, specific, and in places
+flatly contradict rulings made after they were written.
+WHAT IT CAN'T
+DO
+
+FILE
+
+WHAT IT IS
+
+WHAT IT CONTROLS
+
+FTE Official
+Beta Reader
+Copy
+
+Partial revised
+manuscript: Parts
+One–Three
+begun; chs. 1–28
+complete, ch. 29
+partial (Melena,
+med bay)
+
+On-page POV,
+events,
+characterization,
+and rules for
+drafted chapters
+
+Settle anything
+past ch. 29;
+override a ruling
+
+CURRENT DRAFTED TEXT
+
+Chapter
+29.docx
+
+Katherine-POV
+chapter: the
+Elders' Prayer for
+Atlas at the end
+of Challenge Four
+
+Nothing yet;
+candidate scene
+material
+
+Count as ch. 29
+(the Beta's ch.
+29 is Melena's)
+
+SUPPORTED / PROVISIONAL
+
+FTE 31–39
+
+Development
+chapters: Naming
+Ceremony
+through the first
+Challenge Six
+bout
+
+Nothing yet; usable
+scene and plot
+development
+
+Stand as canon
+prose; override
+TCD-049–052,
+TCD-058
+
+The
+Challenges
+FTE Year
+
+Late-2025 plan
+for six executed
+Challenges
+
+Challenge
+mechanics where
+the Beta is silent
+
+Override the
+Beta's Challenge
+Two; control the
+endgame (TCD042, TCD-050,
+TCD-052)
+
+FTE › IV.1 BOOK IDENTITY AND SOURCE STATUS · CONTINUES →
+
+STATUS
+
+· rewrite required
+
+SUPPORTED / PROVISIONAL
+
+· rewrite required
+
+SUPPORTED
+
+IV.1 / 1 · 51
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.1 · BOOK IDENTITY AND SOURCE STATUS
+
+CONTINUED
+WHAT IT CAN'T
+DO
+
+FILE
+
+WHAT IT IS
+
+WHAT IT CONTROLS
+
+STATUS
+
+49th Chess
+Tournament
+Placements
+
+Roster table
+
+Exact Piece
+positions and
+replacements
+
+Settle magic
+classification
+(its "Dyad" notes
+are planning
+labels)
+
+SUPPORTED (current roster)
+
+FTE
+Elemental
+Factions
+
+Faction
+worldbuilding
+
+Faction roster,
+culture, faction
+history
+
+Define Dyads or
+Katherine's
+anatomy against
+rulings
+
+SUPPORTED
+
+Welcome to
+Remnia
+
+Mid-2025 setting
+primer
+
+Public-facing lore
+where nothing
+better exists
+
+Its selection
+count, Dax's
+rank, or
+superseded
+parentage
+
+SUPPORTED, several claims
+
+Character
+Bible
+
+Early-modern
+character bible
+
+Backgrounds and
+relationships
+where current
+sources are silent
+
+Ages, titles,
+knowledge
+states without a
+currentgeneration
+check (audit)
+
+The Imperial
+Lineage
+
+Genealogy
+written as news
+bulletins; two
+copies in the
+Project
+
+Nothing
+
+It isn't in the
+audit's inventory,
+so it has no
+assigned
+authority
+
+UNAUDITED · cited only as a
+flag
+
+FTE Timeline
+
+2024 timeline
+
+Nothing
+
+Anything
+
+LEGACY / SUPERSEDED
+
+superseded
+
+SUPPORTED by claim
+
+GUARDRAIL
+
+Development chapters are evidence of intent, not events. "In FTE 31–39, Houston kills Ellis" is a
+correct sentence. "Houston killed Ellis" isn't, yet.
+NUMBERING FLAG
+
+Chapter 29.docx is a Katherine chapter; the Beta's ch. 29 is Melena's, and no ch. 30 exists in any
+source. Where the Prayer scene lands in the sequence is a drafting decision, not a canon one.
+
+FTE › IV.1 BOOK IDENTITY AND SOURCE STATUS · CONTINUES →
+
+IV.1 / 2 · 52
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+IV.1 · BOOK IDENTITY AND SOURCE STATUS
+
+CONTINUED
+
+TCD-001, TCD-008; audit, FTE Source Inventory; FTE Beta (chapter map).
+
+SOURCE
+SEE ALSO
+
+CONTINUITY
+
+I.3 How Source Authority Works · p.12
+
+IV.21 Plot State · p.179
+
+Appendix C Source Authority Inventory · p.260
+
+NOTES · IV.1
+
+FTE › IV.1 BOOK IDENTITY AND SOURCE STATUS
+
+IV.1 / 3 · 53
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+PLACE DOSSIER · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.2
+
+REMNIA AT A GLANCE
+Orient the reader in the Empire.
+
+STATUS · AUTHOR CORRECTION 2026-10-09
+TCD-025 · TCD-041
+
+CANON
+
+An empire on its own continental landmass, separated
+from Somnoria by ocean; the Crown at the highest
+public civil/dynastic level of the sovereignty structure.
+
+DRAFTED
+
+Seventeen provinces.
+
+FTE Beta
+
+Remnia is an empire on its own continental landmass, separated from Somnoria by ocean; the
+Crown sits at the highest public civil/dynastic level of the Remnian sovereignty structure.
+CANON TCD-025, TCD-041. The Beta gives it seventeen provinces and confirms the count in
+
+three places: Melena's cover story is a tour of "all seventeen" provinces (ch. 2), the Delegation
+hall has seventeen archways "one for each province of the Empire", and seventeen Sanctum
+officials attend the Maze. (
+
+CURRENT DRAFTED TEXT) Its years are counted ER.
+
+The Empire's borders are closed. Caelum says so in ch. 2 ("The Remnian Empire may have
+closed its borders, but there are still ways through"), and Melena, until he tells her otherwise,
+believes "There's nothing outside of Remnia anymore." That line is a character belief, dated to
+ch. 2, not a statement of what Remnia teaches (II.4).
+Places on the page. Only what the sources actually put somewhere.
+PLACE
+
+WHAT THE BETA SHOWS
+
+OTHER SOURCES
+
+London Town
+
+The government province;
+the Imperial Palace; noble
+families; private tutors
+instead of group classes
+(as Katherine understands
+it)
+
+Welcome to Remnia: ruled by
+King William and Queen Dalia
+Augustine under Empress
+Aracelia; Elemental Court has
+no power there. TCD-041: the
+Crown directly controls it
+
+Old
+Prosperity
+
+The military province;
+University of Old
+Prosperity on its northern
+edge; High Command;
+frozen no-man's-land
+beyond the outer wall
+
+Welcome: military; General
+Gareth Thorne
+
+FTE › IV.2 REMNIA AT A GLANCE · CONTINUES →
+
+STATUS
+CURRENT DRAFTED TEXT;
+
+Augustine rule
+
+OPEN (IV.3)
+
+CURRENT DRAFTED TEXT
+
+IV.2 / 1 · 54
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.2 · REMNIA AT A GLANCE
+
+CONTINUED
+
+PLACE
+
+WHAT THE BETA SHOWS
+
+OTHER SOURCES
+
+Havenwood
+
+Tournament site; three
+Houses in a triangle,
+including the Sanctum's;
+Havenwood transports
+
+Welcome: Tournament and
+Sanctum oversight
+
+Zenithia
+
+Governor Anise; trade
+delegations; apricots; face
+paint worn by its people
+
+Welcome: Countess Beatrice
+Montclair; Character Bible:
+Tiran heir to the Dukedom of
+Zenithia
+
+Leadership
+
+Alleia
+
+Northern territories; a
+general nearly invades it
+over a shipping schedule
+
+TCD-027 spells it "Alea"
+
+Spelling
+
+Verdant,
+Little Villa
+
+Holiday and summer
+destinations Katherine
+was never allowed to visit
+(ch. 13)
+
+—
+
+Rovencia
+
+Maven's saltwater
+deliveries; a Rovencian
+field Melena visited as a
+child (ch. 2)
+
+FTE 31–39: a "Regnant" of
+Rovencia at Challenge Six
+
+Whether a province
+
+OPEN
+
+Easton /
+"Estonian"
+
+An "Estonian trade
+minister" (Beta)
+
+31–39: a Flight Academy in
+Easton
+
+Spelling and relation
+
+OPEN
+
+Shadowmere
+
+Where Melena has lived
+for two years as "Melena
+of Nowhere"
+
+The Underside's Tier 7 city
+(Part III)
+
+See knowledge flag below
+
+FTE › IV.2 REMNIA AT A GLANCE · CONTINUES →
+
+STATUS
+CURRENT DRAFTED TEXT
+
+CONFLICT (IV.3)
+
+OPEN
+
+CURRENT DRAFTED TEXT
+
+IV.2 / 2 · 55
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.2 · REMNIA AT A GLANCE
+
+CONTINUED
+
+KNOWLEDGE FLAG
+
+How does Melena classify Shadowmere?
+She has lived in the Underside for two years, yet in ch. 2 she answers Caelum's mention of
+Somnoria with "That's not a Remnian province… There's nothing outside of Remnia anymore."
+Both can be true only if she thinks of Shadowmere as something other than "outside": Remnianadjacent, a lawless borderland, or not a nation at all. The page doesn't say which. OPEN · decide
+before any Melena POV scene names what the Underside is.
+SPELLING FLAG
+
+The Beta writes "Alleia" three times; TCD-027 writes "Alea." This is a fine-detail spelling choice the
+audit leaves open, not a geography question. Pick one before the Remnia map is reviewed.
+
+Welcome to Remnia says seventeen provinces in its text, lists eighteen names in its table, and
+says the Elemental Court controls "8 of 17" while marking nine. The Beta's seventeen controls.
+Precise provincial positions wait for Danyelle's Remnia map (TCD-027); nothing here places a
+province on a compass.
+TCD-025, TCD-027, TCD-041; FTE Beta chs. 2, 7, 12–13, 19, 22; Welcome to Remnia; Character
+Bible (Tiran); FTE 31–39 chs. 31, 38.
+
+SOURCE
+
+SEE ALSO
+
+II.2 Macro Geography · p.27
+
+II.4 Knowledge of the Other Lands · p.29
+
+III.3 The Underside: A Vertical Nation → FTE concordance · p.216
+
+NOTES · IV.2
+
+FTE › IV.2 REMNIA AT A GLANCE
+
+IV.2 / 3 · 56
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+POWER MAP · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.3
+
+POWER AND JURISDICTION
+Replace "who's in charge" with a real power map.
+
+Remnia doesn't have one ruler. It has several centers of authority that overlap, compete, and
+sometimes need each other. CANON TCD-041. The Crown is the highest public civil and
+dynastic authority and directly controls London Town and imperial affairs. Provincial Leaders
+administer their territories under titles that vary. The Provincial Leadership Board gives the
+provinces formal representation, and a Conqueror's one-year seat can change it. The Elemental
+Court is a separate political-magical bloc with influence over several provinces and over
+elemental policy, but not over London Town. The Sanctum is semi-autonomous in magical
+regulation, bloodlines, Tournament law, doctrine, security, and historical control. It isn't simply
+the Crown's agency, and it isn't legally omnipotent over the Crown either.
+The practical consequence for drafting: when something goes wrong in FTE, the first question
+is never "who's in charge?" It's "whose jurisdiction is this, and who else thinks it's theirs?"
+AUTHORITY
+
+WHAT IT HOLDS (RULED)
+
+ON THE PAGE
+
+The Crown
+
+Highest public civil and
+dynastic authority; direct
+control of London Town and
+imperial affairs CANON
+
+Empress Aracelia
+signs the
+Tournament's
+opening letter;
+Melena is "the
+Lockwood secondin-line"; Helena runs
+Melena's schedule
+and complaints
+
+FTE › IV.3 POWER AND JURISDICTION · CONTINUES →
+
+SUPPORTINGSOURCE DETAIL
+
+31–39: a Privy
+Council pushed
+Elias into the
+Crown Prince role
+after Lucia's death
+
+OPEN
+
+Aracelia's full
+name
+CONFLICT
+
+(IV.11); the Privy
+Council's
+standing
+
+IV.3 / 1 · 57
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.3 · POWER AND JURISDICTION
+
+CONTINUED
+
+AUTHORITY
+
+WHAT IT HOLDS (RULED)
+
+ON THE PAGE
+
+Provincial
+Leaders
+
+Administer territories; titles
+vary CANON
+
+Zenithia's Governor
+Anise files
+complaints against
+Melena
+
+SUPPORTINGSOURCE DETAIL
+
+OPEN
+
+Welcome:
+Countess Beatrice
+Montclair
+(Zenithia), General
+Gareth Thorne
+(Old Prosperity),
+Director Rowan
+Mercer (Durant);
+Character Bible:
+Blackwood
+Dukedom of
+Zenithia
+
+Zenithia's
+leadership
+
+Melena asks
+whether the
+Empress
+"summoned the
+entire Leadership
+Board"; the Board
+attends the masked
+reception
+
+—
+
+Powers, votes,
+benefits (IV.8)
+
+CONFLICT;
+
+how London
+Town's
+Augustine
+monarchy sits
+under direct
+Crown control
+OPEN
+
+Provincial
+Leadership
+Board
+
+Formal representation; the
+Conqueror's one-year seat
+
+Elemental
+Court
+
+Political-magical bloc; not
+over London Town CANON
+
+Never named in chs.
+1–29
+
+Welcome: controls
+"8 of 17" provinces
+(marks nine)
+
+Which
+provinces; its
+powers
+
+The
+Sanctum
+
+Semi-autonomous: magic,
+bloodlines, Tournament law,
+doctrine, security, history
+
+Runs the
+Tournament end to
+end (IV.4)
+
+—
+
+Legal limits
+against the
+Crown
+
+CANON
+
+CANON
+
+FTE › IV.3 POWER AND JURISDICTION · CONTINUES →
+
+IV.3 / 2 · 58
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.3 · POWER AND JURISDICTION
+
+CONTINUED
+SUPPORTINGSOURCE DETAIL
+
+AUTHORITY
+
+WHAT IT HOLDS (RULED)
+
+ON THE PAGE
+
+Military
+
+Not placed by TCD-041,
+which rules the layered
+sovereignty framework. The
+structure is
+
+High Command's
+orders go out under
+General Gareth
+Thorne's signature;
+Old Prosperity's
+army has "three
+heads and one
+spine: the Legion in
+the sky, the
+Vanguard on the
+ground, the En
+Guard at sea"
+
+Character Bible:
+Minho the
+youngest Captain
+ever to lead the En
+Guard
+
+Command
+relationship to
+the Crown
+
+Absent
+
+31–39: Regnants
+bet in their boxes
+at Challenge Six;
+Rovencia's
+Regnant calls the
+Sanctum "soft"
+
+Whether this is
+a real title
+
+CURRENT DRAFTED TEXT
+
+(next table)
+
+"Regnants"
+
+Not ruled
+
+OPEN
+
+OPEN
+
+Old Prosperity's command, as drafted. It matters because Challenge Six turns on it.
+DIVISION
+
+DOMAIN
+
+CAPTAIN AT FTE OPEN
+
+En Guard
+
+Sea
+
+Minho Augustine, who took it when Michelle
+Nicholas stepped down two months before ch.
+1
+
+Legion
+Vanguard
+
+Sky
+Ground
+
+Atlas Tolliver, transferred from the En Guard by
+Michelle's order
+Dax Tolliver
+
+SOURCE
+CURRENT DRAFTED TEXT (ch. 1,
+
+ch. 5)
+CURRENT DRAFTED TEXT (ch. 26
+
+conversation)
+CURRENT DRAFTED TEXT
+
+Michelle is "Lieutenant Michelle Nicholas, undefeated Captain of the En Guard" on her messhall banner. Her rank and her command title differ; the Beta uses both.
+
+FTE › IV.3 POWER AND JURISDICTION · CONTINUES →
+
+IV.3 / 3 · 59
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+IV.3 · POWER AND JURISDICTION
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+CONFLICT
+
+Who leads Zenithia?
+The Beta has Governor Anise. Welcome to Remnia has Countess Beatrice Montclair. The
+Character Bible makes Tiran heir to a Blackwood Dukedom of Zenithia. The Beta controls the onpage office; a duchy and a governorship can coexist under TCD-041's "titles vary", but no source
+says they do. Don't let Tiran exercise Zenithian authority until this is settled.
+CONFLICT
+
+London Town's royal house.
+Welcome to Remnia: King William and Queen Dalia Augustine. Character Bible: Crown Princess
+Dalia and Prince Consort David Augustine. FTE 31–39: Dalia is "the Queen of London Town." All
+three are Supporting. TCD-041's direct Crown control of London Town is canon, so whatever the
+Augustines are, they rule under it.
+
+FTE › IV.3 POWER AND JURISDICTION · CONTINUES →
+
+IV.3 / 4 · 60
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.3 · POWER AND JURISDICTION
+
+CONTINUED
+
+OPEN DEVELOPMENT · THE JURISDICTION MAP ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+The roster of authorities and their broad roles
+(TCD-041).
+
+Appointments, vetoes, prosecution authority,
+funding, military command relationships; who
+adjudicates a Crown–Sanctum dispute; the
+Augustines' constitutional position; whether
+"Regnant" exists.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+The forfeit is a jurisdiction scene. Maxim
+authorizes, the Sanctum accepts, the Crown
+watches its heir walk off a board (IV.20). Each
+of them has to be acting inside powers the
+reader can believe.
+
+Before the forfeit is drafted; Zenithia before
+Tiran's title does anything on-page.
+
+WORKING SPACE · THE JURISDICTION MAP
+
+SAFE TO DEFER
+SOURCE
+
+SEE ALSO
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DATE
+
+TCD-034, TCD-041, TCD-042; FTE Beta chs. 1, 2, 5, 7, 26; Welcome to Remnia; Character Bible;
+FTE 31–39 chs. 31, 33, 38. Record: Remnian Power + Jurisdiction Map.
+IV.4 The Sanctum · p.62
+
+IV.20 The Endgame: Forfeit and Command Authority · p.176
+VII.10 Continuity Translation Pages → FTE concordance · p.216
+
+FTE › IV.3 POWER AND JURISDICTION
+
+IV.3 / 5 · 61
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+INSTITUTION DOSSIER · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.4
+
+THE SANCTUM
+
+Dossier for the institution behind most FTE secrets.
+
+The Sanctum is the institution FTE is actually about. It regulates magic, bloodlines, Tournament
+law, doctrine, security, and historical control. CANON TCD-041. It runs the Tournament in public
+as a sacred tradition and a political reward, and in private uses it to classify, cultivate, control,
+exploit, monitor, suppress, or eliminate dangerous people.
+
+CANON TCD-034. It is the principal
+
+enforcer of Katherine's concealment and custodian of the records.
+
+CANON TCD-059.
+
+It also doesn't get to be the villain of everything. The rulings are careful: the Sanctum accepts
+and may exploit the London Town forfeit but doesn't cause it (TCD-042, TCD-052), and it didn't
+originate Katherine's erasure (TCD-059). An institution that frightening is more frightening
+when it's also bounded.
+What the Beta shows the Sanctum doing. (
+
+CURRENT DRAFTED TEXT)
+
+FUNCTION
+
+ON THE PAGE
+
+Membership
+
+Members are "chosen from the highest ranks of each province, then stripped of their
+identities"; officials wear black and gold, and gray robes at the Maze
+
+Selection
+
+Places Pieces at Delegation "by the power vested in the Sanctum"; runs full identity
+scans of candidates
+
+Ownership of
+Pieces
+
+Nico: "The moment you stepped off the Board at Delegation, you stopped belonging to
+Old Prosperity. You belong to the Tournament now. To the Sanctum."
+
+Surveillance
+
+The Houses' common areas are monitored around the clock, audio and visual; the
+Sanctum reviews all footage and broadcasts select clips
+
+Challenge
+design
+
+Builds Challenges from Piece performance data; fields non-human combatants and
+constructs in Challenge One
+
+Discipline
+
+Sanctum Protocol 17 (Melena and Cordelia's violation, chs. 8–9); Code Sixteen;
+probation for Jarom Fairchild and Olivia Rembrandt after the augmenter incident (ch.
+12)
+
+Presence
+
+Seventeen officials at the Maze; sixteen hand out blindfolds; the seventeenth is taller,
+with robes "shimmering faintly wrong" (ch. 22)
+
+Handlers
+
+Nico for Old Prosperity; Raven for London Town, who carries neutralizing cuffs and a
+suppressor rod
+
+FTE › IV.4 THE SANCTUM · CONTINUES →
+
+IV.4 / 1 · 62
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+IV.4 · THE SANCTUM
+
+CONTINUITY
+CONTINUED
+
+Code Sixteen, as the Beta quotes it: "No Piece shall wield, develop, or demonstrate a second
+elemental affinity beyond the one registered at birth, whether innate, enhanced, or artificially
+induced. Penalty: immediate removal from the Tournament and Imperial discipline." "Imperial
+law didn't bother splitting hairs. If a second element answered when you called, you were in
+violation."
+What the development chapters add. (
+
+SUPPORTED / PROVISIONAL · FTE 31–39) The Sanctum
+
+writes the Naming Ceremony scripts, which King Pieces "approve" and Queen Pieces read (ch.
+32). Elite mages administer Heart's Mirror. Pieces are isolated before Challenge Six. Ceiling
+cameras show a tally light that never truly goes off. A no-kill order is issued for Challenge Six,
+then a non-verbal yield is ruled invalid and a surrendering Piece dies (ch. 39).
+REVISION FLAG (DEVELOPMENT CHAPTERS)
+
+The penalty for a second element.
+FTE 31–39 ch. 38 says dualists have been illegal "since the Faction Wars" and that "the
+punishment for being a dualist was death." The Beta's Code Sixteen says removal from the
+Tournament and Imperial discipline. The Beta controls. "Imperial discipline" can be as dark as the
+book needs, but it has to be introduced as that, not as a death statute.
+THE SANCTUM IN EACH KNOWLEDGE LANE.
+LANE
+
+WHAT IT HOLDS
+
+Public version
+
+Custodian of a sacred tradition; broadcaster of the spectacle; neutral referee
+
+What the Pieces
+learn on-page
+
+They are owned, watched, scored, and edited for broadcast; rules can be enforced
+selectively
+
+Objective truth
+
+Also a covert classifier and eliminator of dangerous people (TCD-034); enforcer
+and record-keeper of Katherine's concealment (TCD-059)
+
+Open
+
+The seventeenth figure at the Maze; the Sanctum's internal factions; how much it
+knows about Katherine's magic before Challenge Six
+
+GUARDRAIL
+
+"The Sanctum knows" is never a complete sentence. Which office, which official, since when, and
+on what evidence? An institution this compartmentalized can hold a secret in one room and be
+ignorant of it in the next.
+
+FTE › IV.4 THE SANCTUM · CONTINUES →
+
+IV.4 / 2 · 63
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.4 · THE SANCTUM
+OPEN DEVELOPMENT · THE SANCTUM ·
+
+CONTINUED
+OPEN
+
+FIXED
+
+UNDECIDED
+
+Its domains and semi-autonomy (TCD-041);
+dual Tournament purpose (TCD-034);
+enforcement role in the concealment (TCD059); accepting, not causing, the forfeit (TCD042, TCD-052).
+
+Internal structure; the seventeenth official;
+what its Katherine file says; what it believes
+about Dyads versus what it records; its legal
+limits.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+Katherine's exposure (IV.10) and the sister
+reveal's verification stage (IV.13) both run
+through Sanctum records. The scenes need to
+know which office holds what.
+
+Before the verification stage of the sister
+reveal is drafted.
+
+WORKING SPACE · THE SANCTUM
+
+SAFE TO DEFER
+SOURCE
+
+SEE ALSO
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DATE
+
+TCD-034, TCD-041, TCD-042, TCD-052, TCD-059; FTE Beta chs. 8–9, 11–13, 15, 22; FTE 31–39
+chs. 32–39.
+II.15 Recurring Institutional Misreadings · p.45
+
+IV.7 The Challenges · p.72
+
+IV.12 Katherine's Concealment · p.150
+
+FTE › IV.4 THE SANCTUM
+
+IV.4 / 3 · 64
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+FACTION TABLE · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.5
+
+ELEMENTAL MAGIC
+
+Teach the system before Katherine's exception.
+
+Remnian magic is elemental, organized into factions, and registered at birth. It descends from
+the same primordial substrate as the other three lands' magic and is now its own system, with
+its own access, costs, and classifications.
+
+CANON TCD-035. Nothing in this section makes a
+
+Remnian element equivalent to a Somnorian or Underside practice (II.5).
+The seven factions. The roster and descriptions come from FTE Elemental Factions (
+SUPPORTED). The right-hand column is what the Beta actually shows.
+
+FACTION
+
+FACTIONS FILE:
+ABILITIES
+
+FACTIONS FILE:
+SOCIAL ROLE
+
+Frost
+
+Ice and water
+
+Flamer
+
+Terrain
+
+ON THE PAGE (BETA)
+
+PIECES
+
+Naval command,
+water
+management, burn
+healing
+
+Katherine's shields, ice
+bridges, air filtering; Frost
+weakened by jungle
+humidity and ambient heat
+(C1); marks on the wrist
+
+Katherine, Atlas,
+Houston (OP)
+
+Fire and energy
+
+Siege warfare,
+industry, energy
+supply
+
+Melena's volatile fire;
+Tiran's controlled fire and
+off-grid "patch" of old fire;
+Dax's flames
+
+Melena, Tiran (LT);
+Sebastian, Dax,
+Zephyr
+(registered, OP)
+
+Earth, stone, plant life
+
+Agriculture,
+fortification, heavy
+infantry
+
+Vine "alarm system" in the
+jungle; the Maze built to
+suppress Terrain
+
+Maxim,
+Seraphina, Luke
+(LT); Reign (OP)
+
+Espionage,
+diplomacy,
+performance
+
+Minho (little shown in chs.
+1–29)
+
+Minho (OP); Ellis
+(LT)
+
+Airborne forces,
+couriers, policing
+
+Blair, "the only Dawner on
+our team," valued for vision
+
+Blair (OP pawn)
+
+Scholars,
+archivists,
+advisors, priests
+
+Allison St. James (LT pawn)
+per 31–39; Elite mages run
+Heart's Mirror (31–39)
+
+Allison (LT)
+
+Blockers Shapeshifting and
+mimicry
+
+Dawners Strength, speed, often
+flight
+
+Elite
+
+Older arcane magic:
+teleportation,
+enchantment, time,
+forbidden spellcraft
+
+FTE › IV.5 ELEMENTAL MAGIC · CONTINUES →
+
+IV.5 / 1 · 65
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.5 · ELEMENTAL MAGIC
+
+FACTION
+
+Flight
+
+CONTINUED
+
+FACTIONS FILE:
+ABILITIES
+
+FACTIONS FILE:
+SOCIAL ROLE
+
+Technology and highspeed movement;
+magic integrated into
+devices
+
+Engineering,
+surveillance, data,
+airships
+
+ON THE PAGE (BETA)
+
+PIECES
+
+Astor; Justin Duran
+
+Astor (LT); Justin
+(OP)
+
+NOT THE SAME AS
+
+Dawners and Flight.
+In the Factions file, Dawners fly with their bodies and Flight flies with machines. Old Prosperity's
+Legion is "in the sky," but that doesn't make it a Dawner or Flight unit; Atlas is a Frost who
+commands it.
+
+One element, registered at birth. The Beta treats an elemental affinity as something
+recorded when you're born and marked on the wrist. Code Sixteen forbids a second one
+"whether innate, enhanced, or artificially induced" (IV.4). An augmenter, "concentrated
+elemental compound, smuggled in from black-market labs," forces a second element into
+someone's system "for a few brilliant, illegal minutes"; Olivia Rembrandt uses one in ch. 12.
+Raven's suppressor rod and neutralizing cuffs shut elements down, and Tiran counters with an
+off-grid "patch" of old fire. "Dyads were illegal." ( CURRENT DRAFTED TEXT, ch. 12)
+History the Factions file supplies. (
+
+SUPPORTED; every date awaits the rebuilt timeline, TCD-
+
+010)
+EVENT
+
+FACTIONS
+FILE DATE
+
+WHAT IT SAYS
+
+Frost–Flamer War (War of
+the Scorched Sea)
+
+108–113 ER
+
+Over naval control and energy; Flamers burn the Ice
+Sanctum in Alleia, "where the Frost primarily live"
+
+Treaty of the Scorched
+Sea
+
+114 ER
+
+Flamers lose naval control; Frost loses industrial power
+
+Treaty of Concord
+
+500 ER
+
+Elemental Court rules, "established after the first Chess
+Tournament"; naval command permanently Frost
+
+Council of Balances
+
+511 ER
+
+Nine-person oversight body; reviews Tournament rulings
+
+Province Limit Law
+
+514 ER
+
+At least two factions influence each province
+
+First Great Rebellion
+
+298–303 ER
+
+Coalition against the Elemental Court
+
+FTE › IV.5 ELEMENTAL MAGIC · CONTINUES →
+
+IV.5 / 2 · 66
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+IV.5 · ELEMENTAL MAGIC
+
+EVENT
+
+Modern scandals
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+FACTIONS
+FILE DATE
+
+WHAT IT SAYS
+
+2090–2095
+ER
+
+Rigged selection, a missing Queen candidate, the 2092
+"two survivors" Tournament
+
+CALENDAR FLAG
+
+These dates don't yet sit in one chronology. The Factions file puts the first Tournament before
+500 ER and this one in 2096 ER; the Placements file calls this the 49th; the Beta's Challenge Two
+dates an archive copy to "Year 847." Forty-nine Tournaments across that span isn't impossible, but
+nothing yet explains the interval. OPEN · TCD-010.
+GUARDRAIL
+
+Repeated names aren't connections.
+The Factions file's 2092 survivor is a Dawner named Zephyr Windrider. He is not Zephyr
+Augustine, and nothing connects them. The file's "The Veil" conspiracy has nothing to do with the
+Shattered Veil (II.13).
+
+FTE › IV.5 ELEMENTAL MAGIC · CONTINUES →
+
+IV.5 / 3 · 67
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.5 · ELEMENTAL MAGIC
+
+CONTINUED
+
+OPEN DEVELOPMENT · REMNIAN ELEMENTAL TAXONOMY ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+Shared substrate, distinct system (TCD-035);
+Code Sixteen and the augmenter as drafted;
+Katherine's and Zephyr's anatomies (IV.10).
+
+What "registered at birth" physically involves;
+how wrist marks appear; whether factions are
+purely magical or also social castes; the
+faction history's dates; whether Elite, Dawner,
+and Flight abilities on the page will match the
+Factions file.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+The Duel is fought element against element,
+and Katherine's exposure is an element that
+shouldn't exist. Both need rules the reader
+already trusts.
+
+Wrist-mark mechanics before Katherine's
+marks change on-page (IV.10).
+
+WORKING SPACE · REMNIAN ELEMENTAL TAXONOMY
+
+SAFE TO DEFER
+SOURCE
+
+SEE ALSO
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DATE
+
+TCD-010, TCD-035; FTE Beta chs. 12, 15–17, 22; FTE Elemental Factions; 49th Placements; FTE
+31–39 chs. 31, 33.
+II.5 Shared Magical Ancestry · p.32
+
+II.6 Crossblood: A Label, Not a Biology · p.35
+IV.10 Katherine's Elemental Anatomy · p.83
+
+FTE › IV.5 ELEMENTAL MAGIC
+
+IV.5 / 4 · 68
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+SYSTEM EXPLAINER · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+THE TOURNAMENT: STRUCTURE
+AND PURPOSE
+
+IV.6
+
+Explain both faces of the Tournament.
+
+The Chess Tournament pits two provinces against each other with living Pieces on a
+chessboard's positions. This year it's Old Prosperity against London Town. The Empress's
+opening letter sets the public terms: thirty-two Pieces, "sixteen from each province, eight men
+and eight women"; the goal is to "capture the opposing King. Achieve Checkmate. Win."; and "to
+the victor, I offer a seat on the Provincial Leadership Board — a year of power, a year of favor, a
+year to reshape your province's future." (
+
+CURRENT DRAFTED TEXT, front matter)
+
+That's the public half. The private half is canon too: the Sanctum uses selection, assignments,
+challenges, stress, injuries, alliances, and survival to classify, cultivate, control, exploit, monitor,
+suppress, or eliminate dangerous people.
+
+CANON TCD-034. Neither half cancels the other. The
+
+Board seat is real, and so is the cull.
+The Tournament is designed around seven Challenges, and reaching the Seventh isn't
+guaranteed. Attrition, Checkmate, disqualification, intervention, or another decisive outcome
+can end it early. In the current FTE, the Sanctum declares Challenge Six decisive and
+terminates the Tournament.
+
+CANON TCD-007
+
+REVISION FLAG (FTE BETA)
+
+"Six challenges."
+The Empress's letter calls the Tournament "survival distilled into six challenges." TCD-007 makes
+the design seven, with the Sixth ending this one. The letter's wording needs revising to fit the
+ruling. It doesn't compete with it.
+HOW IT RUNS, AS DRAFTED.
+STAGE
+
+ON THE PAGE
+
+Candidacy
+
+Twenty is within the "Tournament candidate range"; High Command's order to Katherine
+arrives under General Gareth Thorne's signature
+
+Delegation
+
+Candidates are assessed, then placed on the Board at a ceremony "by the power vested in
+the Sanctum"; Delegation members are exempt from the identity scan
+
+FTE › IV.6 THE TOURNAMENT: STRUCTURE AND PURPOSE · CONTINUES →
+
+IV.6 / 1 · 69
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+IV.6 · THE TOURNAMENT: STRUCTURE AND PURPOSE
+
+CONTINUED
+
+STAGE
+
+ON THE PAGE
+
+Houses
+
+Each province lives in a Havenwood House under a handler; common areas are filmed
+around the clock
+
+Welcome
+Feast
+
+Seventeen tables; the first time Katherine and Melena share a room
+
+Challenges
+
+Designed by the Sanctum; briefed by handlers; broadcast
+
+No-kill order
+
+"You are not to intentionally kill another Piece" (Nico, before the Maze; Katherine invokes a
+"no killing rule" in Challenge One). Environments and constructs still kill
+
+The Board. Backline positions from the 49th Chess Tournament Placements (
+
+SUPPORTED,
+
+current roster). Elements are as registered.
+POSITION
+
+LONDON TOWN
+
+OLD PROSPERITY
+
+Queen's Rook
+
+Astor (Flight)
+
+Reign Woods (Terrain)
+
+Queen's Knight
+
+Seraphina (Terrain)
+
+Zephyr Augustine (Flamer)
+
+Queen's Bishop
+
+Tiran Blackwood (Flamer)
+
+Atlas Tolliver (Frost)
+
+Queen
+
+Melena Lockwood (Flamer)
+
+Katherine Nicholas (Frost)
+
+King
+
+Maxim Augustine (Terrain)
+
+Minho Augustine (Blocker)
+
+King's Bishop
+
+Luke (Terrain)
+
+Sebastian Augustine (Flamer)
+
+King's Knight
+
+Viv (replacing Jarom Fairchild, suspended)
+
+Dax Tolliver (Flamer)
+
+King's Rook
+
+Ellis Vale (Blocker)
+
+Houston Maddison (Frost)
+
+Pawns, London Town: Allison St. James, Volt Aran, Ivy Lennox, Cael Navarro, Sine Cauldren, Leo
+Keene, Jin Voss, Alexei Rhae (Olivia Rembrandt removed before Challenge One). Pawns, Old
+Prosperity: Tegan Morrows, Griffin Hale, Noah Everhart, Beckett Rhodes, Kamal Voss, Nova
+Chen, Justin Duran (Flight), Blair Faelan (Dawner).
+Four Augustine brothers are on the Board, split across the two sides: Maxim is London Town's
+King, while Minho is Old Prosperity's King and Sebastian and Zephyr play beside him. The Beta
+makes the split hurt in the Maze, which is built to suppress Terrain, and Maxim is a Terrain.
+
+FTE › IV.6 THE TOURNAMENT: STRUCTURE AND PURPOSE · CONTINUES →
+
+IV.6 / 2 · 70
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+IV.6 · THE TOURNAMENT: STRUCTURE AND PURPOSE
+
+CONTINUITY
+CONTINUED
+
+SUPERSEDED
+
+Welcome to Remnia's eight selections per province and its Dax-as-Rook are superseded by the
+Beta's sixteen and the Placements file's King's Knight. The Character Bible's "Elias was supposed
+to be the King" belongs to an older generation; Maxim is King.
+NAMING FLAG
+
+FTE 31–39's Naming Ceremony calls two London Town pawns "Sine Cauldiste" and "Jin Wang"; the
+Placements file has Sine Cauldren and Jin Voss. It also gives Ivy Lennox two ages (twenty and
+eighteen) and two younger siblings. Copyedit when the chapters are rewritten.
+
+Why it matters. Every Tournament scene is performing for three audiences at once: the crowd,
+the provinces' politicians, and the Sanctum's evaluators. A Piece can win the broadcast and lose
+the evaluation. Katherine's exposure is exactly that kind of event.
+TCD-007, TCD-034; FTE Beta front matter, chs. 1, 8–9, 11, 13, 15, 21–22; 49th Chess Tournament
+Placements; Welcome to Remnia; Character Bible; FTE 31–39 ch. 31.
+
+SOURCE
+
+SEE ALSO
+
+IV.7 The Challenges · p.72
+
+IV.8 Conqueror Rules · p.77
+
+IV.20 The Endgame: Forfeit and Command Authority · p.176
+
+NOTES · IV.6
+
+FTE › IV.6 THE TOURNAMENT: STRUCTURE AND PURPOSE
+
+IV.6 / 3 · 71
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+CHALLENGE TABLE · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.7
+
+THE CHALLENGES
+Current challenge architecture.
+
+The Beta drafts Challenges One through Three and opens Four. Chapter 29.docx closes Four;
+FTE 31–39 drafts Five and opens Six. The Challenges FTE Year plans all six. Each Challenge
+below carries its own status, because they sit at three different levels of authority.
+#
+
+NAME
+
+FORMAT
+
+1
+
+War
+Simulation
+(plan)
+
+Live tactical exercise;
+terrain rotates jungle
+→ volcanic → tundra;
+Sanctum constructs;
+command nodes
+claimed by "a
+minimum of four
+active Pieces plus a
+King or Queen"
+
+2 Empirical
+
+Document
+authentication:
+choose the authentic
+primary source
+
+History
+(plan)
+
+3 The Maze
+
+4 The
+
+Conduit
+Trials
+(working
+title)
+
+Entered blindfolded by
+shadow travel; multilevel, disorienting;
+hostile to Terrain
+
+Four pillars; bondedpair synchronization;
+runes in white and
+black
+
+DRAFTING STATE
+CURRENT DRAFTED TEXT
+
+RESULT
+
+Old Prosperity
+
+None
+identified in
+this read
+
+Old Prosperity;
+London Town
+penalized
+
+—
+
+(chs. 15–18)
+
+CURRENT DRAFTED TEXT
+
+(chs. 19–20)
+
+CURRENT DRAFTED TEXT
+
+OPEN not
+
+(chs. 21–24)
+
+confirmed in
+this read; the
+plan has Old
+Prosperity lose
+three pawns and
+London Town
+four
+
+Briefing and opening
+
+London Town,
+which "secures
+their second
+conduit" (Ch. 29;
+confirmed by
+31–39)
+
+CURRENT DRAFTED TEXT
+
+(ch. 28); close SUPPORTED ·
+rewrite required (Chapter
+29.docx)
+
+FTE › IV.7 THE CHALLENGES · CONTINUES →
+
+DEATHS ON
+RECORD
+
+Beckett
+Rhodes
+(OP), Ivy
+Lennox (LT)
+
+By its end,
+per 31–39,
+all sixteen
+pawns are
+dead: eight
+named for
+each
+province
+
+IV.7 / 1 · 72
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.7 · THE CHALLENGES
+
+#
+
+NAME
+
+FORMAT
+
+5 Heart's
+
+Elite mages; a mask;
+the Piece relives what
+the Mirror finds;
+elements don't work;
+groups separated by
+gender
+
+6 The Duel
+
+Mirrored Pieces in
+single combat on
+sixteen isolated
+platforms; victory by
+yield, incapacitation,
+or death; lower Pieces
+first
+
+7 —
+
+Never held
+
+Mirror
+
+CONTINUED
+
+DRAFTING STATE
+
+RESULT
+
+SUPPORTED · rewrite
+
+DEATHS ON
+RECORD
+
+"Completed"; no
+winner stated
+
+None stated
+
+Opening bout SUPPORTED ·
+rewrite required (31–39 ch.
+39)
+
+Decisive by
+Sanctum
+declaration;
+London Town
+forfeits CANON
+TCD-007, TCD009
+
+Ellis Vale
+(LT), killed
+by Houston
+after a nonverbal yield
+is refused
+(31–39)
+
+—
+
+—
+
+—
+
+required (31–39 chs. 33–36)
+
+Two challenges down, two wins: that's where Old Prosperity stands in ch. 21 as the Maze begins.
+(
+
+CURRENT DRAFTED TEXT)
+
+Challenge Two carries a cross-book event. One document is "The Breathbound Law, as
+recorded in the Imperial Archives, Year 847." The other is older, unmarked, with no seal and no
+cited year, and it carries lines from Somnoria's Dreamwalker's Writ: "Time is a spiral, not a line";
+"The script was written, not the death"; "What sings in blood does not decide." Katherine notices
+it "felt related to the Breathbound Law," briefly suspects a draft from before "the Empire picked
+the lines it liked best," and dismisses the thought: "Conspiracy theories didn't win challenges."
+Old Prosperity wins by choosing the Breathbound Law. (
+
+CURRENT DRAFTED TEXT, ch. 19)
+
+That makes ch. 19 the first on-page moment where anyone holds two national descendants of
+the Shattered Veil side by side (II.13). The Companion reads what it shows and no more:
+LANE
+
+WHAT CH. 19 ESTABLISHES
+
+Character
+knowledge
+
+Katherine registers resemblance and a possible editorial history, then rejects it.
+She doesn't know the second text is Somnorian.
+
+Institutional / public
+version
+
+The Imperial record is the authentic one by every official test. The Sanctum's
+archive can produce the Writ-bearing text on demand.
+
+FTE › IV.7 THE CHALLENGES · CONTINUES →
+
+IV.7 / 2 · 73
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+IV.7 · THE CHALLENGES
+
+CONTINUITY
+CONTINUED
+
+LANE
+
+WHAT CH. 19 ESTABLISHES
+
+Objective truth
+
+Both are divergent descendants of one master (TCD-047). Neither is untouched.
+
+Open
+
+Why the Sanctum's archive holds a Writ-bearing text; who selected it for a
+Tournament challenge; whether anyone else in the room noticed
+
+SUPERSEDED
+
+The Challenges FTE Year plans Challenge Two around Orlin Vasquez documents with London
+Town winning. The Beta's Breathbound/Writ challenge and Old Prosperity's win control.
+
+Challenge Four and the pair mechanic. Nico's briefing sets four pillars and bonded pairs who
+must synchronize; by the end of ch. 28, Atlas's black veins have spread to his cheekbones.
+That's the ruled origin of his injury (IV.16). Chapter 29.docx has Katherine perform the Elders'
+Prayer to stop it, at the cost of the conduit (IV.17). 31–39 then treats the Katherine–Atlas link as
+a fading "tether" with echoes of Dax. The plan names three pair roles (Anchor, Channel, Solve)
+with penalties; the Beta hasn't drafted them yet.
+OPEN
+
+Challenge Four's final canon name. "The Conduit Trials" is a working title.
+008
+
+OPEN
+
+TCD-
+
+Challenge Five as the development chapters draft it. Melena relives Ivy's four minutes and
+thirty-seven seconds of dying, a confrontation with her father Tobias, and repeated scenarios in
+which she chooses "power over people," ending with Elias falling while she stands at the throne.
+Katherine relives falling through lake ice at ten with her friend Mara Kingston, then a MirrorAtlas who beats her and strips her Frost until she shouts "I can wield fire." ( SUPPORTED · rewrite
+required) Under the 2026-09-26 author ruling, Katherine's half survives only as foreshadowing.
+Nothing she experiences inside the Mirror is automatically a recovered memory, and she leaves
+it still Frost-dominant (IV.10).
+
+FTE › IV.7 THE CHALLENGES · CONTINUES →
+
+IV.7 / 3 · 74
+
+SPINE
+
+3SL
+
+FTE
+
+IV.7 · THE CHALLENGES
+
+ADST
+
+TSWK
+
+CONTINUITY
+CONTINUED
+
+Challenge Six as the development chapters draft it. The Sanctum announces mirrored
+single combat: "Victory is determined by yield, incapacitation, or death." Cordelia reports a
+Sanctum no-kill order and a crowd chanting for blood. In the first bout, Houston freezes Ellis's
+throat; Ellis signals surrender with an open palm; the Sanctum rules that "verbal confirmation is
+required"; the crowd chants FINISH; Houston kills him. ( SUPPORTED · rewrite required) Before
+the bouts, Minho names Corporal Katherine his successor for the En Guard and Atlas names
+her for the Legion, and she refuses the premise. That scene sits directly on the commandauthority rules in IV.20.
+SUPERSEDED
+
+The plan's Duel ending (Melena realizes the sisterhood mid-fight, burns away Katherine's
+emblems, Katherine performs the Prayer on Melena, Tiran finds Melena and the forfeit follows)
+conflicts with the staged reveal (TCD-050) and the command-authorized forfeit (TCD-042, TCD052). Its Frost-severance beat is compatible with TCD-058 and is a live candidate for the climax
+POSSIBLE.
+
+FTE › IV.7 THE CHALLENGES · CONTINUES →
+
+IV.7 / 4 · 75
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.7 · THE CHALLENGES
+
+CONTINUED
+
+OPEN DEVELOPMENT · THE CHALLENGES ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+Seven-stage design; Six decisive (TCD-007);
+Four's concept (TCD-008); Old Prosperity's
+wins in One and Two; the drafted deaths in the
+Maze.
+
+Challenge Three's result; Four's name and full
+rules; whether Five produces a winner; Six's
+bout order and the Sanctum's real kill policy;
+what Challenge Seven would have been.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+The forfeit only means something if the reader
+can feel what continuing to Challenge Seven
+would cost (TCD-042).
+
+Six's rules before the Duel is drafted; Seven's
+shape before Melena's choice is drafted,
+because she is choosing against it.
+
+WORKING SPACE · THE CHALLENGES
+
+SAFE TO DEFER
+SOURCE
+
+SEE ALSO
+
+DECIDE BY
+
+DECIDED
+
+LOG
+
+DATE
+
+TCD-007, TCD-008, TCD-009, TCD-042, TCD-047, TCD-050, TCD-051, TCD-052, TCD-058; FTE
+Beta chs. 15–24, 28; Chapter 29.docx; FTE 31–39 chs. 31–39; The Challenges FTE Year.
+II.13 The Shattered Veil and Its Descendants · p.37
+
+IV.16 Atlas: The Synchronization Injury · p.163
+
+IV.17 The Elders' Prayer in FTE · p.166
+
+IV.20 The Endgame: Forfeit and Command Authority · p.176
+
+FTE › IV.7 THE CHALLENGES
+
+IV.7 / 5 · 76
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+RULES TABLE · PART IV · FOR THEIR ENTERTAINMENT / REMNIA
+
+IV.8
+
+CONQUEROR RULES
+Define the title correctly.
+
+The Conqueror isn't the King, and isn't whoever lands the last hit. The Conqueror is the
+surviving Piece whose decisive sanctioned action earns victory, and that Piece holds the
+winning province's Provincial Leadership Board seat for the next year. CANON TCD-034. Under
+a forfeit, the Conqueror is the surviving Piece whose final sanctioned action or matchup directly
+produces the decisive state that causes the forfeit.
+Katherine Nicholas is this Tournament's Conqueror.
+
+CANON TCD-034. Atlas and Tiran's
+
+confrontation is officially a draw by intervention; Katherine and Melena produce the decisive
+sequence.
+SITUATION
+
+WHO IS CONQUEROR
+
+Ordinary Checkmate
+
+The surviving Piece whose decisive sanctioned
+action earns it; not automatically the King
+
+STATUS
+CANON TCD-034; the
+
+precise Checkmate
+definition OPEN
+CANON TCD-034
+
+Forfeit
+
+The surviving Piece whose final sanctioned action
+or matchup directly produces the decisive state
+
+This Tournament
+
+Katherine, because her sanctioned action against or
+for Melena prevents catastrophe, saves or stabilizes
+Melena, and creates the decisive state
+
+The last physical
+attack before an
+intervention
+
+Doesn't decide it; Atlas doesn't win by landing it
+
+CANON TCD-034
+
+The Conqueror is dead
+or incapacitated
+
+Not ruled
+
+OPEN
+
+CANON TCD-034, TCD-
+
+042
+
+The Beta's own words fit the ruling: Old Prosperity's mess hall hangs banners "embroidered with
+the names of the Conquerors who had led Old Prosperity to glory," and Part Three of the Beta is
+titled THE CONQUEROR. Michelle Nicholas "secured one of Old Prosperity's greatest
+Tournament victories"; whether she was its Conqueror isn't stated.
+
+FTE › IV.8 CONQUEROR RULES · CONTINUES →
+
+IV.8 / 1 · 77
+
+SPINE
+
+3SL
+
+ADST
+
+FTE
+
+TSWK
+
+CONTINUITY
+
+IV.8 · CONQUEROR RULES
+
+CONTINUED
+
+GUARDRAIL
+
+The Empress's letter says the goal is to capture the King. That's the public rule, and the Beta
+should keep saying it. It isn't how this Tournament ends, and the Conqueror rule already covers
+why.
+POSSIBLE PRECEDENT POSSIBLE
+
+The Factions file describes a 2092 ER Tournament whose last two survivors forfeited rather than
+accept victory, and an Empire that covered it up. If recovered, it would give the London Town
+forfeit an institutional memory. It isn't canon, and its survivor Zephyr Windrider has nothing to do
+with Zephyr Augustine.
+OPEN DEVELOPMENT · CONQUEROR BYLAWS ·
+
+OPEN
+
+FIXED
+
+UNDECIDED
+
+Definition; forfeit rule; Katherine as Conqueror;
+the Atlas–Tiran draw (TCD-034).
+
+Checkmate and "final move" definitions;
+deliberate setups; death, incapacity, proxy, and
+succession; the title's effect on rank; the Board
+seat's actual powers; what the winning
+province gains.
+
+WHY IT MATTERS
+
+DECIDE BY
+
+A Corporal on the Leadership Board is a
+political earthquake. What the seat can do
+decides what Katherine's victory costs
+everyone else.
+
+Katherine's exact sanctioned action before the
+climax; Board powers before the aftermath.
+
+WORKING SPACE · CONQUEROR BYLAWS
+
+SAFE TO DEFER
+
+DECIDE BY
+
+FTE › IV.8 CONQUEROR RULES · CONTINUES →
+
+DECIDED
+
+LOG
+
+DATE
+
+IV.8 / 2 · 78
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+IV.8 · CONQUEROR RULES
+
+CONTINUITY
+CONTINUED
+
+TCD-034, TCD-042; FTE Beta front matter, ch. 1, Part Three heading; FTE Elemental Factions.
+Record: Conqueror Rules + Political Reward.
+
+SOURCE
+
+SEE ALSO
+
+TSWK
+
+IV.6 The Tournament: Structure and Purpose · p.69
+
+IV.20 The Endgame: Forfeit and Command Authority · p.176
+IV.24 FTE Endgame Packet · p.187
+
+NOTES · IV.8
+
+FTE › IV.8 CONQUEROR RULES
+
+IV.8 / 3 · 79
+
+

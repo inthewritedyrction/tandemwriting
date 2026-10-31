@@ -1,0 +1,3807 @@
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CONCORDANCE · CONTINUITY ROOM · FTE SLICE
+
+VII·FTE
+
+CONTINUITY ROOM: FTE
+CONCORDANCE
+Where this volume carries the FTE information behind each
+Continuity Room and 3SL pointer.
+
+The full Companion’s Continuity Room (Part VII) and the 3SL dossier (Part III) aren’t printed in
+this volume. Every page here that points into them resolves to this table. The middle column is
+the Production Master’s description of the full section; the right column names where the FTE
+information already sits in these pages.
+FULL COMPANION
+SECTION
+
+WHAT IT HOLDS (PRODUCTION MASTER)
+
+FTE INFORMATION IN THIS VOLUME
+
+VII.1
+
+One grid: Relative point | 3SL | FTE
+
+Master Synchronization
+Timeline
+
+| ADST | TSWK | Next Shadowmere |
+
+FTE row of the four-band table
+(II.16); plot state (IV.21); the dated
+succession history in the lineage
+record, lane C; the FTE bands
+tracker on the following page.
+
+Later books | Cross-land
+consequence | Who knows; four bands
+
+per book (Background Activation,
+Narrative Opening, Climax, Resolution);
+the two-year interval; Elias's double-life
+span; ADST T0.
+
+II.16 · p.47
+IV.21 · p.179
+IV.11 · p.102
+
+VII.2
+
+Event Chronology vs
+Information Chronology
+
+Information-delay record Event |
+
+delay | Recipient | Version
+
+Caelum’s exchanges as crossbook transfers (IV.15); the
+knowledge ledger (IV.22); crossbook connections (IV.23).
+
+received | When they act. Worked
+
+IV.15 · p.160
+
+Witness | First record |
+Route/communication path | Travel
+
+row: Elias's missed return.
+
+IV.22 · p.181
+IV.23 · p.184
+
+CONTINUITY › FTE CONCORDANCE · CONTINUES →
+
+CR / 1 · 216
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY ROOM · FTE CONCORDANCE
+FULL COMPANION
+SECTION
+
+VII.5
+
+Cross-Land Knowledge
+Matrix
+
+Repeated Working and
+Ritual Registry
+
+VII.8
+
+Shattered Veil
+Reconstruction
+Workspace
+
+VII.10
+
+Continuity Translation
+Pages
+
+CONTINUED
+
+WHAT IT HOLDS (PRODUCTION MASTER)
+
+FTE INFORMATION IN THIS VOLUME
+
+Nation | Class | Institution |
+Network | Character | Time | Knows
+
+The knowledge levels (II.4); FTE’s
+dated seed ledger (IV.22); the FTE
+knowledge tracker in this section.
+
+| Believes | Hidden | Status against
+
+the six knowledge levels. Priority actors:
+Silas, Isola, Melena, Remy, Tiran;
+Katherine, Atlas, Maxim, Michelle, Tobias,
+Sanctum; Reverie, Cassius, Caelum,
+Elias/Thorne, House Aether, High Council;
+Azrine, Levi, Tavian, Jori, House Dren,
+Skyhold.
+VII.7
+
+CONTINUITY
+
+II.4 · p.29
+
+IV.22 · p.181
+
+The Elders' Prayer: objective function,
+cultural forms, Selah's and Katherine's
+performances, activation conditions, death
+threshold, what it can't do, no direct
+transfer.
+
+The Elders’ Prayer can/can’t frame
+(II.14); the FTE candidate checked
+against the rulings (IV.17).
+
+Master-to-variant claim comparison; four
+provenance chains; evidence ledger;
+reconstruction thresholds; exact-text vs
+historical-truth columns; who could
+reconstruct what.
+
+The Shattered Veil and its
+descendant texts (II.13); Challenge
+Two and the Breathbound Law on
+the page (IV.7).
+
+Objective event | First-book
+depiction | Later memory |
+
+Remy’s death as Melena
+remembers it (IV.14); Katherine’s
+lineage: truth versus Crown,
+Sanctum and public records (IV.12
+and the lineage record).
+
+Institutional/public version |
+Reader knowledge | Contradiction
+risk. Priority pages: Remy's death (3SL vs
+
+Melena's FTE memory); Elias missing vs
+Thorne deteriorating; Katherine's lineage
+(truth vs Crown/Sanctum/public records);
+House Dren Anchor history vs official
+mythology.
+
+CONTINUITY › FTE CONCORDANCE · CONTINUES →
+
+II.14 · p.42
+IV.17 · p.166
+
+II.13 · p.37
+
+IV.7 · p.72
+
+IV.14 · p.157
+IV.12 · p.150
+IV.11 · p.102
+
+CR / 2 · 217
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY ROOM · FTE CONCORDANCE
+FULL COMPANION
+SECTION
+
+VII.12
+
+Open Canon Queue
+
+CONTINUITY
+CONTINUED
+
+WHAT IT HOLDS (PRODUCTION MASTER)
+
+FTE INFORMATION IN THIS VOLUME
+
+Every open item sorted into: blocks
+current drafting · needed before a climax ·
+needed before a later book · Companiononly clarification · research-required · safe
+to defer.
+
+Every open FTE item (IV.25) and
+its working pages; the lineage
+decisions (lineage record, lane D);
+the IV.10 your-pages carry their
+own open items.
+IV.25 · p.190
+IV.25 · p.193
+IV.11 · p.102
+
+Part VII
+
+Part VII — the Continuity Room.
+
+This concordance stands in for
+Part VII in this volume.
+
+III.3
+
+Nine tiers descending off Zenithia's side
+of Remnia; Crownlight and Dawnveil as
+surface-level tiers; Ironcross as the fully
+subterranean threshold; lower tiers deeper
+still; "Underside" as the name of a
+descent-organized civilization; Halflight
+and other tiers as established in
+worldbuilding.
+
+What FTE needs from the
+Underside’s geography:
+Shadowmere on Remnia’s
+Zenithia side (IV.2 places table;
+II.2).
+
+Remy, Rhea, Jude, Asha, Micah, Selah,
+Tiran, and others as drafted; the gang
+leader as the climax antagonist.
+
+Tiran and Maven as FTE carries
+them (IV.18; IV.14).
+
+The Underside: A
+Vertical Nation
+
+III.13
+
+Supporting Cast
+
+IV.2 · p.54
+
+II.2 · p.27
+
+IV.18 · p.169
+IV.14 · p.157
+
+III.14
+
+Melena and Remy in
+Shadowmere
+
+Melena's hidden identity; Remy's
+grounding role; their attachment; her Fire
+instability; what 3SL gives FTE.
+
+Melena’s two years in
+Shadowmere as FTE inherits them
+(IV.14); Caelum’s report of Tiran
+and Maven (IV.15).
+IV.14 · p.157
+IV.15 · p.160
+
+CONTINUITY › FTE CONCORDANCE · CONTINUES →
+
+CR / 3 · 218
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY ROOM · FTE CONCORDANCE
+FULL COMPANION
+SECTION
+
+III.15
+
+Remy's Death: Beat
+Sheet and Memory
+Translation
+
+III.16
+
+Selah and the Elders'
+Prayer in 3SL
+
+CONTINUITY
+CONTINUED
+
+WHAT IT HOLDS (PRODUCTION MASTER)
+
+FTE INFORMATION IN THIS VOLUME
+
+Fixed beats: Melena's Fire escalates;
+Remy deliberately intervenes to protect
+her; the gang leader mortally wounds him;
+she tries and fails to stop the bleeding; he
+dies; her Fire goes catastrophic;
+blaze/collapse (not the fatal mechanism);
+Tiran's cleanup. Beta's machete/majorartery detail as compatible candidate only.
+Second lane: what Melena remembers in
+FTE.
+
+The Remy memory in FTE, and the
+ruled objective event it must stay
+compatible with (IV.14).
+
+Selah's performance for Silas and Isola;
+Silas's returning breath/pulse as recovery,
+not resurrection; Isola's leg remaining
+ruined.
+
+Selah’s performance as the
+Prayer’s other, independent
+instance (II.14; IV.17).
+
+IV.14 · p.157
+
+II.14 · p.42
+IV.17 · p.166
+
+III.18
+
+Handoff into FTE and the
+Next Shadowmere Book
+
+III.20
+
+3SL Open Development
+
+Melena's state entering FTE; Tiran's
+aftermath function; Silas and Isola's
+separate immediate paths; the two-year
+interval; the next Shadowmere installment
+in the rolling window.
+
+Melena’s state entering FTE and
+the two-year interval (IV.14; II.16).
+
+Remy-death specifics; romance specifics;
+tier depths; crossing placement; next
+Shadowmere book.
+
+3SL open items that touch FTE:
+Melena’s eye colour (lineage
+record, LC-01); Remy-death
+specifics (IV.14).
+
+IV.14 · p.157
+II.16 · p.47
+
+IV.11 · p.102
+IV.14 · p.157
+Part III
+
+Part III — the 3SL dossier.
+
+CONTINUITY › FTE CONCORDANCE · CONTINUES →
+
+Part III isn’t printed in this
+volume; this concordance names
+where FTE carries what it needs
+from 3SL.
+
+CR / 4 · 219
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CONTINUITY ROOM · FTE CONCORDANCE
+
+CONTINUED
+
+VII.1 · FTE BANDS · RECORD: TANDEM MASTER SYNCHRONIZATION TIMELINE
+
+II.16 · P.47
+
+FTE and ADST rows reproduced from II.16 (the two books run concurrently). The working
+columns take dates and anchors as drafting fixes them.
+BOOK
+
+BAND
+
+AS RULED / OPEN (II.16)
+
+ADST
+
+Background
+activation
+
+Elias's years-long double life as Thorne;
+the organization's compromise of his
+research and dream functioning (TCD032, TCD-062)
+
+ADST
+
+Narrative
+opening
+
+When Elias goes missing (TCD-013)
+
+ADST
+
+Climax
+
+The Nightmare organization's attempted
+Network rupture; the first established
+Convergence threshold, T0 (TCD-056,
+TCD-060)
+
+ADST
+
+Resolution
+
+Around the same time as FTE's (TCD013)
+
+FTE
+
+Background
+activation
+
+OPEN beyond the 3SL aftermath and
+
+the Elias clock
+
+FTE
+
+Narrative
+opening
+
+A couple of weeks after ADST opens
+(TCD-013)
+
+FTE
+
+Climax
+
+Challenge Six; the London Town forfeit
+(TCD-034, TCD-042, TCD-052)
+
+FTE
+
+Resolution
+
+Around the same time as ADST's (TCD013)
+
+CONTINUITY › FTE CONCORDANCE · CONTINUES →
+
+WORKING DATE · ANCHOR ·
+CH.
+
+CR / 5 · 220
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CONTINUITY ROOM · FTE CONCORDANCE
+
+CONTINUED
+
+VII.5 · FTE KNOWLEDGE SEED · RECORD: KNOWLEDGE OF THE OTHER LANDS MATRIX
+IV.22 · P.181
+
+FTE rows reproduced from IV.22. Every row is dated to where it’s shown; blank rows extend the
+matrix as drafting adds knowledge.
+WHO
+
+WHEN
+
+KNOWS OR BELIEVES
+
+LANE
+
+Melena
+
+Ch. 2,
+before
+Caelum
+
+"There's nothing outside
+of Remnia anymore"
+
+Character belief
+
+CURRENT DRAFTED TEXT
+
+Melena
+
+Ch. 2,
+after
+Caelum
+
+Somnoria exists; Elias
+lives there as Thorne; the
+borders are closed but
+crossable
+
+Character
+knowledge:
+existence, route
+(claimed)
+
+CURRENT DRAFTED TEXT
+
+Katherine
+
+Ch. 13
+
+Michelle's caution looks
+like a fence
+
+Character
+knowledge
+(suspicion of her
+own life)
+
+CURRENT DRAFTED TEXT
+
+Melena
+
+Ch. 18
+
+Zephyr has two elements;
+tells Raven she saw
+nothing
+
+Character
+knowledge;
+deliberately
+withheld
+
+CURRENT DRAFTED TEXT
+
+Katherine
+
+Ch. 17
+
+Has seen Zephyr's two
+elements
+
+Character
+knowledge
+
+CURRENT DRAFTED TEXT
+
+Katherine
+
+Ch. 19
+
+The unmarked text
+resembles the
+Breathbound Law; she
+dismisses the thought
+
+Character
+knowledge, then
+chosen belief
+
+CURRENT DRAFTED TEXT
+
+London Town
+and Old
+Prosperity
+Pieces
+
+Ch. 11–13
+
+They're filmed, owned,
+and edited for broadcast
+
+Character
+knowledge
+
+CURRENT DRAFTED TEXT
+
+Sebastian
+
+Before
+FTE
+
+Zephyr is a Dyad
+
+Character
+knowledge
+
+SUPPORTED (31–39)
+
+CONTINUITY › FTE CONCORDANCE · CONTINUES →
+
+STATUS
+
+CR / 6 · 221
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+CONTINUITY ROOM · FTE CONCORDANCE
+
+CONTINUED
+
+WHO
+
+WHEN
+
+KNOWS OR BELIEVES
+
+LANE
+
+Cordelia
+
+Ch. 38 of
+31–39
+
+Elias "vanished into a
+foreign country"; a sealed
+file on his "illness"
+
+Character
+knowledge?
+belief?
+
+SUPPORTED; see flag
+
+The Remnian
+public
+
+Any point
+
+Whether Somnoria is
+known at all
+
+Institutional /
+public
+
+OPEN
+
+The Remnian
+public
+
+Chapter
+29.docx
+
+The Prayer is "an ancient
+Frost binding ritual"
+
+Institutional /
+public
+
+SUPPORTED
+
+CONTINUITY › FTE CONCORDANCE
+
+STATUS
+
+CR / 7 · 222
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX · STATUS & PROVENANCE SHEET
+
+CANON DECISION LOG: FTE SLICE
+
+A
+
+Every author ruling this volume cites, reproduced from the audit’s
+Canon Decision Log.
+
+60 rulings are cited in this volume. Each row is reproduced from the Tandem Source Authority
+Audit — Working Record (Sep 26, 2026). Rulings this volume doesn’t cite appear in the full
+Companion’s Appendix A.
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-001
+
+Controlling FTE
+manuscript
+generation
+
+Beta is the controlling prose generation.
+Chapters 31–39 are usable newdevelopment material, but all content
+outside the Beta must be
+rewritten/integrated before it becomes
+canon.
+
+SUPERSEDES FTE 2025 FINAL
+
+Manuscript controls drafted events.
+Remy’s death and Tiran’s cleanup
+remain fixed; all other outline beats are
+provisional.
+
+SUPERSEDES Outline as
+
+Hybrid: current material controls the
+opening; the older plan retains the
+Prism, Nightmare, conduit climax, and
+sequel setup.
+
+SUPERSEDES Older plan’s
+
+2026-09-04
+
+FTE/Shared
+
+TCD-002
+2026-09-04
+
+3SL authority
+beyond drafted
+ch. 22
+3SL/FTE
+
+TCD-003
+2026-09-04
+
+ADST authority
+beyond drafted
+ch. 19
+ADST/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+as prose authority; all older
+manuscript generations
+DOWNSTREAM Future FTE audits
+distinguish usable
+planning/development from
+canonized prose. No unwritten
+Beta-era ending is assumed
+canon.
+controlling chapter map
+DOWNSTREAM Remy’s fate and
+Tiran’s aftermath function stay
+canon; remaining structure and
+Silas/Isola ending require
+fresh development.
+superseded early execution
+DOWNSTREAM Later ADST
+architecture may use the
+retained climax/endgame, but
+must be bridged from the
+current manuscript generation.
+
+A / 1 · 223
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-004
+
+Graveshand/Deat
+hwork
+classification
+
+Graveshand is inherited Graves-family
+magic outside the formal Six
+Disciplines. Deathwork is the broader
+category of ending-magic/effects that
+Graveshand can perceive, manipulate,
+sever, redirect, or create.
+
+SUPERSEDES Any treatment of
+
+The complete Shattered Veil is canon at
+the author/universe level. The four
+cultural texts are canon divergent
+inherited versions. Characters do not
+automatically possess or know the
+complete master text; intact in-world
+custody was initially left open and is
+resolved by TCD-047.
+
+SUPERSEDES Any assumption
+
+The Tournament is structured around
+seven Challenges, but reaching
+Challenge Seven is not guaranteed.
+Attrition, Checkmate, disqualification,
+intervention, or another decisive
+outcome may end it early. In current
+FTE, the Sanctum declares Challenge
+Six decisive and terminates the
+Tournament.
+
+SUPERSEDES Any statement that
+
+The Conduit Trials replaces Burden and
+Bonds as the current Challenge Four
+concept. Its mechanics remain current
+for now, but “The Conduit Trials” is a
+working title; the final canon name is
+open.
+
+SUPERSEDES Burden and Bonds
+
+2026-09-04
+
+3SL/Shared
+
+TCD-006
+2026-09-04
+
+Authority of the
+Shattered Veil
+poem set
+All four
+
+TCD-007
+2026-09-04
+
+FTE challenge
+count
+FTE
+
+TCD-008
+2026-09-04
+
+Challenge Four
+identity
+FTE
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+Graveshand as one of the
+formal Six Disciplines
+DOWNSTREAM The Companion
+must distinguish a formal
+discipline system from
+inherited exceptional magic
+and define Deathwork by
+function rather than
+institutional classification.
+that one cultural version is the
+complete master or that the
+old Full 4 plot is validated by
+the poem’s canonicity
+DOWNSTREAM The Companion
+can compare repetition and
+redaction, but must separate
+universe truth, cultural
+inheritance, and character
+knowledge; TCD-047
+establishes no known intact inworld master.
+the Tournament inherently
+contains only six stages or that
+the Seventh must occur
+DOWNSTREAM FTE ends after the
+Sixth without contradicting the
+seven-stage institutional
+design.
+
+as current Challenge Four
+DOWNSTREAM Mechanics may be
+audited now; naming must
+remain flagged rather than
+canonized.
+
+A / 2 · 224
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-009
+2026-09-04
+
+FTE endgame
+anchors
+
+Retain Atlas’s deterioration and the
+Selah → Katherine prayer parallel; Old
+Prosperity wins because London Town
+forfeits after Challenge Six; retain the
+Katherine–Melena sister reveal and
+Katherine’s hidden elemental exposure;
+retire Minho’s assumed death and all
+“Melena was the villain” framing. 3SL
+controls the factual memory of Remy’s
+death and Melena’s fire loss-of-control
+event.
+
+SUPERSEDES Minho’s
+
+Construct a new canonical Remnian
+timeline. Existing Remnian timelines are
+reference/source material only and do
+not independently control chronology.
+
+SUPERSEDES Every existing
+
+TSWK’s ending is open. No existing
+ending concept controls. A later hybrid
+or different resolution may be
+developed after understanding what
+3SL, FTE, and ADST hand into TSWK.
+
+SUPERSEDES Old Cael/Levi
+
+3SL/FTE/Shared
+
+TCD-010
+2026-09-04
+
+Remnian timeline
+authority
+FTE/Shared
+
+TCD-012
+2026-09-04
+
+TSWK ending
+authority
+TSWK/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+mandatory death; Melena-asvillain framing; generic
+breakdown handing Katherine
+victory; contradictory FTE
+memories of 3SL; Atlas’s
+deterioration as an isolated
+accident
+DOWNSTREAM TCD-034, TCD042, and TCD-049–052 now
+govern the Conqueror, forfeit,
+elemental classification, reveal
+architecture, Atlas origin, and
+Maxim’s authority. Prayer
+transmission is clarified by
+TCD-048. Minho’s arc, detailed
+climax mechanics,
+recovery/consequences, and
+unused Seventh remain open.
+timeline’s claim to global
+chronology authority
+DOWNSTREAM Timeline facts
+must be rebuilt from current
+manuscripts and explicit
+rulings, with conflicts surfaced
+rather than blended.
+descent ending as a fixed
+destination
+DOWNSTREAM Companion
+architecture must label all
+TSWK end-state claims as
+possible until ruled.
+
+A / 3 · 225
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-013
+
+3SL/FTE/ADST
+chronology
+
+3SL occurs approximately two years
+before the main concurrent period.
+ADST begins when Elias goes missing;
+FTE begins a couple of weeks later. FTE
+and ADST then run largely concurrently
+and end around the same time without
+requiring chapter-level lockstep.
+
+SUPERSEDES Any sequence
+
+TSWK is contemporaneous with the
+book that follows 3SL. Shadowmere
+books follow a 3 / 5 / 7 numbering
+pattern. The next title is open.
+
+SUPERSEDES Any assumption
+
+Remnia, Somnoria, Thalara, and the
+Underside exist in one physical world as
+separate nations/territories. Extreme
+isolation, magical boundaries, restricted
+routes, and controlled knowledge make
+“world” or “realm” valid in-world
+language, not literal cosmology.
+
+SUPERSEDES Literal separate-
+
+2026-09-04
+
+3SL/FTE/ADST
+
+TCD-014
+2026-09-04
+
+Shadowmere
+continuation and
+TSWK
+3SL/TSWK/Shared
+
+TCD-015
+2026-09-05
+
+Physical
+relationship of
+the four settings
+All four
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+placing ADST wholly after FTE
+or requiring chapters to
+synchronize one-for-one
+DOWNSTREAM Cross-book
+appearances, information
+transfer, travel, and
+consequences must respect
+the shared active window.
+that TSWK is automatically
+concurrent with 3SL itself or
+that the old Shadowmere
+series titles survive
+DOWNSTREAM TCD-054 now
+places the pair in a rolling
+window directly after
+FTE/ADST. The next
+Shadowmere address/title
+remains open.
+planet, parallel-universe, or
+dimension readings of legacy
+lore
+DOWNSTREAM The Companion
+must distinguish physical
+reality, political reality, cultural
+perception, and magical/travel
+reality. Irreconcilable separateworld claims become Legacy.
+
+A / 4 · 226
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-016
+
+Knowledge of the
+other lands
+
+Awareness varies by nation, class,
+institution, profession, network, person,
+and time. Existence, location, functional,
+route, historical, and true Tandem
+knowledge are distinct levels and
+cannot be inferred from one another.
+
+SUPERSEDES Any universal rule
+
+Routes are magically enabled transit
+through real physical passages. They
+may serve local, tier,
+restricted/institutional,
+underground/smuggling, boundarycrossing, or neutral-transit functions.
+Cross-land routes breach barriers,
+distance, or concealed geography—not
+dimensions—and not every route has
+every capability.
+
+SUPERSEDES Dimensional-
+
+The Oneiros Prism was once whole and
+is now fragmented. House Aether
+secretly holds one significant surviving
+piece in its restricted archive; other
+pieces exist and are not all located or
+identified. The complete Prism remains
+“lost,” and characters or records may
+mistakenly treat the House Aether piece
+as the whole/original artifact.
+
+SUPERSEDES Objective reading
+
+2026-09-05
+
+All four
+
+TCD-017
+2026-09-05
+
+Nature and scale
+of routes
+3SL/TSWK/Shared
+
+TCD-018
+2026-09-05
+
+Oneiros Prism
+location and
+integrity
+ADST/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+that all populations either
+know or do not know the other
+lands
+DOWNSTREAM Build a timesensitive Knowledge of the
+Other Lands Matrix tracking
+teaching, belief, official claims,
+suppression, rumor,
+institutional knowledge,
+exceptional characters, errors,
+acquisition dates, and source
+status.
+portal cosmology; assumption
+that any route can reach any
+land
+DOWNSTREAM Build a Route
+Classification System tracking
+origin, controller, knowledge,
+opening requirements,
+stability, destination, cost/risk,
+traceability, traveler
+knowledge, and alternate
+names; connect it to TCD-016.
+of the archive object as the
+intact Prism; assumption that
+“lost” means no piece is held
+DOWNSTREAM Build a Prism
+provenance and fragment
+record. Number, locations,
+core-piece status, acquisition,
+mutual resonance, and
+reassembly effects remain
+open; do not assume four
+pieces or one per land.
+
+A / 5 · 227
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-019
+2026-09-05
+
+Oneiros Prism’s
+primary function
+
+The Prism is a major cross-land artifact
+created to maintain boundaries,
+balance, or structural separation among
+the four lands. Somnorian dream
+infrastructure, conduit stabilization, and
+network regulation are later
+applications, not its original purpose.
+
+SUPERSEDES Somnoria-centric
+
+The High Council is Somnoria’s national
+governing body. The four Dream Houses
+hold representation and political power
+within it. The Dream Master’s Guild
+regulates professional dreamwalking
+and related magic.
+
+SUPERSEDES Any single
+
+Treat the file as a Shared Lore Source
+Pool / Legacy Recovery Source, never a
+controlling master plan. The Shattered
+Veil poem architecture survives.
+Convergence/reconnection may survive
+if compatible, but its meaning,
+mechanism, timing, participants, and
+outcome are not inherited. All other
+claims require individual support or
+ruling.
+
+SUPERSEDES Blanket canon or
+
+ADST/Shared
+
+TCD-021
+2026-09-05
+
+Somnorian
+governing
+structure
+ADST/Shared
+
+TCD-022
+2026-09-05
+
+Survival scope of
+Full 4 Series
+Flesh Out
+All four
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+treatment of Dream Network
+regulation as the Prism’s
+complete original purpose
+DOWNSTREAM Define its original
+four-land function, whether it
+belonged to a larger system,
+why it fragmented, each
+piece’s independent role, and
+the consequences of reunion.
+Somnorian interpretations may
+be accurate but incomplete.
+institution’s blanket supremacy
+across national governance,
+House politics, and
+professional magic
+DOWNSTREAM Build a Somnorian
+Institutional Power Map
+defining authority, regulation,
+punishment, overlap, and
+competition among Council,
+Houses, and Guild.
+blanket discard of the
+document; automatic survival
+of detailed plots, endings,
+couple mechanics, activations,
+resurrection/reincarnation,
+sequence, or sequels
+DOWNSTREAM TCD-045–047 now
+define the two-stage Divide,
+transition-state Convergence,
+and prophecy reconstruction.
+Continue the claim-level [C] /
+[P] / LEGACY / [X] pass for
+every other claim.
+
+A / 6 · 228
+
+3SL
+
+SPINE
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-023
+
+Elders’ Prayer
+relationship
+
+Selah and Katherine perform the same
+inherited Elders’ Prayer/magical
+working through different cultural
+language, terminology, and ritual
+expression. This is intentional crossbook repetition. Direct performance-toperformance causation was initially left
+open and is excluded by TCD-048.
+
+SUPERSEDES
+
+TSWK and the next Shadowmere novel
+occur in the same general period. Their
+exact relationship to FTE and ADST was
+initially open and is fixed at macro level
+by TCD-054.
+
+SUPERSEDES Any fixed
+
+The four lands occupy multiple major
+landmasses/regions in one world.
+Remnia and Somnoria are separate
+continental landmasses with ocean
+between them. Underside attaches to
+the Zenithia side/corner of Remnia’s
+broader geography. Primarily
+underwater Thalara lies farther outward
+in the island/sea region.
+Spain/France/Italy/Greek-islands
+comparisons describe relative
+placement only, never real borders,
+scale, climate, culture, or coastlines.
+
+SUPERSEDES One-continent
+
+2026-09-05
+
+3SL/FTE/Shared
+
+TCD-024
+2026-09-05
+
+TSWK/next
+Shadowmere
+synchronization
+3SL/FTE/ADST/TSW
+K
+
+TCD-025
+2026-09-09
+
+Tandem macro
+geography
+All four
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+Unrelated/coincidental-ritual
+reading; automatic directcausation reading
+DOWNSTREAM Trace the prayer’s
+origin, transmission,
+divergence, teaching,
+mechanics, costs, cultural
+names, and possible survival in
+Somnoria/Thalara. Katherine
+need not know Selah, the
+Underside origin, or the full
+history.
+placement of the pair against
+FTE/ADST before later ruling
+DOWNSTREAM Build a master
+event-anchor timeline with
+separate activation, opening,
+climax, resolution, and
+delayed-information dates;
+TCD-054 establishes the
+direct rolling handoff.
+assumptions; literal copying of
+real-world geography;
+separate-world cosmology
+DOWNSTREAM Build the Tandem
+Macro Geography Map and
+overlay physical and magical
+travel. Coastlines,
+landmass/ocean names, scale,
+distances, islands, and borders
+remain open.
+
+A / 7 · 229
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-026
+
+Underside vertical
+geography
+
+The Underside is a vertically tiered
+nation beginning at/near the surface off
+Zenithia’s side of Remnia and
+descending underground. Crownlight
+and Dawnveil are aboveground/surface-level tiers. By Ironcross,
+the descent is fully subterranean; lower
+tiers continue deeper. “Underside”
+names the descent-organized
+civilization even though its highest tiers
+are not literally underground.
+
+SUPERSEDES Flat buried-
+
+The singular sealed Echo Gate is
+Legacy. Its seal, spiral/mirrored glyph,
+or ancient-crossing imagery may be
+recovered later only as [P].
+Independently, a current Remnia–
+Shadowmere/Underside crossing exists
+near the London Town edge/no-man’sland associated with London Town, Old
+Prosperity, and Alea. The canonical
+Remnia map will control its precise
+provincial coordinate once reviewed.
+
+SUPERSEDES Echo Gate as
+
+The texts are neither identical nor
+unrelated. The Drowned Canticle is
+Thalara’s cultural Shattered Veil version
+and survives within or alongside the
+larger Seal Song tradition as a
+historical/prophetic strand. The Seal
+Song also encompasses pre-Drowning
+vows, memorial culture, identity,
+breathwork, sealing, pressure control,
+communal memory, and survival
+protocol.
+
+SUPERSEDES Treating the
+
+2026-09-09
+
+3SL/FTE/Shared
+
+TCD-027
+2026-09-09
+
+Echo Gate and
+current Remnia–
+Underside access
+3SL/FTE/ADST/Sha
+red
+
+TCD-028
+2026-09-09
+
+Drowned Canticle
+within the Seal
+Song tradition
+TSWK/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+continent model; assumption
+that every Underside tier is
+underground
+DOWNSTREAM Build a vertical
+cross-section fixing tier
+elevations/depths, surface
+transition, Zenithia
+relationship, and route/lift/rail
+descent.
+
+established crossing;
+automatic inheritance of its
+lore; guessed precise map
+coordinate or arrival tier
+DOWNSTREAM Add the known
+entrance to the Route Map
+after reviewing the Remnia
+map. Exact border placement
+and whether it arrives directly
+in Shadowmere Tier 7 remain
+open.
+Drowned Canticle as the whole
+Seal Song; treating the two as
+unconnected traditions
+DOWNSTREAM Build the Seal
+Song Textual Layers. Whether
+Tavian’s fragment belongs to
+the Canticle, another forbidden
+verse, or an older layer
+remains open.
+
+A / 8 · 230
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-029
+2026-09-09
+
+Reverie’s layered
+magic
+classification
+
+All three are true at different
+explanatory levels. Reverie is a
+Dreamwalker and natural dream conduit
+whose conduit nature enables her
+unusual Remote Viewing. Early Reverie
+believes she is an illegal/unlicensed
+Dreamwalker with a rare gift; public and
+institutional labels may miss the
+conduit nature; she learns the deeper
+classification later in ADST.
+
+SUPERSEDES Either/or
+
+Retire physical withdrawal. Touch is
+safe, and separation does not make
+either partner sick. Passive awareness,
+sensory spillover, emotion, pain, or
+magical recognition may cross distance
+without creating dependency. The
+known major danger begins when their
+powers actively synchronize, merge,
+overlap, or channel through one
+another; Cassius’s Labyrinth scar tries
+to regulate both power sources and
+tears, spreads, or deteriorates.
+
+SUPERSEDES Physical-proximity
+
+Caelum is an independent cross-land
+actor with deep access to Nightmareadjacent information, people, research,
+favors, markets, and operational
+channels, but he is not a member of the
+Nightmare organization. He can
+deliberately use nightmare magic;
+affinity is not allegiance. His central
+loyalty is not currently to Nightmare,
+House Aether, Remnia, Shadowmere, or
+one protagonist. He recurs because he
+pursues a larger personal objective
+across the current sequence and into
+later books.
+
+SUPERSEDES Caelum as secret
+
+ADST/Shared
+
+TCD-030
+2026-09-09
+
+Reverie/Cassius
+bond mechanics
+and cost
+ADST/Shared
+
+TCD-031
+2026-09-09
+
+Caelum’s
+allegiance and
+cross-book
+function
+3SL/FTE/ADST/Sha
+red
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+classification; early-character
+knowledge of the objective
+answer
+DOWNSTREAM Build Reverie’s
+Classification Reveal Track,
+including symptoms,
+suspicions, proof, terminology,
+reveal timing, and who knows
+what before she does.
+requirement; mutual
+separation sickness; touch-asdanger romance mechanic
+DOWNSTREAM Build a six-level
+Bond Mechanics Ladder from
+touch through Prism/network
+use. Reverie’s
+physiological/magical cost,
+tattoo bleeding, and
+permanent effects remain
+open.
+Nightmare loyalist; nightmare
+magic proving membership;
+treating him as a connective
+cameo or omniscient
+information device
+DOWNSTREAM Build a cross-book
+agenda/network dossier
+tracking his local purpose,
+knowledge sources/limits,
+debts, withheld information,
+gains, and own-story
+progression. “Caelum’s asset”
+as Melena’s objective status
+remains under review.
+
+A / 9 · 231
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-032
+
+Elias Lockwood /
+Alexander Thorne
+double life
+
+Elias voluntarily created and maintained
+Professor Alexander Thorne as an
+established Somnorian
+researcher/instructor identity. He
+traveled to Somnoria and built that life
+for years, beginning while Lucia
+preceded him in succession and
+Aracelia reigned. After Lucia’s death, his
+elevation to Crown Prince made the
+lives increasingly incompatible. At
+ADST’s opening Elias is missing from
+Remnia because he failed to return on
+pattern, while Thorne is not yet missing
+from Somnoria but is becoming
+unstable or compromised.
+
+SUPERSEDES Abduction into the
+
+Both functions are canon. Publicly, the
+Conqueror—the surviving Piece whose
+decisive sanctioned action earns victory
+—holds the winning province’s
+Provincial Leadership Board seat for the
+next year. Conqueror is not
+automatically the King or any fixed rank.
+Privately, the Sanctum uses selection,
+assignments, challenges, stress,
+injuries, alliances, and survival to
+classify, cultivate, control, exploit,
+monitor, suppress, or eliminate
+dangerous people. Under a forfeit,
+Conqueror is the surviving Piece whose
+final sanctioned action or matchup
+directly produces the decisive state
+causing the forfeit. Atlas and Tiran’s
+confrontation is officially a draw by
+intervention; Katherine and Melena
+produce the decisive sequence.
+Katherine Nicholas is the current
+Tournament’s Conqueror.
+
+SUPERSEDES King automatically
+
+2026-09-09
+
+FTE/ADST/Shared
+
+TCD-034
+2026-09-09
+
+Tournament
+purpose,
+Conqueror rules,
+and current
+winner
+FTE/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+Thorne identity; Thorne as a
+recent cover created only after
+Elias’s Remnian disappearance
+DOWNSTREAM TCD-062 now
+establishes organizationexploited research/dream
+compromise as the failure-toreturn cause. First crossing,
+alias creation, credentials,
+helpers, teaching history,
+Cassius chronology, travel
+pattern, exact technique, and
+later fate remain open.
+
+becoming Conqueror; Atlas
+winning solely because he
+made the last physical attack
+before intervention;
+Tournament as only public
+governance or only secret
+culling; legacy climax
+execution
+DOWNSTREAM Rebuild the
+Katherine–Melena climax and
+London Town forfeit so
+Katherine earns the title
+causally. Define Checkmate,
+final move, forfeit adjudication,
+succession/proxy rules, title
+duration, Board powers, and
+victorious-province benefits.
+
+A / 10 · 232
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-035
+2026-09-09
+
+Fundamental
+origin of magic
+
+All four modern traditions ultimately
+draw from one primordial magical
+source or substrate predating the
+modern division of the Tandem world.
+The Divide did not create four unrelated
+magics. Geography, environment,
+bodies, bloodlines, culture, survival,
+history, and institutions reshaped the
+shared power into genuinely distinct
+systems with non-interchangeable
+mechanics, costs, classifications, and
+understandings.
+
+SUPERSEDES Four wholly
+
+Crossblood is an institutional, scholarly,
+political, or historical label for people
+believed to carry inheritance associated
+with more than one separated Tandem
+tradition. It is not currently an
+objectively correct universal biological
+category. Institutions may define it
+differently through incomplete theory,
+bloodline politics, fear, or propaganda.
+The label does not establish what a
+person’s magic objectively is.
+
+SUPERSEDES Crossblood as
+
+All four
+
+TCD-036
+2026-09-09
+
+Status of
+“Crossblood”
+FTE/ADST/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+unrelated magical origins; any
+reading that modern systems
+are interchangeable or were
+once one standardized spell
+system
+DOWNSTREAM Build the Tandem
+Magic Ancestry Map. The
+primordial source’s nature,
+pre-Divide practice,
+divergence mechanism,
+surviving old principles, and
+cultures’ relative historical
+accuracy remain open.
+settled universal biology;
+automatic retention of the old
+candidate list; use as a catchall for rare, ancient, hybrid,
+inherited, or anomalous magic
+DOWNSTREAM Build a Crossblood
+Classification Record with
+institutional definitions,
+objective-theory comparison,
+consequences, land-specific
+terminology, and individual
+case review.
+
+A / 11 · 233
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-037
+
+Prism and
+Leviathan within
+the boundary
+system
+
+The Oneiros Prism and Leviathan
+participate in the same larger magical
+boundary-maintenance system/problem
+preserving Tandem’s current separation
+and stability. They are not equivalent
+components: the Prism is a fragmented
+cross-land artifact, while the Leviathan
+is a living pressure entity functioning as
+seal and infrastructure. Their
+connection does not require one
+matching anchor per land and does not
+establish shared creators, age, or direct
+power transfer.
+
+SUPERSEDES Treating them as
+
+Nightmare predates the Oneiros Prism
+and the present boundary system. It is
+not physically contained inside the
+artifact. It exists beyond or behind a
+magical boundary that the complete
+Prism was created for or incorporated
+into maintaining; this restricts
+Nightmare’s crossing, manifestation,
+and full influence. Fragmentation
+weakens or complicates that
+architecture without placing entity
+fragments inside Prism pieces. “Cage”
+may survive as House Aether’s limited
+interpretation.
+
+SUPERSEDES Literal entity-
+
+2026-09-09
+
+ADST/TSWK/Shared
+
+TCD-038
+2026-09-09
+
+Nightmare
+entity’s
+relationship to
+the Prism
+ADST/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+unrelated by default; treating
+Leviathan as a Prismequivalent artifact; inventing
+four matching anchors for
+symmetry
+DOWNSTREAM TCD-055 fixes
+Leviathan as preexisting the
+later First Seal, when it was
+bound into local survival
+infrastructure. Its actual origin,
+earlier boundary function,
+other components, direct
+versus third-condition
+resonance, compensation, and
+failure propagation remain
+open.
+inside-Prism model; Nightmare
+fragmenting with the artifact;
+every Prism piece containing
+part of Nightmare; Prism
+existing only to imprison this
+threat
+DOWNSTREAM Build the
+Nightmare–Prism Boundary
+Model and failure-state ladder
+separating entity position,
+boundary, Prism pieces, and
+Dream Network.
+
+A / 12 · 234
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-039
+
+Nature and
+contents of
+Tavian’s fragment
+
+Tavian’s fragment is a composite
+Thalaran memory-shell relic containing
+layered historical evidence, preserved
+or forbidden language, memory records,
+route information, and operational
+sealing data tied to First Shellward,
+House Dren, the Drowning, and
+suppressed history. Tavian added a
+contingency-memory mechanism
+governing disclosure. The object proves
+deliberate sacrifice at First Shellward
+and carries route and Dren
+infrastructure connections, but its
+physical age, makers, layer authorship,
+and exact relationship to Canticle or
+Seal Song text remain open.
+
+SUPERSEDES Fragment as one
+
+Tobias Lockwood is the shared
+biological father of Katherine Nicholas
+and Melena Lockwood. Katherine’s
+biological parents are Michelle Nicholas
+and Tobias; Melena’s are Lucia
+Hastings-Lockwood and Tobias.
+Katherine and Melena are paternal halfsisters. Biological truth does not
+independently establish legal status,
+public records, legitimacy, title, or
+succession.
+
+SUPERSEDES Lucia as
+
+2026-09-09
+
+TSWK/Shared
+
+TCD-040
+2026-09-09
+
+Katherine and
+Melena’s
+biological
+relationship
+FTE/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+missing Canticle passage; one
+Seal Song verse; a Oneiros
+Prism piece; all contents
+authored by Tavian; Caelus’s
+Dren ownership claim as
+automatic objective truth
+DOWNSTREAM Build the Tavian
+Fragment Layer Record and
+progressive reveal sequence.
+Preserve the fragment reaction
+and Levi’s mark reaction as
+separate functions unless later
+ruled otherwise.
+
+Katherine’s biological mother;
+Ethan as Katherine’s biological
+father; conflicting legacy
+parentage
+DOWNSTREAM Build the Remnian
+Royal Lineage and Katherine
+Secrecy Record. Conception,
+birth, concealment, record
+alteration, individual
+knowledge, reveal path,
+legitimacy, and succession
+consequences remain open.
+
+A / 13 · 235
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-041
+2026-09-09
+
+Remnian power
+structure
+
+Remnia is a centralized empire with
+overlapping centers of authority. The
+Crown is the highest public civil and
+dynastic authority and directly controls
+London Town and imperial affairs.
+Provincial Leaders administer territories
+within the Empire; titles and structures
+may vary. The Provincial Leadership
+Board provides formal representation
+and can be altered by a Conqueror’s
+one-year seat. The Elemental Court is a
+separate political-magical bloc
+influencing multiple provinces and
+elemental policy but not London Town.
+The Sanctum is semi-autonomous in
+magical regulation, bloodlines,
+Tournament law, doctrine, security, and
+historical control, but is neither simply
+subordinate to the Crown nor legally
+omnipotent over it.
+
+SUPERSEDES Simple Crown-
+
+Katherine’s final sanctioned action
+against or for Melena prevents
+catastrophe, stabilizes or saves Melena,
+and creates the decisive state. Melena
+consciously chooses survival over
+victory rather than sacrificing more
+people to reach Challenge Seven. Tiran
+supports, communicates, or
+operationalizes that choice, but Bishop
+rank alone does not grant unilateral
+provincial surrender authority. The
+formal forfeit must be entered by the
+properly authorized Piece or official.
+The Sanctum accepts and may exploit
+the outcome but is not its original
+cause.
+
+SUPERSEDES Melena breaking
+
+FTE/Shared
+
+TCD-042
+2026-09-09
+
+London Town
+forfeit causal
+chain and
+authority
+FTE
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+versus-Sanctum dual state;
+fully sovereign provinces;
+Sanctum as ordinary
+subordinate agency; Sanctum
+as unlimited legal ruler
+DOWNSTREAM Build the Remnian
+Power and Jurisdiction Map,
+including public civics versus
+actual closed-door power and
+institutional conflict
+procedures.
+
+down as villain; Tiran
+automatically possessing
+unilateral authority; Sanctum
+forcing the original decision;
+passive injury attrition as the
+whole cause
+DOWNSTREAM TCD-052 fixes
+Maxim as alive, conscious,
+active King who formally
+authorizes the forfeit. Exact
+procedure and emergency
+command rules remain open.
+
+A / 14 · 236
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-043
+
+Melena and
+Caelum’s
+operational
+relationship
+
+Melena and Caelum operate in a
+transactional alliance with coercive
+leverage, not a true handler–
+subordinate hierarchy. Caelum has Elias
+access, Somnorian intelligence, routes,
+and networks; Melena has Remnian and
+royal access, Tournament intelligence,
+Shadowmere knowledge, and
+information he cannot obtain. Both
+negotiate, withhold, resist, and act
+independently. “Asset” is Caelum’s
+operational language and selfconception, not objective narration of
+Melena’s status.
+
+SUPERSEDES Melena as
+
+Silas and Isola become explicitly and
+mutually romantic during 3SL, crossing
+from subtext into substantial
+consensual physical choice before the
+novel ends. Their magical tether is not
+romance or evidence of consent. They
+do not end as a fully settled, publicly
+defined couple; the crisis, Remy’s death,
+responsibilities, Silas’s changed role,
+and unresolved tether still pull them
+onto separate immediate paths. The
+outline’s restrained separation and
+future promise may survive only after
+the romantic line has already been
+crossed.
+
+SUPERSEDES Deferring all
+
+2026-09-09
+
+3SL/FTE/ADST/Sha
+red
+
+TCD-044
+2026-09-09
+
+Silas and Isola’s
+Book One
+romantic landing
+3SL
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+Caelum’s formal subordinate;
+asset terminology as objective
+canon; either party having
+complete authority over the
+other
+DOWNSTREAM Build the
+Caelum/Melena Leverage
+Ledger and deal progression.
+Whether the relationship
+becomes friendship, intimacy,
+loyalty, rivalry, or something
+else remains open.
+
+physical romantic payoff to the
+sequel; using tether
+dependency as romantic
+consent; a fully settled publiccouple ending
+DOWNSTREAM Build the
+Silas/Isola Romance and
+Tether Progression as separate
+chapter-level tracks. Exact
+scene placement, intimacy
+level, initiator, stopping point,
+verbal definition, and ending
+wording remain open.
+
+A / 15 · 237
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-045
+
+Historical nature
+of the Divide
+
+The Divide is a two-stage historical
+crisis. First, a non-deliberate natural,
+celestial, cosmic, or magical rupture
+destabilized the primordial system and
+relations among the lands. Ancient
+peoples then created, adapted, bound,
+activated, or repurposed seals, artifacts,
+routes, living systems, and boundary
+structures in response. Their deliberate
+response did not cause the rupture, but
+it hardened its consequences into longterm separation. “Divide” may name the
+initiating catastrophe or the broader
+rupture–containment–hardening era.
+Long isolation accelerated
+specialization of one shared magical
+ancestry; migration may be a
+consequence, not the cause.
+
+SUPERSEDES Divide as solely
+
+Convergence is the progressive
+destabilization and re-entanglement of
+the four lands, magical branches,
+boundary systems, buried shared
+history, routes, artifacts, and entities
+after enforced separation. It can
+manifest through permeability,
+resonance, cross-land responses,
+restored contact, knowledge leakage,
+and failing isolation structures. It is a
+transition state, neither inherently repair
+nor destruction; present choices
+determine whether the result is
+controlled reconnection, transformed
+partial separation, restabilization,
+catastrophic collapse, or another state.
+It does not physically merge continents
+or flatten distinct magics. The Shattered
+Veil predicts compatible conditions, but
+its reliability is not yet fixed.
+
+SUPERSEDES Convergence as
+
+2026-09-24
+
+All four
+
+TCD-046
+2026-09-24
+
+Objective
+definition of
+Convergence
+All four
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+migration; solely deliberate
+partition; solely natural
+catastrophe with no
+containment response; origin
+of four unrelated magics
+DOWNSTREAM Build the Divide
+Reconstruction. TCD-055 now
+establishes the Drowning as
+later and distinct, and First
+Seal as later local containment.
+Rupture cause,
+continent/Prism chronology,
+Leviathan’s pre-First-Seal role,
+boundary intent, and duration
+remain open.
+
+automatic salvation,
+apocalypse, continental
+merger, uniform magic, Echo
+Gate event, or any inherited
+legacy trigger/ending
+DOWNSTREAM TCD-056 fixes
+long degradation/latent
+symptoms and late-ADST
+cross-system threshold, not a
+one-event origin. Build the
+causal timeline, symptom
+ledger, response clock,
+outcome tree, and knowledge
+states; precise onset and end
+state remain open.
+
+A / 16 · 238
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-047
+2026-09-24
+
+Shattered Veil
+master-text
+custody and
+reconstruction
+
+A complete Shattered Veil exists at
+author/universe level, but no intact
+authoritative master is presently known
+in-world. The four national texts are
+divergent historical descendants, not
+four physical pieces. Characters may
+reconstruct wording and/or underlying
+truth by comparing variants with
+historical, magical, material, and
+testimonial evidence, but no national
+version is presumed untouched.
+
+SUPERSEDES Hidden intact
+
+Selah and Katherine independently
+perform the same inherited Elders’
+Prayer approximately two years apart.
+Their connection is shared magical
+ancestry and ritual tradition, not direct
+causation. Selah’s act leaves no specific
+echo, reservoir contribution, transmitted
+route, or power that Katherine later
+accesses.
+
+SUPERSEDES Direct
+
+All four
+
+TCD-048
+2026-09-24
+
+Selah/Katherine
+Elders’ Prayer
+causal
+relationship
+3SL/FTE/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+master as default; prophecy
+fetch quest; living entity
+storing the whole text; one
+culture possessing the
+objectively complete version
+DOWNSTREAM Build the
+Shattered Veil Reconstruction
+Dossier: master-to-variant
+claim comparison, four
+provenance chains, evidence
+ledger, reconstruction
+thresholds, and text-versustruth record. Who suspects the
+shared origin, who
+reconstructs it, and whether
+exact wording is recoverable
+remain open.
+performance-to-performance
+echo; Selah powering
+Katherine; a stored magical
+reservoir or route transmission
+between the two acts
+DOWNSTREAM Build the Elders’
+Prayer Transmission + Variant
+Record: ritual ancestry tree,
+Selah/Katherine comparison,
+activation conditions,
+transmission history, cultural
+and objective interpretations,
+and cross-book recognition.
+
+A / 17 · 239
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-049
+
+Katherine’s
+Fire/Frost
+magical anatomy
+
+Katherine is not objectively the same
+Fire/Frost Dyad as Zephyr. Her
+manifestation is ancestral reversion or
+resurfacing of a less-specialized earlier
+Remnian elemental inheritance. She
+genuinely possesses both Frost and
+Fire; Fire is not borrowed, temporary, or
+merely a reaction to Melena. The
+Sanctum likely labels her a Dyad
+because current taxonomy lacks a
+better category, but that diagnosis is
+incomplete or wrong. Zephyr remains a
+genuine modern Fire/Frost Dyad.
+
+SUPERSEDES Simple objective
+
+The reveal proceeds through
+investigation, confrontation, verification,
+and personal confirmation. Melena
+begins finding inconsistencies before
+Challenge Six because 3SL destroyed
+her trust in official history. Before the
+Duel she has enough evidence to
+suspect Katherine is biologically
+connected to the Lockwoods/Tobias,
+not enough to prove it. Their climax
+confrontation provides magical,
+behavioral, and inherited recognition
+that reinforces suspicion but does not
+establish paternity. Melena directly
+tells/confronts Katherine. Authenticated
+lineage, birth, or Sanctum evidence
+then proves Tobias’s paternity;
+Michelle’s later testimony supplies the
+human history and concealment.
+Katherine saves or stabilizes Melena
+because of her own moral arc, not only
+sisterhood.
+
+SUPERSEDES One magical
+
+2026-09-24
+
+FTE/Shared
+
+TCD-050
+2026-09-24
+
+Katherine–Melena
+sister-reveal
+architecture
+FTE/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+Dyad equivalence; settled
+Crossblood anatomy; borrowed
+or temporary Fire; Melena
+creating Katherine’s Fire
+DOWNSTREAM TCD-058
+establishes one capacity with
+Frost dominance and
+catastrophic Frost-failure Fire
+rerouting; no magical
+suppression is established.
+Objective name, ancient norm,
+inheritance, anomalies, precise
+failure beat, simultaneous use,
+and costs remain open.
+reaction, single file, or
+exposition scene proving the
+whole reveal; sisterhood as
+Katherine’s sole reason to save
+Melena
+DOWNSTREAM Build the SisterReveal Evidence Architecture
+with four synchronized tracks—
+Melena’s knowledge,
+Katherine’s knowledge,
+available evidence, and
+objective truth—plus evidence
+chain, climax causality,
+Michelle layer, and disclosure
+ladder. First clue, exact
+records, sealing actor,
+institutional knowledge,
+testimony timing, and public
+disclosure remain open.
+
+A / 18 · 240
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-051
+
+Origin of Atlas’s
+black-vein
+deterioration
+
+Atlas’s deterioration originates in the
+Conduit Trial when he forcesynchronizes his dense/control Frost
+with Katherine’s reactive Frost in the
+same circuit. He tries to impose
+structure; the Frost overcorrects, turns
+inward, and creates a progressive
+synchronization injury visible through
+black-vein deterioration. It is not a prior
+ordinary accumulation of Element Rot,
+and no earlier Sanctum/artifact
+corruption or experiment is established.
+
+SUPERSEDES Pre-existing
+
+Maxim is alive, conscious, and
+functioning as active King when the
+forfeit occurs. Melena makes the
+substantive choice of survival over
+victory. Tiran advises, supports, and
+operationalizes that choice but cannot
+unilaterally surrender the province.
+Melena brings or endorses the decision
+to Maxim; Maxim formally enters or
+authorizes the forfeit. The Sanctum
+accepts and formalizes it rather than
+compelling it. Katherine remains
+Conqueror because her sanctioned
+action creates the decisive state.
+
+SUPERSEDES Incapacitating
+
+2026-09-24
+
+FTE/Shared
+
+TCD-052
+2026-09-24
+
+Maxim’s condition
+and authority at
+the London Town
+forfeit
+FTE
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+ordinary Element Rot;
+retrofitted Sanctum corruption,
+artifact infection, or secret
+experiment as the origin
+DOWNSTREAM Build the Atlas
+Synchronization Injury Record.
+Whether the condition is acute
+Element Rot or a distinct
+pathology, why it progresses
+after separation, its anatomy,
+aggravators, cross-link,
+treatment, and prayer
+stabilization remain open.
+Maxim solely to preserve the
+legacy Tiran announcement;
+Tiran’s unilateral authority;
+Sanctum-compelled original
+surrender
+DOWNSTREAM Add a Tournament
+Command Authority table and
+final causal sequence to the
+FTE Forfeit record. Maxim’s
+initial response, private/public
+procedure, and emergency
+authority rules for King, Queen,
+and Bishop remain open.
+
+A / 19 · 241
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-053
+2026-09-24
+
+Nightmare
+entity’s ADST
+Book One
+endpoint
+
+ADST Book One ends with the ancient
+Nightmare entity reaching Awareness
+only. Reverie, Cassius, and/or the House
+Aether Prism fragment become
+perceptible to it because of the
+protagonists’ successful intervention
+and the Prism’s deeper boundary
+response, not because the criminal
+organization completes its plan. The
+entity does not independently
+communicate, influence, manifest
+through the Dream Network, run an
+operation, or cross into waking reality.
+The protagonists win locally; the
+organization’s immediate plan fails, but
+its network survives and remains
+dangerous. “Nightmare” in the current
+manuscript may reflect Reverie’s
+incomplete knowledge rather than entity
+identification.
+
+SUPERSEDES Entity
+
+TSWK and the next Shadowmere
+installment form the next concurrent
+window and begin directly after
+FTE/ADST, with no meaningful monthsor years-long gap; days or small weeks
+for logistics are acceptable. The handoff
+is rolling: conditions for later plots may
+already be active during late FTE/ADST,
+the two next books substantially overlap
+without requiring identical opening
+dates, and still-later stories may begin
+activating before the prior pair fully
+resolves. Local conflicts remain
+independently rooted, so temporal
+proximity does not create automatic
+causation.
+
+SUPERSEDES Long gap after
+
+ADST/Shared
+
+TCD-054
+2026-09-24
+
+Post-FTE/ADST
+rolling chronology
+All four
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+communication, influence,
+Network manifestation,
+autonomous operation, or
+waking crossing in Book One;
+organization success as the
+source of Awareness; total
+antagonist defeat
+DOWNSTREAM TCD-060–061 now
+specify the failed Networkrupture/boundary-channel
+operation and intact
+fragment’s unintended
+stabilizing resonance. Build the
+awakening ladder, attribution,
+mechanical counteraction,
+aftermath, and reader-reveal
+method. Exact perception and
+next-stage timing remain
+open.
+FTE/ADST; isolated book eras;
+identical page-one dates as a
+requirement; assuming
+adjacent events cause one
+another
+DOWNSTREAM Update the
+Tandem Master
+Synchronization Timeline with
+separate Background
+Activation, Narrative Opening,
+Climax, and Resolution fields
+for every book. TSWK
+crackdown, Azrine’s sanctuary,
+Levi’s assignment, and the
+next Shadowmere character’s
+continuing two-year life may
+predate page one.
+
+A / 20 · 242
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-055
+
+Divide, Drowning,
+and First Seal
+
+D clarified: the Drowning is a
+significantly later, staged Thalaran
+regional catastrophe shaped by
+environmental/magical instability and
+political decisions, not the original
+Divide under another name. Its First
+Seal is the deliberate final emergency
+response: Thalarans bind the
+preexisting Leviathan, operationalize an
+existing Seal Song, and sacrifice part of
+Thalara to stabilize the rest while
+using/intersecting older Tandem
+boundary infrastructure. The
+catastrophe, sacrifice decision, and
+initial ancient rupture are three distinct
+events. Whether Divide-era system
+deterioration contributed to the
+Drowning is open.
+
+SUPERSEDES Drowning = Divide;
+
+E staged threshold: long-term
+degradation, alteration, isolation, and
+strain of post-Divide architecture
+precede the present process. By the
+FTE/ADST window localized
+Convergence is latent. Late ADST’s
+Reverie/Cassius/Prism/Dream Network
+interaction is the first established
+threshold shifting largely independent
+local instabilities toward responsive
+cross-system instability; ancient
+Nightmare Awareness is an
+indicator/consequence, not its origin.
+Late FTE is a major Remnian
+manifestation, not yet an equal proven
+trigger. TSWK/next Shadowmere unfold
+after this threshold. Not every local
+anomaly is Convergence.
+
+SUPERSEDES ADST climax as
+
+2026-09-26
+
+TSWK/Shared
+
+TCD-056
+2026-09-26
+
+Present
+Convergence
+causal threshold
+All four
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+First Seal = original global
+containment; Leviathan
+created/discovered at First
+Seal; all Thalaran infrastructure
+assumed Divide-era
+DOWNSTREAM Build the
+Divide/Drowning Historical
+Crosswalk: two-crisis timeline,
+pre-Drowning infrastructure
+inventory, First Seal
+cause/effect, and layered
+Skyhold/Deepfolk/Shellkeeper/
+Dren/Underwake/protagonist
+knowledge states. Leviathan’s
+earlier boundary role and exact
+old/new system interactions
+remain open.
+creation of centuries of
+degradation; Nightmare
+Awareness as initiating cause;
+every FTE/Thalaran/Underside
+anomaly automatically a cotrigger; Leviathan-only origin
+DOWNSTREAM Add causal
+timeline, symptom ledger with
+real non-Convergence
+classifications, tested arrowby-arrow threshold chain, and
+T0 cross-land response clock
+to the Convergence State
+Model. Onset definition, first
+measurable cross-land effects,
+FTE trigger status, and
+Leviathan/Underside timing
+remain open.
+
+A / 21 · 243
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-057
+
+Elders’ Prayer
+objective function
+
+E C+B hybrid: the inherited working
+restores a living person’s viable
+magical/life pattern when severed,
+corrupted, or catastrophically
+dysregulated. Restored magical
+continuity can stabilize secondary
+bodily functions and call someone back
+from active dying while a viable living
+pattern remains. It cannot resurrect
+completed death or regenerate
+destroyed anatomy; Isola’s leg remains
+ruined despite life-saving stabilization.
+Silas’s returning breath/pulse under
+Selah is recovery of living function, not
+resurrection. Selah/Katherine share this
+objective function through differing
+cultural presentations.
+
+SUPERSEDES Resurrection of
+
+E refined C: Katherine’s one lessspecialized ancestral elemental
+capacity naturally organized itself
+around a dominant Frost expression
+from childhood, reinforced by modern
+Frost training. Fire is a genuine
+alternative expression of the same
+capacity, not a separate ordinary Dyad
+channel, borrowed ability, or established
+magically sealed second element.
+Ordinary stress/Fire exposure does not
+activate it. In FTE’s climax catastrophic
+severance or unavailability of her
+established Frost configuration lets the
+older capacity reroute through what
+modern Remnia calls Fire. Deliberate
+magical suppression is not currently
+established; unusual readings or
+institutional suspicion are possible but
+open.
+
+SUPERSEDES Fire triggered by
+
+2026-09-26
+
+3SL/FTE/Shared
+
+TCD-058
+2026-09-26
+
+Katherine’s Frostdominant Fire
+emergence
+FTE/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+completed death; full physical
+regeneration; Frost-only ritual;
+automatic universal burden
+redistribution
+DOWNSTREAM Add Functional
+Anatomy to the Elders’ Prayer
+Transmission + Variant Record:
+failure-state eligibility, originalpattern reference, possible
+mechanical sequence, both
+performances, death threshold,
+caster cost, bond requirement,
+and cultural variants. Exact
+eligibility and effects on
+Atlas/Melena remain open.
+
+generic stress or exposure; two
+ordinary Fire/Frost channels;
+external seal/medical
+suppression as established
+cause; interpreting legacy “Fire
+is back” as proof of Katherine’s
+childhood Fire use
+DOWNSTREAM Add Katherine
+Expression Architecture to the
+elemental dossier: onecapacity/multiple-expression
+anatomy, Frost dominance,
+Examination baseline, exact
+climax Frost failure, Fire
+rerouting, later switching/dual
+access/cost, tests and
+misclassification.
+
+A / 22 · 244
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-059
+2026-09-26
+
+Katherine’s
+layered lineage
+concealment
+
+E multi-party: Lucia/the Lockwood
+Crown originates Katherine’s
+public/legal and dynastic erasure;
+Sanctum is principal institutional
+enforcer and record/surveillance
+custodian; Tobias cooperates by nonacknowledgment without being
+established as the architect; Michelle
+raises and protects Katherine inside
+imposed constraints rather than
+designing her erasure. Each controls a
+different layer. Exact motives,
+coercion/consent, record alterations,
+Aracelia’s role, and whether Katherine’s
+birth was publicly known before
+suppression or never meaningfully
+acknowledged remain open.
+
+SUPERSEDES Michelle as
+
+E A+C hybrid: the criminal organization
+uses Thorne’s completed research, a
+rare celestial alignment, and a living
+conduit/anchor configuration to
+deliberately rupture the Dream Network.
+The rupture is a means to force a
+usable channel or critical weakness in
+Somnoria’s older boundary architecture
+toward the ancient entity, not the end
+goal. Reverie is targeted for her conduit
+nature; Cassius and the fragment can
+become important without the
+organization foreseeing a fixed trio.
+Reverie/Cassius stop the intended
+Network rupture/boundary breach. The
+Network survives sufficiently to function;
+ancient Nightmare gains no usable
+channel. Its later Awareness is an
+unintended result of the protagonists’
+successful intervention and the
+fragment response.
+
+SUPERSEDES Entity personally
+
+FTE/Shared
+
+TCD-060
+2026-09-26
+
+Nightmare
+organization’s
+ADST Book One
+operation
+ADST/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+architect; Sanctum as original
+decision-maker; Tobias’s
+silence equated with
+indifference; silent settlement
+of conflicting initial-publicity
+accounts
+DOWNSTREAM Build Katherine
+Concealment Architecture as
+layered
+record/decision/knowledge
+matrix integrated with the
+TCD-050 sister-reveal board
+and secrecy timeline.
+
+operating Book One attack;
+artifact theft as whole
+operation; completed Network
+destruction/breach;
+organization necessarily
+predicting the exact
+paired/fragment configuration
+DOWNSTREAM Add ADST Climax
+Operation Map to the existing
+outcome/awakening record:
+asset roles and knowledge,
+intended-versus-actual
+sequence, dreamer stakes,
+Thorne’s exact role,
+protagonist
+countermechanism, and
+aftermath.
+
+A / 23 · 245
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-061
+
+House Aether
+Prism fragment’s
+climax state
+
+A clarified with limited C:
+Reverie/Cassius’s combined
+intervention engages House Aether’s
+intact fragment in a deeper boundarystabilization function that helps prevent
+Nightmare’s Network rupture becoming
+a breach. It reacts unusually to the pair,
+but no permanent attunement,
+ownership, exclusive access, or
+effortless repeat activation follows. Its
+structural correction sends unintended
+boundary-scale resonance, making the
+ancient entity Aware without
+deliberately messaging it or completing
+Nightmare’s goal. The fragment does
+not fracture further, vanish, or relocate;
+it remains physically present.
+
+SUPERSEDES Fragment
+
+E B+C hybrid: Nightmare the
+organization targets Thorne’s
+boundary/Network research and
+exploits the vulnerability created by his
+own exposure, operationally
+compromising dream/magical
+functioning so ordinary return to
+Remnia becomes unsafe or impossible
+without requiring initial physical
+captivity. Remnia notices Elias missing
+first; Thorne initially remains publicly
+present but deteriorating in Somnoria.
+Reverie’s encounter with his collapsing
+dream, breakdown rumors, and
+Professor Lane’s mirrored case reflect
+real patterned compromise. Exact
+technique, later captivity, protective
+self-isolation, travel risk, consent in the
+final operation, and physical status
+remain open.
+
+SUPERSEDES Abduction into the
+
+2026-09-26
+
+ADST/Shared
+
+TCD-062
+2026-09-26
+
+Elias/Thorne’s
+failure to return
+FTE/ADST/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+breaking/vanishing in Book
+One; automatic keeper
+assignment; conscious Prism
+beacon; entity Awareness as
+proof of a successful breach;
+convenient reveal of all other
+fragment locations
+DOWNSTREAM Add Prism Climax
+State Record to TCD-053/060:
+pre-crisis, overload, paired
+activation, stabilization,
+aftermath; specify energy
+redirection, distinct
+Reverie/Cassius contributions,
+non-repeatability, continued
+custody/access, fragment
+state, and institutional
+knowledge.
+Thorne identity; casual elective
+extended stay as entire cause;
+ancient entity personally
+attacking him in Book One;
+purely self-inflicted research
+madness; unproven House
+Aether/Council detention
+DOWNSTREAM Integrate a staged
+Failure-to-Return Sequence in
+the Elias/Thorne Double-Life
+Timeline + Knowledge Matrix
+with two public clocks,
+Nightmare interventions,
+diminishing Elias agency,
+identity collision, and exact
+pre-chapter-one and climax
+conditions.
+
+A / 24 · 246
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUITY
+CONTINUED
+
+ID · DATE
+
+TOPIC · BOOKS
+
+AUTHOR RULING
+
+SUPERSEDES · DOWNSTREAM
+
+TCD-063
+2026-09-26
+
+Remy’s objective
+death mechanism
+and Melena’s
+guilt
+
+A clarified: the gang leader mortally
+wounds Remy as he deliberately
+intervenes to protect/rescue Melena.
+Melena’s escalating uncontrolled Fire
+helps create the dangerous
+confrontation, but neither her Fire nor
+the later warehouse collapse is the
+objective lethal mechanism. After the
+wound, Melena attempts to save him
+but cannot stop catastrophic bleeding;
+his death then drives her Fire into full
+loss of control and the blaze/collapse.
+She feels causally responsible even
+though the gang leader physically kills
+him. The Beta’s machete/major-artery
+details are compatible candidates, not
+canon over the future 3SL scene.
+
+SUPERSEDES Melena directly
+
+E A+clarified D: Levi is fully human, not
+a shard, reincarnation, avatar, or
+soulprint of Leviathan. House Dren has
+genuine inherited compatibility with
+Leviathan-associated seal
+infrastructure, expressed through
+pressure tolerance and interface ability.
+The House made a hereditary Anchor
+system identifying, conditioning,
+marking/authorizing compatible
+children and sacrificing some within the
+system. First currently established
+Anchor Caelen was twelve, not the
+willing adult in House mythology. Levi is
+the current intended operator; his
+capacity does not entail consent,
+ownership, or obligation. The Leviathan
+does not choose, claim, bless, or
+possess him in Book One; it watches
+after the system is opened. His name
+reflects institutional history, not
+metaphysical identity.
+
+SUPERSEDES Legacy Soulprint
+
+3SL/FTE
+
+TCD-064
+2026-09-26
+
+Levi and the
+Leviathan / House
+Dren Anchor
+system
+TSWK/Shared
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+burning Remy to death;
+collapse as fatal event;
+accidental intervention; old
+“directly caused by Melena” as
+forensic truth
+DOWNSTREAM Build a 3SL Remy
+Death Beat Sheet before
+drafting the climax, with
+objective events versus FTE
+Melena memory. Exact attacker
+motive, intervention action,
+weapon/anatomy, antagonist
+fate, witnesses, and
+fire/collapse proportions
+remain open.
+
+Echo/reincarnated line;
+compatibility as consent; entity
+choosing/claiming Levi in
+Book One; Caelen as willing
+adult hero
+DOWNSTREAM Build the Dren
+Anchor Line + Seal Interface
+Record separating inherited
+compatibility, bodily
+conditioning, and Shellmark
+authorization; track Caelen to
+Levi, official versus objective
+history, sacrifices, inheritance
+source, and whether
+reproductive selection
+occurred. The July 2026
+blueprint is now inventoried;
+resolve its 'Cael Dren' tablet
+and pre-Drowning Anchorschool terminology without
+silently overriding this ruling.
+
+A / 25 · 247
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUED
+
+AUTHOR RULINGS WITHOUT A TCD NUMBER
+DATE
+
+TOPIC
+
+AUTHOR RULING
+
+WHERE
+
+2026-09-26
+
+TCD-058
+clarified: Heart’s
+Mirror
+
+Heart’s Mirror may foreshadow
+Katherine’s hidden ancestral capacity
+through Fire imagery, fear, symbolic or
+ambiguous memory, lineage
+recognition, or other Mirror-generated
+material. Her Fire doesn’t become
+objectively active during Challenge Five
+or its aftermath; she leaves the Mirror
+still operating through her Frostdominant configuration. Material inside
+the Mirror isn’t automatically an
+objective recovered memory. Her first
+objective Fire manifestation stays in the
+Challenge Six climax, after her
+established Frost pathway
+catastrophically fails or becomes
+unavailable.
+
+APPLIED IN IV.10 · IV.24 ·
+
+2026-10-09
+
+IV.2 status:
+Remnia at a
+glance
+
+CANON — TCD-025 / TCD-041: Remnia
+is an empire on its own continental
+landmass, separated from Somnoria by
+ocean; the Crown sits at the highest
+public civil/dynastic level of the
+Remnian sovereignty structure.
+CURRENT DRAFTED TEXT — FTE Beta:
+Remnia has seventeen provinces.
+“Seventeen” is not attached to the
+TCDs.
+
+APPLIED IN IV.2
+
+2026-10-09
+
+IV.3 status: the
+military
+
+The military structure is CURRENT
+DRAFTED TEXT, not TCD-041 canon.
+TCD-041 is the layered sovereignty
+framework.
+
+APPLIED IN IV.3
+
+2026-10-09
+
+Lineage anchor
+restated
+
+TCD-040 is the locked anchor: Tobias is
+the biological father of Katherine (with
+Michelle) and of Melena (with Lucia);
+they are paternal half-sisters. It doesn’t
+make Katherine legally acknowledged, a
+Lockwood by law, a princess, publicly
+known, or an heir. TCD-059 governs
+concealment only. (Restates existing
+rulings; no new canon.)
+
+APPLIED IN IV.11 · IV.11 record
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+IV.25 · IV.10 working pages
+
+A / 26 · 248
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+TSWK
+
+CONTINUITY
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+CONTINUED
+
+DATE
+
+TOPIC
+
+AUTHOR RULING
+
+WHERE
+
+2026-10-09
+
+Underside tier
+status
+
+CANON — TCD-025 / TCD-026: the
+Underside is vertically tiered and
+attached to Zenithia’s side of Remnia;
+Crownlight and Dawnveil are
+surface/above-ground tiers; the nation
+is fully underground by Ironcross.
+DRAFTED — 3SL ch. 10: nine tiers.
+SUPPORTED — 3SL Full Worldbuilding.
+The nine-tier count is not ruled canon.
+
+APPLIED IN Cited via the
+
+concordance (III.3)
+
+LOGGED IN DRAFTING · RESOLVED IV.25 AND LINEAGE ITEMS · ASKING A QUESTION ASSIGNS NO
+TCD NUMBER
+LOG NO.
+
+ITEM
+
+DECISION AS MADE IN PROSE OR
+RULED
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE · CONTINUES →
+
+DATE · CH. · PAGES TO
+UPDATE
+
+A / 27 · 249
+
+SPINE
+
+3SL
+
+FTE
+
+ADST
+
+APPENDIX A · CANON DECISION LOG · FTE SLICE
+
+LOG NO.
+
+ITEM
+
+DECISION AS MADE IN PROSE OR
+RULED
+
+APPENDIX A › CANON DECISION LOG · FTE SLICE
+
+TSWK
+
+CONTINUITY
+CONTINUED
+DATE · CH. · PAGES TO
+UPDATE
+
+A / 28 · 250
+
+
