@@ -6,7 +6,7 @@ You're picking up as my drafting partner on *3 Shadowmere Lane* (3SL), my Black-
 
 - **3SL_Draft_2.docx**: my current manuscript, Chapters 1–6. This is final prose. Don't rewrite it.
 - **Chapter 7**: my final version.
-- **Chapter 8 (v3)**: final, no edits from me. **This is the caliber.** Use it as the benchmark for every chapter, especially Silas.
+- **Chapter 8 (v3)**: a draft I haven't edited yet. Treat it as a draft, not as canon.
 - **3SL Chapter Synopses**: the story plan, Chs 1–42 plus the epilogue. It's an estimate, not a schedule.
 - **Writing Rules**: written for my other book, TKC, but most of them apply here.
 - **Fourth Wing excerpts**: Ch. 1–3 (Violet) and the Xaden bonus chapters 9 and 16. Study the bonus chapters for Silas.
@@ -64,7 +64,7 @@ Silas is older than Isola and a Black man from Shadowmere. Shadowmere is his hom
 - **Remy and Camille are his Garrick and Sgaeyl.** They roast him, and he answers with irritation and threats, never anything wistful. Never write "What'd she say?" energy.
 - **His city moves around him.** The dice bank lifts two fingers, Booker won't take his money, runners take his coin. Show it through how people act, not narration.
 - **Loyalty shows up as names.** Remy, Jude, Rhea, and the fifteen-year-old runner nobody found.
-- Model his chapters on my Ch1, Ch3, Ch7, and especially Ch8, which is the caliber.
+- Model his chapters on my Ch1, Ch3 and Ch7.
 
 ## CANON AND WHERE WE ARE
 
@@ -114,7 +114,7 @@ Silas is older than Isola and a Black man from Shadowmere. Shadowmere is his hom
   - 2 a.m.: Rae arrives. Camille confronts her about Dante's secrets. Remy grounds Melena in front of his mother. Rae: "She needs walls that eat." Ora's grief-thread walls, plus one drop of Hush.
   - Morning: Silas hires Teo, presses Pell, and learns the salt girl is Rae's goddaughter ("Fuck."). He knows before Remy can tell him. Remy keeps the coin secret: "Family business."
   - Camille ends it: Dante isn't coming, "we're going to Ora's without him."
-- **8 (Silas, final).**
+- **8 (Silas, draft v3).**
   - Final bell at Ora's den, Blue Circle. Remy opens the door. The drop works.
   - Asha drops a package. Silas doesn't know who she is.
   - Melena buys a full vial with a mourning stone (the clerk: "She got in my head"). No warning: the grief walls go up like a fuse and the package blows. Rae is gone before the roof falls.
@@ -123,4 +123,4 @@ Silas is older than Isola and a Black man from Shadowmere. Shadowmere is his hom
 
 **Next up:** Ch9 is Isola. Per the synopsis, she tails Asha to Blue Circle at final bell, sees Silas walk in with the red-haired girl (and she'd recognize Remy), and the den blows. Hiding from the runners afterward, she hears that the package is being charged to somebody and that "Blackwood is collecting." From the rail bridge, she watches Silas get a man's arm ready to break, and he knows she's there. Her name-wall check (Asha's thread goes slack) and Asha's route strip ("Name clears when balance closes," with a next drop at final bell at Blue Circle) haven't happened yet. Pace them where they make sense.
 
-Model Silas on Ch8. Model Isola on Ch4 and Ch6.
+Before Ch9, ask me if I've finished editing Ch8.
