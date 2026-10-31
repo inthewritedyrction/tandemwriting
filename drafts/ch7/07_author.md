@@ -1,0 +1,317 @@
+# CHAPTER 7: SILAS
+
+Mother Rae came up the steps of the dark house a little after two in the morning, and Silas heard her bells before he heard the door. Camille didn't get up from the kitchen table. She turned a page of her crossword.
+
+"Took you long enough," she said, before the door was all the way open.
+
+Rae came in out of the rain with Remy behind her. She was dressed the way she always was: black from her throat to her ankles, silver at her wrist, not a drop of water anywhere, like the rain had asked permission and she'd said no. Remy was the one who looked like he'd walked through the storm. He was soaked to the knees, his locs falling out of their tie. He came through the door with his eyes already moving around the room the way they did when he was counting exits.
+
+They landed on Melena and stayed there.
+
+She was still at the table where Camille had left her, both hands flat on the wood. When Rae stepped into the kitchen light, Melena stood up so fast her chair went over.
+
+"Maven," she said.
+
+Silas looked at Remy. Remy looked at the floor.
+
+"Sit down," she said to Melena. "You're letting the heat out."
+
+Melena picked the chair up and sat on the very edge of it like she was in somebody's church. Rae took the chair across from Camille. Nobody had offered it to her. Nobody had to.
+
+"Camille Louise," she said.
+
+"Maven Renae." Camille set her pencil down on the crossword and folded her hands on top of it. "I'm going to ask you some questions, and you're going to answer them, because that's my thread on that door and that's my son's hand on this table."
+
+Rae didn't blink. "Ask."
+
+"Who is she?"
+
+Rae smoothed one black sleeve against her wrist. "Lucia's girl."
+
+"I don't know no Lucia," Camille said, and her pencil tapped once against the paper.
+
+"I know you don't." Rae's hands stayed folded. "Kinda the point, ain't it?"
+
+Camille's jaw twitched. Silas had seen grown men leave rooms over less than that jaw. "She walked through three Graves knots like they were wet paper. My thread don't break, Renae. It's held the dead off this whole street for twenty years. Shrouds walk past this house and don't look at the door. And she went through it in her sleep."
+
+Rae glanced down the hall at the brass running down the door. "She wasn't asleep."
+
+"I don't care if she was dancing." Camille leaned forward. "What *is* she?"
+
+Rae looked at Melena for a long moment. Melena held her eyes, and the air over the table warmed by a degree. Rae looked back at Camille.
+
+"Grieving," Rae said.
+
+Camille sat back and crossed her arms. "That ain't an answer."
+
+"It's the only one that matters tonight," Rae said, without looking away from the girl. "Everything else you don't need to know. I can promise you that."
+
+"So now you're telling me what I need to know?" Camille asked. "I know my husband's been in his map room every night since spring with the seal burning blue. I know you've been walking in and out of that building like you pay rent on it. I know Lorraine's counting watchers on the front steps she didn't used to count. Quietcasters walking the edges of your routes, and Dante came home last week and slept in his shoes." She tapped the crossword once with one finger. "And now he hands my son a girl the Synod's hunting, puts her in my house behind my ward, and doesn't tell me a single word. I had to find out when my thread snapped. I came across Gutterlight in my house shoes. You of all people know how I feel about my damn house shoes."
+
+"I saw the shoes," Rae said.
+
+"Don't." Camille's voice didn't get louder. It got lower, which was worse. "Don't you sit at my table and get cute with me, Maven Renae Vellum. I've known you since before your boy could walk. I've known Dante longer than that. Whatever you two are doing, you did it without me, and now it's sitting in my kitchen with fire coming out of her hands."
+
+Remy had moved, Silas noticed. He hadn't gone to his mother. He'd drifted along the wall until he was near the end of the table, closer to Melena than to anybody else. He'd sat down on the floor with his back to the cold stove and his knees pulled up.
+
+Melena's hands had started to smoke.
+
+A thread of grey off the tips of her fingers, curling up toward the lamp. The black had climbed past the second knuckle on her middle finger. She was staring at Rae like she was waiting for Rae to say something, anything, the thing she'd crossed seven tiers to hear.
+
+"You said you'd help me," Melena said calmly. "My mother said you'd help me. She said find Maven, and Maven would know what to do. You put me in a box and left before I could ask you anything."
+
+Rae's bells shifted on her wrist without a sound. "I put you in the safest box in Shadowmere."
+
+Melena's palms pressed flat into the wood, and the grain under them started to darken. "How many times do I have to say that I can't breathe in it?"
+
+The lamp over the table flickered. The thread on the doorframe started to hum, high, like a kettle. Silas started to stand, but his palm screamed at him, and he stopped halfway because he didn't know what he'd do once he was up. He'd broken her rule once, and he'd seen her face after.
+
+Remy reached into his coat. He came out with one of his mints, the cheap kind in silver wrappers he'd carried around since they were nine, and held it up between two fingers in the lamplight, out to the side, where she'd have to turn her head to see it.
+
+"Hey," he said. "What color is this?"
+
+Melena turned her head. She looked at him like he was out of his mind. Silas had wondered about that himself more than once.
+
+"Humor me," Remy said. "What color?"
+
+Her mouth worked before it found the word. "Silver."
+
+"Good. What color's my coat?" He plucked at the wet sleeve.
+
+She looked at it. "Green."
+
+"Ugly green. You can say it. What color's his shirt?" He tipped the mint toward Silas, and her eyes followed it there and back.
+
+"Black," she said.
+
+"Where are you right now?"
+
+Her breath hitched. "A kitchen. In Shadowmere."
+
+"Good. Who's in the kitchen with you?"
+
+"Maven." Her eyes went around the table. "Mrs. Graves. Silas." They came back to him. "You. I don't know your name."
+
+"Remy." He set the mint on the floor between them and left it there. "Put your heels down for me. Flat. Press into the floor like you're trying to push it down a tier."
+
+She did. Under the table, Silas watched Rhea's old boots press into the boards.
+
+Remy tapped two fingers on the floor beside him. *Tap-tap. Tap. Tap-tap-tap.* Six uneven beats, and the same six again, like a heartbeat that couldn't make up its mind. He breathed out while he did it and after the second round, Melena was breathing with him.
+
+The thread on the door went quiet. The smoke off her fingers thinned and stopped.
+
+It took four minutes. Silas counted.
+
+He'd sat outside that door for four hours.
+
+Silas sat back down, realizing Rae was watching her son.
+
+"Well," Camille said quietly. "Would you look at that."
+
+Rae unfolded her hands and laid them flat on the table. Her bells shifted on her wrist without making a sound. "Your ward won't hold her," she said to Camille.
+
+Camille pushed her glasses up. "I know my ward won't hold her. I'm the one who sewed it."
+
+"Dante's houses won't hold her. Synod walls won't hold her, and the Shrouds will find her before the week's out if she keeps lighting up streets." Rae looked at Melena. "She doesn't need walls that hold. She needs walls that eat."
+
+Camille froze. "No."
+
+Rae turned one hand over on the table, palm up, like she was setting something down in it. "Ora's walls have eaten more grief than this whole tier has ever cried."
+
+"No, Renae." Camille stood up so fast the crossword slid off the table. "You are not taking that child into a Hush den."
+
+"I'm not taking her to the den. I'm taking her to the walls." Rae shot Camille a look. "Every line of thread in that bathhouse is grief somebody paid to get rid of. Sewn tight, three hundred lines deep. Whatever's burning in her, it's eating what she feels. You put her inside walls that are hungrier than she is, and it'll go quiet." She paused. "And if it doesn't, Ora has other things."
+
+"Hush," Camille said. The word came out like she'd spat it.
+
+"One drop. Ora measures it herself." Rae finally turned her head and looked at Silas. "You could have handled her yourself, but you let your Mama call me. You know good as I do that she needs something more than what anyone in this room can offer her."
+
+Silas felt heat crawl up his neck, but he didn't say anything. Melena was staring at the table again, eyes unfocused as if she'd already been hollowed out. But he could see the tension in her jaw—the part of her waiting for a decision to be made, then bracing for whatever came after.
+
+"Maven," Camille finally spoke up. "You think they not watching every Hush den in Shadowmere to see where you going next?" Even Remy flinched at that. He rolled the mint between his fingers and stared at the ground, as if the next words might come crawling up out of it.
+
+"Ora's paid up for the year." Rae stood up. She was a small woman. Silas had never noticed before, because she'd never stood next to his mother when Camille was this angry. "You want to know what she is? You come and watch, then. That's as much as I'll give you tonight. It's more than I gave Dante."
+
+She went to the door. Remy got up off the floor, picked up the mint, and put it in Melena's hand without touching her, closing her fingers around it from the outside of her fist, before he followed his mother out into the rain.
+
+The bells rang once on the step outside.
+
+Camille stood in the middle of the kitchen with the crossword at her feet for a long time.
+
+"Ma," Silas said.
+
+"Try to sleep, Silas." She bent down and picked up the paper. "I'm gonna sit right here and listen to my thread. And in the morning I'm gonna call your daddy, and he's gonna wish he slept in his shoes."
+
+---
+
+Silas didn't try to sleep.
+
+He sat on the cot in the front room with his back to the wall and his bad hand open on his knee so the burn could breathe, as he laid the last two days out in his head the way Dante laid pins on the map-room glass.
+
+Two men by Pell's basin who'd stopped talking. Two Shrouds coming down Lamp Street under Silence, and one of them stopping at a closed threshold shop to taste the air.
+
+Four sets of eyes in one day, on one girl who'd been in Shadowmere less than twenty-four hours. Nobody stumbled across somebody in Gutterlight that fast. Somebody had been waiting on her before she ever came down the stairs from Halflight.
+
+And Rae had walked into this kitchen and asked for one more night of trust and handed out nothing to earn it.
+
+Down the hall, Melena slept with the back-room door open and the lamp on. Camille had told her to leave it open. Melena had looked at the door, then at Camille, and said *thank you* like it was a foreign phrase in her mouth. In the kitchen, Camille sat with her crossword and didn't fill in a single square. Every so often the thread on the frame hummed, and every time it did, her pencil stopped.
+
+An hour before first bell, Silas got up and put his coat on.
+
+Camille didn't look up. "Where you going?"
+
+"Pell's." He shrugged his coat straight over the bad shoulder.
+
+She filled in a square, finally, and didn't look up from it. "Pell don't open till second bell."
+
+"He'll open." Silas checked the knife at his hip with his good hand. "Lock it behind me."
+
+---
+
+Shadowmere didn't sleep so much as it changed shifts.
+
+The rain had thinned to a drizzle that hung in the violet mist instead of falling through it. The Ring was dark. The last of the fight crowd was coming out of the tram tunnels in twos and threes, coats open, arguing about money. Down on the corner of Lamp Street, the dice game that ran under the tailor's awning every night was folding up, and the man who'd been holding the bank all night saw Silas coming and lifted two fingers off his cup without saying anything. Silas lifted two back.
+
+The coffee cart at the tram stop was already steaming. Old Booker ran it, the same as he had since Silas was small enough to ride on Dante's shoulders to the Mercer building. He poured and capped a cup before Silas reached the cart.
+
+"Graves." Booker set it on the counter. He looked at the burned hand, then at Silas's face, then back down at the cup like neither was his business. "Long night."
+
+"Long week." Silas put a Veil on the counter.
+
+Booker slid it back across. "The runner that lived, that's my sister's grandson. He around the corner."
+
+Silas hadn't known that. He picked the coin up, put it in Booker's tip jar instead, and took the coffee. Booker let him.
+
+The runner he wanted was asleep in the doorway of the closed pawn counter where he slept most nights, curled up in a brown route coat two sizes too big with a burn mark across the front where somebody had tried to cut the block seal off. Silas had seen him at the Ring the night of Jerrick, collecting side bets in a bucket with his hands still shaking. Fourteen, maybe. Fifteen at the most. The same age as the kid nobody had found yet.
+
+Silas crouched down and set the coffee next to his head. The boy woke up all at once, already half on his feet with his back against the door.
+
+"Easy." Silas didn't move. "What's your name?"
+
+The kid looked at the coffee, then at Silas's face. "Teo."
+
+Silas nodded at the burned seal on his coat. "You run, Teo?"
+
+Teo's eyes went to the coffee again. "For who's paying."
+
+"I'm paying." Silas took out three Veils and laid them on the step one at a time so the quicksilver caught what light there was. "Anybody asks about me and a girl, you remember their face."
+
+Teo was staring at the coins. "And then what?"
+
+"And then you come find me at the dark house past the pawn counter. You don't knock. You sit on the step." Silas stood. "Three now. Three more when you bring me something real."
+
+Teo's hand went over the coins before Silas finished the sentence. He looked up at Silas with his chin out, the way kids did when they were trying to decide whether something was a trap.
+
+"You the one who did Jerrick," he said.
+
+Silas held his eyes. "I am."
+
+The kid nodded once, slow, and put the coins inside his coat. "He had it coming."
+
+Silas didn't say anything. He left the coffee where it was and walked toward the market.
+
+---
+
+Pell was already behind his counter when Silas came down the lane behind the freight sheds. He wasn't open. The heat lamp was off and the barrels were still covered. He was sitting on his stool with his rings off, lined up on the counter in front of him, rubbing his knuckles. When he saw Silas, he closed his eyes like a man who'd known this was coming.
+
+"We ain't open, Graves," he said, without opening his eyes.
+
+"I know." Silas leaned his good forearm on the counter. "Two men by the basin yesterday. Right before I knocked that girl's salt out her hand. One of them was looking at the hood behind me."
+
+Pell opened his eyes and went back to rubbing his knuckles. "Lotta people looking at a lotta things in my lane."
+
+"These two stopped talking to do it." Silas didn't move his arm off the counter.
+
+Pell picked up one of his rings and put it back down. He looked up the lane toward the bend, toward the empty place where the basin caught water off the awning. His hands had started to shake. Silas watched them. He'd never in his life seen Pell's hands shake.
+
+"They come Tuesdays and Fridays," Pell said finally, low. "I give them an envelope. They don't say nothing, I don't say nothing. Been six months."
+
+Silas watched the rings on the counter instead of Pell's face. "Who's the envelope for?"
+
+"If I knew that, I'd be charging them for it." Pell rubbed his knuckles harder. "They don't come for salt."
+
+Silas waited.
+
+"The hood." Pell lowered his voice even further. "And Rae's girl."
+
+Silas went still.
+
+"The salt girl," Pell said. "Had Rae's token out on a cord, holding it up in my face 'cause I gave her the quarry cut first." He shook his head. "I was trying to get her gone before they walked up, and she wouldn't go. Stubborn like her godmama. ."
+
+Rae's goddaughter.
+
+The Ashvein girl was Rae's.
+
+Fuck.
+
+"Her name," Silas said.
+
+Pell gave him a long look. "You want her name, ask Rae. I got enough problems."
+
+Silas straightened up off the counter. "She pays what I pay from now on."
+
+Pell's eyebrows climbed. "Rae's order? That's eighteen Veils of funeral grade, I got a cost—"
+
+"She pays what I pay." Silas laid two Veils down next to Pell's rings. "You got a problem with the difference, take it up with Dante."
+
+Pell looked at the coins and didn't touch them. "You trying to get me killed?"
+
+"You do good at that all by yourself," Silas said, and walked back up the lane.
+
+---
+
+The cavern lights were coming up grey for first bell when he got back to the dark house. Teo was already gone from the pawn-counter doorway. The coffee cup was gone too.
+
+Silas sat down on the step and took out his phone.
+
+*Silas: Where's breakfast?*
+
+Through the door behind him, he could hear Camille on her own phone. She wasn't raising her voice. Then she said, "You can come or you can not come, Dante. But if you don't come, I'm not coming home."
+
+The call ended. Silas didn't go in.
+
+Remy came around the corner from the tram stop twenty-five minutes later with three paper sacks stacked against his chest and his messenger bag banging against his hip. He looked like he hadn't slept either. He also looked like he was about to enjoy himself, which on no sleep was a dangerous combination.
+
+"Morning," Remy said, and set the sacks on the step. "So. Funny story."
+
+"Rae's goddaughter," Silas said. "Sixth Ward. Salt for your mama's order."
+
+Remy stopped with his hand still on the top sack. The grin left his face like somebody had pulled a plug. "Who told you?"
+
+Silas reached past him for the top sack. "Pell."
+
+"*Pell*?" Remy straightened up. "I been holding that since four this morning. I had a whole thing."
+
+"I know you did." Silas took the top sack and looked inside. Fried dough, still hot. "She came to your mama's?"
+
+"She came to see *me*." Remy said it a little sharper than he meant to, and he heard it. He sat down on the step next to Silas with his elbows on his knees. "Ma wasn't there."
+
+Silas tore a piece of dough in half and didn't eat it. "She all right?"
+
+Remy turned his head and looked at him.
+
+"She's handling something," Remy said finally. "Family business. She asked me to help her with it, and I said I would."
+
+Silas waited for more. When it didn't come, he asked for it. "What business?"
+
+Remy looked out at the street. "Family business, Si."
+
+Remy had told Silas everything since they were six, including a whole lot Silas would've paid good money not to know. He'd never once in his life needed to be asked twice.
+
+Silas put the dough down on the paper. "I'm starting to think it's about to become my family's business too."
+
+"How come?" Remy dug a mint out of his pocket and turned it over in his fingers. "You think it's the same people?"
+
+"I think Quietcasters are walking your mama's routes, and now somebody's watching who does your mama's business." Silas looked down the street toward Lamp Street, where the skewer man was setting up his cart in the drizzle. "I don't think it's three different people having a busy week."
+
+Remy didn't say anything. He closed his fist around the mint without unwrapping it.
+
+"Does Ma know?"
+
+"Your mama knows everything." Silas picked up his coffee cup, found it empty, and set it down again. "She just ain't telling."
+
+Behind them, the door opened. Camille stood in the doorway in her robe, glasses on top of her head and the crossword folded under her arm. "Your daddy's not coming," she said to Silas. "So we're going to Ora's without him."
+
+She looked at the sacks.
+
+"Remington. Bring the food in. That child's gonna need to eat so the grief don't take her."
