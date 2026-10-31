@@ -90,4 +90,4 @@ Silas is Xaden-coded, through his own life: an older Black man from Shadowmere w
 - Does anyone repeat information the reader already has? Cut it.
 - Is the chapter one continuous run with no scene breaks? It should be.
 
-Use my Ch1, Ch3 and Ch7 as the Silas standard. Use the Xaden bonus chapters as the voice standard.
+Use Ch8 as the caliber: one continuous run, no recaps, Silas telling it. Use my Ch1, Ch3 and Ch7 as the Silas standard too. Use the Xaden bonus chapters as the voice standard.
