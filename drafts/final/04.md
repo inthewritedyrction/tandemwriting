@@ -1,0 +1,367 @@
+# CHAPTER 4: ISOLA
+
+The noon courier wanted fourteen Veilmarks, which was two more than she'd budgeted and two more than the Wraithmoors had.
+
+"Route inspectors are out," he said, like that was her problem.
+
+Isola counted the coins into his palm one at a time anyway, listening to every single one ring against the last on the way down. She'd never listened to money before this morning. Now she couldn't stop. Low and full meant real. Anything flatter and she'd have snatched it right back and cursed Asha for making her learn something new before noon.
+
+The courier checked the seal on Micah's packet twice, slid it into the flat case on his hip, and stepped back into the lane like he hadn't just walked off with the last of the house money til payday came around on Friday.
+
+So much for the budget.
+
+Behind her, Micah let out a breath he'd been holding since first bell.
+
+"Now all you gotta do," Isola said, shutting the door, "is not do nothing stupid until Danika write back."
+
+His eyes cut to his phone on the table. She swiped it before he could.
+
+"And you still ain't getting this."
+
+"Isola—"
+
+"Nope."
+
+He sucked his teeth and threw himself on the couch like she'd personally ruined his life, which meant he was done fighting about it until he got hungry. Isola looked at the clock over the name wall.
+
+Twelve-oh-four. No Asha.
+
+Her stomach dropped. She'd made a deal with herself this morning, standing over that torn bag. If her cousin came home before the courier, Isola would ask her straight out what the hell she'd gotten into. If the courier beat the clock? Shadowmere. Isola had been praying hard for door number one.
+
+The clock didn't care what she'd been praying for. Neither did Asha, apparently.
+
+The bag was right where she'd left it, torn pocket turned to the wall, strap still folded so she'd know if anybody touched it. Isola fished the coin out of the lining and didn't look at it. She'd done enough looking. One little piece of fake silver, and it was going to get somebody in this house Silenced if she wasn't careful.
+
+She could leave it. Put it back, let Asha come home to it, pretend she'd never torn the pocket.
+
+Except then it'd be sitting under Omari's roof, two feet from a wall with four generations of their names on it, and if the Synod ever came knocking, they wouldn't care whose bag it was in. They'd read every name on that wall like a charge sheet.
+
+If she carried it, the only person it could hang was her.
+
+Easy math. Terrible math, but easy.
+
+Isola tucked the coin into the hidden pocket behind her skirt seam where she kept money and stood the bag up so the tear wouldn't show from the door. Five bags lined the wall beside it, packed and buckled like they were waiting on a train that had been running late for two whole years.
+
+She'd quit asking about them a long time ago, because asking made Asha go quiet, and quiet Asha was worse than smart-mouthed Asha. Right now, Isola would've given a lot to be the kind of cousin who kept asking anyway.
+
+Too late for that now.
+
+---
+
+Mother Rae's token hung on a cord under Isola's shirt. Brass, worn soft at the edges, with marks on its face Rae had never bothered to teach her to read. Isola had never bothered to ask. Rae answered questions when Rae felt like it, which was roughly never, and the token worked fine without Isola understanding it.
+
+She held it in her fist all the way down the cliff stairs. Past the shrine on the second landing, where somebody's cup of tea for the dead had gone grey with dust. Past the women hauling water up from the cisterns, one of whom asked after Selah without slowing down.
+
+"She fine," Isola called back, without slowing down either.
+
+In Ashvein, *how's your mama* meant *I see you, and I'll notice if you don't come back up.* Isola had a feeling it'd be the nicest thing anybody said to her all day.
+
+The stairs were free. The lift wasn't. She'd pay for the lift on the way home if the salt was heavy, and not one second before.
+
+The chasm bridge was packed with people trying to get across before the mist came up. A boy at the head of the span was selling grounding charms and telling anybody who'd listen that the mist had come up twice already today and three people had frozen dead in the middle because they couldn't find the rail.
+
+Real compelling sales pitch. Isola didn't buy one. She could see the rail fine. She could see the whole black stone arch, the violet glow breathing up out of the vent underneath it, and the guard post at the Shadowmere end with its lamp and its line.
+
+He was a big man in a mercenary coat with half his buttons gone and a route scanner on a chain around his neck. On the counter in front of him sat the plate. The woman ahead of Isola pricked her thumb on the needle beside it without being told and pressed down, and the guard watched the metal drink until it was satisfied.
+
+The boy behind her didn't have blood to spare, or didn't want to spare it, so he gave a crew name instead and swore to run for them whenever they called. Isola knew that crew. East gate. She watched the boy stroll onto the bridge like he'd gotten himself a bargain and hoped somebody at home loved him enough to beat his ass for it.
+
+She'd bled on that plate herself once. Before Rae gave her the cord.
+
+She stepped up and opened her fist. The guard ran the scanner over the token, got the short flat beep he'd been waiting on, and jerked his chin toward Shadowmere without asking what business she had going down a tier.
+
+Isola let out a breath. Normally they only asked if you were going up. These days, even going down was starting to cause problems for people in the Underside, and nobody would tell you why.
+
+---
+
+Isola didn't like Shadowmere.
+
+Nobody at home did, so she'd never had to explain it. If somebody made her, she'd have said this: in Ashvein, crews wore their colors where you could see them. You knew whose corner you were standing on before your feet hit it, and if you didn't, somebody's auntie would lean out a window, tell you, and then tell your mama you needed telling.
+
+Shadowmere didn't have aunties in windows. It had neon and violet mist and rain falling out of solid rock, which was ridiculous and a real nice reminder of exactly how deep underground they all were. Down here, nobody told you who owned the street until you owed it something. Everything was for sale, and most of it was for sale twice.
+
+*Running errands or something,* Selah had said about Asha this morning.
+
+Errands. Sure.
+
+Isola had a fake coin in her skirt that said otherwise. Whatever Asha was running, it ran through here, and before Isola did one thing for Rae, she was going to find out exactly what her cousin had left lying in that bag.
+
+The assayer kept a stall at the inside edge of the Back Market, under a stone arch where the rain couldn't get at her scales. Isola had stood at that counter twice before, both times holding a cloth bundle of melted shadow-silver for Rae, and watched the woman weigh it on a brass scale with weights the size of baby teeth. She could weigh anything. Scrapings, filings, coins that had been through a fire. She'd put on her loupes and tell you what it was worth, and in all the time Isola had watched, she'd never once asked a single soul where anything came from.
+
+Which was the whole point of coming here.
+
+The woman was busy telling a man in a dock coat that his silver was mostly lead.
+
+"It ain't lead," he said.
+
+"It's lead."
+
+"My uncle—"
+
+"Your uncle sold you lead."
+
+He argued. He lost. He left.
+
+Isola stepped up, laid her hand on the counter palm down, and turned it over. She kept her thumb along the edge so nobody walking by could see more than a corner. The assayer looked at the coin. She didn't pick it up or reach for her loupes. She put two fingers on the lid of her scale case and shut it.
+
+"I don't weigh High Heresy."
+
+At the next counter, the man selling charm wire stopped talking mid-sentence. His customer stopped listening mid-word.
+
+"Get it off my counter."
+
+Isola closed her hand and took it off the counter.
+
+Oh. So she was fucked.
+
+She made herself walk away slow. Hurrying in the Back Market was the same as climbing on a crate and yelling *follow me*. Her face was on fire and her heart was going like a work bell, but her feet strolled like she had all day.
+
+She'd known what it was since Asha's room. But knowing a thing alone in your cousin's bedroom and hearing a woman who never asked questions say it out loud in front of witnesses were two very different things.
+
+High Heresy meant the square.
+
+Isola had been eight the first time she'd witnessed it. A woman from the mining district was forced onto her knees in front of everybody, and the Synod took her breath slowly, so the whole square could watch. Her fingers scraped at the stones long after scraping could help her. Selah had clamped a hand on Isola's shoulder so she couldn't turn away, because Selah believed you looked at what the Synod did so you'd never be stupid enough to forget what it cost.
+
+For one second, stepping out into the rain, the fingers on those stones were Asha's.
+
+Isola stopped walking. She stood in the drip off the arch and let the rain hit her face until her stomach climbed back down out of her throat. The salt was the reason she was down here, and the only thing on her list today she actually knew how to do right. To do it, she had to find Pell.
+
+---
+
+Pell's stall sat in the lane behind the freight sheds, where the market thinned out into thread sellers and the counters ate half the walking room. He sat under his heat lamp with three braids in his beard resting on his belly and a ring on every finger catching the amber light whenever he pointed at somebody's purse. He also had a mouth that never shut, which was usually the only annoying thing about him.
+
+Usually.
+
+Rae bought her funeral grade from Pell because he kept it dry and didn't cut it. Selah had made that crystal clear the first time she sent Isola down alone, and even clearer the day Isola came home and admitted what he'd charged her. Pell had a Shadowmere price and an Ashvein price, and he'd never once been embarrassed about either.
+
+By the time she reached his counter, he should've asked after Selah, complained about his knees, and tried to sell her something she hadn't come for.
+
+He didn't ask about Selah.
+
+"Rae's girl." He was already reaching. "What she need?"
+
+Isola put the slip down. He read it, nodded, and stuck his scoop in the open barrel at his elbow.
+
+She watched it come up. Grey. Coarse. Clumped where the damp had gotten into it, with dark grit caught between the grains. She'd been packing salt into Selah's windowsills since she was small enough to stand on the counter to reach them, and she'd known funeral grade by feel before she knew it by name: fine and white and so dry it ran through your fingers like it had somewhere better to be.
+
+Isola frowned. "That ain't funeral grade."
+
+Pell didn't look up. "It's what I got today."
+
+"It's quarry salt."
+
+"It's salt."
+
+"It's quarry salt, and it's wet. You had to knock it loose to get it in the scoop." She put her hand flat on the slip. "Rae's slip say funeral grade."
+
+"Rae can come get it herself."
+
+Isola blinked.
+
+Pell would talk your ear off about the weather in a tier that didn't have any. He'd been selling Rae salt since before Isola could walk. He did not send Rae's girl home with wet quarry salt and a smart mouth.
+
+*Something's wrong.*
+
+She pulled Rae's cord out from under her shirt and held the token up between them so he'd have to look at it. "Unlock the damn drawer, Pell, and quit playing with me today."
+
+Pell stopped scooping and looked past her.
+
+Isola didn't turn around. She didn't have to. Pell's face had just gone as blank as a wall.
+
+Two men stepped up to the counter on her left. One stopped at the far end. The other stood right next to her, close enough that she could smell the rain on his coat. Neither of them said a word.
+
+Pell reached under the counter and pulled out an envelope. He set it down, and the man beside Isola picked it up and slid it into his coat without looking. The one at the end of the counter looked at Isola's hand. The one still holding Rae's token out in the open like a damn fool.
+
+He kept looking. Long enough that she felt it crawl up her arm and settle on the back of her neck.
+
+She closed her fist over the brass. He followed his friend out of the stall, and the two of them strolled up the lane toward the bend like they had all day.
+
+Pell didn't unlock the drawer for a long time after that. When he finally did, his hands were shaking so bad the key took two tries.
+
+Isola tucked the cord back under her shirt. *Nobody tells you who owns the street until you owe it something.*
+
+Well. Pell owed it something.
+
+He weighed out the real stuff, and when he folded the packet, a thin stream of it slid off the scale onto the counter. He watched it and didn't say a word.
+
+Pell. Silent. About salt on his own counter. She'd have bet the house money on that never happening, and she'd have lost the house money, which, after the courier, was about two Veilmarks.
+
+"Who was that?" Isola asked.
+
+"Who?"
+
+She waited for him to stop acting stupid.
+
+He didn't. "I'ma put this on Rae account." His letters wandered all over the line as he wrote it in his book. "Eighteen. Tell her I said hey."
+
+Eighteen.
+
+Eighteen was robbery, and they both knew it. Any other day she'd have stood right there and argued him down to fourteen just to watch him sweat. Today she looked at the grey grit still sitting in the brown paper he'd tried to pass her, and the whole thing came clear.
+
+*Rae can come get it herself* was as close to a warning as Pell could afford.
+
+She couldn't prove one bit of it. She took the packet anyway and didn't argue, and that was all the thanks he was getting. He looked up the lane toward where the men had gone, and back down at his scale like it might have something there for her.
+
+Isola followed his look up the lane.
+
+Asha was standing at the bend.
+
+Isola knew her by how she stood. Weight back. Head turned just enough to count the turns ahead of her. The coat was new. Dark, fitted close at the waist, falling past her knees. A tote hung off her shoulder, stiff-sided and expensive, the kind of bag that held its shape whether there was anything in it or not.
+
+Isola had never seen either one in her life.
+
+Coats like that cost money. Bags like that cost money. And money like that came from somewhere nobody with the last name Wraithmoor had access to.
+
+Worst part? It looked right on her.
+
+Asha turned her head toward the crowd noise coming through the stone. She was about to go.
+
+*Don't you dare.*
+
+"*Move!*"
+
+A boy came tearing down the lane, elbows out, route coat flapping. Right in front of her, a man stepped out of his way and put his entire back into her.
+
+He didn't knock her down. She'd been knocked into by bigger, and her feet stayed where they were. The packet, on the other hand, went flying. She watched it go, turning once in the air like it was taking its sweet time, and burst on the wet stone at her feet.
+
+Eighteen Veils of funeral grade hit the puddle and went grey.
+
+*One bumps. One runs. You find out what's gone when you get home.* Every story she'd ever heard about the Back Market went exactly like that. Her hand was in her skirt before she finished thinking it, fingers locked around the coin so hard the edge bit.
+
+"Damn, my bad," the boy called over his shoulder, already past the bend.
+
+Isola looked down at the salt. She looked up at the man.
+
+And up.
+
+Lord. He was *tall*. Tall enough that she had to tip her head all the way back to get all of him, and she was too mad to be embarrassed about it. The first thing she noticed was that somebody had hit him recently. Swelling high under one eye. A split in his bottom lip. A bandage wrapped across the knuckles of his right hand. Rain had soaked his locs and was still running off them, down past his ear and into his beard, and he wasn't even bothering to wipe it.
+
+"You've got to be fucking kidding me." She glanced over at the puddle. "That's eighteen Veils dissolving in that puddle."
+
+"Eighteen?" He glanced past her at Pell. His voice was low and unbothered, like he had all the time in the world and hadn't just cost her her whole afternoon. "You robbing folks in daylight now?"
+
+Pell lifted both hands, rings flashing. "Price is the price, Graves. Ashvein orders come with a fee."
+
+*Graves.*
+
+Isola raised an eyebrow.
+
+Something moved behind him against the freight wall. A hooded figure, small, pressed flat to the brick. She got one look before he shifted. The hood was down low, but the lamp from the next stall caught a single curl that had slipped out at the edge.
+
+The curl was *red*. Red like the inside of a coal.
+
+"Pell," the man said, without turning around. "Bag her another one. Put it on Camille."
+
+Pell's eyebrows went all the way up his forehead. "Camille know she paying for this?"
+
+The man dug into his coat, came out with four Veilmarks, and set them on the counter one at a time so the quicksilver caught the lamp. "Bag her another one."
+
+Pell looked at the coins, then at the man. "Don't got another morning cut."
+
+"Give her the evening cut early."
+
+Pell sighed like he'd been asked to haul the whole tier up the cliff stairs on his back, and reached under the counter.
+
+Isola stared at those coins. Pell had put her down for eighteen not five minutes ago. This man had laid down four for the same salt, and Pell hadn't argued so much as a copper.
+
+Oh, she and Pell were going to have *words*. Not today. But they were going to have them.
+
+She found herself looking at the man again.
+
+And he was fine.
+
+The kind of fine she was sure Danika had been talking about finding when she's moved to Ironcross for Alexi three years ago and never looked back. He stood there and let her look like he knew good and well what she was doing and didn't mind one bit. For one long, stupid second, Isola forgot what tier she was on.
+
+*Absolutely not. You are looking for your cousin.*
+
+She looked past him trying to look at anything but his face. He shifted half a step to the left and put his shoulder square in her line of sight. Isola knew a block when she saw one. She'd grown up with Tevin. Whatever was against that wall, this man didn't want her looking at it.
+
+Her chin came up. "I ain't ask you to pay for it. I ain't trying to have no debt tied to someone in Shadowmere. Everyone knows how y'all get down."
+
+The corner of his mouth twitched. She watched the split lip stop, then watched him decide the smile was worth the sting anyway, for about half a second. "I knocked it out your hand. Debt's mine."
+
+Pell slapped a fresh packet on the counter, wrapped twice in waxed paper. Isola took it with her free hand. The other one stayed locked on the coin.
+
+"Next time," she said, "watch where you backing up."
+
+"Next time, stand somewhere else."
+
+Isola tucked the packet under her arm, stepped around the grey puddle, and went up the lane toward the bend without looking back. She wanted to look back. She could feel the exact spot between her shoulder blades where she'd know if he was watching, but she wasn't about to give him the satisfaction of finding out. She had a cousin to catch.
+
+The bend was empty. Two runners crossed it with a box between them, arguing about which door they'd been paid to use. Behind them…nothing. Just the lane curving off toward the noise of Gutterlight.
+
+Isola stood exactly where Asha had been standing and turned in a slow circle.
+
+Fifteen steps. She'd been fifteen steps away, and she'd spent every one of them looking at a man's face.
+
+She checked the crossing, the doorways on both sides, and the mouth of the next alley, where the drainage ran ankle-deep and stank of dye. She walked the whole length of Gutterlight's back wall, ducking into every doorway that would let a body stand out of the rain, until a match let out inside the Ring and the roar came through the stone hard enough to hum in her back teeth.
+
+By then the crowd at the bend had doubled. Asha could've been anywhere in it or nowhere near it.
+
+Isola stood in the rain so mad she couldn't pick who to aim it at.
+
+Asha first. Pell second. The two men in dark coats third. The boy with the elbows was definitely fourth.
+
+And him.
+
+None of it made her feel one bit better about being fifteen steps from her cousin and spending all fifteen looking at his face.
+
+It was a good face, though.
+
+---
+
+She paid for the lift home. The salt wasn't heavy. She paid anyway. After the assayer, she wanted walls around her and a cage full of strangers between her and anybody who might've decided to follow her. Plus the lift was faster, and if she didn't get home soon, Selah was liable to send a search party.
+
+Eleven people stood in a cage built for eight. Somebody's elbow pressed into her ribs the whole way up. Isola kept the packet flat against her chest and her hand over her skirt while the operator called the levels without looking up from his lever.
+
+"Halflight. Service Shaft. Ashvein West."
+
+Somewhere past Service Shaft, she caught her thumb working one of her rings around and around her finger. She made herself stop.
+
+By Ashvein West, she was doing it again.
+
+The rain on her coat had dried to dust by the time the gate opened. Coal smoke hung low over the lane. She'd missed at least one bell, and the boys who'd been posted under the lantern across the street all morning were gone.
+
+Somebody had swept the red dust off the Wraithmoor step and left it piled at the edge.
+
+Isola stopped.
+
+Nobody in her house left a job half done on that step. Nobody. She stared at the little pile longer than Selah would have allowed her to before she looked up.
+
+The lantern over the door still burned amber.
+
+*For now.*
+
+Micah was asleep on the couch, one arm hanging off the cushion, shoes still on. Tevin's coat hadn't moved from the chair, and his door was still shut. She listened at it as she passed and heard him breathing on the other side, slow and even, pretending to be asleep. Badly.
+
+Asha's door was open. Isola didn't go in. She could see the bag from the hall, standing exactly where she'd left it. If Asha had come home, she'd come and gone without touching it. Selah was at the stove. She turned around when Isola came in and held out both hands for the salt before Isola got anywhere near the counter. Selah turned the packet over and looked at the double waxed paper. "This ain't the morning cut."
+
+"Evening cut. He tried me with quarry salt first."
+
+"And?"
+
+"And I told him no."
+
+Her mother untied the paper, pinched up some salt, and let it run through her fingers. She nodded once, but she looked at that double wrap a good while longer than she'd looked at the salt. "You find your cousin?"
+
+Isola's stomach dropped. Selah had told her this morning *don't go looking*. She wasn't asking whether Isola had looked. She was asking whether she'd *found*.
+
+Isola reached for a rag that didn't need reaching for. "Saw her. Lost her in the Market."
+
+"Lost her how?" Selah asked, still stirring whatever blend she had going.
+
+A coat Isola couldn't have bought with three months of courier fees. A bag to match. A coin the assayer wouldn't touch. Two men who never said a word. The list was so damn long, all she could get out was one word.
+
+"Crowd."
+
+Selah stared at her so long that Isola broke first and started wiping the counter. After a minute, her mother turned back to the stove, and the humming started up again.
+
+"Wash up," Selah said over it. "Food almost ready."
+
+Isola went to the sink and held her hands under the water, watching the red dust from the stairs swirl down the drain.
+
+*Whatever you got into, Asha, it better not drag me back down there.*
+
+She said it three more times while she scrubbed. It didn't help.
+
+She'd be back in Shadowmere before first bell, and she knew it.
